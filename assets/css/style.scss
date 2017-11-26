@@ -28,6 +28,9 @@ a {
 a:hover, a:focus {
   font-weight: normal;
 }
+h1 a:hover, h1 a:focus {
+  font-weight: bold;
+}
 .post-meta {
   color: $secondary-text-color;
 }
