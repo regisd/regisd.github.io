@@ -2,7 +2,32 @@
 ---
 
 @import "{{ site.theme }}";
+@import "palette";
 
 #forkme_banner{
   display: none;
+}
+#header_wrap,
+#footer_wrap,
+body {
+  background: $primary-color-dark;
+}
+body {
+  color: $primary-text-color;
+}
+#project_title,
+#project_tagline {
+  text-shadow: none;
+}
+#main_content_wrap {
+  background: #fcfcfc;
+}
+a {
+  color: $primary-color;
+}
+a:hover, a:focus {
+  font-weight: normal;
+}
+.post-meta {
+  color: $secondary-text-color;
 }
