@@ -25,19 +25,19 @@ J’ai encore un peu travaillé sur ma dernière apli Android. Je vais me conten
   <figure class='gallery-item'> 
   
   <div class='gallery-icon portrait'>
-    <a href='http://regis.decamps.info/blog/2011/03/raffraichir-les-incidents/device1-3/'><img width="150" height="150" src="http://regis.decamps.info/blog/wp-content/uploads/2011/03/device1-150x150.png" class="attachment-thumbnail size-thumbnail" alt="Capture d&#039;écran, après avoir pressé Menu" aria-describedby="gallery-1-1753" /></a>
+    <a href='http://regis.decamps.info/blog/2011/03/raffraichir-les-incidents/device1-3/'><img width="150" height="150" src="/blog/wp-content/uploads/2011/03/device1-150x150.png" class="attachment-thumbnail size-thumbnail" alt="Capture d&#039;écran, après avoir pressé Menu" aria-describedby="gallery-1-1753" /></a>
   </div><figcaption class='wp-caption-text gallery-caption' id='gallery-1-1753'> La liste des incidents a maintenant un menu d’options </figcaption></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon portrait'>
-    <a href='http://regis.decamps.info/blog/2011/03/raffraichir-les-incidents/device3-2/'><img width="150" height="150" src="http://regis.decamps.info/blog/wp-content/uploads/2011/03/device3-150x150.png" class="attachment-thumbnail size-thumbnail" alt="Capture d&#039;écran de saisie d&#039;un nouvel incident" aria-describedby="gallery-1-1756" /></a>
+    <a href='http://regis.decamps.info/blog/2011/03/raffraichir-les-incidents/device3-2/'><img width="150" height="150" src="/blog/wp-content/uploads/2011/03/device3-150x150.png" class="attachment-thumbnail size-thumbnail" alt="Capture d&#039;écran de saisie d&#039;un nouvel incident" aria-describedby="gallery-1-1756" /></a>
   </div><figcaption class='wp-caption-text gallery-caption' id='gallery-1-1756'> Une action permet de rapporter un nouvel incident </figcaption></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon portrait'>
-    <a href='http://regis.decamps.info/blog/2011/03/raffraichir-les-incidents/device5/'><img width="150" height="150" src="http://regis.decamps.info/blog/wp-content/uploads/2011/03/device5-150x150.png" class="attachment-thumbnail size-thumbnail" alt="Capture d&#039;écran des favoris web" aria-describedby="gallery-1-1757" /></a>
+    <a href='http://regis.decamps.info/blog/2011/03/raffraichir-les-incidents/device5/'><img width="150" height="150" src="/blog/wp-content/uploads/2011/03/device5-150x150.png" class="attachment-thumbnail size-thumbnail" alt="Capture d&#039;écran des favoris web" aria-describedby="gallery-1-1757" /></a>
   </div><figcaption class='wp-caption-text gallery-caption' id='gallery-1-1757'> Ce menu permet d’accéder directement aux pages officielles recensant les incidents </figcaption></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon portrait'>
-    <a href='http://regis.decamps.info/blog/2011/03/raffraichir-les-incidents/device2-3/'><img width="150" height="150" src="http://regis.decamps.info/blog/wp-content/uploads/2011/03/device2-150x150.png" class="attachment-thumbnail size-thumbnail" alt="Capture d&#039;écran sous-menu raffraîchir" aria-describedby="gallery-1-1758" /></a>
+    <a href='http://regis.decamps.info/blog/2011/03/raffraichir-les-incidents/device2-3/'><img width="150" height="150" src="/blog/wp-content/uploads/2011/03/device2-150x150.png" class="attachment-thumbnail size-thumbnail" alt="Capture d&#039;écran sous-menu raffraîchir" aria-describedby="gallery-1-1758" /></a>
   </div><figcaption class='wp-caption-text gallery-caption' id='gallery-1-1758'> On peut recharger les incidents de la dernière minute, heure ou de toute la journée </figcaption></figure>
 </div>
 

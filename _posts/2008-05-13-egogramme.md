@@ -28,4 +28,4 @@ Avec un certain nombre de questions comportementales, le test de l’égogrgamme
 
 J’ai passé le test de l’égogramme corrigé. Et voici mon résultat :
   
-[<img src="http://regis.decamps.info/blog/wp-content/uploads/2008/05/egogramme-300x100.png" alt="Résultats de mon égogramme" title="egogramme" width="300" height="100" class="alignnone size-medium wp-image-519" srcset="http://regis.decamps.info/blog/wp-content/uploads/2008/05/egogramme-300x100.png 300w, http://regis.decamps.info/blog/wp-content/uploads/2008/05/egogramme.png 600w" sizes="(max-width: 300px) 100vw, 300px" />](http://regis.decamps.info/blog/wp-content/uploads/2008/05/egogramme.png)
+[<img src="/blog/wp-content/uploads/2008/05/egogramme-300x100.png" alt="Résultats de mon égogramme" title="egogramme" width="300" height="100" class="alignnone size-medium wp-image-519" srcset="/blog/wp-content/uploads/2008/05/egogramme-300x100.png 300w, /blog/wp-content/uploads/2008/05/egogramme.png 600w" sizes="(max-width: 300px) 100vw, 300px" />](/blog/wp-content/uploads/2008/05/egogramme.png)

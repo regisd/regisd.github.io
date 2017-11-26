@@ -29,11 +29,11 @@ However, I have a strange behaviour: there is a one-hour offset between what I s
 
 My calendar is set for European time (GMT +1)
   
-[<img src="http://regis.decamps.info/blog/wp-content/uploads/2011/02/greenshot_2011-02-24_14-08-48-350x35.png" alt="screenshot of my settings" title="Google calendar sets time zone at GMT +1" width="350" height="35" class="alignnone size-medium wp-image-1712" srcset="http://regis.decamps.info/blog/wp-content/uploads/2011/02/greenshot_2011-02-24_14-08-48-350x35.png 350w, http://regis.decamps.info/blog/wp-content/uploads/2011/02/greenshot_2011-02-24_14-08-48.png 734w" sizes="(max-width: 350px) 100vw, 350px" />](http://regis.decamps.info/blog/wp-content/uploads/2011/02/greenshot_2011-02-24_14-08-48.png)
+[<img src="/blog/wp-content/uploads/2011/02/greenshot_2011-02-24_14-08-48-350x35.png" alt="screenshot of my settings" title="Google calendar sets time zone at GMT +1" width="350" height="35" class="alignnone size-medium wp-image-1712" srcset="/blog/wp-content/uploads/2011/02/greenshot_2011-02-24_14-08-48-350x35.png 350w, /blog/wp-content/uploads/2011/02/greenshot_2011-02-24_14-08-48.png 734w" sizes="(max-width: 350px) 100vw, 350px" />](/blog/wp-content/uploads/2011/02/greenshot_2011-02-24_14-08-48.png)
 
 I create a « flight » event, from Doha at 1:20 to Hong-Kong at 14:40.
   
-[<img src="http://regis.decamps.info/blog/wp-content/uploads/2011/02/greenshot_2011-02-24_14-13-081-350x25.png" alt="screenshot of event creation" title="Creation of flight from 1:20 to 14:40" width="350" height="25" class="alignnone size-medium wp-image-1720" srcset="http://regis.decamps.info/blog/wp-content/uploads/2011/02/greenshot_2011-02-24_14-13-081-350x25.png 350w, http://regis.decamps.info/blog/wp-content/uploads/2011/02/greenshot_2011-02-24_14-13-081.png 717w" sizes="(max-width: 350px) 100vw, 350px" />](http://regis.decamps.info/blog/wp-content/uploads/2011/02/greenshot_2011-02-24_14-13-081.png)
+[<img src="/blog/wp-content/uploads/2011/02/greenshot_2011-02-24_14-13-081-350x25.png" alt="screenshot of event creation" title="Creation of flight from 1:20 to 14:40" width="350" height="25" class="alignnone size-medium wp-image-1720" srcset="/blog/wp-content/uploads/2011/02/greenshot_2011-02-24_14-13-081-350x25.png 350w, /blog/wp-content/uploads/2011/02/greenshot_2011-02-24_14-13-081.png 717w" sizes="(max-width: 350px) 100vw, 350px" />](/blog/wp-content/uploads/2011/02/greenshot_2011-02-24_14-13-081.png)
 
 So, what I just defined in GMT is a flight from 21:20 to 6:40.
 
@@ -41,6 +41,6 @@ But when I save this event, it appears in Google calendar (in Paris GMT+1 time) 
 
 So, I opened the event again, and Google calendar added a one-hour offset: 2:20 (GMT+3) to 15:40 (GMT+8).
 
-[<img src="http://regis.decamps.info/blog/wp-content/uploads/2011/02/greenshot_2011-02-24_14-36-321-350x26.png" alt="Details of created event" title="Flight created is from 2:20 to 15:40" width="350" height="26" class="alignnone size-medium wp-image-1721" srcset="http://regis.decamps.info/blog/wp-content/uploads/2011/02/greenshot_2011-02-24_14-36-321-350x26.png 350w, http://regis.decamps.info/blog/wp-content/uploads/2011/02/greenshot_2011-02-24_14-36-321.png 644w" sizes="(max-width: 350px) 100vw, 350px" />](http://regis.decamps.info/blog/wp-content/uploads/2011/02/greenshot_2011-02-24_14-36-321.png)
+[<img src="/blog/wp-content/uploads/2011/02/greenshot_2011-02-24_14-36-321-350x26.png" alt="Details of created event" title="Flight created is from 2:20 to 15:40" width="350" height="26" class="alignnone size-medium wp-image-1721" srcset="/blog/wp-content/uploads/2011/02/greenshot_2011-02-24_14-36-321-350x26.png 350w, /blog/wp-content/uploads/2011/02/greenshot_2011-02-24_14-36-321.png 644w" sizes="(max-width: 350px) 100vw, 350px" />](/blog/wp-content/uploads/2011/02/greenshot_2011-02-24_14-36-321.png)
 
 Can anyone explain?

@@ -55,11 +55,11 @@ notification.setLatestEventInfo(context, contentTitle, contentText, contentInten
 
 So far, so good
 
-[<img src="http://regis.decamps.info/blog/wp-content/uploads/2012/02/device-2012-02-07-233404-150x150.png" alt="" title="Notification ticker" width="150" height="150" class="alignnone size-thumbnail wp-image-2532" />](http://regis.decamps.info/blog/wp-content/uploads/2012/02/device-2012-02-07-233404.png)
+[<img src="/blog/wp-content/uploads/2012/02/device-2012-02-07-233404-150x150.png" alt="" title="Notification ticker" width="150" height="150" class="alignnone size-thumbnail wp-image-2532" />](/blog/wp-content/uploads/2012/02/device-2012-02-07-233404.png)
 
 Because, I have used a random <tt>id</tt>, the notification will not be updated, and each time this code is executed, it will add a new notification.
 
-[<img src="http://regis.decamps.info/blog/wp-content/uploads/2012/02/device-2012-02-07-233746-150x150.png" alt="" title="Notification bar deployed, two notifications" width="150" height="150" class="alignnone size-thumbnail wp-image-2533" />](http://regis.decamps.info/blog/wp-content/uploads/2012/02/device-2012-02-07-233746.png)
+[<img src="/blog/wp-content/uploads/2012/02/device-2012-02-07-233746-150x150.png" alt="" title="Notification bar deployed, two notifications" width="150" height="150" class="alignnone size-thumbnail wp-image-2533" />](/blog/wp-content/uploads/2012/02/device-2012-02-07-233746.png)
 
 You might wonder what <tt>contentIntent</tt> is. It is a container for starting an activity if the notification is « clicked » (in that case one would expect to display the content of the message). So I quickly create a MessageActivity, and the notification can now be built with:
   
@@ -77,7 +77,7 @@ Since I’m always complaining, can anyone in the Android team explain why the p
 
 This eventually works and when we click on the notification, Android opens the MessageActivity
   
-[<img src="http://regis.decamps.info/blog/wp-content/uploads/2012/02/device-2012-02-07-235349-150x150.png" alt="" title="MessageActivity opened when notification clicked" width="150" height="150" class="alignnone size-thumbnail wp-image-2534" />](http://regis.decamps.info/blog/wp-content/uploads/2012/02/device-2012-02-07-235349.png)
+[<img src="/blog/wp-content/uploads/2012/02/device-2012-02-07-235349-150x150.png" alt="" title="MessageActivity opened when notification clicked" width="150" height="150" class="alignnone size-thumbnail wp-image-2534" />](/blog/wp-content/uploads/2012/02/device-2012-02-07-235349.png)
 
 All this is not very complicated, but it is 14 lines of code just to add one notification. So [I externalized all this in a builder](https://gist.github.com/1762830), which makes things much quicker to use:
 

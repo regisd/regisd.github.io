@@ -21,11 +21,11 @@ tags:
 ---
 I installed Eclipse Europa (3.3) and Eclipse Ganymede (3.4) but could start none of them. Starting eclipse fails with
 
-[<img src="http://regis.decamps.info/blog/wp-content/uploads/2008/08/eclipse_terminated-300x167.png" alt="Eclipse laucnher: JVM terminated, exit code -1" title="eclipse_terminated" width="300" height="167" class="aligncenter size-medium wp-image-547" srcset="http://regis.decamps.info/blog/wp-content/uploads/2008/08/eclipse_terminated-300x167.png 300w, http://regis.decamps.info/blog/wp-content/uploads/2008/08/eclipse_terminated.png 657w" sizes="(max-width: 300px) 100vw, 300px" />](http://regis.decamps.info/blog/wp-content/uploads/2008/08/eclipse_terminated.png)
+[<img src="/blog/wp-content/uploads/2008/08/eclipse_terminated-300x167.png" alt="Eclipse laucnher: JVM terminated, exit code -1" title="eclipse_terminated" width="300" height="167" class="aligncenter size-medium wp-image-547" srcset="/blog/wp-content/uploads/2008/08/eclipse_terminated-300x167.png 300w, /blog/wp-content/uploads/2008/08/eclipse_terminated.png 657w" sizes="(max-width: 300px) 100vw, 300px" />](/blog/wp-content/uploads/2008/08/eclipse_terminated.png)
 
 I eventually found a fix, that requires to change the <tt>eclipse.ini</tt> file (I replace « new lines » with « spaces »)
   
-[<img src="http://regis.decamps.info/blog/wp-content/uploads/2008/08/eclipse_ini-fixed-300x116.png" alt="eclipse.ini diff" title="eclipse_ini-fixed" width="300" height="116" class="aligncenter size-medium wp-image-548" srcset="http://regis.decamps.info/blog/wp-content/uploads/2008/08/eclipse_ini-fixed-300x116.png 300w, http://regis.decamps.info/blog/wp-content/uploads/2008/08/eclipse_ini-fixed.png 813w" sizes="(max-width: 300px) 100vw, 300px" />](http://regis.decamps.info/blog/wp-content/uploads/2008/08/eclipse_ini-fixed.png)
+[<img src="/blog/wp-content/uploads/2008/08/eclipse_ini-fixed-300x116.png" alt="eclipse.ini diff" title="eclipse_ini-fixed" width="300" height="116" class="aligncenter size-medium wp-image-548" srcset="/blog/wp-content/uploads/2008/08/eclipse_ini-fixed-300x116.png 300w, /blog/wp-content/uploads/2008/08/eclipse_ini-fixed.png 813w" sizes="(max-width: 300px) 100vw, 300px" />](/blog/wp-content/uploads/2008/08/eclipse_ini-fixed.png)
 
 Hope this helps!
 

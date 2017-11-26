@@ -22,7 +22,7 @@ Mais le courrier électronique n’est pas mon seul moyen de communication, je p
 
 J’utilise Google contacts, twitter, facebook. Mais [d’autres connexions sont possibles](http://silentale.com/product/features#feature_connectors). Silentale permet de regrouper toutes ces conversations en un seul endroit.
   
-<img src="http://regis.decamps.info/blog/wp-content/uploads/2010/05/silentale_f_conversations-350x340.gif" alt="" title="Silentale agregated conversations" width="350" height="340" class="alignnone size-medium wp-image-1364" srcset="http://regis.decamps.info/blog/wp-content/uploads/2010/05/silentale_f_conversations-350x340.gif 350w, http://regis.decamps.info/blog/wp-content/uploads/2010/05/silentale_f_conversations.gif 400w" sizes="(max-width: 350px) 100vw, 350px" />
+<img src="/blog/wp-content/uploads/2010/05/silentale_f_conversations-350x340.gif" alt="" title="Silentale agregated conversations" width="350" height="340" class="alignnone size-medium wp-image-1364" srcset="/blog/wp-content/uploads/2010/05/silentale_f_conversations-350x340.gif 350w, /blog/wp-content/uploads/2010/05/silentale_f_conversations.gif 400w" sizes="(max-width: 350px) 100vw, 350px" />
 
 L’interface web est très réussie, mais j’aurais préféré une intégration à GMail, comme etacts.
 
@@ -50,11 +50,11 @@ Un CRM personnel qui vient s’intégrer à GMail.
 
 Ainsi en affichant un message dans Gmail, on a des détails sur le contact (venant d’autres sources, notamment twitter).
   
-<img src="http://regis.decamps.info/blog/wp-content/uploads/2010/05/social_screenshot-350x301.png" alt="" title="Social information on a contact" width="350" height="301" class="alignnone size-medium wp-image-1361" srcset="http://regis.decamps.info/blog/wp-content/uploads/2010/05/social_screenshot-350x301.png 350w, http://regis.decamps.info/blog/wp-content/uploads/2010/05/social_screenshot.png 799w" sizes="(max-width: 350px) 100vw, 350px" />
+<img src="/blog/wp-content/uploads/2010/05/social_screenshot-350x301.png" alt="" title="Social information on a contact" width="350" height="301" class="alignnone size-medium wp-image-1361" srcset="/blog/wp-content/uploads/2010/05/social_screenshot-350x301.png 350w, /blog/wp-content/uploads/2010/05/social_screenshot.png 799w" sizes="(max-width: 350px) 100vw, 350px" />
 
 Et on peut facilement noter qu’on attend une réponse à un message pour une date donnée.
   
-<img src="http://regis.decamps.info/blog/wp-content/uploads/2010/05/gmail_screenshot-350x166.png" alt="" title="Gmail reminder" width="350" height="166" class="alignnone size-medium wp-image-1362" srcset="http://regis.decamps.info/blog/wp-content/uploads/2010/05/gmail_screenshot-350x166.png 350w, http://regis.decamps.info/blog/wp-content/uploads/2010/05/gmail_screenshot.png 666w" sizes="(max-width: 350px) 100vw, 350px" />
+<img src="/blog/wp-content/uploads/2010/05/gmail_screenshot-350x166.png" alt="" title="Gmail reminder" width="350" height="166" class="alignnone size-medium wp-image-1362" srcset="/blog/wp-content/uploads/2010/05/gmail_screenshot-350x166.png 350w, /blog/wp-content/uploads/2010/05/gmail_screenshot.png 666w" sizes="(max-width: 350px) 100vw, 350px" />
 
 ## [Rapportive](http://rapportive.com/)
 

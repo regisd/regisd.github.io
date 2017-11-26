@@ -25,9 +25,9 @@ Ici, je vais essayer de refaire un panorama des logiciels disponibles.
 
 ### CSipSimple
 
-**Rating:** ![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "5/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "5/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "5/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "5/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "5/5") 
+**Rating:** ![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "5/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "5/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "5/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "5/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "5/5") 
 
-[<img src="http://regis.decamps.info/blog/wp-content/uploads/2012/02/csipsimple.png" alt="Lien vers Android market" title="csipsimple" width="124" height="124" class="alignleft size-full wp-image-2575" />](https://market.android.com/details?id=com.csipsimple)
+[<img src="/blog/wp-content/uploads/2012/02/csipsimple.png" alt="Lien vers Android market" title="csipsimple" width="124" height="124" class="alignleft size-full wp-image-2575" />](https://market.android.com/details?id=com.csipsimple)
 
 Ça démarre très bien. Dans tous les clients que j’ai testé ce soir, c’est le seul qui offre une assistance pour la configuration de NeufTalk ou Freephonie ou OVH. Il y a une indication claire pour savoir s’il faut suffixer ou non le login avec le serveur. Avec un mauvais mot de passe, on a un retour immédiat: « Forbidden » (en rouge).
 
@@ -39,11 +39,11 @@ En plus, le projet est open-source [sur Google code](http://code.google.com/p/cs
 
 ### Fring
 
-**Rating:** ![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9734;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "4/5") 
+**Rating:** ![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "4/5") 
 
 
   
-[<img src="http://regis.decamps.info/blog/wp-content/uploads/2012/02/fring.png" alt="Lien vers Android market" title="fring" width="124" height="124" class="alignleft size-full wp-image-2557" />](https://market.android.com/details?id=com.fring)
+[<img src="/blog/wp-content/uploads/2012/02/fring.png" alt="Lien vers Android market" title="fring" width="124" height="124" class="alignleft size-full wp-image-2557" />](https://market.android.com/details?id=com.fring)
   
 Il faut créer un énième compte pour Fring, et ils ont ajouté un bandeau publicitaire qui n’existait pas il y a 2 ans. Comme avant, fring essaye de vendre son propre service de VoIP, mais ça ne me choque pas.
 
@@ -55,11 +55,11 @@ En plus de faire de la VoIP, Fring fait de la messagerie instantanée via Micros
 
 ### Nimbuzz
 
-**Rating:** ![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "3/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "3/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "3/5")![&#9734;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "3/5")![&#9734;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "3/5") 
+**Rating:** ![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "3/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "3/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "3/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "3/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "3/5") 
 
 
   
-[<img src="http://regis.decamps.info/blog/wp-content/uploads/2012/02/nimbuzz.png" alt="Lien vers Android market" title="nimbuzz" width="78" height="78" class="alignleft size-full wp-image-2574" />](https://market.android.com/details?id=com.nimbuzz)
+[<img src="/blog/wp-content/uploads/2012/02/nimbuzz.png" alt="Lien vers Android market" title="nimbuzz" width="78" height="78" class="alignleft size-full wp-image-2574" />](https://market.android.com/details?id=com.nimbuzz)
   
 Nimbuzz demande également la création d’un compte interne. Ils mettent en avance son propre service de VoIP. Pour en utiliser un autre (tel que Neuftalk ou Freemobile ou autre), il faut aller dans Préférences > Paramètres de l’Appel > Autre compte.
 
@@ -75,11 +75,11 @@ Nimbuzz fait également de la messagerie instantanée, mais je n’ai pas re-tes
 
 ### Linphone
 
-**Rating:** ![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "2/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "2/5")![&#9734;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "2/5")![&#9734;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "2/5")![&#9734;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "2/5") 
+**Rating:** ![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "2/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "2/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "2/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "2/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "2/5") 
 
 
   
-[<img src="http://regis.decamps.info/blog/wp-content/uploads/2012/02/linphone.png" alt="Lien vers Android market" title="linphone" width="124" height="124" class="alignleft size-full wp-image-2564" />](https://market.android.com/details?id=org.linphone)
+[<img src="/blog/wp-content/uploads/2012/02/linphone.png" alt="Lien vers Android market" title="linphone" width="124" height="124" class="alignleft size-full wp-image-2564" />](https://market.android.com/details?id=org.linphone)
 
 La qualité sonore est vraiment mauvaise avec Neuf.
 
@@ -91,11 +91,11 @@ Il y a une bonne intégration avec le carnet d’adresses.
 
 ### Mizudroid
 
-**Rating:** ![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "1/5")![&#9734;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "1/5")![&#9734;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "1/5")![&#9734;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "1/5")![&#9734;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "1/5") 
+**Rating:** ![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "1/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "1/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "1/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "1/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "1/5") 
 
 
   
-[<img src="http://regis.decamps.info/blog/wp-content/uploads/2012/02/mizudroid.png" alt="Lien vers Android market" title="mizudroid" width="124" height="124" class="alignleft size-full wp-image-2558" />](https://market.android.com/details?id=com.mizuvoip.mizudroid.GUI)
+[<img src="/blog/wp-content/uploads/2012/02/mizudroid.png" alt="Lien vers Android market" title="mizudroid" width="124" height="124" class="alignleft size-full wp-image-2558" />](https://market.android.com/details?id=com.mizuvoip.mizudroid.GUI)
   
 Le panneau de configuration fait peur, mais en réalité seuls les 3 premiers champs sont utiles.
 
@@ -111,11 +111,11 @@ Enfin, et surtout la qualité sonore ne me paraît pas des meilleures.
 
 ### SIPDroid
 
-**Rating:** ![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "1/5")![&#9734;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "1/5")![&#9734;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "1/5")![&#9734;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "1/5")![&#9734;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "1/5") 
+**Rating:** ![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "1/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "1/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "1/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "1/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "1/5") 
 
 
   
-[<img src="http://regis.decamps.info/blog/wp-content/uploads/2012/02/sipdroid.jpg" alt="Lien vers Android market" title="sipdroid" width="124" height="124" class="alignleft size-full wp-image-2570" />](https://market.android.com/details?id=org.sipdroid.sipua)
+[<img src="/blog/wp-content/uploads/2012/02/sipdroid.jpg" alt="Lien vers Android market" title="sipdroid" width="124" height="124" class="alignleft size-full wp-image-2570" />](https://market.android.com/details?id=org.sipdroid.sipua)
   
 De gros problèmes dans l’enchaînement des activités: Après avoir configuré un compte et passé un appel, la seule activité qui voulait bien s’afficher est celle de paramétrage des comptes.
 
@@ -125,11 +125,11 @@ C’est aussi une des rares applications qui ne présente pas de bouton « Racc
 
 ### Tiviphone
 
-**Rating:** ![&#9734;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "0/5")![&#9734;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "0/5")![&#9734;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "0/5")![&#9734;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "0/5")![&#9734;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "0/5") 
+**Rating:** ![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "0/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "0/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "0/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "0/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "0/5") 
 
 
   
-[<img src="http://regis.decamps.info/blog/wp-content/uploads/2012/02/tivi.png" alt="Lien vers Android market" title="tivi" width="124" height="124" class="alignleft size-full wp-image-2572" />](https://market.android.com/details?id=com.tivi.tiviphone)
+[<img src="/blog/wp-content/uploads/2012/02/tivi.png" alt="Lien vers Android market" title="tivi" width="124" height="124" class="alignleft size-full wp-image-2572" />](https://market.android.com/details?id=com.tivi.tiviphone)
   
 Cette application utilise plusieurs Toast pour indique la progression de la connexion. Ça fait un peu bidouille, mais au moins, on voit ce qui se passe. Sauf que dans tous les cas, j’ai une erreur « Not found »…;
 
@@ -139,11 +139,11 @@ Les développeurs ont apparemment oublié de placer un clavier pour numéroter l
 
 ### 3CXPhone
 
-**Rating:** ![&#9734;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "0/5")![&#9734;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "0/5")![&#9734;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "0/5")![&#9734;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "0/5")![&#9734;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "0/5") 
+**Rating:** ![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "0/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "0/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "0/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "0/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "0/5") 
 
 
   
-[<img src="http://regis.decamps.info/blog/wp-content/uploads/2012/02/3cx.jpg" alt="Lien vers Android market" title="3cx" width="124" height="124" class="alignleft size-full wp-image-2566" />](https://market.android.com/details?id=com.tcx.sip.ui)
+[<img src="/blog/wp-content/uploads/2012/02/3cx.jpg" alt="Lien vers Android market" title="3cx" width="124" height="124" class="alignleft size-full wp-image-2566" />](https://market.android.com/details?id=com.tcx.sip.ui)
 
 La configuration est complexe, on s’y perd entre « name », « display name », « user » et « id » (oui, tout ça pour le même compte). Au final, je n’ai pas réussi à me connecter…; L’erreur est un vague « Not registered ».
 
@@ -151,11 +151,11 @@ La configuration est complexe, on s’y perd entre « name », « display nam
 
 ### AGEphone
 
-**Rating:** ![&#9734;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "0/5")![&#9734;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "0/5")![&#9734;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "0/5")![&#9734;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "0/5")![&#9734;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "0/5") 
+**Rating:** ![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "0/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "0/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "0/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "0/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "0/5") 
 
 
   
-[<img src="http://regis.decamps.info/blog/wp-content/uploads/2012/02/agephone.png" alt="Lien vers Android market" title="agephone" width="124" height="124" class="alignleft size-full wp-image-2565" />](https://market.android.com/details?id=com.ageet.AGEphone)
+[<img src="/blog/wp-content/uploads/2012/02/agephone.png" alt="Lien vers Android market" title="agephone" width="124" height="124" class="alignleft size-full wp-image-2565" />](https://market.android.com/details?id=com.ageet.AGEphone)
   
 L’interface ne suit pas les recommandations Android. 
 
@@ -165,11 +165,11 @@ En cas de mauvais mot de passe, l’erreur est un vague « Not ready ». Avec 
 
 ### ecocaller
 
-**Rating:** ![&#9734;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "0/5")![&#9734;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "0/5")![&#9734;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "0/5")![&#9734;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "0/5")![&#9734;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "0/5") 
+**Rating:** ![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "0/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "0/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "0/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "0/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "0/5") 
 
 
   
-[<img src="http://regis.decamps.info/blog/wp-content/uploads/2012/02/ecocaller.png" alt="Lien vers Android market" title="ecocaller" width="124" height="124" class="alignleft size-full wp-image-2569" />](https://market.android.com/details?id=cz.acrobits.softphone.ecocaller)
+[<img src="/blog/wp-content/uploads/2012/02/ecocaller.png" alt="Lien vers Android market" title="ecocaller" width="124" height="124" class="alignleft size-full wp-image-2569" />](https://market.android.com/details?id=cz.acrobits.softphone.ecocaller)
   
 À la différence de leur copie d’écran, je n’ai pas de bouton « call » sur le clavier…; Je ne peux donc qu’appeler des contacts, et ça ne fonctionne pas.
   

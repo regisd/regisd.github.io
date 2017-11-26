@@ -12,13 +12,13 @@ dsq_thread_id:
 categories:
   - Théâtre
 ---
-**Rating:** ![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "3/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "3/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "3/5")![&#9734;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "3/5")![&#9734;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "3/5") 
+**Rating:** ![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "3/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "3/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "3/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "3/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "3/5") 
 
 
   
 C’est une pièce de boulevard classique, si ce n’est que les allusions sexuelles sont fréquentes.
   
-[<img src="http://regis.decamps.info/blog/wp-content/uploads/2012/03/o22509-ma-femme-me-prend-pour-un-sextoy-249x350.jpg" alt="Affiche du spectacle" title="Ma femme me prend pour un sex-toy" width="249" height="350" class="alignleft size-medium wp-image-2616" srcset="http://regis.decamps.info/blog/wp-content/uploads/2012/03/o22509-ma-femme-me-prend-pour-un-sextoy-249x350.jpg 249w, http://regis.decamps.info/blog/wp-content/uploads/2012/03/o22509-ma-femme-me-prend-pour-un-sextoy-730x1024.jpg 730w, http://regis.decamps.info/blog/wp-content/uploads/2012/03/o22509-ma-femme-me-prend-pour-un-sextoy.jpg 856w" sizes="(max-width: 249px) 100vw, 249px" />](http://regis.decamps.info/blog/wp-content/uploads/2012/03/o22509-ma-femme-me-prend-pour-un-sextoy.jpg)
+[<img src="/blog/wp-content/uploads/2012/03/o22509-ma-femme-me-prend-pour-un-sextoy-249x350.jpg" alt="Affiche du spectacle" title="Ma femme me prend pour un sex-toy" width="249" height="350" class="alignleft size-medium wp-image-2616" srcset="/blog/wp-content/uploads/2012/03/o22509-ma-femme-me-prend-pour-un-sextoy-249x350.jpg 249w, /blog/wp-content/uploads/2012/03/o22509-ma-femme-me-prend-pour-un-sextoy-730x1024.jpg 730w, /blog/wp-content/uploads/2012/03/o22509-ma-femme-me-prend-pour-un-sextoy.jpg 856w" sizes="(max-width: 249px) 100vw, 249px" />](/blog/wp-content/uploads/2012/03/o22509-ma-femme-me-prend-pour-un-sextoy.jpg)
 
 Le titre est aguicheur, mais la vérité est plutôt: « je l’épouse parce qu’il est riche »…;
 

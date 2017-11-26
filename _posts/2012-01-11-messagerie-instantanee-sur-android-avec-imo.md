@@ -39,14 +39,14 @@ Enfin, imo.im semble avoir bien optimisé les connexions réseau. En tout cas, l
   <figure class='gallery-item'> 
   
   <div class='gallery-icon portrait'>
-    <a href='http://regis.decamps.info/blog/2012/01/messagerie-instantanee-sur-android-avec-imo/imo2/'><img width="150" height="150" src="http://regis.decamps.info/blog/wp-content/uploads/2012/01/imo2-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='http://regis.decamps.info/blog/2012/01/messagerie-instantanee-sur-android-avec-imo/imo2/'><img width="150" height="150" src="/blog/wp-content/uploads/2012/01/imo2-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon portrait'>
-    <a href='http://regis.decamps.info/blog/2012/01/messagerie-instantanee-sur-android-avec-imo/imo/'><img width="150" height="150" src="http://regis.decamps.info/blog/wp-content/uploads/2012/01/imo-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='http://regis.decamps.info/blog/2012/01/messagerie-instantanee-sur-android-avec-imo/imo/'><img width="150" height="150" src="/blog/wp-content/uploads/2012/01/imo-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon portrait'>
-    <a href='http://regis.decamps.info/blog/2012/01/messagerie-instantanee-sur-android-avec-imo/imo1/'><img width="150" height="150" src="http://regis.decamps.info/blog/wp-content/uploads/2012/01/imo1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='http://regis.decamps.info/blog/2012/01/messagerie-instantanee-sur-android-avec-imo/imo1/'><img width="150" height="150" src="/blog/wp-content/uploads/2012/01/imo1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure>
 </div>

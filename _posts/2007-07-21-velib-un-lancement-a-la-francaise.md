@@ -23,7 +23,7 @@ Peine perdue, la station s’entête à afficher « Aucun abonnement Vélib rat
 
 Pourtant la gestion du compte sur velib.paris.fr indique ce qu’il faut
   
-[![Informations sur mon compte Vélib](http://regis.decamps.info/blog/wp-content/uploads/2007/07/velib_compte3.thumbnail.png)](http://regis.decamps.info/blog/wp-content/uploads/2007/07/velib_compte3.png "Informations sur mon compte Vélib")
+[![Informations sur mon compte Vélib](/blog/wp-content/uploads/2007/07/velib_compte3.thumbnail.png)](/blog/wp-content/uploads/2007/07/velib_compte3.png "Informations sur mon compte Vélib")
 
 <div style="float: right; margin-left: 10px; margin-bottom: 10px;">
   <a href="http://www.flickr.com/photos/redking/760280980/" title="photo sharing"><img src="http://farm2.static.flickr.com/1286/760280980_9a5bb56842_m.jpg" alt="" style="border: solid 2px #000000;" /></a><br /> <br /> <span style="font-size: 0.9em; margin-top: 0px;"><br /> <a href="http://www.flickr.com/photos/redking/760280980/">Smooth start for the Velib</a><br /> <br /> Originally uploaded by <a href="http://www.flickr.com/people/redking/">redking</a><br /> </span>

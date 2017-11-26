@@ -15,7 +15,7 @@ categories:
 tags:
   - Paris
 ---
-[<img src="http://regis.decamps.info/blog/wp-content/uploads/2012/02/liaisons_40x60-233x350.jpg" alt="Affiche du spectacle" title="Les laisons dangereuses" width="233" height="350" class="alignleft size-medium wp-image-2507" srcset="http://regis.decamps.info/blog/wp-content/uploads/2012/02/liaisons_40x60-233x350.jpg 233w, http://regis.decamps.info/blog/wp-content/uploads/2012/02/liaisons_40x60-682x1024.jpg 682w, http://regis.decamps.info/blog/wp-content/uploads/2012/02/liaisons_40x60.jpeg 788w" sizes="(max-width: 233px) 100vw, 233px" />](http://regis.decamps.info/blog/wp-content/uploads/2012/02/liaisons_40x60.jpeg){.fancybox}
+[<img src="/blog/wp-content/uploads/2012/02/liaisons_40x60-233x350.jpg" alt="Affiche du spectacle" title="Les laisons dangereuses" width="233" height="350" class="alignleft size-medium wp-image-2507" srcset="/blog/wp-content/uploads/2012/02/liaisons_40x60-233x350.jpg 233w, /blog/wp-content/uploads/2012/02/liaisons_40x60-682x1024.jpg 682w, /blog/wp-content/uploads/2012/02/liaisons_40x60.jpeg 788w" sizes="(max-width: 233px) 100vw, 233px" />](/blog/wp-content/uploads/2012/02/liaisons_40x60.jpeg){.fancybox}
   
 Je ressors totalement ébloui par cette fabuleuse adaptation [du roman éponyme](http://fr.wikipedia.org/wiki/Les_Liaisons_dangereuses) [par Christopher Hampton](http://lesliaisonsdangereuses.fr/ladaptation-de-christopher-hampton/) et [mise en scène par John Malkovich](http://lesliaisonsdangereuses.fr/piece/adaptation-john-malkovich/).
 
@@ -29,4 +29,4 @@ Mon entourage connaît mon caractère critique, mais je n’ai vraiment aucun re
 
 Par contre, [le théâtre de l’atelier](http://www.theatre-atelier.com/) n’est pas très grand, les places au balcon, même en deuxième catégorie n’offre pas une bonne vue sur la scène.
 
-**Rating:** ![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "5/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "5/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "5/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "5/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "5/5") 
+**Rating:** ![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "5/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "5/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "5/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "5/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "5/5") 

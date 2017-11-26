@@ -39,6 +39,6 @@ Ensuite, en lançant l’application, il suffit de rentrer dans le menu (touche 
 
 J’ai assez rapidement trouvé quelques chaînes.
   
-[<img id="image303" src="http://regis.decamps.info/blog/wp-content/uploads/2006/08/capture6.thumbnail.png" alt="TVtime screenshot" />](http://regis.decamps.info/blog/wp-content/uploads/2006/08/capture6.png "TVtime screenshot"){.imagelink}
+[<img id="image303" src="/blog/wp-content/uploads/2006/08/capture6.thumbnail.png" alt="TVtime screenshot" />](/blog/wp-content/uploads/2006/08/capture6.png "TVtime screenshot"){.imagelink}
   
 Le problème, c’est que la qualité n’est pas terrible, et que je n’ai pas de son pour le moment…;

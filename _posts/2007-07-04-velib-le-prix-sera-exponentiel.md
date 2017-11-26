@@ -25,4 +25,4 @@ La première demi-heure et gratuite, mais ensuite c’est de plus en plus cher, 
   * 2€ en sus pour une demi-heure supplémentaire
   * 4€ ajoutés pour chaque demi-heure suivante
 
-[![Coût de location des vélib](http://regis.decamps.info/blog/wp-content/uploads/2007/07/velib-price.thumbnail.png)](http://regis.decamps.info/blog/wp-content/uploads/2007/07/velib-price.png "Coût de location des vélib")
+[![Coût de location des vélib](/blog/wp-content/uploads/2007/07/velib-price.thumbnail.png)](/blog/wp-content/uploads/2007/07/velib-price.png "Coût de location des vélib")

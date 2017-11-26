@@ -24,7 +24,7 @@ tags:
 ---
 We suddenly grasp why Microsoft can claim that Bing works better and better. 
 
-[<img src="http://regis.decamps.info/blog/wp-content/uploads/2011/02/Capture-d’écran-2011-02-02-à-14.21.36-350x98.png" alt="Bing steals results from Google" title="Bing illustration" width="350" height="98" class="alignnone size-medium wp-image-1688" srcset="http://regis.decamps.info/blog/wp-content/uploads/2011/02/Capture-d’écran-2011-02-02-à-14.21.36-350x98.png 350w, http://regis.decamps.info/blog/wp-content/uploads/2011/02/Capture-d’écran-2011-02-02-à-14.21.36.png 650w" sizes="(max-width: 350px) 100vw, 350px" />](http://regis.decamps.info/blog/wp-content/uploads/2011/02/Capture-d’écran-2011-02-02-à-14.21.36.png)
+[<img src="/blog/wp-content/uploads/2011/02/Capture-d’écran-2011-02-02-à-14.21.36-350x98.png" alt="Bing steals results from Google" title="Bing illustration" width="350" height="98" class="alignnone size-medium wp-image-1688" srcset="/blog/wp-content/uploads/2011/02/Capture-d’écran-2011-02-02-à-14.21.36-350x98.png 350w, /blog/wp-content/uploads/2011/02/Capture-d’écran-2011-02-02-à-14.21.36.png 650w" sizes="(max-width: 350px) 100vw, 350px" />](/blog/wp-content/uploads/2011/02/Capture-d’écran-2011-02-02-à-14.21.36.png)
 
 When Bing has no search result for a query, [it googles and adds Google’s first result in its index](http://googleblog.blogspot.com/2011/02/microsofts-bing-uses-google-search.html). This is proved by the experiment that Google conducted:
 

@@ -54,7 +54,7 @@ I made a hack on my WordPress theme, in order to have a « one-click » login.
   </p>
   
   <p>
-    As a result, unknown users the the comment box like this.<br /> <a href="http://regis.decamps.info/blog/wp-content/uploads/2011/01/Capture-d’écran-2011-01-29-à-15.36.12.png"><img src="http://regis.decamps.info/blog/wp-content/uploads/2011/01/Capture-d’écran-2011-01-29-à-15.36.12-350x82.png" alt="" title="Comment box for not logged-in users" width="350" height="82" class="alignnone size-medium wp-image-1667" srcset="http://regis.decamps.info/blog/wp-content/uploads/2011/01/Capture-d’écran-2011-01-29-à-15.36.12-350x82.png 350w, http://regis.decamps.info/blog/wp-content/uploads/2011/01/Capture-d’écran-2011-01-29-à-15.36.12.png 612w" sizes="(max-width: 350px) 100vw, 350px" /></a>
+    As a result, unknown users the the comment box like this.<br /> <a href="/blog/wp-content/uploads/2011/01/Capture-d’écran-2011-01-29-à-15.36.12.png"><img src="/blog/wp-content/uploads/2011/01/Capture-d’écran-2011-01-29-à-15.36.12-350x82.png" alt="" title="Comment box for not logged-in users" width="350" height="82" class="alignnone size-medium wp-image-1667" srcset="/blog/wp-content/uploads/2011/01/Capture-d’écran-2011-01-29-à-15.36.12-350x82.png 350w, /blog/wp-content/uploads/2011/01/Capture-d’écran-2011-01-29-à-15.36.12.png 612w" sizes="(max-width: 350px) 100vw, 350px" /></a>
   </p>
   
   <p>

@@ -30,11 +30,11 @@ categories:
 tags:
   - Paris
 ---
-**Rating:** ![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9734;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "4/5") 
+**Rating:** ![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "4/5") 
 
 
   
-<img src="http://regis.decamps.info/blog/wp-content/uploads/2011/03/hamlet78.jpg" alt="Affiche" title="Hamlet" width="208" height="312" class="alignleft size-full wp-image-1877" />
+<img src="/blog/wp-content/uploads/2011/03/hamlet78.jpg" alt="Affiche" title="Hamlet" width="208" height="312" class="alignleft size-full wp-image-1877" />
   
 J’ai beaucoup aimé cette pièce, qui m’a permis d découvrir le chef-d’œuvre de Shakespeare, dans une mise en scène contemporaine et très réussie, qui peut parfois être dramatique, et parfois humoristique. Les acteurs sont bons.   [Suite](http://www.webcity.fr/wakaseoo/120231-e/avis)
 

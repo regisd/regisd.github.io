@@ -27,13 +27,13 @@ Après m’être un peu [renseigné sur l’internet sur les bouchons hautes-fid
 
 
   
-[<img src="http://regis.decamps.info/blog/wp-content/uploads/2008/07/attenuation_des_bouchons_auditifs-300x203.png" alt="Atténuation de bouchons en fonction de la fréquence" title="attenuation des bouchons auditifs" width="300" height="203" class="alignleft size-medium wp-image-536" srcset="http://regis.decamps.info/blog/wp-content/uploads/2008/07/attenuation_des_bouchons_auditifs-300x203.png 300w, http://regis.decamps.info/blog/wp-content/uploads/2008/07/attenuation_des_bouchons_auditifs.png 673w" sizes="(max-width: 300px) 100vw, 300px" />](http://regis.decamps.info/blog/wp-content/uploads/2008/07/attenuation_des_bouchons_auditifs.png)
+[<img src="/blog/wp-content/uploads/2008/07/attenuation_des_bouchons_auditifs-300x203.png" alt="Atténuation de bouchons en fonction de la fréquence" title="attenuation des bouchons auditifs" width="300" height="203" class="alignleft size-medium wp-image-536" srcset="/blog/wp-content/uploads/2008/07/attenuation_des_bouchons_auditifs-300x203.png 300w, /blog/wp-content/uploads/2008/07/attenuation_des_bouchons_auditifs.png 673w" sizes="(max-width: 300px) 100vw, 300px" />](/blog/wp-content/uploads/2008/07/attenuation_des_bouchons_auditifs.png)
   
 Le graphique indique l’atténuation du niveau sonore (exprimé en [dB](http://http://fr.wikipedia.org/wiki/Decibel)) en fonction de la fréquence (exprimée en [Hz](http://http://fr.wikipedia.org/wiki/Hertz))<sup><a href="#footnote_1_532" id="identifier_1_532" class="footnote-link footnote-identifier-link" title="les donn&eacute;es viennent des fabricants respectifs">2</a></sup>
 
 Ce graphique confirme le fait que les bouchons en mousse se comportent comme un [filtre passe-bas](http://fr.wikipedia.org/wiki/Passe-bas): ils écrasent complètement le son dans les aïgus mais atténuent sensiblement moins les graves. C’est encore pire avec les boules Quiès « traditionnelles », en cire. 
 
-[<img src="http://regis.decamps.info/blog/wp-content/uploads/2008/07/img_1788-224x300.jpg" alt="Acoufun Fidelity ER-20" title="Bouchon Acoufun ER-20" width="224" height="300" class="alignright size-medium wp-image-533" srcset="http://regis.decamps.info/blog/wp-content/uploads/2008/07/img_1788-224x300.jpg 224w, http://regis.decamps.info/blog/wp-content/uploads/2008/07/img_1788.jpg 660w" sizes="(max-width: 224px) 100vw, 224px" />](http://regis.decamps.info/blog/wp-content/uploads/2008/07/img_1788.jpg)
+[<img src="/blog/wp-content/uploads/2008/07/img_1788-224x300.jpg" alt="Acoufun Fidelity ER-20" title="Bouchon Acoufun ER-20" width="224" height="300" class="alignright size-medium wp-image-533" srcset="/blog/wp-content/uploads/2008/07/img_1788-224x300.jpg 224w, /blog/wp-content/uploads/2008/07/img_1788.jpg 660w" sizes="(max-width: 224px) 100vw, 224px" />](/blog/wp-content/uploads/2008/07/img_1788.jpg)
   
 Au contraire, les bouchons haute-fidélité ont une atténuation bien plus linéaire, et également beaucoup monis forte (en concert, on passe de 100 dB ce qui peut endommager l’oreille, à 80dB ce qui est fort mais ne provoque _a priori_ pas de liaison sur la durée d’un concert).
 

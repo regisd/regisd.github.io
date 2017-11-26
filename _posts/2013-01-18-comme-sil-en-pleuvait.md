@@ -12,13 +12,13 @@ al2fb_facebook_link_id:
 al2fb_facebook_link_time:
   - 2013-01-18T22:57:52+00:00
 al2fb_facebook_link_picture:
-  - post=http://regis.decamps.info/blog/wp-content/uploads/2013/01/Comme-sil-en-pleuvait-274x350.jpeg
+  - post=/blog/wp-content/uploads/2013/01/Comme-sil-en-pleuvait-274x350.jpeg
 dsq_thread_id:
   - "1033822667"
 categories:
   - Théâtre
 ---
-<a class="fancybox" rel="fancybox-1" href="http://regis.decamps.info/blog/wp-content/uploads/2013/01/Comme-sil-en-pleuvait.jpeg" title="Comme s'il en pleuvait"><img src="http://regis.decamps.info/blog/wp-content/uploads/2013/01/Comme-sil-en-pleuvait-274x350.jpeg" alt="Affiche" width="274" height="350" class="alignleft size-medium wp-image-3084" srcset="http://regis.decamps.info/blog/wp-content/uploads/2013/01/Comme-sil-en-pleuvait-274x350.jpeg 274w, http://regis.decamps.info/blog/wp-content/uploads/2013/01/Comme-sil-en-pleuvait-235x300.jpeg 235w, http://regis.decamps.info/blog/wp-content/uploads/2013/01/Comme-sil-en-pleuvait.jpeg 627w" sizes="(max-width: 274px) 100vw, 274px" /></a>
+<a class="fancybox" rel="fancybox-1" href="/blog/wp-content/uploads/2013/01/Comme-sil-en-pleuvait.jpeg" title="Comme s'il en pleuvait"><img src="/blog/wp-content/uploads/2013/01/Comme-sil-en-pleuvait-274x350.jpeg" alt="Affiche" width="274" height="350" class="alignleft size-medium wp-image-3084" srcset="/blog/wp-content/uploads/2013/01/Comme-sil-en-pleuvait-274x350.jpeg 274w, /blog/wp-content/uploads/2013/01/Comme-sil-en-pleuvait-235x300.jpeg 235w, /blog/wp-content/uploads/2013/01/Comme-sil-en-pleuvait.jpeg 627w" sizes="(max-width: 274px) 100vw, 274px" /></a>
 
 J’ai été fort déçu par _Comme s’il en pleuvait_, avec Pierre Arditi et Évelyne Buyle.
 
@@ -30,7 +30,7 @@ Le synopsis est pourtant attirant:
 
 En réalité, je ne suis pas entré dans la pièce. Dès les premières minutes, les dialogues sonnent plat et le scénario est extrêmement prévisible, sauf pour la chute qui est un peu inattendue.
 
-**Rating:** ![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "2/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "2/5")![&#9734;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "2/5")![&#9734;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "2/5")![&#9734;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "2/5") 
+**Rating:** ![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "2/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "2/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "2/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "2/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "2/5") 
 
 J’ai trouvé que les scènes se répètentaient trop. L’auteur de la pièce à voulu faire une recherche philosophique: _peut-on jouir de cet argent? faut-il le partager? est-ce qu’il pue?_ Était-il possible de se reposer sensiblement les mêmes questions chaque fois qu’un billet est trouvé?
 

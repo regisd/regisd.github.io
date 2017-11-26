@@ -12,7 +12,7 @@ al2fb_facebook_link_id:
 al2fb_facebook_link_time:
   - 2012-09-02T16:04:18+00:00
 al2fb_facebook_link_picture:
-  - post=http://regis.decamps.info/blog/wp-content/uploads/2012/09/affiche_bonjour_ivresse.jpeg
+  - post=/blog/wp-content/uploads/2012/09/affiche_bonjour_ivresse.jpeg
 dsq_thread_id:
   - "828054387"
 categories:
@@ -23,11 +23,11 @@ tags:
   - Paris
   - Théâtre de boulevard
 ---
-[<img src="http://regis.decamps.info/blog/wp-content/uploads/2012/09/affiche_bonjour_ivresse.jpeg" alt="Affiche Bonjour Ivresse" title="affiche_bonjour_ivresse" width="180" height="249" class="alignleft size-full wp-image-2958" />](http://regis.decamps.info/blog/wp-content/uploads/2012/09/affiche_bonjour_ivresse.jpeg){.fancybox}
+[<img src="/blog/wp-content/uploads/2012/09/affiche_bonjour_ivresse.jpeg" alt="Affiche Bonjour Ivresse" title="affiche_bonjour_ivresse" width="180" height="249" class="alignleft size-full wp-image-2958" />](/blog/wp-content/uploads/2012/09/affiche_bonjour_ivresse.jpeg){.fancybox}
   
 
 
-**Rating:** ![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9734;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "4/5") 
+**Rating:** ![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "4/5") 
 
 
   

@@ -12,7 +12,7 @@ al2fb_facebook_link_id:
 al2fb_facebook_link_time:
   - 2012-08-27T18:52:54+00:00
 al2fb_facebook_link_picture:
-  - post=http://regis.decamps.info/blog/wp-content/uploads/2012/08/metro_fail-350x222.png
+  - post=/blog/wp-content/uploads/2012/08/metro_fail-350x222.png
 dsq_thread_id:
   - "820689756"
 categories:
@@ -31,7 +31,7 @@ Comme beaucoup, je me suis réjouis de voir que la [RATP rejoignait enfin le mou
 
 
   
-[<img src="http://regis.decamps.info/blog/wp-content/uploads/2012/08/metro_fail-350x222.png" alt="" title="L&#039;échec de la RATP pour libérer des données" width="350" height="222" class="alignright size-medium wp-image-2886" srcset="http://regis.decamps.info/blog/wp-content/uploads/2012/08/metro_fail-350x222.png 350w, http://regis.decamps.info/blog/wp-content/uploads/2012/08/metro_fail-471x300.png 471w, http://regis.decamps.info/blog/wp-content/uploads/2012/08/metro_fail.png 716w" sizes="(max-width: 350px) 100vw, 350px" />](http://regis.decamps.info/blog/wp-content/uploads/2012/08/metro_fail.png)
+[<img src="/blog/wp-content/uploads/2012/08/metro_fail-350x222.png" alt="" title="L&#039;échec de la RATP pour libérer des données" width="350" height="222" class="alignright size-medium wp-image-2886" srcset="/blog/wp-content/uploads/2012/08/metro_fail-350x222.png 350w, /blog/wp-content/uploads/2012/08/metro_fail-471x300.png 471w, /blog/wp-content/uploads/2012/08/metro_fail.png 716w" sizes="(max-width: 350px) 100vw, 350px" />](/blog/wp-content/uploads/2012/08/metro_fail.png)
   
 D’abord, parlons de ce qu’il y a:
 
@@ -62,11 +62,11 @@ La liste des stations est un référentiel simple, voire simplet
     
     Même les pictogrammes sont faux. En effet, les images fournies en Open Data sont entièrement transparentes.
   
-    [<img src="http://regis.decamps.info/blog/wp-content/uploads/2012/08/Logo-T1-open-data.png" alt="Logo T1 fourni, posé sur mon bureau" title="Logo T1 open data" width="78" height="51" class="alignnone size-full wp-image-2884" />](http://regis.decamps.info/blog/wp-content/uploads/2012/08/Logo-T1-open-data.png){.fancybox}
+    [<img src="/blog/wp-content/uploads/2012/08/Logo-T1-open-data.png" alt="Logo T1 fourni, posé sur mon bureau" title="Logo T1 open data" width="78" height="51" class="alignnone size-full wp-image-2884" />](/blog/wp-content/uploads/2012/08/Logo-T1-open-data.png){.fancybox}
   
     Cela pose un réel problème de visibilité. Or, le plan schématique montre bien que ce n’est pas ainsi que le pictogramme doit être représenté. L’intérieur du cercle devrait être un disque blanc
   
-    [<img src="http://regis.decamps.info/blog/wp-content/uploads/2012/08/Logo-T1-réel-350x120.png" alt="Logo T1 réellement utilisé dans le plan" title="Logo T1 réel" width="350" height="120" class="alignnone size-medium wp-image-2885" srcset="http://regis.decamps.info/blog/wp-content/uploads/2012/08/Logo-T1-réel-350x120.png 350w, http://regis.decamps.info/blog/wp-content/uploads/2012/08/Logo-T1-réel.png 357w" sizes="(max-width: 350px) 100vw, 350px" />](http://regis.decamps.info/blog/wp-content/uploads/2012/08/Logo-T1-réel.png)
+    [<img src="/blog/wp-content/uploads/2012/08/Logo-T1-réel-350x120.png" alt="Logo T1 réellement utilisé dans le plan" title="Logo T1 réel" width="350" height="120" class="alignnone size-medium wp-image-2885" srcset="/blog/wp-content/uploads/2012/08/Logo-T1-réel-350x120.png 350w, /blog/wp-content/uploads/2012/08/Logo-T1-réel.png 357w" sizes="(max-width: 350px) 100vw, 350px" />](/blog/wp-content/uploads/2012/08/Logo-T1-réel.png)
     
     ### Des informations qui auraient apporté de la valeur…;
     

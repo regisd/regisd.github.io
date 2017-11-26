@@ -20,7 +20,7 @@ tags:
 ---
 Il n’est pas évident de réussir le cadrage pour une photo d’identité. Surtout si l’en prend en compte les exigences éditectées dans [l’arrêt ministériel du 5 février 2009 relatif à la production de photographies d’identité dans le cadre de la délivrance du passeport](http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000020246797&categorieLien=id).
 
-[<img src="http://regis.decamps.info/blog/wp-content/uploads/2010/12/device4-233x350.png" alt="" title="edit translate" width="233" height="350" class="alignright size-medium wp-image-1531" srcset="http://regis.decamps.info/blog/wp-content/uploads/2010/12/device4-233x350.png 233w, http://regis.decamps.info/blog/wp-content/uploads/2010/12/device4.png 320w" sizes="(max-width: 233px) 100vw, 233px" />](http://regis.decamps.info/blog/wp-content/uploads/2010/12/device4.png)
+[<img src="/blog/wp-content/uploads/2010/12/device4-233x350.png" alt="" title="edit translate" width="233" height="350" class="alignright size-medium wp-image-1531" srcset="/blog/wp-content/uploads/2010/12/device4-233x350.png 233w, /blog/wp-content/uploads/2010/12/device4.png 320w" sizes="(max-width: 233px) 100vw, 233px" />](/blog/wp-content/uploads/2010/12/device4.png)
 
 Et comment s’assurer que la photo sera bien au format standard 3,5cm x4,5cm? Et comment faire une planche de photo sur un tirage classiqe 10cm x 15cm?
 

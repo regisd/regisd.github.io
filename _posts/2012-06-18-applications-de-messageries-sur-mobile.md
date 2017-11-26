@@ -12,7 +12,7 @@ al2fb_facebook_link_id:
 al2fb_facebook_link_time:
   - 2012-06-18T11:22:09+00:00
 al2fb_facebook_link_picture:
-  - post=http://regis.decamps.info/blog/wp-content/uploads/2012/06/Google-Talk-Android-150x150.jpg
+  - post=/blog/wp-content/uploads/2012/06/Google-Talk-Android-150x150.jpg
 dsq_thread_id:
   - "731049958"
 categories:
@@ -30,7 +30,7 @@ A ce titre, c’est Apple iMessage qui facilite le mieux une transition. En effe
 
 C’est sans doute trop tard aujourd’hui, puisque la majorité des smartphones sont Android, et viennent avec Google talk. Mais il n &lsquo;y a pas intégration avec les SMS 🙁 C’est dommage que Google fasse toujours moins bien les choses!
 
-[<img src="http://regis.decamps.info/blog/wp-content/uploads/2012/06/Google-Talk-Android-150x150.jpg" alt="screenshot" title="Google Talk for Android" width="150" height="150" class="alignleft size-thumbnail wp-image-2792" srcset="http://regis.decamps.info/blog/wp-content/uploads/2012/06/Google-Talk-Android-150x150.jpg 150w, http://regis.decamps.info/blog/wp-content/uploads/2012/06/Google-Talk-Android-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" />](http://regis.decamps.info/blog/wp-content/uploads/2012/06/Google-Talk-Android.jpg)
+[<img src="/blog/wp-content/uploads/2012/06/Google-Talk-Android-150x150.jpg" alt="screenshot" title="Google Talk for Android" width="150" height="150" class="alignleft size-thumbnail wp-image-2792" srcset="/blog/wp-content/uploads/2012/06/Google-Talk-Android-150x150.jpg 150w, /blog/wp-content/uploads/2012/06/Google-Talk-Android-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" />](/blog/wp-content/uploads/2012/06/Google-Talk-Android.jpg)
 
 Malgré tout, j’utilise régulièrement SMS & Google talk, et occasionnellement Facebook messenger (assez buggué, non?) et Skype (qui est très bien, mais n’apporte rien de plus que Google talk, alors que j’y ai moins de contacts). J’ai l’impression que MS Windows Live messenger n’attire plus personne. Et j’ignore les nouveaux réseaux.
 

@@ -16,4 +16,4 @@ categories:
 tags:
   - Appart
 ---
-[<img src="http://regis.decamps.info/blog/wp-content/uploads/2008/05/img_1749-225x300.jpg" alt="Salle de bain" title="Salle de bain" width="225" height="300" class="alignnone size-medium wp-image-522" srcset="http://regis.decamps.info/blog/wp-content/uploads/2008/05/img_1749-225x300.jpg 225w, http://regis.decamps.info/blog/wp-content/uploads/2008/05/img_1749.jpg 1536w" sizes="(max-width: 225px) 100vw, 225px" />](http://regis.decamps.info/blog/wp-content/uploads/2008/05/img_1749.jpg)
+[<img src="/blog/wp-content/uploads/2008/05/img_1749-225x300.jpg" alt="Salle de bain" title="Salle de bain" width="225" height="300" class="alignnone size-medium wp-image-522" srcset="/blog/wp-content/uploads/2008/05/img_1749-225x300.jpg 225w, /blog/wp-content/uploads/2008/05/img_1749.jpg 1536w" sizes="(max-width: 225px) 100vw, 225px" />](/blog/wp-content/uploads/2008/05/img_1749.jpg)

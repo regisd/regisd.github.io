@@ -18,13 +18,13 @@ tags:
   - Gay
   - Humour
 ---
-**Rating:** ![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "5/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "5/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "5/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "5/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "5/5") 
+**Rating:** ![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "5/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "5/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "5/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "5/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "5/5") 
 
 
   
 Deux homos qui s’aiment, un troisième solitaire qui fait allusions à ses plans culs, leur amie blonde, et un hétéro qui tombe amoureux de la blonde qui préfère les homos. 
 
-[<img src="http://regis.decamps.info/blog/wp-content/uploads/2008/04/les-homos-preferent-les-blondes-216x350.jpg" alt="Affiche Les homos préfèrent les blondes" title="Les homos préfèrent les blondes" width="216" height="350" class="alignleft size-medium wp-image-1151" srcset="http://regis.decamps.info/blog/wp-content/uploads/2008/04/les-homos-preferent-les-blondes-216x350.jpg 216w, http://regis.decamps.info/blog/wp-content/uploads/2008/04/les-homos-preferent-les-blondes.jpg 540w" sizes="(max-width: 216px) 100vw, 216px" />](http://regis.decamps.info/blog/wp-content/uploads/2008/04/les-homos-preferent-les-blondes.jpg)
+[<img src="/blog/wp-content/uploads/2008/04/les-homos-preferent-les-blondes-216x350.jpg" alt="Affiche Les homos préfèrent les blondes" title="Les homos préfèrent les blondes" width="216" height="350" class="alignleft size-medium wp-image-1151" srcset="/blog/wp-content/uploads/2008/04/les-homos-preferent-les-blondes-216x350.jpg 216w, /blog/wp-content/uploads/2008/04/les-homos-preferent-les-blondes.jpg 540w" sizes="(max-width: 216px) 100vw, 216px" />](/blog/wp-content/uploads/2008/04/les-homos-preferent-les-blondes.jpg)
   
 Les quiproquos s’enchaînent, les jeux de mots fusent, les rebondissements arrivent, et les allusions à l’actualité sont fréquentes. La troupe est talentueuse, les acteurs prennent visiblement plaisir à nous faire rire. 
 

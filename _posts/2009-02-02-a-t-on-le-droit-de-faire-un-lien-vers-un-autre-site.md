@@ -31,7 +31,7 @@ Mais qu’en est-il des liens vers des contenus non contraires à la loi?
 On peut distinguer 2 types de lien:
 
   * un lien vers la page d’accueil du site, vers <http://regis.decamps.info/blog/> par exemple
-  * un lien vers une ressource particulière, vers <http://regis.decamps.info/blog/2009/02/a-t-on-le-droit-de-faire-un-lien-vers-un-autre-site> ou vers <http://regis.decamps.info/blog/wp-content/themes/limau-orange-01/images/rds_logo.png> par exemple
+  * un lien vers une ressource particulière, vers <http://regis.decamps.info/blog/2009/02/a-t-on-le-droit-de-faire-un-lien-vers-un-autre-site> ou vers </blog/wp-content/themes/limau-orange-01/images/rds_logo.png> par exemple
 
 ### Les arguments d’interdiction du lien sans autorisation
 

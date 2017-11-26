@@ -12,7 +12,7 @@ al2fb_facebook_link_id:
 al2fb_facebook_link_time:
   - 2013-03-04T09:27:39+00:00
 al2fb_facebook_link_picture:
-  - post=http://regis.decamps.info/blog/wp-content/uploads/2013/03/Les-colocs-254x350.jpeg
+  - post=/blog/wp-content/uploads/2013/03/Les-colocs-254x350.jpeg
 dsq_thread_id:
   - "1116935965"
 categories:
@@ -21,13 +21,13 @@ tags:
   - Comédie
   - Gay
 ---
-[<img src="http://regis.decamps.info/blog/wp-content/uploads/2013/03/Les-colocs-254x350.jpeg" alt="Affiche du spectacle" width="254" height="350" class="alignright size-medium wp-image-3125" srcset="http://regis.decamps.info/blog/wp-content/uploads/2013/03/Les-colocs-254x350.jpeg 254w, http://regis.decamps.info/blog/wp-content/uploads/2013/03/Les-colocs-217x300.jpeg 217w, http://regis.decamps.info/blog/wp-content/uploads/2013/03/Les-colocs.jpeg 363w" sizes="(max-width: 254px) 100vw, 254px" />](http://regis.decamps.info/blog/wp-content/uploads/2013/03/Les-colocs.jpeg){.fancybox}
+[<img src="/blog/wp-content/uploads/2013/03/Les-colocs-254x350.jpeg" alt="Affiche du spectacle" width="254" height="350" class="alignright size-medium wp-image-3125" srcset="/blog/wp-content/uploads/2013/03/Les-colocs-254x350.jpeg 254w, /blog/wp-content/uploads/2013/03/Les-colocs-217x300.jpeg 217w, /blog/wp-content/uploads/2013/03/Les-colocs.jpeg 363w" sizes="(max-width: 254px) 100vw, 254px" />](/blog/wp-content/uploads/2013/03/Les-colocs.jpeg){.fancybox}
 
 Pour réduire leurs charges, deux colocataires, en cherche un troisième. Au téléphone, une charmante demoiselle répond. « Bingo » pense l’hétéro de base. Sauf que la candidate est un gay.
   
 
 
-**Rating:** ![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "2/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "2/5")![&#9734;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "2/5")![&#9734;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "2/5")![&#9734;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "2/5") 
+**Rating:** ![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "2/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "2/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "2/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "2/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "2/5") 
 
 
   

@@ -62,17 +62,17 @@ Assez clairement, il faut un téléphone récent…;
 
 Il suffit alors d’entrer les identifiants SIP dans son client SIP. Voici comment faire avec Fring:
   
-<img src="http://regis.decamps.info/blog/wp-content/uploads/2010/05/device0-233x350.png" alt="Menu > Addon" title="Fring" width="233" height="350" class="size-medium wp-image-1367" srcset="http://regis.decamps.info/blog/wp-content/uploads/2010/05/device0-233x350.png 233w, http://regis.decamps.info/blog/wp-content/uploads/2010/05/device0.png 320w" sizes="(max-width: 233px) 100vw, 233px" />
+<img src="/blog/wp-content/uploads/2010/05/device0-233x350.png" alt="Menu > Addon" title="Fring" width="233" height="350" class="size-medium wp-image-1367" srcset="/blog/wp-content/uploads/2010/05/device0-233x350.png 233w, /blog/wp-content/uploads/2010/05/device0.png 320w" sizes="(max-width: 233px) 100vw, 233px" />
   
-<figure id="attachment_1368" style="width: 233px" class="wp-caption alignnone"><img src="http://regis.decamps.info/blog/wp-content/uploads/2010/05/device1-233x350.png" alt="Selectionner SIP" title="Fring add-ons" width="233" height="350" class="size-medium wp-image-1368" srcset="http://regis.decamps.info/blog/wp-content/uploads/2010/05/device1-233x350.png 233w, http://regis.decamps.info/blog/wp-content/uploads/2010/05/device1.png 320w" sizes="(max-width: 233px) 100vw, 233px" /><figcaption class="wp-caption-text">Selectionner SIP</figcaption></figure>
+<figure id="attachment_1368" style="width: 233px" class="wp-caption alignnone"><img src="/blog/wp-content/uploads/2010/05/device1-233x350.png" alt="Selectionner SIP" title="Fring add-ons" width="233" height="350" class="size-medium wp-image-1368" srcset="/blog/wp-content/uploads/2010/05/device1-233x350.png 233w, /blog/wp-content/uploads/2010/05/device1.png 320w" sizes="(max-width: 233px) 100vw, 233px" /><figcaption class="wp-caption-text">Selectionner SIP</figcaption></figure>
 
 Quelques subtilités:
 
   * avec Fring, il faut ajouter **@voip.wengo.fr** à l’identifiant fourni
   * Avec NeufTalk (de SFR), le proxy SIP est inutile. Laisser vide ou indiquer **voip.wengo.fr**<figure id="attachment_1370" style="width: 233px" class="wp-caption alignnone">
 
-<img src="http://regis.decamps.info/blog/wp-content/uploads/2010/05/device2-233x350.png" alt="Paramétrage du compte SIP" title="Fring SIP" width="233" height="350" class="size-medium wp-image-1370" srcset="http://regis.decamps.info/blog/wp-content/uploads/2010/05/device2-233x350.png 233w, http://regis.decamps.info/blog/wp-content/uploads/2010/05/device2.png 320w" sizes="(max-width: 233px) 100vw, 233px" /><figcaption class="wp-caption-text">Paramétrage du compte SIP avec @voip.wengo.fr</figcaption></figure> 
+<img src="/blog/wp-content/uploads/2010/05/device2-233x350.png" alt="Paramétrage du compte SIP" title="Fring SIP" width="233" height="350" class="size-medium wp-image-1370" srcset="/blog/wp-content/uploads/2010/05/device2-233x350.png 233w, /blog/wp-content/uploads/2010/05/device2.png 320w" sizes="(max-width: 233px) 100vw, 233px" /><figcaption class="wp-caption-text">Paramétrage du compte SIP avec @voip.wengo.fr</figcaption></figure> 
 
 Maintenant, dans Fring, on peut appeler n’importe quel numéro, sans consommer une seconde de forfait/hors-forfait:
   
-<figure id="attachment_1369" style="width: 233px" class="wp-caption alignnone"><img src="http://regis.decamps.info/blog/wp-content/uploads/2010/05/device3-233x350.png" alt="Appel d&#039;un correspondant par SIP" title="Fring call" width="233" height="350" class="size-medium wp-image-1369" srcset="http://regis.decamps.info/blog/wp-content/uploads/2010/05/device3-233x350.png 233w, http://regis.decamps.info/blog/wp-content/uploads/2010/05/device3.png 320w" sizes="(max-width: 233px) 100vw, 233px" /><figcaption class="wp-caption-text">Appel d'un correspondant par SIP</figcaption></figure>
+<figure id="attachment_1369" style="width: 233px" class="wp-caption alignnone"><img src="/blog/wp-content/uploads/2010/05/device3-233x350.png" alt="Appel d&#039;un correspondant par SIP" title="Fring call" width="233" height="350" class="size-medium wp-image-1369" srcset="/blog/wp-content/uploads/2010/05/device3-233x350.png 233w, /blog/wp-content/uploads/2010/05/device3.png 320w" sizes="(max-width: 233px) 100vw, 233px" /><figcaption class="wp-caption-text">Appel d'un correspondant par SIP</figcaption></figure>

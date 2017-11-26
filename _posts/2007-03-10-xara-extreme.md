@@ -19,7 +19,7 @@ categories:
 ---
 I’ve just discovered a pretty impressive open-source vector drawing program called [Xara Extreme](http://www.xaraxtreme.org/). 
 
-[<img id="image394" src="http://regis.decamps.info/blog/wp-content/uploads/2007/03/capture_xara04.jpg" alt="Xara Extreme screenshot" />](http://regis.decamps.info/blog/wp-content/uploads/2007/03/capture_xara04.jpg "Xara Extreme screenshot"){.imagelink}
+[<img id="image394" src="/blog/wp-content/uploads/2007/03/capture_xara04.jpg" alt="Xara Extreme screenshot" />](/blog/wp-content/uploads/2007/03/capture_xara04.jpg "Xara Extreme screenshot"){.imagelink}
 
 It was originally written for MS Windows but is currently being ported on Linux.
 

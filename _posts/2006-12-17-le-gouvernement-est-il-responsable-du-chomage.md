@@ -21,7 +21,7 @@ A déaut de trouver une réponse je me suis amusé à tracer le taux de chômage
 
 Je vous laisse le soin de trouver une éventuelle corrélation!
   
-[<img id="image374" src="http://regis.decamps.info/blog/wp-content/uploads/2006/12/capture14_comage.thumbnail.png" alt="ChÃ´mage en France" />](http://regis.decamps.info/blog/wp-content/uploads/2006/12/capture14_comage.png "ChÃ´mage en France"){.imagelink}
+[<img id="image374" src="/blog/wp-content/uploads/2006/12/capture14_comage.thumbnail.png" alt="ChÃ´mage en France" />](/blog/wp-content/uploads/2006/12/capture14_comage.png "ChÃ´mage en France"){.imagelink}
 
 Moi, je n’en trouve pas. J’imagine donc qu’il faudrait tracer d’autres courbes pour mesurer l’efficacité des gouvernements. Par exemple:
 

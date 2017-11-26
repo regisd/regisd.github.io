@@ -8,7 +8,7 @@ layout: post
 guid: http://regis.decamps.info/blog/?p=3006
 permalink: /blog/2012/11/le-repas-des-fauves/
 al2fb_facebook_link_picture:
-  - post=http://regis.decamps.info/blog/wp-content/uploads/2012/11/Le-repas-des-fauves.jpeg
+  - post=/blog/wp-content/uploads/2012/11/Le-repas-des-fauves.jpeg
 al2fb_facebook_link_id:
   - 1065233209_4265399907638
 al2fb_facebook_link_time:
@@ -24,11 +24,11 @@ tags:
 ---
 Alors que des amis se retrouvent pour un anniversaire, la Gestapo surgit et réclame deux personnes pour venger l’assassinat de soldats qui vient d’avoir lieu au pied de l’immeuble. Dans un sadisme absolu, en apprenant qu’il s’agit d’une fête d’anniversaire, l’officier SS laisse les convives désigner eux-mêmes ces deux otages.
   
-<img src="http://regis.decamps.info/blog/wp-content/uploads/2012/11/Le-repas-des-fauves.jpeg" alt="Affiche du spectacle" title="Le repas des fauves" width="250" height="342" class="alignright size-full wp-image-3008" srcset="http://regis.decamps.info/blog/wp-content/uploads/2012/11/Le-repas-des-fauves.jpeg 250w, http://regis.decamps.info/blog/wp-content/uploads/2012/11/Le-repas-des-fauves-219x300.jpeg 219w" sizes="(max-width: 250px) 100vw, 250px" />
+<img src="/blog/wp-content/uploads/2012/11/Le-repas-des-fauves.jpeg" alt="Affiche du spectacle" title="Le repas des fauves" width="250" height="342" class="alignright size-full wp-image-3008" srcset="/blog/wp-content/uploads/2012/11/Le-repas-des-fauves.jpeg 250w, /blog/wp-content/uploads/2012/11/Le-repas-des-fauves-219x300.jpeg 219w" sizes="(max-width: 250px) 100vw, 250px" />
   
 Chacun cherche à sauver sa peau, et le repas d’amis se transforme en repas de fauves.
 
-**Rating:** ![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9734;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "4/5") 
+**Rating:** ![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "4/5") 
 
 <!--more-->
 

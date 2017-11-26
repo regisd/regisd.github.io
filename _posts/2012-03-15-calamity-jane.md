@@ -12,13 +12,13 @@ dsq_thread_id:
 categories:
   - Théâtre
 ---
-**Rating:** ![&frac12;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/half_star.png "0.5/5")![&#9734;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "0.5/5")![&#9734;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "0.5/5")![&#9734;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "0.5/5")![&#9734;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "0.5/5") 
+**Rating:** ![&frac12;](/blog/wp-content/plugins/xavins-review-ratings/default/half_star.png "0.5/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "0.5/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "0.5/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "0.5/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "0.5/5") 
 
 
   
 _Calamity Jane_ est une pièce biographique. Elle porte bien son nom d’ailleurs: cette pièce était assez calamiteuse.
 
-[<img src="http://regis.decamps.info/blog/wp-content/uploads/2012/03/calamity-jane-150x150.jpg" alt="Affiche du spectacle" title="calamity jane" width="150" height="150" class="alignleft size-thumbnail wp-image-2717" />](http://regis.decamps.info/blog/wp-content/uploads/2012/03/calamity-jane.jpg){.fancybox}
+[<img src="/blog/wp-content/uploads/2012/03/calamity-jane-150x150.jpg" alt="Affiche du spectacle" title="calamity jane" width="150" height="150" class="alignleft size-thumbnail wp-image-2717" />](/blog/wp-content/uploads/2012/03/calamity-jane.jpg){.fancybox}
 
 Alors que [la femme cow-bow](http://fr.wikipedia.org/wiki/Calamity_Jane) a eu une vie riche, j’ai trouvé la narration bien plate. En tout cas, cet enchaînement de tranches de vie est fort ennuyeux.
 

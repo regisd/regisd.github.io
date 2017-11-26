@@ -12,7 +12,7 @@ al2fb_facebook_link_id:
 al2fb_facebook_link_time:
   - 2012-09-07T23:19:07+00:00
 al2fb_facebook_link_picture:
-  - post=http://regis.decamps.info/blog/wp-content/uploads/2012/09/Le-tour-du-monde-en-80-jours-234x350.jpg
+  - post=/blog/wp-content/uploads/2012/09/Le-tour-du-monde-en-80-jours-234x350.jpg
 dsq_thread_id:
   - "835155569"
 categories:
@@ -21,13 +21,13 @@ tags:
   - Café de la gare
   - Paris
 ---
-[<img src="http://regis.decamps.info/blog/wp-content/uploads/2012/09/Le-tour-du-monde-en-80-jours-234x350.jpg" alt="Affiche du spectacle" title="Le tour du monde en 80 jours" width="234" height="350" class="alignleft size-medium wp-image-2966" srcset="http://regis.decamps.info/blog/wp-content/uploads/2012/09/Le-tour-du-monde-en-80-jours-234x350.jpg 234w, http://regis.decamps.info/blog/wp-content/uploads/2012/09/Le-tour-du-monde-en-80-jours-200x300.jpg 200w, http://regis.decamps.info/blog/wp-content/uploads/2012/09/Le-tour-du-monde-en-80-jours.jpg 514w" sizes="(max-width: 234px) 100vw, 234px" />](http://regis.decamps.info/blog/wp-content/uploads/2012/09/Le-tour-du-monde-en-80-jours.jpg)
+[<img src="/blog/wp-content/uploads/2012/09/Le-tour-du-monde-en-80-jours-234x350.jpg" alt="Affiche du spectacle" title="Le tour du monde en 80 jours" width="234" height="350" class="alignleft size-medium wp-image-2966" srcset="/blog/wp-content/uploads/2012/09/Le-tour-du-monde-en-80-jours-234x350.jpg 234w, /blog/wp-content/uploads/2012/09/Le-tour-du-monde-en-80-jours-200x300.jpg 200w, /blog/wp-content/uploads/2012/09/Le-tour-du-monde-en-80-jours.jpg 514w" sizes="(max-width: 234px) 100vw, 234px" />](/blog/wp-content/uploads/2012/09/Le-tour-du-monde-en-80-jours.jpg)
   
 _Le tour du monde en 80 _ est un pièce de théâtre humoristique exceptionnellement bonne, jouée depuis un certain temps au Café de la gare.
   
 
 
-**Rating:** ![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "5/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "5/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "5/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "5/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "5/5") 
+**Rating:** ![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "5/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "5/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "5/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "5/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "5/5") 
 
 
   

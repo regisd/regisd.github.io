@@ -11,7 +11,7 @@ permalink: /blog/2011/06/colorbox-wordpress-gallery/
 wordbooker_options:
   - 'a:10:{s:18:"wordbook_noncename";s:10:"8e404856b8";s:18:"wordbook_page_post";s:4:"-100";s:18:"wordbook_orandpage";s:1:"2";s:23:"wordbook_default_author";s:1:"1";s:23:"wordbook_extract_length";s:3:"256";s:19:"wordbook_actionlink";s:3:"300";s:26:"wordbooker_publish_default";s:2:"on";s:27:"wordbooker_publish_override";s:2:"on";s:18:"wordbook_attribute";s:0:"";s:29:"wordbooker_status_update_text";s:33:"New blog post :  %title% - %link%";}'
 wordbooker_thumb:
-  - http://regis.decamps.info/blog/wp-content/uploads/2011/06/colorbox-150x150.png
+  - /blog/wp-content/uploads/2011/06/colorbox-150x150.png
 wordbooker_extract:
   - |
     J'ai ajouté Colorbox sur les galeries d'images.
@@ -40,7 +40,7 @@ Maintenant, quand on clique sur une photo, un calque (_overlay_) est ajouté et 
   <figure class='gallery-item'> 
   
   <div class='gallery-icon portrait'>
-    <a href='http://regis.decamps.info/blog/2011/06/colorbox-wordpress-gallery/colorbox/'><img width="150" height="150" src="http://regis.decamps.info/blog/wp-content/uploads/2011/06/colorbox-150x150.png" class="attachment-thumbnail size-thumbnail" alt="Capture d&#039;écran" aria-describedby="gallery-6-2075" /></a>
+    <a href='http://regis.decamps.info/blog/2011/06/colorbox-wordpress-gallery/colorbox/'><img width="150" height="150" src="/blog/wp-content/uploads/2011/06/colorbox-150x150.png" class="attachment-thumbnail size-thumbnail" alt="Capture d&#039;écran" aria-describedby="gallery-6-2075" /></a>
   </div><figcaption class='wp-caption-text gallery-caption' id='gallery-6-2075'> Les galeries sont embellies par Colorbox </figcaption></figure>
 </div>
 

@@ -26,7 +26,7 @@ tags:
 ---
 Le [MI 09](http://fr.wikipedia.org/wiki/MI_09) est un « matériel d’interconnexion » (RATP 1500V & SNCF 25000V) destiné à fonctionné sur la ligne de [RER A](http://fr.wikipedia.org/wiki/Ligne_A_du_RER_d%27%C3%8Ele-de-France).<figure id="attachment_2148" style="width: 150px" class="wp-caption alignleft">
 
-[<img class="size-thumbnail wp-image-2148" title="800px-MI09" src="http://regis.decamps.info/blog/wp-content/uploads/2011/07/800px-MI09-150x150.jpg" alt="Photo du MI 09" width="150" height="150" />](http://regis.decamps.info/blog/wp-content/uploads/2011/07/800px-MI09.jpg)<figcaption class="wp-caption-text">Nouveau matériel MI 09</figcaption></figure> 
+[<img class="size-thumbnail wp-image-2148" title="800px-MI09" src="/blog/wp-content/uploads/2011/07/800px-MI09-150x150.jpg" alt="Photo du MI 09" width="150" height="150" />](/blog/wp-content/uploads/2011/07/800px-MI09.jpg)<figcaption class="wp-caption-text">Nouveau matériel MI 09</figcaption></figure> 
 
 Depuis quelques jours, une rame MI09 d’essais sort tous les soirs pour des essais en ligne sur la ligne A, pendant le service voyageurs. D’après [Métro-pôle](http://www.metro-pole.net/actu/article1199.html), elle sort des ateliers de Sucy vers 20h50 puis part de Boissy-St-Léger vers 21h00.
 

@@ -14,7 +14,7 @@ al2fb_facebook_link_id:
 al2fb_facebook_link_time:
   - 2013-01-28T17:00:30+00:00
 al2fb_facebook_link_picture:
-  - meta=http://regis.decamps.info/blog/wp-content/uploads/2013/01/thé-à-la-menthe-252x350.jpg
+  - meta=/blog/wp-content/uploads/2013/01/thé-à-la-menthe-252x350.jpg
 dsq_thread_id:
   - "1051534106"
 categories:
@@ -23,7 +23,7 @@ tags:
   - Comédie
   - Théâtre de boulevard
 ---
-[<img src="http://regis.decamps.info/blog/wp-content/uploads/2013/01/thé-à-la-menthe-252x350.jpg" alt="affiche" width="252" height="350" class="alignright size-medium wp-image-3111" srcset="http://regis.decamps.info/blog/wp-content/uploads/2013/01/thé-à-la-menthe-252x350.jpg 252w, http://regis.decamps.info/blog/wp-content/uploads/2013/01/thé-à-la-menthe-737x1024.jpg 737w, http://regis.decamps.info/blog/wp-content/uploads/2013/01/thé-à-la-menthe-216x300.jpg 216w, http://regis.decamps.info/blog/wp-content/uploads/2013/01/thé-à-la-menthe.jpg 1238w" sizes="(max-width: 252px) 100vw, 252px" />](http://regis.decamps.info/blog/wp-content/uploads/2013/01/thé-à-la-menthe.jpg){.fancybox}
+[<img src="/blog/wp-content/uploads/2013/01/thé-à-la-menthe-252x350.jpg" alt="affiche" width="252" height="350" class="alignright size-medium wp-image-3111" srcset="/blog/wp-content/uploads/2013/01/thé-à-la-menthe-252x350.jpg 252w, /blog/wp-content/uploads/2013/01/thé-à-la-menthe-737x1024.jpg 737w, /blog/wp-content/uploads/2013/01/thé-à-la-menthe-216x300.jpg 216w, /blog/wp-content/uploads/2013/01/thé-à-la-menthe.jpg 1238w" sizes="(max-width: 252px) 100vw, 252px" />](/blog/wp-content/uploads/2013/01/thé-à-la-menthe.jpg){.fancybox}
   
 Cette pièce est une mise en abime d’une troupe de théâtre qui répète: rien n’est près, les acteurs sont terriblement mauvais, et le décor n’est pas fini. On assiste alors à la première, qui ne se passe pas du tout comme prévu.
 
@@ -33,7 +33,7 @@ En un mot: C’est la meilleure plus mauvaise pièce que je n’ai jamais vue.
   
 
 
-**Rating:** ![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9734;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "4/5") 
+**Rating:** ![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "4/5") 
 
 
   

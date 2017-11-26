@@ -20,12 +20,12 @@ wordbooker_extract:
     Vous avez droit à 45 secondes pa ...
 enclosure:
   - |
-    http://regis.decamps.info/blog/wp-content/uploads/2011/06/ttspDmeKz.mp3
+    /blog/wp-content/uploads/2011/06/ttspDmeKz.mp3
     19188
     audio/mpeg
     
   - |
-    http://regis.decamps.info/blog/wp-content/uploads/2011/06/ttb69f1.mp3
+    /blog/wp-content/uploads/2011/06/ttb69f1.mp3
     33588
     audio/mpeg
     
@@ -88,14 +88,14 @@ Vous avez droit à 2 écoutes et 60 secondes par question. Il y a 60 questions.
 
 #### Listen and answer
 
-[piste 1](http://regis.decamps.info/blog/wp-content/uploads/2011/06/ttspDmeKz.mp3)
+[piste 1](/blog/wp-content/uploads/2011/06/ttspDmeKz.mp3)
 
   * John enjoys going to meetings
   * Weekly meeting attendees usually don’t see John
   * John speaks a lot during weekly meetings
   * John is late for its meeting
 
-[piste 2](http://regis.decamps.info/blog/wp-content/uploads/2011/06/ttb69f1.mp3)
+[piste 2](/blog/wp-content/uploads/2011/06/ttb69f1.mp3)
 
   * She work for Epioji
   * She works for Epioge

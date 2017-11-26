@@ -24,7 +24,7 @@ tags:
   
 
 
-**Rating:** ![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "3.5/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "3.5/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "3.5/5")![&frac12;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/half_star.png "3.5/5")![&#9734;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "3.5/5") 
+**Rating:** ![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "3.5/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "3.5/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "3.5/5")![&frac12;](/blog/wp-content/plugins/xavins-review-ratings/default/half_star.png "3.5/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "3.5/5") 
 
 
   

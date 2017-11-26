@@ -16,6 +16,6 @@ categories:
 ---
 Je vous souhaite à tous un très joyeux Noël.
 
-[![Joyeux Noël](http://regis.decamps.info/blog/wp-content/uploads/2007/12/img_0865.JPG)](http://regis.decamps.info/blog/wp-content/uploads/2007/12/img_0865.JPG "Joyeux Noël")
+[![Joyeux Noël](/blog/wp-content/uploads/2007/12/img_0865.JPG)](/blog/wp-content/uploads/2007/12/img_0865.JPG "Joyeux Noël")
 
 La photo est d’une des vitrines du Printemps Haussman.

@@ -14,7 +14,7 @@ categories:
 tags:
   - Économie
 ---
-[<img src="http://regis.decamps.info/blog/wp-content/uploads/2013/04/Expo_economie_2013-02f0e.jpg" alt="Affiche de l&#039;exposition Krach, Boom, Mue" width="246" height="340" class="alignright size-full wp-image-3131" srcset="http://regis.decamps.info/blog/wp-content/uploads/2013/04/Expo_economie_2013-02f0e.jpg 246w, http://regis.decamps.info/blog/wp-content/uploads/2013/04/Expo_economie_2013-02f0e-217x300.jpg 217w" sizes="(max-width: 246px) 100vw, 246px" />](http://regis.decamps.info/blog/wp-content/uploads/2013/04/Expo_economie_2013-02f0e.jpg)
+[<img src="/blog/wp-content/uploads/2013/04/Expo_economie_2013-02f0e.jpg" alt="Affiche de l&#039;exposition Krach, Boom, Mue" width="246" height="340" class="alignright size-full wp-image-3131" srcset="/blog/wp-content/uploads/2013/04/Expo_economie_2013-02f0e.jpg 246w, /blog/wp-content/uploads/2013/04/Expo_economie_2013-02f0e-217x300.jpg 217w" sizes="(max-width: 246px) 100vw, 246px" />](/blog/wp-content/uploads/2013/04/Expo_economie_2013-02f0e.jpg)
   
 J’ai eu la chance d’être invité à l’inauguration de [l’exposition Krach, Boom, Mue](http://www.cite-sciences.fr/francais/ala_cite/expositions/economie-krach-boom-mue/ "L'exposition à la Cité des sciences") qui a débuté il y a quelques jours à la [Cité des sciences et de l’industrie](http://www.cite-sciences.fr/), [en partenariat avec la future Cité de l’économie et de la monnaie](http://www.citedeleconomie.fr/L-economie-Krach-boom-mue).
 
@@ -22,7 +22,7 @@ Cette exposition présente l’économie de façon vulgarisée. Elle rappelle qu
   
 
 
-**Rating:** ![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "3.5/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "3.5/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "3.5/5")![&frac12;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/half_star.png "3.5/5")![&#9734;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "3.5/5") 
+**Rating:** ![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "3.5/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "3.5/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "3.5/5")![&frac12;](/blog/wp-content/plugins/xavins-review-ratings/default/half_star.png "3.5/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "3.5/5") 
 
 
   

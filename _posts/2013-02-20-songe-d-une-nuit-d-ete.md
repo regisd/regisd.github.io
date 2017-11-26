@@ -12,7 +12,7 @@ al2fb_facebook_link_id:
 al2fb_facebook_link_time:
   - 2013-03-04T09:07:06+00:00
 al2fb_facebook_link_picture:
-  - post=http://regis.decamps.info/blog/wp-content/uploads/2013/03/songe_nuit_été-261x350.jpeg
+  - post=/blog/wp-content/uploads/2013/03/songe_nuit_été-261x350.jpeg
 dsq_thread_id:
   - "1116917727"
 categories:
@@ -22,13 +22,13 @@ tags:
   - Comédie
   - Danse
 ---
-[<img src="http://regis.decamps.info/blog/wp-content/uploads/2013/03/songe_nuit_été-261x350.jpeg" alt="affiche du spectacle avec Lorant Deutsch" width="261" height="350" class="alignright size-medium wp-image-3117" srcset="http://regis.decamps.info/blog/wp-content/uploads/2013/03/songe_nuit_été-261x350.jpeg 261w, http://regis.decamps.info/blog/wp-content/uploads/2013/03/songe_nuit_été-224x300.jpeg 224w, http://regis.decamps.info/blog/wp-content/uploads/2013/03/songe_nuit_été.jpeg 448w" sizes="(max-width: 261px) 100vw, 261px" />](http://regis.decamps.info/blog/wp-content/uploads/2013/03/songe_nuit_été.jpeg){.fancybox}
+[<img src="/blog/wp-content/uploads/2013/03/songe_nuit_été-261x350.jpeg" alt="affiche du spectacle avec Lorant Deutsch" width="261" height="350" class="alignright size-medium wp-image-3117" srcset="/blog/wp-content/uploads/2013/03/songe_nuit_été-261x350.jpeg 261w, /blog/wp-content/uploads/2013/03/songe_nuit_été-224x300.jpeg 224w, /blog/wp-content/uploads/2013/03/songe_nuit_été.jpeg 448w" sizes="(max-width: 261px) 100vw, 261px" />](/blog/wp-content/uploads/2013/03/songe_nuit_été.jpeg){.fancybox}
 
 Cette comédie de Shakespeare est incroyablement moderne. L’intrigue est riche, le roi des fées s’amuse à désunir pour mieux les réunir un couple de jeunes humains qui s’aiment. Mais un autre couple est impliqué involontairement. Et à ceci, se mêle une troupe de comédiens râtés.
 
 La pièce de Shakespeare a des aspects burlesques, qui ont évidemment beaucoup de potentiels dans une mise en scène contemporaine. Et j’ai beaucoup aimé l’adaptation de Nicolas Briançon avec Lorant Deutsch.
 
-**Rating:** ![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9734;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "4/5") 
+**Rating:** ![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "4/5") 
 
 Les comédiens sont excellents. Il y a beaucoup de comédiens sur scènes, accompagnés de danseurs, ce qui donne de la fluidité à la pièce. 
 

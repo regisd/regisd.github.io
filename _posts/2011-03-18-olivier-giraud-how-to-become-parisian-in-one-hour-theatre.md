@@ -33,9 +33,9 @@ tags:
   - One-man show
   - Paris
 ---
-**Rating:** ![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "3/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "3/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "3/5")![&#9734;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "3/5")![&#9734;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "3/5") 
+**Rating:** ![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "3/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "3/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "3/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "3/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "3/5") 
 
-<img src="http://regis.decamps.info/blog/wp-content/uploads/2011/03/olivierflyers-233x350.jpg" alt="Affiche du spectacle" title="How to become parisian in one hour?" width="233" height="350" class="alignleft size-medium wp-image-1882" srcset="http://regis.decamps.info/blog/wp-content/uploads/2011/03/olivierflyers-233x350.jpg 233w, http://regis.decamps.info/blog/wp-content/uploads/2011/03/olivierflyers.jpg 480w" sizes="(max-width: 233px) 100vw, 233px" />
+<img src="/blog/wp-content/uploads/2011/03/olivierflyers-233x350.jpg" alt="Affiche du spectacle" title="How to become parisian in one hour?" width="233" height="350" class="alignleft size-medium wp-image-1882" srcset="/blog/wp-content/uploads/2011/03/olivierflyers-233x350.jpg 233w, /blog/wp-content/uploads/2011/03/olivierflyers.jpg 480w" sizes="(max-width: 233px) 100vw, 233px" />
 
 Les sketchs sont des leçons pour apprendre aux étrangers (les provinciaux ou les touristes) à devenir parisiens. Évidemment, on peut s’attendre à un défilé de clichés…; Les défauts des parisiens ou des étrangers sont mis en exergue.
   

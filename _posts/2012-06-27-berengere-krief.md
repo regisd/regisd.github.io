@@ -14,7 +14,7 @@ al2fb_facebook_link_id:
 al2fb_facebook_link_time:
   - 2012-06-28T10:31:50+00:00
 al2fb_facebook_link_picture:
-  - meta=http://regis.decamps.info/blog/wp-content/uploads/2012/06/berengere-krief-affiche-286x350.jpg
+  - meta=/blog/wp-content/uploads/2012/06/berengere-krief-affiche-286x350.jpg
 dsq_thread_id:
   - "743397686"
 categories:
@@ -24,11 +24,11 @@ tags:
 ---
 Le spectacle de [Bérengère Krief](http://www.berengerekrief.com/) (la fille de [bref](http://www.canalplus.fr/c-divertissement/pid3848-c-bref.html)) est vraiment très drôle.
 
-**Rating:** ![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4.5/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4.5/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4.5/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4.5/5")![&frac12;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/half_star.png "4.5/5") 
+**Rating:** ![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4.5/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4.5/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4.5/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4.5/5")![&frac12;](/blog/wp-content/plugins/xavins-review-ratings/default/half_star.png "4.5/5") 
 
 
   
-[<img src="http://regis.decamps.info/blog/wp-content/uploads/2012/06/berengere-krief-affiche-286x350.jpg" alt="affiche du spectacle" title="Berengère Krief" width="286" height="350" class="alignleft size-medium wp-image-2812" srcset="http://regis.decamps.info/blog/wp-content/uploads/2012/06/berengere-krief-affiche-286x350.jpg 286w, http://regis.decamps.info/blog/wp-content/uploads/2012/06/berengere-krief-affiche.jpg 300w" sizes="(max-width: 286px) 100vw, 286px" />](http://regis.decamps.info/blog/wp-content/uploads/2012/06/berengere-krief-affiche.jpg){.fancybox}
+[<img src="/blog/wp-content/uploads/2012/06/berengere-krief-affiche-286x350.jpg" alt="affiche du spectacle" title="Berengère Krief" width="286" height="350" class="alignleft size-medium wp-image-2812" srcset="/blog/wp-content/uploads/2012/06/berengere-krief-affiche-286x350.jpg 286w, /blog/wp-content/uploads/2012/06/berengere-krief-affiche.jpg 300w" sizes="(max-width: 286px) 100vw, 286px" />](/blog/wp-content/uploads/2012/06/berengere-krief-affiche.jpg){.fancybox}
   
 C’est un one-woman-show dans un format classique, mais dont le texte ne fait pas réchauffé. Le spectacle est assez féminin, dynamique, l’humour n’est pas vulgaire.
 

@@ -21,7 +21,7 @@ categories:
 ---
 Afin de [courir le marathon de Toulouse](http://www.lemarathondugrandtoulouse.fr/) ([en relais](http://runkeeper.com/user/regisdecamps/activity/18916007), je vous rassure), j’avais pris un vol aller-retour Paris-Toulouse avec Air France. Mais à cause des embouteillages, j’ai râté mon vol aller (dans le jargon, j’ai fait un _no show_). Billet non échangeable, non remboursable. Je perds mon vol.
   
-[<img src="http://regis.decamps.info/blog/wp-content/uploads/2010/10/Air-France-logo-350x62.jpg" alt="AIRFRANCE" title="Air-France logo" width="350" height="62" class="alignnone size-medium wp-image-1728" srcset="http://regis.decamps.info/blog/wp-content/uploads/2010/10/Air-France-logo-350x62.jpg 350w, http://regis.decamps.info/blog/wp-content/uploads/2010/10/Air-France-logo-1024x183.jpg 1024w, http://regis.decamps.info/blog/wp-content/uploads/2010/10/Air-France-logo.jpg 1037w" sizes="(max-width: 350px) 100vw, 350px" />](http://regis.decamps.info/blog/wp-content/uploads/2010/10/Air-France-logo.jpg)
+[<img src="/blog/wp-content/uploads/2010/10/Air-France-logo-350x62.jpg" alt="AIRFRANCE" title="Air-France logo" width="350" height="62" class="alignnone size-medium wp-image-1728" srcset="/blog/wp-content/uploads/2010/10/Air-France-logo-350x62.jpg 350w, /blog/wp-content/uploads/2010/10/Air-France-logo-1024x183.jpg 1024w, /blog/wp-content/uploads/2010/10/Air-France-logo.jpg 1037w" sizes="(max-width: 350px) 100vw, 350px" />](/blog/wp-content/uploads/2010/10/Air-France-logo.jpg)
   
 Bref, je dois en racheter un (que je prends aussi chez Air France).
 

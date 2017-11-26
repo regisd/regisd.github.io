@@ -32,12 +32,12 @@ tags:
   - Contemporain
   - Paris
 ---
-**Rating:** ![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "2/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "2/5")![&#9734;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "2/5")![&#9734;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "2/5")![&#9734;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "2/5") 
+**Rating:** ![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "2/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "2/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "2/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "2/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "2/5") 
 
 <table border="0">
   <tr>
     <td valign="top">
-      <img align="left" src="http://regis.decamps.info/blog/wp-content/uploads/2011/03/casteljaloux2.jpg" class="imageDefaut borderImage" alt="Affiche" width="160" height="230" />
+      <img align="left" src="/blog/wp-content/uploads/2011/03/casteljaloux2.jpg" class="imageDefaut borderImage" alt="Affiche" width="160" height="230" />
     </td>
     
     <td valign="top">

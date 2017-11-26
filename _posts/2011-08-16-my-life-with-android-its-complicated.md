@@ -22,7 +22,7 @@ tags:
   - Best practice
   - Bug
 ---
-[<img class="alignright size-thumbnail wp-image-2162" title="it-s-complicated-facebook-status" src="http://regis.decamps.info/blog/wp-content/uploads/2011/07/it-s-complicated-when-facebook-status-can-t-describe-you-part-1-25473565-150x150.jpg" alt="Facebook screenshot: relationship status: it's complicated" width="150" height="150" />](http://regis.decamps.info/blog/wp-content/uploads/2011/07/it-s-complicated-when-facebook-status-can-t-describe-you-part-1-25473565.jpg)
+[<img class="alignright size-thumbnail wp-image-2162" title="it-s-complicated-facebook-status" src="/blog/wp-content/uploads/2011/07/it-s-complicated-when-facebook-status-can-t-describe-you-part-1-25473565-150x150.jpg" alt="Facebook screenshot: relationship status: it's complicated" width="150" height="150" />](/blog/wp-content/uploads/2011/07/it-s-complicated-when-facebook-status-can-t-describe-you-part-1-25473565.jpg)
 
 Mobile development is difficult: there is not much memory, the CPU is low, network connection is limited, there are different screen sizes and hardware capabilities to take care of, etc. Android aims at helping on these topics, but the life of an Android developer is still not a paradise…;
 

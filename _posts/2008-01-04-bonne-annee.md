@@ -14,4 +14,4 @@ tmac_last_id:
 categories:
   - Général
 ---
-<a href='http://regis.decamps.info/blog/2008/01/bonne-annee/bonne-annee-2008/' rel='attachment wp-att-471' title='Bonne année 2008!'><img src='http://regis.decamps.info/blog/wp-content/uploads/2008/01/bonne_annee_2008.thumbnail.png' alt='Bonne année 2008!' /></a>
+<a href='http://regis.decamps.info/blog/2008/01/bonne-annee/bonne-annee-2008/' rel='attachment wp-att-471' title='Bonne année 2008!'><img src='/blog/wp-content/uploads/2008/01/bonne_annee_2008.thumbnail.png' alt='Bonne année 2008!' /></a>

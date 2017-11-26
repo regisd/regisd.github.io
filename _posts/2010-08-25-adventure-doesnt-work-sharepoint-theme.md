@@ -22,7 +22,7 @@ Let’s put aside the fact that the « Adventure works » theme in SharePoint 
 
 I have been wondering how to change the company in the footer of the page:
   
-[<img class="alignnone size-medium wp-image-1398" title="adventure screenshot" src="http://regis.decamps.info/blog/wp-content/uploads/2010/08/adventure_screenshot-350x236.png" alt="Screenshot of the &quot;adventure works&quot; theme" width="350" height="236" srcset="http://regis.decamps.info/blog/wp-content/uploads/2010/08/adventure_screenshot-350x236.png 350w, http://regis.decamps.info/blog/wp-content/uploads/2010/08/adventure_screenshot.png 994w" sizes="(max-width: 350px) 100vw, 350px" />](http://regis.decamps.info/blog/wp-content/uploads/2010/08/adventure_screenshot.png)
+[<img class="alignnone size-medium wp-image-1398" title="adventure screenshot" src="/blog/wp-content/uploads/2010/08/adventure_screenshot-350x236.png" alt="Screenshot of the &quot;adventure works&quot; theme" width="350" height="236" srcset="/blog/wp-content/uploads/2010/08/adventure_screenshot-350x236.png 350w, /blog/wp-content/uploads/2010/08/adventure_screenshot.png 994w" sizes="(max-width: 350px) 100vw, 350px" />](/blog/wp-content/uploads/2010/08/adventure_screenshot.png)
 
 Well, it is defined in the master page <tt>OrangeSingleLevel.master</tt> with:
   

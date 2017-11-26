@@ -29,67 +29,67 @@ The images are in [R.drawable-hdpi](https://github.com/android/platform_packages
   <figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='http://regis.decamps.info/blog/2011/09/android-emoticons/emo_im_yelling/'><img width="30" height="30" src="http://regis.decamps.info/blog/wp-content/uploads/2011/09/emo_im_yelling.png" class="attachment-thumbnail size-thumbnail" alt=":O" aria-describedby="gallery-9-2206" /></a>
+    <a href='http://regis.decamps.info/blog/2011/09/android-emoticons/emo_im_yelling/'><img width="30" height="30" src="/blog/wp-content/uploads/2011/09/emo_im_yelling.png" class="attachment-thumbnail size-thumbnail" alt=":O" aria-describedby="gallery-9-2206" /></a>
   </div><figcaption class='wp-caption-text gallery-caption' id='gallery-9-2206'> :O </figcaption></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='http://regis.decamps.info/blog/2011/09/android-emoticons/emo_im_angel/'><img width="30" height="30" src="http://regis.decamps.info/blog/wp-content/uploads/2011/09/emo_im_angel.png" class="attachment-thumbnail size-thumbnail" alt="O:-)" aria-describedby="gallery-9-2207" /></a>
+    <a href='http://regis.decamps.info/blog/2011/09/android-emoticons/emo_im_angel/'><img width="30" height="30" src="/blog/wp-content/uploads/2011/09/emo_im_angel.png" class="attachment-thumbnail size-thumbnail" alt="O:-)" aria-describedby="gallery-9-2207" /></a>
   </div><figcaption class='wp-caption-text gallery-caption' id='gallery-9-2207'> O:-) </figcaption></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='http://regis.decamps.info/blog/2011/09/android-emoticons/emo_im_cool/'><img width="30" height="30" src="http://regis.decamps.info/blog/wp-content/uploads/2011/09/emo_im_cool.png" class="attachment-thumbnail size-thumbnail" alt="B-)" aria-describedby="gallery-9-2208" /></a>
+    <a href='http://regis.decamps.info/blog/2011/09/android-emoticons/emo_im_cool/'><img width="30" height="30" src="/blog/wp-content/uploads/2011/09/emo_im_cool.png" class="attachment-thumbnail size-thumbnail" alt="B-)" aria-describedby="gallery-9-2208" /></a>
   </div><figcaption class='wp-caption-text gallery-caption' id='gallery-9-2208'> B-) </figcaption></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='http://regis.decamps.info/blog/2011/09/android-emoticons/emo_im_crying/'><img width="30" height="30" src="http://regis.decamps.info/blog/wp-content/uploads/2011/09/emo_im_crying.png" class="attachment-thumbnail size-thumbnail" alt=":&#039;(" aria-describedby="gallery-9-2209" /></a>
+    <a href='http://regis.decamps.info/blog/2011/09/android-emoticons/emo_im_crying/'><img width="30" height="30" src="/blog/wp-content/uploads/2011/09/emo_im_crying.png" class="attachment-thumbnail size-thumbnail" alt=":&#039;(" aria-describedby="gallery-9-2209" /></a>
   </div><figcaption class='wp-caption-text gallery-caption' id='gallery-9-2209'> :'( </figcaption></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='http://regis.decamps.info/blog/2011/09/android-emoticons/emo_im_foot_in_mouth/'><img width="30" height="30" src="http://regis.decamps.info/blog/wp-content/uploads/2011/09/emo_im_foot_in_mouth.png" class="attachment-thumbnail size-thumbnail" alt=":-!" aria-describedby="gallery-9-2210" /></a>
+    <a href='http://regis.decamps.info/blog/2011/09/android-emoticons/emo_im_foot_in_mouth/'><img width="30" height="30" src="/blog/wp-content/uploads/2011/09/emo_im_foot_in_mouth.png" class="attachment-thumbnail size-thumbnail" alt=":-!" aria-describedby="gallery-9-2210" /></a>
   </div><figcaption class='wp-caption-text gallery-caption' id='gallery-9-2210'> :-! </figcaption></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='http://regis.decamps.info/blog/2011/09/android-emoticons/emo_im_happy/'><img width="30" height="30" src="http://regis.decamps.info/blog/wp-content/uploads/2011/09/emo_im_happy.png" class="attachment-thumbnail size-thumbnail" alt=":-)" aria-describedby="gallery-9-2211" /></a>
+    <a href='http://regis.decamps.info/blog/2011/09/android-emoticons/emo_im_happy/'><img width="30" height="30" src="/blog/wp-content/uploads/2011/09/emo_im_happy.png" class="attachment-thumbnail size-thumbnail" alt=":-)" aria-describedby="gallery-9-2211" /></a>
   </div><figcaption class='wp-caption-text gallery-caption' id='gallery-9-2211'> 🙂 </figcaption></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='http://regis.decamps.info/blog/2011/09/android-emoticons/emo_im_kissing/'><img width="30" height="30" src="http://regis.decamps.info/blog/wp-content/uploads/2011/09/emo_im_kissing.png" class="attachment-thumbnail size-thumbnail" alt=":-*" aria-describedby="gallery-9-2212" /></a>
+    <a href='http://regis.decamps.info/blog/2011/09/android-emoticons/emo_im_kissing/'><img width="30" height="30" src="/blog/wp-content/uploads/2011/09/emo_im_kissing.png" class="attachment-thumbnail size-thumbnail" alt=":-*" aria-describedby="gallery-9-2212" /></a>
   </div><figcaption class='wp-caption-text gallery-caption' id='gallery-9-2212'> :-* </figcaption></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='http://regis.decamps.info/blog/2011/09/android-emoticons/emo_im_laughing/'><img width="30" height="30" src="http://regis.decamps.info/blog/wp-content/uploads/2011/09/emo_im_laughing.png" class="attachment-thumbnail size-thumbnail" alt=":-D" aria-describedby="gallery-9-2213" /></a>
+    <a href='http://regis.decamps.info/blog/2011/09/android-emoticons/emo_im_laughing/'><img width="30" height="30" src="/blog/wp-content/uploads/2011/09/emo_im_laughing.png" class="attachment-thumbnail size-thumbnail" alt=":-D" aria-describedby="gallery-9-2213" /></a>
   </div><figcaption class='wp-caption-text gallery-caption' id='gallery-9-2213'> 😀 </figcaption></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='http://regis.decamps.info/blog/2011/09/android-emoticons/emo_im_lips_are_sealed/'><img width="30" height="30" src="http://regis.decamps.info/blog/wp-content/uploads/2011/09/emo_im_lips_are_sealed.png" class="attachment-thumbnail size-thumbnail" alt=":-X" aria-describedby="gallery-9-2214" /></a>
+    <a href='http://regis.decamps.info/blog/2011/09/android-emoticons/emo_im_lips_are_sealed/'><img width="30" height="30" src="/blog/wp-content/uploads/2011/09/emo_im_lips_are_sealed.png" class="attachment-thumbnail size-thumbnail" alt=":-X" aria-describedby="gallery-9-2214" /></a>
   </div><figcaption class='wp-caption-text gallery-caption' id='gallery-9-2214'> :-X </figcaption></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='http://regis.decamps.info/blog/2011/09/android-emoticons/emo_im_money_mouth/'><img width="30" height="30" src="http://regis.decamps.info/blog/wp-content/uploads/2011/09/emo_im_money_mouth.png" class="attachment-thumbnail size-thumbnail" alt=":-$" aria-describedby="gallery-9-2215" /></a>
+    <a href='http://regis.decamps.info/blog/2011/09/android-emoticons/emo_im_money_mouth/'><img width="30" height="30" src="/blog/wp-content/uploads/2011/09/emo_im_money_mouth.png" class="attachment-thumbnail size-thumbnail" alt=":-$" aria-describedby="gallery-9-2215" /></a>
   </div><figcaption class='wp-caption-text gallery-caption' id='gallery-9-2215'> :-$ </figcaption></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='http://regis.decamps.info/blog/2011/09/android-emoticons/emo_im_sad/'><img width="30" height="30" src="http://regis.decamps.info/blog/wp-content/uploads/2011/09/emo_im_sad.png" class="attachment-thumbnail size-thumbnail" alt=":-(" aria-describedby="gallery-9-2216" /></a>
+    <a href='http://regis.decamps.info/blog/2011/09/android-emoticons/emo_im_sad/'><img width="30" height="30" src="/blog/wp-content/uploads/2011/09/emo_im_sad.png" class="attachment-thumbnail size-thumbnail" alt=":-(" aria-describedby="gallery-9-2216" /></a>
   </div><figcaption class='wp-caption-text gallery-caption' id='gallery-9-2216'> 🙁 </figcaption></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='http://regis.decamps.info/blog/2011/09/android-emoticons/emo_im_surprised/'><img width="30" height="30" src="http://regis.decamps.info/blog/wp-content/uploads/2011/09/emo_im_surprised.png" class="attachment-thumbnail size-thumbnail" alt="=-O" aria-describedby="gallery-9-2217" /></a>
+    <a href='http://regis.decamps.info/blog/2011/09/android-emoticons/emo_im_surprised/'><img width="30" height="30" src="/blog/wp-content/uploads/2011/09/emo_im_surprised.png" class="attachment-thumbnail size-thumbnail" alt="=-O" aria-describedby="gallery-9-2217" /></a>
   </div><figcaption class='wp-caption-text gallery-caption' id='gallery-9-2217'> =-O </figcaption></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='http://regis.decamps.info/blog/2011/09/android-emoticons/emo_im_tongue_sticking_out/'><img width="30" height="30" src="http://regis.decamps.info/blog/wp-content/uploads/2011/09/emo_im_tongue_sticking_out.png" class="attachment-thumbnail size-thumbnail" alt=":-P" aria-describedby="gallery-9-2218" /></a>
+    <a href='http://regis.decamps.info/blog/2011/09/android-emoticons/emo_im_tongue_sticking_out/'><img width="30" height="30" src="/blog/wp-content/uploads/2011/09/emo_im_tongue_sticking_out.png" class="attachment-thumbnail size-thumbnail" alt=":-P" aria-describedby="gallery-9-2218" /></a>
   </div><figcaption class='wp-caption-text gallery-caption' id='gallery-9-2218'> 😛 </figcaption></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='http://regis.decamps.info/blog/2011/09/android-emoticons/emo_im_undecided/'><img width="30" height="30" src="http://regis.decamps.info/blog/wp-content/uploads/2011/09/emo_im_undecided.png" class="attachment-thumbnail size-thumbnail" alt=":-\" aria-describedby="gallery-9-2219" /></a>
+    <a href='http://regis.decamps.info/blog/2011/09/android-emoticons/emo_im_undecided/'><img width="30" height="30" src="/blog/wp-content/uploads/2011/09/emo_im_undecided.png" class="attachment-thumbnail size-thumbnail" alt=":-\" aria-describedby="gallery-9-2219" /></a>
   </div><figcaption class='wp-caption-text gallery-caption' id='gallery-9-2219'> :-\ </figcaption></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='http://regis.decamps.info/blog/2011/09/android-emoticons/emo_im_winking/'><img width="30" height="30" src="http://regis.decamps.info/blog/wp-content/uploads/2011/09/emo_im_winking.png" class="attachment-thumbnail size-thumbnail" alt=";-)" aria-describedby="gallery-9-2220" /></a>
+    <a href='http://regis.decamps.info/blog/2011/09/android-emoticons/emo_im_winking/'><img width="30" height="30" src="/blog/wp-content/uploads/2011/09/emo_im_winking.png" class="attachment-thumbnail size-thumbnail" alt=";-)" aria-describedby="gallery-9-2220" /></a>
   </div><figcaption class='wp-caption-text gallery-caption' id='gallery-9-2220'> 😉 </figcaption></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='http://regis.decamps.info/blog/2011/09/android-emoticons/emo_im_wtf/'><img width="30" height="30" src="http://regis.decamps.info/blog/wp-content/uploads/2011/09/emo_im_wtf.png" class="attachment-thumbnail size-thumbnail" alt=":-[" aria-describedby="gallery-9-2221" /></a>
+    <a href='http://regis.decamps.info/blog/2011/09/android-emoticons/emo_im_wtf/'><img width="30" height="30" src="/blog/wp-content/uploads/2011/09/emo_im_wtf.png" class="attachment-thumbnail size-thumbnail" alt=":-[" aria-describedby="gallery-9-2221" /></a>
   </div><figcaption class='wp-caption-text gallery-caption' id='gallery-9-2221'> :-[ </figcaption></figure>
 </div>
 

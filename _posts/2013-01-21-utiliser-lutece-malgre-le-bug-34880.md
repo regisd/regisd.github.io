@@ -34,19 +34,19 @@ Si ce n’est pas déjà fait, cette option se trouve dans `Paramètres système
   <figure class='gallery-item'> 
   
   <div class='gallery-icon portrait'>
-    <a href='http://regis.decamps.info/blog/2013/01/utiliser-lutece-malgre-le-bug-34880/device-2013-01-21-213457/'><img width="150" height="150" src="http://regis.decamps.info/blog/wp-content/uploads/2013/01/device-2013-01-21-213457-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='http://regis.decamps.info/blog/2013/01/utiliser-lutece-malgre-le-bug-34880/device-2013-01-21-213457/'><img width="150" height="150" src="/blog/wp-content/uploads/2013/01/device-2013-01-21-213457-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon portrait'>
-    <a href='http://regis.decamps.info/blog/2013/01/utiliser-lutece-malgre-le-bug-34880/device-2013-01-21-213533/'><img width="150" height="150" src="http://regis.decamps.info/blog/wp-content/uploads/2013/01/device-2013-01-21-213533-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='http://regis.decamps.info/blog/2013/01/utiliser-lutece-malgre-le-bug-34880/device-2013-01-21-213533/'><img width="150" height="150" src="/blog/wp-content/uploads/2013/01/device-2013-01-21-213533-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon portrait'>
-    <a href='http://regis.decamps.info/blog/2013/01/utiliser-lutece-malgre-le-bug-34880/device-2013-01-21-213608/'><img width="150" height="150" src="http://regis.decamps.info/blog/wp-content/uploads/2013/01/device-2013-01-21-213608-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='http://regis.decamps.info/blog/2013/01/utiliser-lutece-malgre-le-bug-34880/device-2013-01-21-213608/'><img width="150" height="150" src="/blog/wp-content/uploads/2013/01/device-2013-01-21-213608-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon portrait'>
-    <a href='http://regis.decamps.info/blog/2013/01/utiliser-lutece-malgre-le-bug-34880/device-2013-01-21-213623/'><img width="150" height="150" src="http://regis.decamps.info/blog/wp-content/uploads/2013/01/device-2013-01-21-213623-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='http://regis.decamps.info/blog/2013/01/utiliser-lutece-malgre-le-bug-34880/device-2013-01-21-213623/'><img width="150" height="150" src="/blog/wp-content/uploads/2013/01/device-2013-01-21-213623-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure>
 </div>
 
@@ -62,7 +62,7 @@ Si ce n’est pas déjà fait, cette option se trouve dans `Paramètres système
   <figure class='gallery-item'> 
   
   <div class='gallery-icon portrait'>
-    <a href='http://regis.decamps.info/blog/2013/01/utiliser-lutece-malgre-le-bug-34880/device-2013-01-21-220050/'><img width="150" height="150" src="http://regis.decamps.info/blog/wp-content/uploads/2013/01/device-2013-01-21-220050-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='http://regis.decamps.info/blog/2013/01/utiliser-lutece-malgre-le-bug-34880/device-2013-01-21-220050/'><img width="150" height="150" src="/blog/wp-content/uploads/2013/01/device-2013-01-21-220050-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure>
 </div>
 
@@ -78,10 +78,10 @@ Quand le télécharement est terminé, ouvrir la notification et accepter de **M
   <figure class='gallery-item'> 
   
   <div class='gallery-icon portrait'>
-    <a href='http://regis.decamps.info/blog/2013/01/utiliser-lutece-malgre-le-bug-34880/device-2013-01-21-220628/'><img width="150" height="150" src="http://regis.decamps.info/blog/wp-content/uploads/2013/01/device-2013-01-21-220628-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='http://regis.decamps.info/blog/2013/01/utiliser-lutece-malgre-le-bug-34880/device-2013-01-21-220628/'><img width="150" height="150" src="/blog/wp-content/uploads/2013/01/device-2013-01-21-220628-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon portrait'>
-    <a href='http://regis.decamps.info/blog/2013/01/utiliser-lutece-malgre-le-bug-34880/device-2013-01-21-220712/'><img width="150" height="150" src="http://regis.decamps.info/blog/wp-content/uploads/2013/01/device-2013-01-21-220712-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='http://regis.decamps.info/blog/2013/01/utiliser-lutece-malgre-le-bug-34880/device-2013-01-21-220712/'><img width="150" height="150" src="/blog/wp-content/uploads/2013/01/device-2013-01-21-220712-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure>
 </div>

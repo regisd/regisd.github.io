@@ -19,7 +19,7 @@ tags:
 ---
 Après mon stage de canyoning [à Rodellar, j’avais vraiment envie d’essayer l’escalade](http://regis.decamps.info/blog/2006/07/retour-de-rodellar/). Hé bien, voilà, c’est fait.
   
-[<img id="image318" src="http://regis.decamps.info/blog/wp-content/uploads/2006/09/IMG_3344.thumbnail.JPG" alt="J'escalade un mur école" />](http://regis.decamps.info/blog/wp-content/uploads/2006/09/IMG_3344.JPG "J'escalade un mur école"){.imagelink}
+[<img id="image318" src="/blog/wp-content/uploads/2006/09/IMG_3344.thumbnail.JPG" alt="J'escalade un mur école" />](/blog/wp-content/uploads/2006/09/IMG_3344.JPG "J'escalade un mur école"){.imagelink}
   
 Je ne suis pas déçu. Pierre, le moniteur, était calme et discret, mais très sympa. 
 

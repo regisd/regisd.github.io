@@ -19,7 +19,7 @@ categories:
 ---
 I just bought a new mouse. It is a nice Logitech MX900: very comfortable, and wireless (since the wire was the point of failure from my previous mouse). I was wondering whether it would work fine under Linux. Actually, it works better than expected.
   
-[<img id="image413" src="http://regis.decamps.info/blog/wp-content/uploads/2007/05/00036266.thumbnail.jpg" alt="Logitech MX900" />](http://regis.decamps.info/blog/wp-content/uploads/2007/05/00036266.jpg "Logitech MX900"){.imagelink}
+[<img id="image413" src="/blog/wp-content/uploads/2007/05/00036266.thumbnail.jpg" alt="Logitech MX900" />](/blog/wp-content/uploads/2007/05/00036266.jpg "Logitech MX900"){.imagelink}
 
 When I plugged the mouse (actually, the base), it was automatically discovered and working fine. Even the wheel was behaving like expected. All this thanks to evdev: In the past, we had to use `xmodmap` or the `ButtonMapping` option in `/etc/X11/xorg.conf`.
 

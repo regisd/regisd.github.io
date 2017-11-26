@@ -19,13 +19,13 @@ tags:
 ---
 Aujourd’hui, j’ai navigué sur mon blog depuis le travail, et ce blog était véritablement affreusement mal présenté…; comme ceci:
   
-[![screenshot avec MS IE 6](http://regis.decamps.info/blog/wp-content/uploads/2008/03/msie6_304285c2ae0c0eeb354f6b2a7d65d6f3.thumbnail.png)](http://regis.decamps.info/blog/wp-content/uploads/2008/03/msie6_304285c2ae0c0eeb354f6b2a7d65d6f3.png "screenshot avec MS IE 6")
+[![screenshot avec MS IE 6](/blog/wp-content/uploads/2008/03/msie6_304285c2ae0c0eeb354f6b2a7d65d6f3.thumbnail.png)](/blog/wp-content/uploads/2008/03/msie6_304285c2ae0c0eeb354f6b2a7d65d6f3.png "screenshot avec MS IE 6")
 
 Eh oui, Internet Explorer (jusqu’à la version 6) comprend mal le CSS et ne sait même pas gérer la transparence des images PNG.
 
 Evidemment, il existe d’autres navigateurs qui fournissent un résultat décent. C’est le cas de MS Internet Explorer 7, [Opera 9](http://www.opera.com) ou encore [Firefox](http://getfirefox.com).
   
-[![screenshot avec MS IE 7](http://regis.decamps.info/blog/wp-content/uploads/2008/03/msie7_4334c2215695752c0fa657df0eea8e43.thumbnail.png)](http://regis.decamps.info/blog/wp-content/uploads/2008/03/msie7_4334c2215695752c0fa657df0eea8e43.png "screenshot avec MS IE 7")[![screenshot avec Opera 9](http://regis.decamps.info/blog/wp-content/uploads/2008/03/opera9_b167eb7b14bd665bd4a0634a03d8bf7d.thumbnail.png)](http://regis.decamps.info/blog/wp-content/uploads/2008/03/opera9_b167eb7b14bd665bd4a0634a03d8bf7d.png "screenshot avec Opera 9")
+[![screenshot avec MS IE 7](/blog/wp-content/uploads/2008/03/msie7_4334c2215695752c0fa657df0eea8e43.thumbnail.png)](/blog/wp-content/uploads/2008/03/msie7_4334c2215695752c0fa657df0eea8e43.png "screenshot avec MS IE 7")[![screenshot avec Opera 9](/blog/wp-content/uploads/2008/03/opera9_b167eb7b14bd665bd4a0634a03d8bf7d.thumbnail.png)](/blog/wp-content/uploads/2008/03/opera9_b167eb7b14bd665bd4a0634a03d8bf7d.png "screenshot avec Opera 9")
 
 Alors, franchement, pourquoi 13% d’entre-vous se traînent-ils encore avec IE6???
   

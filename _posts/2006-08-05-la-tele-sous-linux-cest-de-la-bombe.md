@@ -20,6 +20,6 @@ Je viens de faire une nouvelle tentative avec Kaffeine (fraîchement compilé, j
 
 Bref, j’ai un linux propulsé à la TNT 😉
   
-[<img id="image305" src="http://regis.decamps.info/blog/wp-content/uploads/2006/08/capture7.thumbnail.png" alt="Kaffeine affiche la TNT sous linux" />](http://regis.decamps.info/blog/wp-content/uploads/2006/08/capture7.png "Kaffeine affiche la TNT sous linux"){.imagelink}
+[<img id="image305" src="/blog/wp-content/uploads/2006/08/capture7.thumbnail.png" alt="Kaffeine affiche la TNT sous linux" />](/blog/wp-content/uploads/2006/08/capture7.png "Kaffeine affiche la TNT sous linux"){.imagelink}
 
 Et en plus, kaffeine a la bonne idée d’aller chercher les programmes télé (à moins que ça ne fasse partie de la TNT elle-même?).

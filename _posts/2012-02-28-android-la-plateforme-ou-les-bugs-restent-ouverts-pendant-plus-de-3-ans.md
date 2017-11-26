@@ -31,7 +31,7 @@ webView.loadData(« Régis », »utf-8&Prime;);
 
 Voilà ce qui apparaît:
   
-<img src="http://regis.decamps.info/blog/wp-content/uploads/2012/02/Capture-d’écran-2012-02-28-à-21.38.37-150x93.png" alt="webView avec du contenu chargé par loadData" width="150" height="93" />
+<img src="/blog/wp-content/uploads/2012/02/Capture-d’écran-2012-02-28-à-21.38.37-150x93.png" alt="webView avec du contenu chargé par loadData" width="150" height="93" />
 
 Pourquoi dis-je que la correction est triviale? Parce que ça fonctionne:
   

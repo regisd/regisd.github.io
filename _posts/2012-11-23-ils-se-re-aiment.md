@@ -12,7 +12,7 @@ al2fb_facebook_link_id:
 al2fb_facebook_link_time:
   - 2012-11-29T12:41:28+00:00
 al2fb_facebook_link_picture:
-  - post=http://regis.decamps.info/blog/wp-content/uploads/2012/11/ils-se-re-aiment-350x218.jpg
+  - post=/blog/wp-content/uploads/2012/11/ils-se-re-aiment-350x218.jpg
 dsq_thread_id:
   - "949712456"
 categories:
@@ -28,7 +28,7 @@ Pour le meilleur et pour le pire?
 
 
   
-<img src="http://regis.decamps.info/blog/wp-content/uploads/2012/11/ils-se-re-aiment-350x218.jpg" alt="Affiche du spectacle" title="ils se re-aiment" width="350" height="218" class="alignright size-medium wp-image-3037" srcset="http://regis.decamps.info/blog/wp-content/uploads/2012/11/ils-se-re-aiment-350x218.jpg 350w, http://regis.decamps.info/blog/wp-content/uploads/2012/11/ils-se-re-aiment.jpg 465w" sizes="(max-width: 350px) 100vw, 350px" />
+<img src="/blog/wp-content/uploads/2012/11/ils-se-re-aiment-350x218.jpg" alt="Affiche du spectacle" title="ils se re-aiment" width="350" height="218" class="alignright size-medium wp-image-3037" srcset="/blog/wp-content/uploads/2012/11/ils-se-re-aiment-350x218.jpg 350w, /blog/wp-content/uploads/2012/11/ils-se-re-aiment.jpg 465w" sizes="(max-width: 350px) 100vw, 350px" />
   
 Commençons par le commencement: le titre est abominable. Heureusement, le spectacle n’est pas si mauvais.
 

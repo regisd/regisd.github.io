@@ -10,7 +10,7 @@ permalink: /blog/2011/03/un-affichage-de-liste-personnalise/
 wordbooker_options:
   - 'a:9:{s:18:"wordbook_noncename";s:10:"838182c9df";s:18:"wordbook_page_post";s:4:"-100";s:18:"wordbook_orandpage";s:1:"2";s:23:"wordbook_default_author";s:1:"1";s:23:"wordbook_extract_length";s:3:"256";s:19:"wordbook_actionlink";s:3:"300";s:26:"wordbooker_publish_default";s:2:"on";s:18:"wordbook_attribute";s:0:"";s:29:"wordbooker_status_update_text";s:33:"New blog post :  %title% - %link%";}'
 wordbooker_thumb:
-  - http://regis.decamps.info/blog/wp-content/uploads/2011/03/device-233x350.png
+  - /blog/wp-content/uploads/2011/03/device-233x350.png
 wordbooker_extract:
   - |
     L'API de incidents-transports a évolué est indique maintenant l'identifiant de la ligne sur lequel l'incident a eu lieu. Je tire parti de cette nouvelle information, en affichant le pictogramme de la ligne concernée dans la liste.
@@ -30,7 +30,7 @@ tags:
 ---
 [L’API de incidents-transports](http://www.incidents-transports.com/dev/) a évolué et indique maintenant l’identifiant de la ligne sur lequel l’incident a eu lieu. Je tire parti de cette nouvelle information, en affichant le pictogramme de la ligne concernée dans la liste. <figure id="attachment_1789" style="width: 233px" class="wp-caption alignnone">
 
-[<img src="http://regis.decamps.info/blog/wp-content/uploads/2011/03/device-233x350.png" alt="Capture d&#039;écran montrant l&#039;Adapter au travail" title="Liste des incidents avec Custom Adapter" width="233" height="350" class="size-medium wp-image-1789" srcset="http://regis.decamps.info/blog/wp-content/uploads/2011/03/device-233x350.png 233w, http://regis.decamps.info/blog/wp-content/uploads/2011/03/device.png 320w" sizes="(max-width: 233px) 100vw, 233px" />](http://regis.decamps.info/blog/wp-content/uploads/2011/03/device.png)<figcaption class="wp-caption-text">L'Adapter surchargé permet de construire un affichage plus avancé</figcaption></figure> 
+[<img src="/blog/wp-content/uploads/2011/03/device-233x350.png" alt="Capture d&#039;écran montrant l&#039;Adapter au travail" title="Liste des incidents avec Custom Adapter" width="233" height="350" class="size-medium wp-image-1789" srcset="/blog/wp-content/uploads/2011/03/device-233x350.png 233w, /blog/wp-content/uploads/2011/03/device.png 320w" sizes="(max-width: 233px) 100vw, 233px" />](/blog/wp-content/uploads/2011/03/device.png)<figcaption class="wp-caption-text">L'Adapter surchargé permet de construire un affichage plus avancé</figcaption></figure> 
 
 Pour cela, il faut écrire un <tt>ListAdapter</tt>. Evidement, le mien étend le <tt>ArrayAdapter</tt>, et surcharge la méthode <tt>getView(...)</tt>.
 

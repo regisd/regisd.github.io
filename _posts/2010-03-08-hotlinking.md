@@ -23,7 +23,7 @@ En effet, pour illustrer ma critique sur les [homos préfèrent les blondes](htt
 Sauf que <a href="http://www.wawacity.eu/96624-Les-homos-preferent-les-blondes-Megaupload.html" rel="nofollow" >www.wawacity.eu</a> a réutilisé cette même image, en faisant un lien direct sur mon domaine:
 
     
-    <img src="http://regis.decamps.info/blog/wp-content/uploads/2008/04/les-homos-preferent-les-blondes.jpg" />
+    <img src="/blog/wp-content/uploads/2008/04/les-homos-preferent-les-blondes.jpg" />
     
 
 Résultat: chaque visiteur de ce site charge l’image sur mon site. J’ai en moyenne 50 visites par jour sur l’ensemble du site ; mais le site qui « pompe » l’image est un site de piratage qui a engendré 120 000 requêtes par jour pour cette image!

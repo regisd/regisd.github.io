@@ -22,4 +22,4 @@ Je viens de découvrir que la dernière version de [Google Earth fonctionne sous
 
 Du coup, on peut voir le départ de la dernière étape du [tour de france](http://www.letour.fr/2006/TDF/LIVE/fr/1800/r2_google_earth.html) depuis la Place Charles De-Gaulle.
   
-[<img id="image307" src="http://regis.decamps.info/blog/wp-content/uploads/2006/08/google-earth-place_etoile.thumbnail.png" alt="Place de l'Etoile sur google Earth" />](http://regis.decamps.info/blog/wp-content/uploads/2006/08/google-earth-place_etoile.png "Place de l'Etoile sur google Earth"){.imagelink}
+[<img id="image307" src="/blog/wp-content/uploads/2006/08/google-earth-place_etoile.thumbnail.png" alt="Place de l'Etoile sur google Earth" />](/blog/wp-content/uploads/2006/08/google-earth-place_etoile.png "Place de l'Etoile sur google Earth"){.imagelink}

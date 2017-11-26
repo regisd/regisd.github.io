@@ -55,7 +55,7 @@ tags:
 
 C’est par cette citation d’Helmut Newton que [l’exposition qui lui est consacrée au Grand Palais](http://www.grandpalais.fr/grandformat/exposition/helmut-newton/ "Exposition des photographies d'Helmut Newton au Grand Palais") commence.
 
-**Rating:** ![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "3.5/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "3.5/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "3.5/5")![&frac12;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/half_star.png "3.5/5")![&#9734;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "3.5/5") 
+**Rating:** ![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "3.5/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "3.5/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "3.5/5")![&frac12;](/blog/wp-content/plugins/xavins-review-ratings/default/half_star.png "3.5/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "3.5/5") 
 
 <!--more-->
 
@@ -75,11 +75,11 @@ _I like to photograph the famous and the infamous._ Et on peut rappeler qu’il 
   <figure class='gallery-item'> 
   
   <div class='gallery-icon portrait'>
-    <a href='http://regis.decamps.info/blog/2012/07/expo-helmut-newton/lepen/'><img width="150" height="150" src="http://regis.decamps.info/blog/wp-content/uploads/2012/07/lepen-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="Portrait photographié par Helmut Newton" srcset="http://regis.decamps.info/blog/wp-content/uploads/2012/07/lepen-150x150.jpg 150w, http://regis.decamps.info/blog/wp-content/uploads/2012/07/lepen-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+    <a href='http://regis.decamps.info/blog/2012/07/expo-helmut-newton/lepen/'><img width="150" height="150" src="/blog/wp-content/uploads/2012/07/lepen-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="Portrait photographié par Helmut Newton" srcset="/blog/wp-content/uploads/2012/07/lepen-150x150.jpg 150w, /blog/wp-content/uploads/2012/07/lepen-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon portrait'>
-    <a href='http://regis.decamps.info/blog/2012/07/expo-helmut-newton/hitler-with-his-dog/'><img width="150" height="150" src="http://regis.decamps.info/blog/wp-content/uploads/2012/07/hitler-with-his-dog-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="Portrait de Henrich Hoffman (1925)" srcset="http://regis.decamps.info/blog/wp-content/uploads/2012/07/hitler-with-his-dog-150x150.jpg 150w, http://regis.decamps.info/blog/wp-content/uploads/2012/07/hitler-with-his-dog-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+    <a href='http://regis.decamps.info/blog/2012/07/expo-helmut-newton/hitler-with-his-dog/'><img width="150" height="150" src="/blog/wp-content/uploads/2012/07/hitler-with-his-dog-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="Portrait de Henrich Hoffman (1925)" srcset="/blog/wp-content/uploads/2012/07/hitler-with-his-dog-150x150.jpg 150w, /blog/wp-content/uploads/2012/07/hitler-with-his-dog-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></a>
   </div></figure>
 </div>
 

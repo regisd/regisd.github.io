@@ -28,7 +28,7 @@ Le site de la RATP indique dans ses [mentions légales](http://www.ratp.fr/fr/ra
 
 Je suis un peu surpris qu’une régie publique n’ait pas déversé dans le domaine public les symboles représentants les lignes. Justement, je voulais utiliser l’icônographie des lignes RATP, dans mon application mobile
   
-<img src="http://regis.decamps.info/blog/wp-content/uploads/2011/03/device-233x350.png" alt="Capture d&#039;écran montrant liste" title="Je voulais afficher les icônes des lignes" width="233" height="350" class="size-medium wp-image-1789" srcset="http://regis.decamps.info/blog/wp-content/uploads/2011/03/device-233x350.png 233w, http://regis.decamps.info/blog/wp-content/uploads/2011/03/device.png 320w" sizes="(max-width: 233px) 100vw, 233px" />
+<img src="/blog/wp-content/uploads/2011/03/device-233x350.png" alt="Capture d&#039;écran montrant liste" title="Je voulais afficher les icônes des lignes" width="233" height="350" class="size-medium wp-image-1789" srcset="/blog/wp-content/uploads/2011/03/device-233x350.png 233w, /blog/wp-content/uploads/2011/03/device.png 320w" sizes="(max-width: 233px) 100vw, 233px" />
 
 [Je me demande](https://groups.google.com/d/topic/fr.misc.droit/K4iReahYymo/discussion) si [l’article L513-6](http://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006069414&idArticle=LEGIARTI000006279349) du code la propriété intellectuelle permet d’utiliser ces pictogrammes.
 
@@ -38,7 +38,7 @@ Est-ce que l’utilisation des pictogrammes pour indiquer le nom des lignes est 
 
 Dans le doute, j’ai demandé directement le consentement de la RATP. Voici leur réponse:
   
-<img src="http://regis.decamps.info/blog/wp-content/uploads/2011/03/Reponse-RATP.png" alt="Pour diverses raisons, la RATP ne souhaite pas vous autoriser à reproduire ces éléments dans votre application. Nous vous invitons donc à élaborer de nouveaux pictogrammes pour indiquer les différentes lignes." title="Reponse RATP" width="414" height="581" class="alignnone size-full wp-image-1854" srcset="http://regis.decamps.info/blog/wp-content/uploads/2011/03/Reponse-RATP.png 414w, http://regis.decamps.info/blog/wp-content/uploads/2011/03/Reponse-RATP-249x350.png 249w" sizes="(max-width: 414px) 100vw, 414px" />
+<img src="/blog/wp-content/uploads/2011/03/Reponse-RATP.png" alt="Pour diverses raisons, la RATP ne souhaite pas vous autoriser à reproduire ces éléments dans votre application. Nous vous invitons donc à élaborer de nouveaux pictogrammes pour indiquer les différentes lignes." title="Reponse RATP" width="414" height="581" class="alignnone size-full wp-image-1854" srcset="/blog/wp-content/uploads/2011/03/Reponse-RATP.png 414w, /blog/wp-content/uploads/2011/03/Reponse-RATP-249x350.png 249w" sizes="(max-width: 414px) 100vw, 414px" />
 
 C’est extrêmement décevant. La RATP ne cherche visiblement pas à construire une image cohérente autour de la signalétique. Et d’ailleurs, [ils s&#8217;emmèlent parfois les pinceaux eux-mêmes](http://www.metro-pole.net/actu/article1111.html).
 

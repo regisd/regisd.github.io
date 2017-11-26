@@ -19,9 +19,9 @@ tags:
 ---
 Amelle et Noom sont deux humoristes issus du Jamel comédie club.
 
-**Rating:** ![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "3.5/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "3.5/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "3.5/5")![&frac12;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/half_star.png "3.5/5")![&#9734;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "3.5/5") 
+**Rating:** ![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "3.5/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "3.5/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "3.5/5")![&frac12;](/blog/wp-content/plugins/xavins-review-ratings/default/half_star.png "3.5/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "3.5/5") 
 
-[<img src="http://regis.decamps.info/blog/wp-content/uploads/2012/05/Amour-sur-place-ou-à-emporter-150x150.jpg" alt="Affiche du spectacle" title="Amour sur place ou à emporter" width="150" height="150" class="alignleft size-thumbnail wp-image-2757" />](http://regis.decamps.info/blog/wp-content/uploads/2012/05/Amour-sur-place-ou-à-emporter.jpeg){.fancybox}
+[<img src="/blog/wp-content/uploads/2012/05/Amour-sur-place-ou-à-emporter-150x150.jpg" alt="Affiche du spectacle" title="Amour sur place ou à emporter" width="150" height="150" class="alignleft size-thumbnail wp-image-2757" />](/blog/wp-content/uploads/2012/05/Amour-sur-place-ou-à-emporter.jpeg){.fancybox}
 
 Leur spectacle est un standup qui trace leur amourette. On a donc droit à des sketchs sur le couple. Par rapport à Palmade et Laroche, ils sont de la génération suivante, et les références sont un peu plus jeunes.
 
