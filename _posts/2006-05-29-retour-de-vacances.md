@@ -7,7 +7,7 @@ author: Régis
 excerpt: "J'étais en vacances à Corfou"
 layout: post
 guid: http://blog.decamps.info/2006/06/retour-de-vacances/
-permalink: /2006/05/retour-de-vacances/
+permalink: /blog/2006/05/retour-de-vacances/
 tmac_last_id:
   - ""
 categories:

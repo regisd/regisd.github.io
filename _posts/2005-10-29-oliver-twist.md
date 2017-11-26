@@ -6,7 +6,7 @@ date: 2005-10-29T15:32:47+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=87
-permalink: /2005/10/oliver-twist/
+permalink: /blog/2005/10/oliver-twist/
 tmac_last_id:
   - ""
 dsq_thread_id:

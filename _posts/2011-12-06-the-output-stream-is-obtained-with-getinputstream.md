@@ -6,7 +6,7 @@ date: 2011-12-06T10:54:04+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=2269
-permalink: /2011/12/the-output-stream-is-obtained-with-getinputstream/
+permalink: /blog/2011/12/the-output-stream-is-obtained-with-getinputstream/
 tmac_last_id:
   - "162978325667651584"
 dsq_thread_id:

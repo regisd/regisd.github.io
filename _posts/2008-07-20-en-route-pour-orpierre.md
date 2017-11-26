@@ -6,7 +6,7 @@ date: 2008-07-20T20:31:07+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2008/08/en-route-pour-orpierre/
-permalink: /2008/07/en-route-pour-orpierre/
+permalink: /blog/2008/07/en-route-pour-orpierre/
 tmac_last_id:
   - ""
 categories:

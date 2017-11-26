@@ -7,7 +7,7 @@ author: Régis
 excerpt: "Les cyclistes manquent d'originalité dans leur look. Ils ont toujours un bas noir. "
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=37
-permalink: /2005/08/pourquoi-les-cyclistes-sont-ils-noirs/
+permalink: /blog/2005/08/pourquoi-les-cyclistes-sont-ils-noirs/
 tmac_last_id:
   - ""
 dsq_thread_id:

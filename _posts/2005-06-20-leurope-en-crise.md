@@ -7,7 +7,7 @@ author: Régis
 excerpt: "Après le rejet de la constitution européenne, plus aucun pays n'est prêt à payer pour le budget européen..."
 layout: post
 guid: /?p=5
-permalink: /2005/06/leurope-en-crise/
+permalink: /blog/2005/06/leurope-en-crise/
 tmac_last_id:
   - ""
 dsq_thread_id:

@@ -6,7 +6,7 @@ date: 2005-12-02T23:41:27+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=114
-permalink: /2005/12/forecastfox/
+permalink: /blog/2005/12/forecastfox/
 tmac_last_id:
   - ""
 categories:

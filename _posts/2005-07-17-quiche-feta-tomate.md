@@ -6,7 +6,7 @@ date: 2005-07-17T21:38:58+00:00
 author: Régis
 layout: post
 guid: http://blog.decamps.info/2005/07/quiche-feta-tomate/
-permalink: /2005/07/quiche-feta-tomate/
+permalink: /blog/2005/07/quiche-feta-tomate/
 tmac_last_id:
   - ""
 dsq_thread_id:

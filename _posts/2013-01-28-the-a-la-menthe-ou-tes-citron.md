@@ -6,7 +6,7 @@ date: 2013-01-28T18:00:25+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=3110
-permalink: /2013/01/the-a-la-menthe-ou-tes-citron/
+permalink: /blog/2013/01/the-a-la-menthe-ou-tes-citron/
 al2fb_facebook_image_id:
   - "3111"
 al2fb_facebook_link_id:

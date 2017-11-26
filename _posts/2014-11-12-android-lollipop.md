@@ -8,7 +8,7 @@ excerpt: |
   Ce qui distingue <a href="http://www.android.com/versions/lollipop-5-0/">Lollipop</a>, c'est d'abord sa nouvelle interface graphique. Avec des animations discrètes, l'interface paraît très fluide. Les notifications et le gestionnaire de tâche ont aussi été repensés. Et sous le capot, il y a des changements. Mais je ne pense pas que cette version soit la plus marquante.
 layout: post
 guid: http://regis.decamps.info/blog/?p=3230
-permalink: /2014/11/android-lollipop/
+permalink: /blog/2014/11/android-lollipop/
 dsq_thread_id:
   - "3150546482"
 categories:

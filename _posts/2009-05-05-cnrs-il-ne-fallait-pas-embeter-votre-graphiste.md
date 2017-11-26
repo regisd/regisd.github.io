@@ -6,7 +6,7 @@ date: 2009-05-05T18:51:07+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=869
-permalink: /2009/05/cnrs-il-ne-fallait-pas-embeter-votre-graphiste/
+permalink: /blog/2009/05/cnrs-il-ne-fallait-pas-embeter-votre-graphiste/
 dsq_thread_id:
   - "189257778"
 tmac_last_id:

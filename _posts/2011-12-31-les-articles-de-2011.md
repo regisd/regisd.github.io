@@ -6,7 +6,7 @@ date: 2011-12-31T16:17:14+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=2321
-permalink: /2011/12/les-articles-de-2011/
+permalink: /blog/2011/12/les-articles-de-2011/
 tmac_last_id:
   - "162978317480370177"
 dsq_thread_id:

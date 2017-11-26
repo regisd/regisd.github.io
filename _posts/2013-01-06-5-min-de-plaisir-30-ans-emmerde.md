@@ -6,7 +6,7 @@ date: 2013-01-06T20:06:09+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=3067
-permalink: /2013/01/5-min-de-plaisir-30-ans-emmerde/
+permalink: /blog/2013/01/5-min-de-plaisir-30-ans-emmerde/
 al2fb_facebook_image_id:
   - "3068"
 al2fb_facebook_link_id:

@@ -6,7 +6,7 @@ date: 2006-11-10T21:49:21+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2006/11/shell-programming-echo-a-variable/
-permalink: /2006/11/shell-programming-echo-a-variable/
+permalink: /blog/2006/11/shell-programming-echo-a-variable/
 dsq_thread_id:
   - "189256718"
 tmac_last_id:

@@ -6,7 +6,7 @@ date: 2008-12-01T00:45:42+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=625
-permalink: /2008/12/photofunia/
+permalink: /blog/2008/12/photofunia/
 dsq_thread_id:
   - "189257635"
 tmac_last_id:

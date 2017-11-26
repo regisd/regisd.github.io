@@ -6,7 +6,7 @@ date: 2012-03-04T17:39:42+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=2612
-permalink: /2012/03/ma-femme-me-prend-pour-un-sex-toy/
+permalink: /blog/2012/03/ma-femme-me-prend-pour-un-sex-toy/
 dsq_thread_id:
   - "598356524"
 categories:

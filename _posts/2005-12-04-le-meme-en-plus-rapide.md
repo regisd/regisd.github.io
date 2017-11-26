@@ -7,7 +7,7 @@ author: Régis
 excerpt: http://blog.decamps.info/a un nouvel hébergeur. Pensez à mettre à jour vos favoris!
 layout: post
 guid: http://blog.decamps.info/2005/12//
-permalink: /2005/12/le-meme-en-plus-rapide/
+permalink: /blog/2005/12/le-meme-en-plus-rapide/
 tmac_last_id:
   - ""
 categories:

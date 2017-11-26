@@ -6,7 +6,7 @@ date: 2005-09-26T23:46:47+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=68
-permalink: /2005/09/le-massachussetts-a-retenu-le-format-openoffice/
+permalink: /blog/2005/09/le-massachussetts-a-retenu-le-format-openoffice/
 tmac_last_id:
   - ""
 categories:

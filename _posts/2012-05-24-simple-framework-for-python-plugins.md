@@ -6,7 +6,7 @@ date: 2012-05-24T13:08:57+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=2283
-permalink: /2012/05/simple-framework-for-python-plugins/
+permalink: /blog/2012/05/simple-framework-for-python-plugins/
 al2fb_facebook_link_id:
   - 1065233209_3536292440407
 al2fb_facebook_link_time:

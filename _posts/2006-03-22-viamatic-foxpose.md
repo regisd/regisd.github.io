@@ -6,7 +6,7 @@ date: 2006-03-22T00:31:20+00:00
 author: Régis
 layout: post
 guid: http://blog.decamps.info/2006/03/viamatic-foxpose/
-permalink: /2006/03/viamatic-foxpose/
+permalink: /blog/2006/03/viamatic-foxpose/
 tmac_last_id:
   - ""
 dsq_thread_id:

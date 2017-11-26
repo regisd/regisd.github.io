@@ -6,7 +6,7 @@ date: 2009-03-31T22:56:09+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=846
-permalink: /2009/03/best-practice-for-changing-the-value-of-a-column-in-sharepoint/
+permalink: /blog/2009/03/best-practice-for-changing-the-value-of-a-column-in-sharepoint/
 dsq_thread_id:
   - "189257748"
 tmac_last_id:

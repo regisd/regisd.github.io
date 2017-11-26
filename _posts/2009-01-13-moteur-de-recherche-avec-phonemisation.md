@@ -6,7 +6,7 @@ date: 2009-01-13T11:42:13+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=784
-permalink: /2009/01/moteur-de-recherche-avec-phonemisation/
+permalink: /blog/2009/01/moteur-de-recherche-avec-phonemisation/
 dsq_thread_id:
   - "189257699"
 tmac_last_id:

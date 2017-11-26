@@ -6,7 +6,7 @@ date: 2012-01-10T20:52:10+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=2399
-permalink: /2012/01/allocine-sur-android/
+permalink: /blog/2012/01/allocine-sur-android/
 tmac_last_id:
   - "162978312002600962"
 dsq_thread_id:

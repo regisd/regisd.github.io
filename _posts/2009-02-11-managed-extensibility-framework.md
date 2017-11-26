@@ -6,7 +6,7 @@ date: 2009-02-11T12:26:18+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=813
-permalink: /2009/02/managed-extensibility-framework/
+permalink: /blog/2009/02/managed-extensibility-framework/
 dsq_thread_id:
   - "189257713"
 tmac_last_id:

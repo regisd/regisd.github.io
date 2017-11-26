@@ -7,7 +7,7 @@ author: Régis
 excerpt: "Cela fait un moment que les écrans plats me tapaient dans l'oeuil."
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=42
-permalink: /2005/08/jai-achete-le-fujitsu-siemens-c19-4/
+permalink: /blog/2005/08/jai-achete-le-fujitsu-siemens-c19-4/
 tmac_last_id:
   - ""
 dsq_thread_id:

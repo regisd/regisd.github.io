@@ -6,7 +6,7 @@ date: 2005-07-09T00:54:53+00:00
 author: Régis
 layout: post
 guid: /?p=17
-permalink: /2005/07/la-barre-outils-de-google-officielle-firefox/
+permalink: /blog/2005/07/la-barre-outils-de-google-officielle-firefox/
 tmac_last_id:
   - ""
 dsq_thread_id:

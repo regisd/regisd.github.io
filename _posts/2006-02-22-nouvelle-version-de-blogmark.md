@@ -7,7 +7,7 @@ author: Régis
 excerpt: "J'ai publié la version 1.4 de mon extension pour firefox"
 layout: post
 guid: http://blog.decamps.info/?p=178
-permalink: /2006/02/nouvelle-version-de-blogmark/
+permalink: /blog/2006/02/nouvelle-version-de-blogmark/
 tmac_last_id:
   - ""
 categories:

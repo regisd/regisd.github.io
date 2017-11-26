@@ -8,7 +8,7 @@ excerpt: |
   Juste avant le vote des députés, des représentants de Virgin ont été invités par le minsitère de la culture au sein de l'Assemblée pour faire une démonstration des offres "légales" de musique en ligne.
 layout: post
 guid: http://blog.decamps.info/2005/12/dadvsi-un-peu-de-corruption-na-jamais-tue-un-depute/
-permalink: /2005/12/dadvsi-un-peu-de-corruption-na-jamais-tue-un-depute/
+permalink: /blog/2005/12/dadvsi-un-peu-de-corruption-na-jamais-tue-un-depute/
 tmac_last_id:
   - ""
 dsq_thread_id:

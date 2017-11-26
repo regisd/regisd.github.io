@@ -6,7 +6,7 @@ date: 2006-12-20T15:51:55+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2006/12/dette-et-chomage/
-permalink: /2006/12/dette-et-chomage/
+permalink: /blog/2006/12/dette-et-chomage/
 tmac_last_id:
   - ""
 dsq_thread_id:

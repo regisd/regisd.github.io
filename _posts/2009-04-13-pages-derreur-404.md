@@ -6,7 +6,7 @@ date: 2009-04-13T22:39:12+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=853
-permalink: /2009/04/pages-derreur-404/
+permalink: /blog/2009/04/pages-derreur-404/
 dsq_thread_id:
   - "189257755"
 tmac_last_id:

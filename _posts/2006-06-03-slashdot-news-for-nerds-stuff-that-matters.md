@@ -6,7 +6,7 @@ date: 2006-06-03T15:51:06+00:00
 author: Régis
 layout: post
 guid: http://blog.decamps.info/2006/06/slashdot-news-for-nerds-stuff-that-matters/
-permalink: /2006/06/slashdot-news-for-nerds-stuff-that-matters/
+permalink: /blog/2006/06/slashdot-news-for-nerds-stuff-that-matters/
 tmac_last_id:
   - ""
 categories:

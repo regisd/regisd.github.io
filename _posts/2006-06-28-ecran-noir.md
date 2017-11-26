@@ -7,7 +7,7 @@ author: Régis
 excerpt: "Je n'ai plus d'écran."
 layout: post
 guid: http://regis.decamps.info/blog/2006/06/ecran-noir/
-permalink: /2006/06/ecran-noir/
+permalink: /blog/2006/06/ecran-noir/
 tmac_last_id:
   - ""
 categories:

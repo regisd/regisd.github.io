@@ -7,7 +7,7 @@ author: Régis
 excerpt: 'Accord entre Google et AOL: adsense prend tout son sens. Mais Google met en jeu sa réputation: va-t-il rester un moteur de recherche crédible après cet accord?'
 layout: post
 guid: http://blog.decamps.info/?p=139
-permalink: /2005/12/google-acheterait-5-daol/
+permalink: /blog/2005/12/google-acheterait-5-daol/
 tmac_last_id:
   - ""
 categories:

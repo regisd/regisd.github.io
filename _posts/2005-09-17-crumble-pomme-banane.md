@@ -7,7 +7,7 @@ author: Régis
 excerpt: Celui que tout le monde aime!
 layout: post
 guid: http://blog.decamps.info/?p=188
-permalink: /2005/09/crumble-pomme-banane/
+permalink: /blog/2005/09/crumble-pomme-banane/
 tmac_last_id:
   - ""
 dsq_thread_id:

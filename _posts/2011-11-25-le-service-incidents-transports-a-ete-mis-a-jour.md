@@ -6,7 +6,7 @@ date: 2011-11-25T00:51:17+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=2243
-permalink: /2011/11/le-service-incidents-transports-a-ete-mis-a-jour/
+permalink: /blog/2011/11/le-service-incidents-transports-a-ete-mis-a-jour/
 tmac_last_id:
   - "162978328435888128"
 dsq_thread_id:

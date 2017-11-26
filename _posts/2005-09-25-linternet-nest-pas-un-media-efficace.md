@@ -7,7 +7,7 @@ author: Régis
 excerpt: "Patrick Devedjan semble penser que les blogs ne sont pas un bon moyen d'expression, puisqu'il ferme le sien après trois mois d'existence."
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=56
-permalink: /2005/09/linternet-nest-pas-un-media-efficace/
+permalink: /blog/2005/09/linternet-nest-pas-un-media-efficace/
 dsq_thread_id:
   - "189256260"
 tmac_last_id:

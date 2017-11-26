@@ -10,7 +10,7 @@ excerpt: |
   Le référencement est un ensemble de techniques qui aident à placer son site dans les premiers résultats des moteurs de recherche. Quelles sont-elles? Que font les sites de référencement qui commercialisent la mise en oeuvre de ces techniques? Submit your site for free!
 layout: post
 guid: http://regis.decamps.info/blog/2008/01/referencement-de-site-web/
-permalink: /2008/01/referencement-de-site-web/
+permalink: /blog/2008/01/referencement-de-site-web/
 dsq_thread_id:
   - "189257216"
 tmac_last_id:

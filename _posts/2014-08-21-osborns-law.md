@@ -6,7 +6,7 @@ date: 2014-08-21T23:27:01+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=3206
-permalink: /2014/08/osborns-law/
+permalink: /blog/2014/08/osborns-law/
 dsq_thread_id:
   - "2958761415"
 categories:

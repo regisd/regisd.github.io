@@ -6,7 +6,7 @@ date: 2007-07-21T11:05:25+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2007/07/velib-un-lancement-a-la-francaise/
-permalink: /2007/07/velib-un-lancement-a-la-francaise/
+permalink: /blog/2007/07/velib-un-lancement-a-la-francaise/
 dsq_thread_id:
   - "189256983"
 tmac_last_id:

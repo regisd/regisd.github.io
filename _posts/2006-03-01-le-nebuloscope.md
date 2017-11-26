@@ -6,7 +6,7 @@ date: 2006-03-01T22:10:39+00:00
 author: Régis
 layout: post
 guid: http://blog.decamps.info/2006/03/le-nebuloscope/
-permalink: /2006/03/le-nebuloscope/
+permalink: /blog/2006/03/le-nebuloscope/
 tmac_last_id:
   - ""
 dsq_thread_id:

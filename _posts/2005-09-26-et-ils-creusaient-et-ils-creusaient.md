@@ -6,7 +6,7 @@ date: 2005-09-26T23:27:08+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=67
-permalink: /2005/09/et-ils-creusaient-et-ils-creusaient/
+permalink: /blog/2005/09/et-ils-creusaient-et-ils-creusaient/
 tmac_last_id:
   - ""
 dsq_thread_id:

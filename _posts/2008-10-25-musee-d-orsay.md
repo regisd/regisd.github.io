@@ -6,7 +6,7 @@ date: 2008-10-25T19:12:19+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2008/10/musee-dorsay/
-permalink: /2008/10/musee-d-orsay/
+permalink: /blog/2008/10/musee-d-orsay/
 tmac_last_id:
   - ""
 dsq_thread_id:

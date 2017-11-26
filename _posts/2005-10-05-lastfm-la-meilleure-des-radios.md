@@ -7,7 +7,7 @@ author: Régis
 excerpt: "La radio personnalisée qu'offre Last.fm est géniale"
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=73
-permalink: /2005/10/lastfm-la-meilleure-des-radios/
+permalink: /blog/2005/10/lastfm-la-meilleure-des-radios/
 tmac_last_id:
   - ""
 categories:

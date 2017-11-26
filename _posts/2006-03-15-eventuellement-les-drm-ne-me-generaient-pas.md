@@ -7,7 +7,7 @@ author: Régis
 excerpt: "Je trouve le principe du DRM bon. C'est simplement son implémentation par Apple ou Microsoft qui me gêne."
 layout: post
 guid: http://blog.decamps.info/2006/03/eventuellement-les-drm-ne-me-generaient-pas/
-permalink: /2006/03/eventuellement-les-drm-ne-me-generaient-pas/
+permalink: /blog/2006/03/eventuellement-les-drm-ne-me-generaient-pas/
 tmac_last_id:
   - ""
 dsq_thread_id:

@@ -6,7 +6,7 @@ date: 2009-11-25T22:13:08+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=953
-permalink: /2009/11/extension-blogmarks-net-for-google-chrome/
+permalink: /blog/2009/11/extension-blogmarks-net-for-google-chrome/
 tmac_last_id:
   - ""
 dsq_thread_id:

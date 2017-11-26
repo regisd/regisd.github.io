@@ -6,7 +6,7 @@ date: 2013-05-30T23:32:01+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=3161
-permalink: /2013/05/la-troupe-a-palmade/
+permalink: /blog/2013/05/la-troupe-a-palmade/
 authorsure_include_css:
   - ""
 dsq_thread_id:

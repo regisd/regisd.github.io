@@ -6,7 +6,7 @@ date: 2017-05-28T17:14:55+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=3337
-permalink: /2017/05/le-porteur-dhistoire/
+permalink: /blog/2017/05/le-porteur-dhistoire/
 dsq_thread_id:
   - "5858089313"
 categories:

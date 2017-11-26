@@ -6,7 +6,7 @@ date: 2009-05-31T21:59:13+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2009/06/theme-photo-le-rond/
-permalink: /2009/05/theme-photo-le-rond/
+permalink: /blog/2009/05/theme-photo-le-rond/
 tmac_last_id:
   - ""
 dsq_thread_id:

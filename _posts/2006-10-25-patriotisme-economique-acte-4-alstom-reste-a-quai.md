@@ -6,7 +6,7 @@ date: 2006-10-25T20:37:17+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2006/10/patriotisme-economique-acte-4-alstom-reste-a-quai/
-permalink: /2006/10/patriotisme-economique-acte-4-alstom-reste-a-quai/
+permalink: /blog/2006/10/patriotisme-economique-acte-4-alstom-reste-a-quai/
 tmac_last_id:
   - ""
 dsq_thread_id:

@@ -8,7 +8,7 @@ excerpt: |
   N'allez surtout pas voir "Mary". Du coup, je n'hésite pas à faire trainer plusieurs spoilers dans mon avis complet.
 layout: post
 guid: http://blog.decamps.info/2006/01/mary-deux-navets-pour-le-prix-dun/
-permalink: /2006/01/mary-deux-navets-pour-le-prix-dun/
+permalink: /blog/2006/01/mary-deux-navets-pour-le-prix-dun/
 tmac_last_id:
   - ""
 dsq_thread_id:

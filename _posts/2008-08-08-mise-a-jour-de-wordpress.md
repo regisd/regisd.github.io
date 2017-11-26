@@ -6,7 +6,7 @@ date: 2008-08-08T22:30:46+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=550
-permalink: /2008/08/mise-a-jour-de-wordpress/
+permalink: /blog/2008/08/mise-a-jour-de-wordpress/
 dsq_thread_id:
   - "189261435"
 tmac_last_id:

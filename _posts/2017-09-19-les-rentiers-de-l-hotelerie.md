@@ -6,7 +6,7 @@ date: 2017-09-19T22:52:34+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=3345
-permalink: /2017/09/les-rentiers-de-l-hotelerie/
+permalink: /blog/2017/09/les-rentiers-de-l-hotelerie/
 dsq_thread_id:
   - "6156672244"
 categories:

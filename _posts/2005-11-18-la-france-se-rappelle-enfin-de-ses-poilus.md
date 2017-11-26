@@ -7,7 +7,7 @@ author: Régis
 excerpt: "J'ai toujours trouvé choquant que la guerre la plus meurtrière en France soit tombée dans notre pays."
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=107
-permalink: /2005/11/la-france-se-rappelle-enfin-de-ses-poilus/
+permalink: /blog/2005/11/la-france-se-rappelle-enfin-de-ses-poilus/
 tmac_last_id:
   - ""
 categories:

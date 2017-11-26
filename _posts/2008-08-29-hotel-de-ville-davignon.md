@@ -6,7 +6,7 @@ date: 2008-08-29T16:14:36+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2008/09/hotel-de-ville-davignon/
-permalink: /2008/08/hotel-de-ville-davignon/
+permalink: /blog/2008/08/hotel-de-ville-davignon/
 dsq_thread_id:
   - "189257522"
 tmac_last_id:

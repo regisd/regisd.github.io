@@ -6,7 +6,7 @@ date: 2014-12-19T23:21:54+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=3284
-permalink: /2014/12/1000-jours-sur-stackoverflow/
+permalink: /blog/2014/12/1000-jours-sur-stackoverflow/
 dsq_thread_id:
   - "3342653492"
 categories:

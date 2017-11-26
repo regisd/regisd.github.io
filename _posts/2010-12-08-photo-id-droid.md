@@ -6,7 +6,7 @@ date: 2010-12-08T02:11:36+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=1508
-permalink: /2010/12/photo-id-droid/
+permalink: /blog/2010/12/photo-id-droid/
 tmac_last_id:
   - ""
 dsq_thread_id:

@@ -7,7 +7,7 @@ author: Régis
 excerpt: How to hack VMware player to build your own images.
 layout: post
 guid: http://blog.decamps.info/?p=250
-permalink: /2006/04/vmware-hacks/
+permalink: /blog/2006/04/vmware-hacks/
 tmac_last_id:
   - ""
 dsq_thread_id:

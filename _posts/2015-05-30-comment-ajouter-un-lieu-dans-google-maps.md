@@ -6,7 +6,7 @@ date: 2015-05-30T21:19:09+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=3293
-permalink: /2015/05/comment-ajouter-un-lieu-dans-google-maps/
+permalink: /blog/2015/05/comment-ajouter-un-lieu-dans-google-maps/
 dsq_thread_id:
   - "3837393733"
 categories:

@@ -6,7 +6,7 @@ date: 2006-10-16T19:32:11+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2006/10/eclipse-out-of-memory-cest-fini/
-permalink: /2006/10/eclipse-out-of-memory-cest-fini/
+permalink: /blog/2006/10/eclipse-out-of-memory-cest-fini/
 dsq_thread_id:
   - "189256708"
 tmac_last_id:

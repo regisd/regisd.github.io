@@ -7,7 +7,7 @@ author: Régis
 excerpt: Où peut-on acheter des produits de Mozilla sans payer des frais de ports exorbitants?
 layout: post
 guid: http://blog.decamps.info/2005/12/ou-est-la-boutique-mozilla/
-permalink: /2005/12/ou-est-la-boutique-mozilla/
+permalink: /blog/2005/12/ou-est-la-boutique-mozilla/
 tmac_last_id:
   - ""
 dsq_thread_id:

@@ -6,7 +6,7 @@ date: 2012-03-15T23:03:06+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=2714
-permalink: /2012/03/calamity-jane/
+permalink: /blog/2012/03/calamity-jane/
 dsq_thread_id:
   - "625114525"
 categories:

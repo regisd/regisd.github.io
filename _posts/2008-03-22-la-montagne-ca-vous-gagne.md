@@ -6,7 +6,7 @@ date: 2008-03-22T08:04:13+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2008/03/la-montagne-ca-vous-gagne/
-permalink: /2008/03/la-montagne-ca-vous-gagne/
+permalink: /blog/2008/03/la-montagne-ca-vous-gagne/
 tmac_last_id:
   - ""
 categories:

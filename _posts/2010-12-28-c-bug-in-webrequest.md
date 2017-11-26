@@ -7,7 +7,7 @@ author: Régis
 excerpt: Sometimes, HttpWebRequest hangs on a http 100 "Continue" request
 layout: post
 guid: http://regis.decamps.info/blog/?p=1585
-permalink: /2010/12/c-bug-in-webrequest/
+permalink: /blog/2010/12/c-bug-in-webrequest/
 tmac_last_id:
   - ""
 dsq_thread_id:

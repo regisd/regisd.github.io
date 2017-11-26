@@ -6,7 +6,7 @@ date: 2010-12-09T01:10:18+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=1511
-permalink: /2010/12/comment-prendre-des-photo-didentites-pour-passeport/
+permalink: /blog/2010/12/comment-prendre-des-photo-didentites-pour-passeport/
 tmac_last_id:
   - ""
 dsq_thread_id:

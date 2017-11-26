@@ -6,7 +6,7 @@ date: 2011-01-07T19:32:57+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=1596
-permalink: /2011/01/application-sur-carte-sd/
+permalink: /blog/2011/01/application-sur-carte-sd/
 tmac_last_id:
   - ""
 dsq_thread_id:

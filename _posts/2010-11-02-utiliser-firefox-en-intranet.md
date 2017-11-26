@@ -6,7 +6,7 @@ date: 2010-11-02T13:40:05+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=1476
-permalink: /2010/11/utiliser-firefox-en-intranet/
+permalink: /blog/2010/11/utiliser-firefox-en-intranet/
 tmac_last_id:
   - ""
 dsq_thread_id:

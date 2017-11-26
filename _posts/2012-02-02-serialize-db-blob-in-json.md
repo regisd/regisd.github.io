@@ -6,7 +6,7 @@ date: 2012-02-02T01:22:14+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=2478
-permalink: /2012/02/serialize-db-blob-in-json/
+permalink: /blog/2012/02/serialize-db-blob-in-json/
 dsq_thread_id:
   - "560947842"
 categories:

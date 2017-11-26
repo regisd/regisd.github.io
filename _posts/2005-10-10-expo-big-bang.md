@@ -7,7 +7,7 @@ author: Régis
 excerpt: La nouvelle expo permanent de beaubourg vaut vraiment le détour
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=77
-permalink: /2005/10/expo-big-bang/
+permalink: /blog/2005/10/expo-big-bang/
 tmac_last_id:
   - ""
 dsq_thread_id:

@@ -7,7 +7,7 @@ author: Régis
 excerpt: Une google bombe naturelle
 layout: post
 guid: http://blog.decamps.info/2006/03/ce-nest-pas-un-site-de-propagande-gouvernementale-2/
-permalink: /2006/03/ce-nest-pas-un-site-de-propagande-gouvernementale-2/
+permalink: /blog/2006/03/ce-nest-pas-un-site-de-propagande-gouvernementale-2/
 tmac_last_id:
   - ""
 dsq_thread_id:

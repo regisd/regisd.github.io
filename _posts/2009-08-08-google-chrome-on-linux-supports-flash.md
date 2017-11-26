@@ -10,7 +10,7 @@ excerpt: |
   Google chrome is a very fast web browser, is lightweight, quick to start and innovating. However the linux version didn't support plugins. As such, Flash player was not support, and I had to choice but to stick on firefox/opera for browsing dailymotion, facebook games and so on.
 layout: post
 guid: http://regis.decamps.info/blog/?p=924
-permalink: /2009/08/google-chrome-on-linux-supports-flash/
+permalink: /blog/2009/08/google-chrome-on-linux-supports-flash/
 tmac_last_id:
   - ""
 dsq_thread_id:

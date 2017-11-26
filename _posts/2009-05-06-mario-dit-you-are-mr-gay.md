@@ -6,7 +6,7 @@ date: 2009-05-06T18:16:14+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=875
-permalink: /2009/05/mario-dit-you-are-mr-gay/
+permalink: /blog/2009/05/mario-dit-you-are-mr-gay/
 dsq_thread_id:
   - "189257787"
 tmac_last_id:

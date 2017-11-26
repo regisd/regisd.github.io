@@ -7,7 +7,7 @@ author: Régis
 excerpt: Le clip des White Stripes a été fait en légo
 layout: post
 guid: http://blog.decamps.info/2006/01/clip-fait-en-lego/
-permalink: /2006/01/clip-fait-en-lego/
+permalink: /blog/2006/01/clip-fait-en-lego/
 tmac_last_id:
   - ""
 categories:

@@ -6,7 +6,7 @@ date: 2006-07-30T00:30:08+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2006/07/retour-de-rodellar/
-permalink: /2006/07/retour-de-rodellar/
+permalink: /blog/2006/07/retour-de-rodellar/
 tmac_last_id:
   - ""
 dsq_thread_id:

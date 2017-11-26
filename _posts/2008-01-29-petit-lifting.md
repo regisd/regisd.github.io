@@ -6,7 +6,7 @@ date: 2008-01-29T00:42:03+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2008/01/petit-lifting/
-permalink: /2008/01/petit-lifting/
+permalink: /blog/2008/01/petit-lifting/
 tmac_last_id:
   - ""
 categories:

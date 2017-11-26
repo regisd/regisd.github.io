@@ -7,7 +7,7 @@ author: Régis
 excerpt: "Ca fait plusieurs années que je n'ai pas de télé, mais vu les prix des cartes tuner TNT, j'ai décidé de me lancer dans l'aventure de la TNT. Sous linux, c'est plus fun..."
 layout: post
 guid: http://regis.decamps.info/blog/2006/08/la-tele-sous-linux-cest-de-la-bombe/
-permalink: /2006/08/la-tele-sous-linux-premiers-pas/
+permalink: /blog/2006/08/la-tele-sous-linux-premiers-pas/
 tmac_last_id:
   - ""
 dsq_thread_id:

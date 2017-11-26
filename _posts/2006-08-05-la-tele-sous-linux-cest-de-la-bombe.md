@@ -6,7 +6,7 @@ date: 2006-08-05T17:13:46+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2006/08/la-tele-sous-linux-cest-de-la-bombe/
-permalink: /2006/08/la-tele-sous-linux-cest-de-la-bombe/
+permalink: /blog/2006/08/la-tele-sous-linux-cest-de-la-bombe/
 tmac_last_id:
   - ""
 dsq_thread_id:

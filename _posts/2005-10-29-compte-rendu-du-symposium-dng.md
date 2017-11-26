@@ -10,7 +10,7 @@ excerpt: |
   Voilà en quelques mots ce que j'ai pensé de la journée (et encore merci à Olivier de m'avoir parlé de cet évènement).
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=86
-permalink: /2005/10/compte-rendu-du-symposium-dng/
+permalink: /blog/2005/10/compte-rendu-du-symposium-dng/
 tmac_last_id:
   - ""
 dsq_thread_id:

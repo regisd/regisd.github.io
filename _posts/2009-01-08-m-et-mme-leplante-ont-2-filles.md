@@ -6,7 +6,7 @@ date: 2009-01-08T18:54:35+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=569
-permalink: /2009/01/m-et-mme-leplante-ont-2-filles/
+permalink: /blog/2009/01/m-et-mme-leplante-ont-2-filles/
 tmac_last_id:
   - ""
 dsq_thread_id:

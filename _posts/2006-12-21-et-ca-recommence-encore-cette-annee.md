@@ -7,7 +7,7 @@ author: Régis
 excerpt: "Quelques rélfexions sur l'affaire de la statue de Ploermel."
 layout: post
 guid: http://regis.decamps.info/blog/2006/12/et-ca-recommence-encore-cette-annee/
-permalink: /2006/12/et-ca-recommence-encore-cette-annee/
+permalink: /blog/2006/12/et-ca-recommence-encore-cette-annee/
 tmac_last_id:
   - ""
 dsq_thread_id:

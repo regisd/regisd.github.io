@@ -6,7 +6,7 @@ date: 2008-07-22T19:02:17+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2008/08/pause-sur-le-pont-nepalais/
-permalink: /2008/07/pause-sur-le-pont-nepalais/
+permalink: /blog/2008/07/pause-sur-le-pont-nepalais/
 dsq_thread_id:
   - "189257424"
 tmac_last_id:

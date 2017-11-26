@@ -6,7 +6,7 @@ date: 2007-06-17T15:02:50+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2007/06/re-three-core-pillars/
-permalink: /2007/06/re-three-core-pillars/
+permalink: /blog/2007/06/re-three-core-pillars/
 tmac_last_id:
   - ""
 dsq_thread_id:

@@ -6,7 +6,7 @@ date: 2008-12-25T16:17:32+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=774
-permalink: /2008/12/m-et-mme-duziel-ont-4-filles/
+permalink: /blog/2008/12/m-et-mme-duziel-ont-4-filles/
 tmac_last_id:
   - ""
 dsq_thread_id:

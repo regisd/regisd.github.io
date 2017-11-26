@@ -6,7 +6,7 @@ date: 2009-05-18T16:43:39+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=2733
-permalink: /2009/05/velib-et-moi-cest-fini/
+permalink: /blog/2009/05/velib-et-moi-cest-fini/
 dsq_thread_id:
   - "698555678"
 categories:

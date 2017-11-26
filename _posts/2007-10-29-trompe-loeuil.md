@@ -6,7 +6,7 @@ date: 2007-10-29T23:06:59+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2007/10/trompe-loeuil/
-permalink: /2007/10/trompe-loeuil/
+permalink: /blog/2007/10/trompe-loeuil/
 dsq_thread_id:
   - "189257073"
 tmac_last_id:

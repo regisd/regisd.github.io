@@ -7,7 +7,7 @@ author: Régis
 excerpt: "Le nouvel iPod d'Apple coûte 249$ aux États-Unis, 249€ en Europe... et 319€ en France."
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=59
-permalink: /2005/09/lipod-nano-plus-cher-ici-quailleurs/
+permalink: /blog/2005/09/lipod-nano-plus-cher-ici-quailleurs/
 tmac_last_id:
   - ""
 categories:

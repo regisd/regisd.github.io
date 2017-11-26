@@ -7,7 +7,7 @@ author: Régis
 excerpt: Mon flux RSS est décoré maintenant avec un petite CSS.
 layout: post
 guid: http://regis.decamps.info/blog/2006/10/un-flux-rss-habille/
-permalink: /2006/10/un-flux-rss-habille/
+permalink: /blog/2006/10/un-flux-rss-habille/
 tmac_last_id:
   - ""
 dsq_thread_id:

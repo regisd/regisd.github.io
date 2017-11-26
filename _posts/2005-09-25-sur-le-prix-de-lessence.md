@@ -7,7 +7,7 @@ author: Régis
 excerpt: "La dernière fois que j'avais emprunté le diesel de mes parents, le gazole coûtait 80 cts le litre. Aujourd'hui, on a dépassé l'euro."
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=65
-permalink: /2005/09/sur-le-prix-de-lessence/
+permalink: /blog/2005/09/sur-le-prix-de-lessence/
 tmac_last_id:
   - ""
 categories:

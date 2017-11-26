@@ -6,7 +6,7 @@ date: 2012-06-18T13:00:14+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=2790
-permalink: /2012/06/applications-de-messageries-sur-mobile/
+permalink: /blog/2012/06/applications-de-messageries-sur-mobile/
 al2fb_facebook_link_id:
   - 1065233209_3642586857701
 al2fb_facebook_link_time:

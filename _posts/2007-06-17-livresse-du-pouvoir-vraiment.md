@@ -6,7 +6,7 @@ date: 2007-06-17T09:09:27+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2007/06/livresse-du-pouvoir-vraiment/
-permalink: /2007/06/livresse-du-pouvoir-vraiment/
+permalink: /blog/2007/06/livresse-du-pouvoir-vraiment/
 dsq_thread_id:
   - "189256922"
 tmac_last_id:

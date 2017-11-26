@@ -6,7 +6,7 @@ date: 2008-05-03T01:43:31+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2008/05/madrid-night-life/
-permalink: /2008/05/madrid-night-life/
+permalink: /blog/2008/05/madrid-night-life/
 tmac_last_id:
   - ""
 dsq_thread_id:

@@ -6,7 +6,7 @@ date: 2013-02-20T22:53:41+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=3116
-permalink: /2013/02/songe-d-une-nuit-d-ete/
+permalink: /blog/2013/02/songe-d-une-nuit-d-ete/
 al2fb_facebook_link_id:
   - 1065233209_4890840023250
 al2fb_facebook_link_time:

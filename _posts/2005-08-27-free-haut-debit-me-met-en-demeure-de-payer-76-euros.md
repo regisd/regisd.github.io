@@ -6,7 +6,7 @@ date: 2005-08-27T15:01:42+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=44
-permalink: /2005/08/free-haut-debit-me-met-en-demeure-de-payer-76-euros/
+permalink: /blog/2005/08/free-haut-debit-me-met-en-demeure-de-payer-76-euros/
 tmac_last_id:
   - ""
 categories:

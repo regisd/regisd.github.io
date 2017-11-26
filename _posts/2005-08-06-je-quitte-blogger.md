@@ -10,7 +10,7 @@ excerpt: |
   Mon nouveau blog est chez free, et c'est très simple à faire avec les <a href="http://inscription.free.fr/persov2/persov2.pl">modules web des pages perso</a>.
 layout: post
 guid: /?p=31
-permalink: /2005/08/je-quitte-blogger/
+permalink: /blog/2005/08/je-quitte-blogger/
 tmac_last_id:
   - ""
 dsq_thread_id:

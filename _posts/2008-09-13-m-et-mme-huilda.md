@@ -6,7 +6,7 @@ date: 2008-09-13T12:23:01+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=560
-permalink: /2008/09/m-et-mme-huilda/
+permalink: /blog/2008/09/m-et-mme-huilda/
 dsq_thread_id:
   - "189257529"
 tmac_last_id:

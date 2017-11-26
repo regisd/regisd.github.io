@@ -6,7 +6,7 @@ date: 2012-06-24T23:44:18+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=2806
-permalink: /2012/06/solidays-2012-dernier-jour/
+permalink: /blog/2012/06/solidays-2012-dernier-jour/
 al2fb_facebook_link_id:
   - 1065233209_3682047724198
 al2fb_facebook_link_time:

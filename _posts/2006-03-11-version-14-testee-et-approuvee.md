@@ -7,7 +7,7 @@ author: Régis
 excerpt: "La version 1.4 de l'extension Blogmark est disponible sur mozilla update"
 layout: post
 guid: http://blog.decamps.info/2006/03/version-14-testee-et-approuvee/
-permalink: /2006/03/version-14-testee-et-approuvee/
+permalink: /blog/2006/03/version-14-testee-et-approuvee/
 dsq_thread_id:
   - "189256511"
 tmac_last_id:

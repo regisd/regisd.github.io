@@ -6,7 +6,7 @@ date: 2008-06-03T23:02:04+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=526
-permalink: /2008/06/afficher-ou-masquer-le-bureau/
+permalink: /blog/2008/06/afficher-ou-masquer-le-bureau/
 tmac_last_id:
   - ""
 dsq_thread_id:

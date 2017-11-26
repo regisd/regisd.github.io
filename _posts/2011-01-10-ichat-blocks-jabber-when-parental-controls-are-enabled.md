@@ -6,7 +6,7 @@ date: 2011-01-10T21:54:04+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=1602
-permalink: /2011/01/ichat-blocks-jabber-when-parental-controls-are-enabled/
+permalink: /blog/2011/01/ichat-blocks-jabber-when-parental-controls-are-enabled/
 tmac_last_id:
   - ""
 dsq_thread_id:

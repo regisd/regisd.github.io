@@ -7,7 +7,7 @@ author: Régis
 excerpt: "J'ai activé pubsubhub sur mon blog."
 layout: post
 guid: http://regis.decamps.info/blog/?p=933
-permalink: /2009/09/publish-subscribe/
+permalink: /blog/2009/09/publish-subscribe/
 tmac_last_id:
   - ""
 dsq_thread_id:

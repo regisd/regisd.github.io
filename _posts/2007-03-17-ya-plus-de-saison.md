@@ -6,7 +6,7 @@ date: 2007-03-17T21:39:30+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2007/03/ya-plus-de-saison/
-permalink: /2007/03/ya-plus-de-saison/
+permalink: /blog/2007/03/ya-plus-de-saison/
 dsq_thread_id:
   - "189256807"
 tmac_last_id:

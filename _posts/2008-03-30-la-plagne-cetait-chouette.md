@@ -6,7 +6,7 @@ date: 2008-03-30T11:00:57+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2008/03/la-plagne-cetait-chouette/
-permalink: /2008/03/la-plagne-cetait-chouette/
+permalink: /blog/2008/03/la-plagne-cetait-chouette/
 tmac_last_id:
   - ""
 dsq_thread_id:

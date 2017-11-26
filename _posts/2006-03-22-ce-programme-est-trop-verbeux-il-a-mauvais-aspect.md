@@ -7,7 +7,7 @@ author: Régis
 excerpt: "Aujourd'hui j'aurais pû être sauvé par l'AOP."
 layout: post
 guid: http://blog.decamps.info/?p=230
-permalink: /2006/03/ce-programme-est-trop-verbeux-il-a-mauvais-aspect/
+permalink: /blog/2006/03/ce-programme-est-trop-verbeux-il-a-mauvais-aspect/
 tmac_last_id:
   - ""
 dsq_thread_id:

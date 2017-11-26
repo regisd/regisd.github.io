@@ -6,7 +6,7 @@ date: 2008-11-26T02:46:29+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=615
-permalink: /2008/11/palmade-le-comique/
+permalink: /blog/2008/11/palmade-le-comique/
 tmac_last_id:
   - ""
 dsq_thread_id:

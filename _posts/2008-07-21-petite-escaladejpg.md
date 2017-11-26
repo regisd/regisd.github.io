@@ -6,7 +6,7 @@ date: 2008-07-21T23:48:20+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2008/08/petite-escaladejpg/
-permalink: /2008/07/petite-escaladejpg/
+permalink: /blog/2008/07/petite-escaladejpg/
 tmac_last_id:
   - ""
 categories:

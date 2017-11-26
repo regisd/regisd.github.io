@@ -6,7 +6,7 @@ date: 2008-04-18T23:46:19+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2008/04/les-homos-preferent-les-blondes/
-permalink: /2008/04/les-homos-preferent-les-blondes/
+permalink: /blog/2008/04/les-homos-preferent-les-blondes/
 dsq_thread_id:
   - "189257271"
 tmac_last_id:

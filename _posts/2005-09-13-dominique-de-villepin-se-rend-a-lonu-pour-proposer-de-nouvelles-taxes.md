@@ -7,7 +7,7 @@ author: Régis
 excerpt: "Dominique de Villepin participera mercredi et jeudi au sommet mondial des Nations unies, qui coïncide avec le 60e anniversaire de l'organisation. "
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=58
-permalink: /2005/09/dominique-de-villepin-se-rend-a-lonu-pour-proposer-de-nouvelles-taxes/
+permalink: /blog/2005/09/dominique-de-villepin-se-rend-a-lonu-pour-proposer-de-nouvelles-taxes/
 tmac_last_id:
   - ""
 categories:

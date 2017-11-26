@@ -7,7 +7,7 @@ author: Régis
 excerpt: "Les gens comprennent parfaitement quand l'ordre des lettres est changé. Il suffit de garder les premières et dernières lettres! "
 layout: post
 guid: /?p=25
-permalink: /2005/07/est-ce-de-la-dyslxeie/
+permalink: /blog/2005/07/est-ce-de-la-dyslxeie/
 tmac_last_id:
   - ""
 dsq_thread_id:

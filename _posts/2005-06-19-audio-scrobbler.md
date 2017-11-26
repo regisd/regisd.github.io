@@ -7,7 +7,7 @@ author: Régis
 excerpt: "AudioScrobbler regarde ce que j'écoute, pour me conseiller de nouveaux chanteurs."
 layout: post
 guid: /?p=3
-permalink: /2005/06/audio-scrobbler/
+permalink: /blog/2005/06/audio-scrobbler/
 tmac_last_id:
   - ""
 dsq_thread_id:

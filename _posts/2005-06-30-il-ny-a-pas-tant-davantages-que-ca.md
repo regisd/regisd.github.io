@@ -7,7 +7,7 @@ author: Régis
 excerpt: "Le gouverneur de la Banque: <em>Le directeur de l'immobilier des services généraux ne dispose pas d'un appartement de fonction et paie son loyer.</em>"
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=74
-permalink: /2005/06/il-ny-a-pas-tant-davantages-que-ca/
+permalink: /blog/2005/06/il-ny-a-pas-tant-davantages-que-ca/
 tmac_last_id:
   - ""
 dsq_thread_id:

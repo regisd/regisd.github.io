@@ -6,7 +6,7 @@ date: 2008-05-13T00:05:59+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2008/05/wordpress-upgraded/
-permalink: /2008/05/wordpress-upgrade/
+permalink: /blog/2008/05/wordpress-upgrade/
 dsq_thread_id:
   - "189257280"
 tmac_last_id:

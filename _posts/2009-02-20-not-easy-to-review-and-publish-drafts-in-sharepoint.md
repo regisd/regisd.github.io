@@ -6,7 +6,7 @@ date: 2009-02-20T10:39:52+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=828
-permalink: /2009/02/not-easy-to-review-and-publish-drafts-in-sharepoint/
+permalink: /blog/2009/02/not-easy-to-review-and-publish-drafts-in-sharepoint/
 dsq_thread_id:
   - "189257733"
 tmac_last_id:

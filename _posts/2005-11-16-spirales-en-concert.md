@@ -7,7 +7,7 @@ author: Régis
 excerpt: 'rock français le 28 nov à 21:30 @ Bateau Ivre '
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=104
-permalink: /2005/11/spirales-en-concert/
+permalink: /blog/2005/11/spirales-en-concert/
 tmac_last_id:
   - ""
 dsq_thread_id:

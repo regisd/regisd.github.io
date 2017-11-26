@@ -6,7 +6,7 @@ date: 2006-02-26T22:03:45+00:00
 author: Régis
 layout: post
 guid: http://blog.decamps.info/2006/02/google-bomb-contre-lestelechargementscom/
-permalink: /2006/02/google-bomb-contre-lestelechargementscom/
+permalink: /blog/2006/02/google-bomb-contre-lestelechargementscom/
 tmac_last_id:
   - ""
 categories:

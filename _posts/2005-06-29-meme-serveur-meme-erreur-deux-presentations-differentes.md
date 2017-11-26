@@ -7,7 +7,7 @@ author: Régis
 excerpt: "Deux exemples où l'on traite l'utilisateur complètement différemment."
 layout: post
 guid: /?p=12
-permalink: /2005/06/meme-serveur-meme-erreur-deux-presentations-differentes/
+permalink: /blog/2005/06/meme-serveur-meme-erreur-deux-presentations-differentes/
 tmac_last_id:
   - ""
 dsq_thread_id:

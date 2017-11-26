@@ -7,7 +7,7 @@ author: Régis
 excerpt: "HP a annoncé le licenciement de 1240 personnes. Et comme le chiffre d'affaire d'un employé de HP est de 500000$ quand celui d'un employé de Dell est près du double (900000$), Wall Street se réjouit de cette réduction d'effectif."
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=60
-permalink: /2005/09/hp-et-les-licensiements/
+permalink: /blog/2005/09/hp-et-les-licensiements/
 dsq_thread_id:
   - "189256298"
 tmac_last_id:

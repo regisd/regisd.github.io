@@ -6,7 +6,7 @@ date: 2011-03-11T23:07:28+00:00
 author: Syndication
 excerpt: "J'ai beaucoup aimé cette pièce, qui m'a permis de découvrir le chef-d'œuvre de Shakespeare, dans une mise en scène contemporaine 5/5"
 layout: post
-permalink: /2011/03/hamlet-theatre/
+permalink: /blog/2011/03/hamlet-theatre/
 syndication_source:
   - 'Webcity : wakaseoo - Ses nouveaux avis'
 syndication_source_uri:

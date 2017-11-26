@@ -6,7 +6,7 @@ date: 2008-11-05T17:23:40+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=602
-permalink: /2008/11/cvs-no-space-left-on-device/
+permalink: /blog/2008/11/cvs-no-space-left-on-device/
 dsq_thread_id:
   - "189257598"
 tmac_last_id:

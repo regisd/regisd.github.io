@@ -6,7 +6,7 @@ date: 2012-06-30T12:49:54+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=2815
-permalink: /2012/06/groupe-f-fait-les-feux-royaux-de-versailles/
+permalink: /blog/2012/06/groupe-f-fait-les-feux-royaux-de-versailles/
 al2fb_facebook_link_id:
   - 1065233209_3689515910898
 al2fb_facebook_link_time:

@@ -6,7 +6,7 @@ date: 2012-04-29T00:00:41+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=2727
-permalink: /2012/04/samsung-galaxy-s2-updated-to-ics/
+permalink: /blog/2012/04/samsung-galaxy-s2-updated-to-ics/
 dsq_thread_id:
   - "668130446"
 categories:

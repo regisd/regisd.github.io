@@ -6,7 +6,7 @@ date: 2005-09-28T21:18:45+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=69
-permalink: /2005/09/le-bad-3eme-mi-temps/
+permalink: /blog/2005/09/le-bad-3eme-mi-temps/
 tmac_last_id:
   - ""
 dsq_thread_id:

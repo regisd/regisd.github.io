@@ -7,7 +7,7 @@ author: Régis
 excerpt: "Le <em>Bright Evolution test</em> est un concurrent du TOEIC. J'ai 4.1/5"
 layout: post
 guid: http://regis.decamps.info/blog/?p=777
-permalink: /2009/01/test-bright-evolution/
+permalink: /blog/2009/01/test-bright-evolution/
 dsq_thread_id:
   - "189257683"
 wordbooker_options:

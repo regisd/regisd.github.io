@@ -6,7 +6,7 @@ date: 2009-12-13T13:08:03+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=1110
-permalink: /2009/12/le-grand-bain/
+permalink: /blog/2009/12/le-grand-bain/
 tmac_last_id:
   - ""
 dsq_thread_id:

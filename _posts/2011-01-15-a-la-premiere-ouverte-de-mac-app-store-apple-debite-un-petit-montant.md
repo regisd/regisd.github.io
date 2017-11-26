@@ -6,7 +6,7 @@ date: 2011-01-15T09:40:52+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=1621
-permalink: /2011/01/a-la-premiere-ouverte-de-mac-app-store-apple-debite-un-petit-montant/
+permalink: /blog/2011/01/a-la-premiere-ouverte-de-mac-app-store-apple-debite-un-petit-montant/
 tmac_last_id:
   - ""
 dsq_thread_id:

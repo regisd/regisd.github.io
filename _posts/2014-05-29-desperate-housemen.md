@@ -6,7 +6,7 @@ date: 2014-05-29T23:02:15+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=3191
-permalink: /2014/05/desperate-housemen/
+permalink: /blog/2014/05/desperate-housemen/
 dsq_thread_id:
   - "2785743280"
 categories:

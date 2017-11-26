@@ -6,7 +6,7 @@ date: 2005-09-06T21:44:16+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=51
-permalink: /2005/09/google-xul-interface/
+permalink: /blog/2005/09/google-xul-interface/
 tmac_last_id:
   - ""
 categories:

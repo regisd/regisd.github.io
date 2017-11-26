@@ -7,7 +7,7 @@ author: Régis
 excerpt: "Je suis de retour, mon blog n'est pas mort ;-) "
 layout: post
 guid: http://blog.decamps.info/2006/04/mon-adsl-est-revenu/
-permalink: /2006/04/mon-adsl-est-revenu/
+permalink: /blog/2006/04/mon-adsl-est-revenu/
 tmac_last_id:
   - ""
 categories:

@@ -6,7 +6,7 @@ date: 2008-12-04T21:23:54+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=645
-permalink: /2008/12/un-nouveau-moteur-de-recherche/
+permalink: /blog/2008/12/un-nouveau-moteur-de-recherche/
 tmac_last_id:
   - ""
 dsq_thread_id:

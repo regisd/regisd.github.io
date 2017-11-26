@@ -6,7 +6,7 @@ date: 2006-09-09T15:10:07+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2006/09/project-hosting/
-permalink: /2006/09/project-hosting/
+permalink: /blog/2006/09/project-hosting/
 tmac_last_id:
   - ""
 dsq_thread_id:
