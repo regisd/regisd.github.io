@@ -2,5 +2,5 @@ url: http://regis.decamps.info/blog/
 name: Rien de spécial
 title: Rien de spécial
 description: Le blog de Régis
-theme: minima
+theme: jekyll-theme-slate
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile']
