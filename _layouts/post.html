@@ -6,10 +6,9 @@ layout: default
 <div id="disqus_thread"></div>
 <script>
 var disqus_config = function () {
-this.page.url = '{{ page.permalink }}';
-this.page.identifier = '{{ page.disqus_id }}';
+this.page.url = '{% if page.permalink %}{{ page.permalink }}{% else %}{{ page.url }}{% endif %}';
+this.page.identifier = '{% if page.disqus_id %}{{ page.disqus_id }}{% else %}{{ page.url }}{% endif %}';
 };
-
 (function() {
 var d = document, s = d.createElement('script');
 s.src = 'https://EXAMPLE.disqus.com/embed.js';
