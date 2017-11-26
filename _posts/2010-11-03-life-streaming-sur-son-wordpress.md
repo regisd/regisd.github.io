@@ -16,17 +16,17 @@ categories:
 tags:
   - Wordpress
 ---
-Il existe des dizaines de services qui permettent d&rsquo;agrèger son activé sur le net en un seul endroit: [Friendfeed](http://www.friendfeed.com/); [Lifestreams](http://lifestrea.ms/) ; [Plaxo](http://www.plaxo.com/) Pulse ; [profilactic](http://www.profilactic.com/) ; [AOL Lifestream](http://lifestream.aol.com/) ; (Yahoo!) [mybloglog](http://www.mybloglog.com/) ; Google [Buzz](http://www.google.com/buzz).
+Il existe des dizaines de services qui permettent d’agrèger son activé sur le net en un seul endroit: [Friendfeed](http://www.friendfeed.com/); [Lifestreams](http://lifestrea.ms/) ; [Plaxo](http://www.plaxo.com/) Pulse ; [profilactic](http://www.profilactic.com/) ; [AOL Lifestream](http://lifestream.aol.com/) ; (Yahoo!) [mybloglog](http://www.mybloglog.com/) ; Google [Buzz](http://www.google.com/buzz).
 
 Mais à bien y réfléchir, est-ce vraiment prudent de confier ainsi ses données à des entreprises, qui peuvent, du jour au lendemain fermer (mugshot.org), être racheté (jaiku par Google ; Friendfeed par Facebook). Ils peuvent aussi ne pas évoluer comme on le souhaite.
 
-Il n&rsquo;y a, je pense, qu&rsquo;une solution: héberger soi-même toute cette activité. Et pout cela, plusieurs logiciels disponibles:
+Il n’y a, je pense, qu’une solution: héberger soi-même toute cette activité. Et pout cela, plusieurs logiciels disponibles:
 
-  * Récupérer le [code source de Jaiku](http://code.google.com/p/jaikuengine/) (rendu open-source par Google) et l&rsquo;héberger sur [Google app engine](code.google.com/appengine/) 
+  * Récupérer le [code source de Jaiku](http://code.google.com/p/jaikuengine/) (rendu open-source par Google) et l’héberger sur [Google app engine](code.google.com/appengine/) 
   * Installer [wordpress](http://wordpress.org/) et un plugin de syndication de contenu.
 
 ### Feed WordPress
 
-J&rsquo;ai retenu [Feedwordpress](http://feedwordpress.radgeek.com/). C&rsquo;est lui qui fait ainsi remonter mes avis de Cityvox vers mon blog.
+J’ai retenu [Feedwordpress](http://feedwordpress.radgeek.com/). C’est lui qui fait ainsi remonter mes avis de Cityvox vers mon blog.
 
-Evidemment, c&rsquo;est possible parce que Cityvox offre un flux Atom ou RSS. _A contrario_, j&rsquo;ai arrêté d&rsquo;écrire des avis sur Allociné par exemple, parce qu&rsquo;ils sont alors inexploitables&#8230;
+Evidemment, c’est possible parce que Cityvox offre un flux Atom ou RSS. _A contrario_, j’ai arrêté d’écrire des avis sur Allociné par exemple, parce qu’ils sont alors inexploitables…;

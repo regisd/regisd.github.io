@@ -16,9 +16,9 @@ categories:
 tags:
   - SharePoint
 ---
-I hate SharePoint when it&rsquo;s running slow, which is almost all the time. Last day, a Microsoft consultant told be SharePoint was designed for best performance.
+I hate SharePoint when it’s running slow, which is almost all the time. Last day, a Microsoft consultant told be SharePoint was designed for best performance.
 
-In a couple of quick point, I&rsquo;ll argue the opposite: SharePoint is slow, and many best practices to provide good performances have been ignored.
+In a couple of quick point, I’ll argue the opposite: SharePoint is slow, and many best practices to provide good performances have been ignored.
 
 This are things that are not done by default, but which can be changed with blood, tears and sweat:
 

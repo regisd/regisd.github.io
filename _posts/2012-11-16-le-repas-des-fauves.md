@@ -21,30 +21,30 @@ tags:
   - nazi
   - occupation
 ---
-Alors que des amis se retrouvent pour un anniversaire, la Gestapo surgit et réclame deux personnes pour venger l&rsquo;assassinat de soldats qui vient d&rsquo;avoir lieu au pied de l&rsquo;immeuble. Dans un sadisme absolu, en apprenant qu&rsquo;il s&rsquo;agit d&rsquo;une fête d&rsquo;anniversaire, l&rsquo;officier SS laisse les convives désigner eux-mêmes ces deux otages.
+Alors que des amis se retrouvent pour un anniversaire, la Gestapo surgit et réclame deux personnes pour venger l’assassinat de soldats qui vient d’avoir lieu au pied de l’immeuble. Dans un sadisme absolu, en apprenant qu’il s’agit d’une fête d’anniversaire, l’officier SS laisse les convives désigner eux-mêmes ces deux otages.
   
 <img src="http://regis.decamps.info/blog/wp-content/uploads/2012/11/Le-repas-des-fauves.jpeg" alt="Affiche du spectacle" title="Le repas des fauves" width="250" height="342" class="alignright size-full wp-image-3008" srcset="http://regis.decamps.info/blog/wp-content/uploads/2012/11/Le-repas-des-fauves.jpeg 250w, http://regis.decamps.info/blog/wp-content/uploads/2012/11/Le-repas-des-fauves-219x300.jpeg 219w" sizes="(max-width: 250px) 100vw, 250px" />
   
-Chacun cherche à sauver sa peau, et le repas d&rsquo;amis se transforme en repas de fauves.
+Chacun cherche à sauver sa peau, et le repas d’amis se transforme en repas de fauves.
 
-**Rating:**&nbsp;![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9734;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "4/5")&nbsp;
+**Rating:** ![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9734;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "4/5") 
 
 <!--more-->
 
 
   
-L&rsquo;occupation n&rsquo;est pas le thème principal, c&rsquo;est bien d&rsquo;amitié, de courage et de justice dont il est question dans cette pièce, adaptée d&rsquo;un [film de Christian-Jaque](http://www.imdb.com/title/tt0057930/ "Le Repas des Fauves de Christian-Jaque, IMDb") de 1964, avec Francis Blanche. Je n&rsquo;ai pas vu le film original, mais j&rsquo;ai trouvé les dialogues de la pièce bien écrit, avec des répliques souvent drôles.
+L’occupation n’est pas le thème principal, c’est bien d’amitié, de courage et de justice dont il est question dans cette pièce, adaptée d’un [film de Christian-Jaque](http://www.imdb.com/title/tt0057930/ "Le Repas des Fauves de Christian-Jaque, IMDb") de 1964, avec Francis Blanche. Je n’ai pas vu le film original, mais j’ai trouvé les dialogues de la pièce bien écrit, avec des répliques souvent drôles.
 
-La mise en scène n&rsquo;est pas forcément évidente pour un tel huit-clos. Elle est efficace, et mais vraiment pas originale, à l&rsquo;exception de l&rsquo;utilisation d&rsquo;un écran géant. Je trouve que cet écran aurait pu être un élément de décor riche. Mais il est sous-exploité, il ne fait qu&rsquo;afficher les fenêtres de l&rsquo;appartement, sans la moindre animation! Ou bien au contraire, il interrompt la pièce et diffuse, avec une rupture d&rsquo;atmosphère assez brutale, un film d&rsquo;animation dans le style de [Persepolis](http://www.imdb.com/title/tt0808417/ "Perssepolis, de Vincent Paronnaud, Marjane Satrapi, sur IMDb"). 
+La mise en scène n’est pas forcément évidente pour un tel huit-clos. Elle est efficace, et mais vraiment pas originale, à l’exception de l’utilisation d’un écran géant. Je trouve que cet écran aurait pu être un élément de décor riche. Mais il est sous-exploité, il ne fait qu’afficher les fenêtres de l’appartement, sans la moindre animation! Ou bien au contraire, il interrompt la pièce et diffuse, avec une rupture d’atmosphère assez brutale, un film d’animation dans le style de [Persepolis](http://www.imdb.com/title/tt0808417/ "Perssepolis, de Vincent Paronnaud, Marjane Satrapi, sur IMDb"). 
 
-Le jeu d&rsquo;acteurs est professionnel, une large palette d&rsquo;expressions est couverte, mais je regrette qu&rsquo;il soit, somme toute, fort classique. J&rsquo;ai bien aimé l&rsquo;idée d&rsquo;avoir quelques passages en allemand. Certaines personnes ne comprendront pas, mais après-tout, cela rend réaliste la difficulté de communiquer avec un SS:
+Le jeu d’acteurs est professionnel, une large palette d’expressions est couverte, mais je regrette qu’il soit, somme toute, fort classique. J’ai bien aimé l’idée d’avoir quelques passages en allemand. Certaines personnes ne comprendront pas, mais après-tout, cela rend réaliste la difficulté de communiquer avec un SS:
 
 > — Wenn Sie weiter gehen, werde ich Sie niederschießen. pan pan.
   
-> — Qu&rsquo;est-ce qu&rsquo;il a dit?
+> — Qu’est-ce qu’il a dit?
   
 > — Je ne sais pas, mais il a dit « pan pan » 
 
-Il et vraiment regrettable, en revanche, que l&rsquo;officier Allemand ne parle pas avec le bon accent. Ou alors était-ce du suisse-allemand?
+Il et vraiment regrettable, en revanche, que l’officier Allemand ne parle pas avec le bon accent. Ou alors était-ce du suisse-allemand?
 
-Je ne sais pas si cette pièce mérite les trois Molières qu&rsquo;elle a remporté en 2011 (meilleure pièce de théâtre privé, meilleure mise en scène, et meilleure adaptation), mais elle mérite sans aucun doute d&rsquo;être vue.
+Je ne sais pas si cette pièce mérite les trois Molières qu’elle a remporté en 2011 (meilleure pièce de théâtre privé, meilleure mise en scène, et meilleure adaptation), mais elle mérite sans aucun doute d’être vue.

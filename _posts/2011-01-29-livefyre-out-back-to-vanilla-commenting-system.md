@@ -29,15 +29,15 @@ tags:
 Despite these nice ideas, it has several drawbacks
 
   * you depend on another site. It can be down or [slow](http://www.google.com/buzz/109077227750219303548/YcUtKWPeWsv/I-have-activated-Livefyre-on-my-wordpress-blog#1285749173086000).
-  * you can&rsquo;t manage user accounts any more
+  * you can’t manage user accounts any more
   * the real time technology is likely to be blocked in most companies by their firewalls
-  * log in can only be done via what Livefyre provides, i.e. Facebook connect and twitter. [Facebook is blocked in many companies](http://www.cmswire.com/cms/enterprise-20/facebook-number-1-blocked-site-according-to-opendns-report-009938.php) and everybody doesn&rsquo;t have a twitter account.
+  * log in can only be done via what Livefyre provides, i.e. Facebook connect and twitter. [Facebook is blocked in many companies](http://www.cmswire.com/cms/enterprise-20/facebook-number-1-blocked-site-according-to-opendns-report-009938.php) and everybody doesn’t have a twitter account.
   * the thread level is not backed-up in WordPress. The day you quit Livefyre, you lose the hierarchy of the discussion. And some formatting too.
   * it is not open-source software.
 
-That&rsquo;s why I&rsquo;m back to Vanilla WordPress comments. 
+That’s why I’m back to Vanilla WordPress comments. 
 
-However, I think it&rsquo;s good to see who posts, and I have disabled anonymous comments. And I try to make login as smooth as possible. I think OpenID is good, but it needs to be done properly, otherwise [you end up like 37signals](http://www.janrain.com/blogs/janrains-take-37signals-decision-remove-openid-login).
+However, I think it’s good to see who posts, and I have disabled anonymous comments. And I try to make login as smooth as possible. I think OpenID is good, but it needs to be done properly, otherwise [you end up like 37signals](http://www.janrain.com/blogs/janrains-take-37signals-decision-remove-openid-login).
 
 I made a hack on my WordPress theme, in order to have a « one-click » login.
   
@@ -46,7 +46,7 @@ I made a hack on my WordPress theme, in order to have a « one-click » login.
 < ?php elseif ( get\_option('comment\_registration') && !$user_ID ) : // If registration required and not logged in. ?>
 
 <div id="comment_login" class="messagebox">
-  < ?php //regis hack for smooth login if (function_exists('rpx_configured') && rpx_configured() ) { $login_link="javascript:showRPX('rpxlogin');"; printf (rpx_small_buttons()); } // existing code elseif (function_exists('wp_login_url')) { $login_link = wp_login_url(get_permalink()); } else { $login_link = get_option('siteurl') . '/wp-login.php?redirect_to=' . urlencode(get_permalink()); } ?><br /> < ?php printf(__('You must be <a href="%s">logged in to post a comment.&rsquo;, &lsquo;inove&rsquo;), $login_link); ?> </div> 
+  < ?php //regis hack for smooth login if (function_exists('rpx_configured') && rpx_configured() ) { $login_link="javascript:showRPX('rpxlogin');"; printf (rpx_small_buttons()); } // existing code elseif (function_exists('wp_login_url')) { $login_link = wp_login_url(get_permalink()); } else { $login_link = get_option('siteurl') . '/wp-login.php?redirect_to=' . urlencode(get_permalink()); } ?><br /> < ?php printf(__('You must be <a href="%s">logged in to post a comment.’, &lsquo;inove’), $login_link); ?> </div> 
   
   <p>
     [/code]

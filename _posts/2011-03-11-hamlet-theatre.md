@@ -1,13 +1,13 @@
 ---
 id: 1847
-title: 'Hamlet &#8211; Théâtre'
+title: 'Hamlet – Théâtre'
 date: 2011-03-11T23:07:28+00:00
 author: Syndication
 excerpt: "J'ai beaucoup aimé cette pièce, qui m'a permis de découvrir le chef-d'œuvre de Shakespeare, dans une mise en scène contemporaine 5/5"
 layout: post
 permalink: /2011/03/hamlet-theatre/
 syndication_source:
-  - 'Webcity&nbsp;:&nbsp;wakaseoo - Ses nouveaux avis'
+  - 'Webcity : wakaseoo - Ses nouveaux avis'
 syndication_source_uri:
   - http://www.webcity.fr/wakaseoo/avis
 syndication_source_id:
@@ -29,12 +29,12 @@ categories:
 tags:
   - Paris
 ---
-**Rating:**&nbsp;![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9734;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "4/5")&nbsp;
+**Rating:** ![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9734;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "4/5") 
 
 
   
 <img src="http://regis.decamps.info/blog/wp-content/uploads/2011/03/hamlet78.jpg" alt="Affiche" title="Hamlet" width="208" height="312" class="alignleft size-full wp-image-1877" />
   
-J&rsquo;ai beaucoup aimé cette pièce, qui m&rsquo;a permis d découvrir le chef-d&rsquo;œuvre de Shakespeare, dans une mise en scène contemporaine et très réussie, qui peut parfois être dramatique, et parfois humoristique. Les acteurs sont bons. &nbsp; [Suite](http://www.webcity.fr/wakaseoo/120231-e/avis)
+J’ai beaucoup aimé cette pièce, qui m’a permis d découvrir le chef-d’œuvre de Shakespeare, dans une mise en scène contemporaine et très réussie, qui peut parfois être dramatique, et parfois humoristique. Les acteurs sont bons.   [Suite](http://www.webcity.fr/wakaseoo/120231-e/avis)
 
 Lien officiel: [Théâtre Mouffetard](http://www.theatremouffetard.com/spectacles/?s=78)

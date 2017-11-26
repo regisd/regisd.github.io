@@ -17,22 +17,22 @@ categories:
 tags:
   - Probabilités
 ---
-Le calcul de probabilités donnent souvent des résultats opposés à l&rsquo;instinct.
+Le calcul de probabilités donnent souvent des résultats opposés à l’instinct.
 
 ### Naissance en Chine
 
-Par exemple, le gouvernement chinois interdit aux parents qui ont eu un garçon comme premier enfant, d&rsquo;avoir un second enfant. Sinon, ils peuvent avoir un second enfant. En aucun cas, ils ne peuvent en avoir de troisième.
+Par exemple, le gouvernement chinois interdit aux parents qui ont eu un garçon comme premier enfant, d’avoir un second enfant. Sinon, ils peuvent avoir un second enfant. En aucun cas, ils ne peuvent en avoir de troisième.
 
 Cela change-t-il la répartition du nombre de garçons et de filles dans le pays?
 
-Instinctivement, on répond qu&rsquo;il y aura plus de garçon. En effet si on a un garçon, on ne peut pas avoir d&rsquo;autre enfant. Alors que si on a d&rsquo;abord une fille, on a encore une chance d&rsquo;avoir un garçon.
+Instinctivement, on répond qu’il y aura plus de garçon. En effet si on a un garçon, on ne peut pas avoir d’autre enfant. Alors que si on a d’abord une fille, on a encore une chance d’avoir un garçon.
 
-La réponse correcte est que cela n&rsquo;a strictement aucun impact. 
+La réponse correcte est que cela n’a strictement aucun impact. 
 
-C&rsquo;est parfaitement expliqué parmi d&rsquo;autres résultats [curieux et contre-intuitifs](http://www.madore.org/~david/math/proba.html) par David Madore. J&rsquo;avais déjà parlé de cet article il y a des années.
+C’est parfaitement expliqué parmi d’autres résultats [curieux et contre-intuitifs](http://www.madore.org/~david/math/proba.html) par David Madore. J’avais déjà parlé de cet article il y a des années.
 
 ### Wolfram fun facts
 
-Mais j&rsquo;y repensais en voyant Wolfram Alpha publier des [fun facts sur twitter](http://twitter.com/#!/WolframFunFacts). 
+Mais j’y repensais en voyant Wolfram Alpha publier des [fun facts sur twitter](http://twitter.com/#!/WolframFunFacts). 
 
 Autre exemple: [dans une pièce de 23 personnes; il y a plus de chance que deux soient nés les mêmes jour et mois](http://www.wolframalpha.com/input/?i=same+birthday&f1=23&x=6&y=7&f=BirthdayProblem.n_23).

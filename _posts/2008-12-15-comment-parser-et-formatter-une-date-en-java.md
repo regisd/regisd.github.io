@@ -17,9 +17,9 @@ tags:
 ---
 Petite solution rapide à une problématique simple.
 
-On reçoit une date sous la forme « 2008_1 » (c&rsquo;est issu d&rsquo;un nom de fichier), et on souhaite la formater dans un format plus agréable à lire, « janv. 2008 ».
+On reçoit une date sous la forme « 2008_1 » (c’est issu d’un nom de fichier), et on souhaite la formater dans un format plus agréable à lire, « janv. 2008 ».
 
-Pour cela, je propose d&rsquo;utiliser un DateFormat, et le SimpleDateFormat fait parfaitement l&rsquo;affaire, et ça ne fait que quelques lignes de code:
+Pour cela, je propose d’utiliser un DateFormat, et le SimpleDateFormat fait parfaitement l’affaire, et ça ne fait que quelques lignes de code:
   
 [code]
   
@@ -37,7 +37,7 @@ return printDate.format(date);
 
 
   
-Et j&rsquo;ajoute le test unitaire qui correspond
+Et j’ajoute le test unitaire qui correspond
   
 [code]
 	  

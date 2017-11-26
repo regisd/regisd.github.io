@@ -12,4 +12,4 @@ tmac_last_id:
 categories:
   - Musique
 ---
-J&rsquo;ai trouvé sur Google Video quelque chose d&rsquo;amusant. Il s&rsquo;agit du \[clip\](http://video.google.com/videoplay?docid=257198691228181343) des White Stripes pour « Fell in love ». Il a été fait en légo.
+J’ai trouvé sur Google Video quelque chose d’amusant. Il s’agit du \[clip\](http://video.google.com/videoplay?docid=257198691228181343) des White Stripes pour « Fell in love ». Il a été fait en légo.

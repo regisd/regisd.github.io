@@ -17,10 +17,10 @@ tags:
 ---
 Je complète mon [graphe du taux de chômage par ministre](http://regis.decamps.info/blog/2006/12/le-gouvernement-est-il-responsable-du-chomage/) avec le niveau de la dette.
 
-Malheureusement celle-ci n&rsquo;est disponible que tous les 5 ans sur le site de l&rsquo;INSEE.
+Malheureusement celle-ci n’est disponible que tous les 5 ans sur le site de l’INSEE.
 
 [<img id="image376" src="http://regis.decamps.info/blog/wp-content/uploads/2006/12/capture15_chomage+dette.thumbnail.png" alt="Chomage et dette publique en France" />](http://regis.decamps.info/blog/wp-content/uploads/2006/12/capture15_chomage+dette.png "Chomage et dette publique en France"){.imagelink}
 
 Cette fois, je vois une corrélation assez forte. Globalement, la dette augmente autant que le chômage quand le chômage augmente, et la dette stagne quand le chômage diminue.
 
-Il faut vraiment que j&rsquo;ajoute le PNB ou le PIB européen pour qu&rsquo;on puisse avoir une référence de comparaison.
+Il faut vraiment que j’ajoute le PNB ou le PIB européen pour qu’on puisse avoir une référence de comparaison.

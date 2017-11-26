@@ -1,6 +1,6 @@
 ---
 id: 76
-title: 'J&rsquo;ai bien aimé Bonjour Tristesse'
+title: 'J’ai bien aimé Bonjour Tristesse'
 date: 2005-10-10T23:23:40+00:00
 author: Régis
 layout: post
@@ -15,8 +15,8 @@ categories:
 tags:
   - Lecture
 ---
-Ca y est, j&rsquo;ai terminé _Bonjour Tristesse_. J&rsquo;aurais pu lire le roman de Françoise Sagan beaucoup plus rapidement, car il est très court.
+Ca y est, j’ai terminé _Bonjour Tristesse_. J’aurais pu lire le roman de Françoise Sagan beaucoup plus rapidement, car il est très court.
 
-Mais j&rsquo;ai eu du mal à entrer dans l&rsquo;histoire, peut-être à cause de son côté très féminin: Cécile a dix-sept ans et vit heureuse avec son père, un célibataire endurci qui s&rsquo;adonne à des relations aussi nombreuses que passagères. C&rsquo;est l&rsquo;été et Cécile découvre l&rsquo;amour avec un joli garçon également en vacances.
+Mais j’ai eu du mal à entrer dans l’histoire, peut-être à cause de son côté très féminin: Cécile a dix-sept ans et vit heureuse avec son père, un célibataire endurci qui s’adonne à des relations aussi nombreuses que passagères. C’est l’été et Cécile découvre l’amour avec un joli garçon également en vacances.
 
-Arrive une ancienne amie de son père qui vient troubler leur délicieux mode de vie. Cécile est subjuguée par l&rsquo;intelligence de l&rsquo;étrangère, tombe sous le charme de sa classe mais à la fois déteste cet être supérieure qui met vite fin à leur quiétude, qui lui interdit de sortir et qui l&rsquo;oblige à réviser pour ses examen. Pire cette femme qui ne leur ressemble pas séduit son père, et souhaite même l&rsquo;épouser. Cécile décile de mettre en œuvre un plan diabolique pour écraser cette menace.
+Arrive une ancienne amie de son père qui vient troubler leur délicieux mode de vie. Cécile est subjuguée par l’intelligence de l’étrangère, tombe sous le charme de sa classe mais à la fois déteste cet être supérieure qui met vite fin à leur quiétude, qui lui interdit de sortir et qui l’oblige à réviser pour ses examen. Pire cette femme qui ne leur ressemble pas séduit son père, et souhaite même l’épouser. Cécile décile de mettre en œuvre un plan diabolique pour écraser cette menace.

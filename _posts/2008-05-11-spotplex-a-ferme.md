@@ -15,6 +15,6 @@ categories:
 tags:
   - Faillite
 ---
-J&rsquo;avais placé spotplex sur la page d&rsquo;un article sur ce blog. J&rsquo;ai retiré cet élément, puisque le site a fermé. Dans une bonne tradition de bulle internet, il a tout simplement fait faillite.
+J’avais placé spotplex sur la page d’un article sur ce blog. J’ai retiré cet élément, puisque le site a fermé. Dans une bonne tradition de bulle internet, il a tout simplement fait faillite.
 
-Spotplex se voulait une nouvelle génération de digg. Plutôt que de lire un article, puis d&rsquo;aller sur digg pour voter pour cet article , l&rsquo;idée de spotplex était de placer un composant Javascript qui notait quand un article était lu. Ainsi, il suffisait que quelqu&rsquo;un lise cet article, pour que sa popularité augmente automatiquement. Pour le webmaster, cela permettait aussi de récolter quelques statistiques (quels articles populaires, d&rsquo;où viennent les visiteurs?)
+Spotplex se voulait une nouvelle génération de digg. Plutôt que de lire un article, puis d’aller sur digg pour voter pour cet article , l’idée de spotplex était de placer un composant Javascript qui notait quand un article était lu. Ainsi, il suffisait que quelqu’un lise cet article, pour que sa popularité augmente automatiquement. Pour le webmaster, cela permettait aussi de récolter quelques statistiques (quels articles populaires, d’où viennent les visiteurs?)

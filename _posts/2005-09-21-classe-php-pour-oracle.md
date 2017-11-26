@@ -18,15 +18,15 @@ Objectif
   
 ======
   
-J&rsquo;ai écrit cette classe lorsque j&rsquo;avais besoin d&rsquo;utiliser une base de données Oracle dans un petit projet PHP à l'\[Université de Manchester\] (http://cs.man.ac.uk/). L&rsquo;objectif était triple:
+J’ai écrit cette classe lorsque j’avais besoin d’utiliser une base de données Oracle dans un petit projet PHP à l'\[Université de Manchester\] (http://cs.man.ac.uk/). L’objectif était triple:
   
-* éviter d&rsquo;avoir a entrer des variables paramètres de configuration à chaque accès à la base Oracle (factorisation du code)
+* éviter d’avoir a entrer des variables paramètres de configuration à chaque accès à la base Oracle (factorisation du code)
   
-* offrir une interface proche de celle de mysql, que je connaissais mieux (merci à l&rsquo;abstraction)
+* offrir une interface proche de celle de mysql, que je connaissais mieux (merci à l’abstraction)
   
 * offrir des fonctionnalités plus poussées que celles offertes par les fonctions natives <tt>ora_*</tt>
 
-Je ne sais pas si cette classe est encore d&rsquo;actualité (je ne fais plus de PHP) mais elle pourra sans doute servir à d&rsquo;autres.
+Je ne sais pas si cette classe est encore d’actualité (je ne fais plus de PHP) mais elle pourra sans doute servir à d’autres.
   
 Code
   

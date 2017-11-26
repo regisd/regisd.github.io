@@ -19,17 +19,17 @@ tags:
   - Hacking
   - Wordpress
 ---
-A l&rsquo;origine, quand on visitait la page du [flux RSS de ce blog](http://regis.decamps.info/blog/feed/), on tombait sur&#8230; le flux évidemment!
+A l’origine, quand on visitait la page du [flux RSS de ce blog](http://regis.decamps.info/blog/feed/), on tombait sur…; le flux évidemment!
 
 [<img id="image344" src="http://regis.decamps.info/blog/wp-content/uploads/2006/10/capture12_rss_nu.thumbnail.png" alt="Flux RSS nu" />](http://regis.decamps.info/blog/wp-content/uploads/2006/10/capture12_rss_nu.png "Flux RSS nu"){.imagelink}
 
-Ce n&rsquo;était pas très joli. Maintenant, quand on visite la page du [flux RSS de ce blog](http://regis.decamps.info/blog/feed/), on tombe sur&#8230; le flux évidemment ; mais joliment présenté.
+Ce n’était pas très joli. Maintenant, quand on visite la page du [flux RSS de ce blog](http://regis.decamps.info/blog/feed/), on tombe sur…; le flux évidemment ; mais joliment présenté.
 
 [<img id="image343" src="http://regis.decamps.info/blog/wp-content/uploads/2006/10/capture10_rss_habille.thumbnail.png" alt="Flux RSS habillÃ©" />](http://regis.decamps.info/blog/wp-content/uploads/2006/10/capture10_rss_habille.png "Flux RSS habillÃ©"){.imagelink}
 
-On peut ne pas aimer, mais c&rsquo;est quand même plus joli qu&rsquo;avant. Je me suis même payé le luxe d&rsquo;expliquer le fonctionnement du RSS&#8230;
+On peut ne pas aimer, mais c’est quand même plus joli qu’avant. Je me suis même payé le luxe d’expliquer le fonctionnement du RSS…;
 
-J&rsquo;ai ajouté une petite feuille de style pour décorer un peu l&rsquo;affichage. Pour cela, j&rsquo;ai légèrement modifié WordPress pour qu&rsquo;il ajoute la ligne
+J’ai ajouté une petite feuille de style pour décorer un peu l’affichage. Pour cela, j’ai légèrement modifié WordPress pour qu’il ajoute la ligne
   
 `<?xml-stylesheet type="text/css" href="http://regis.decamps.info/blog/wp-content/themes/rss.css" ?></p>
 <p>Cela s'est fait dans <tt>wp-rss2.php</tt> avec<br />

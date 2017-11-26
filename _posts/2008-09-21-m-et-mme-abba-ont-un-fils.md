@@ -15,7 +15,7 @@ categories:
 tags:
   - M. et Mme
 ---
-M. et Mme Abba ont un fils. Comment s&rsquo;appelle-t-il?
+M. et Mme Abba ont un fils. Comment s’appelle-t-il?
   
 <!--more-->
 

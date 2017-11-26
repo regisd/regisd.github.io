@@ -13,4 +13,4 @@ categories:
 tags:
   - Italie
 ---
-Je suis revenu de Provence, et repars maintenant pour l&rsquo;Italie.
+Je suis revenu de Provence, et repars maintenant pour l’Italie.

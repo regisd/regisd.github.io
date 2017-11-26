@@ -16,6 +16,6 @@ tags:
   - Concert
   - Jazz
 ---
-J&rsquo;étais allé au Parc Floral pour écouter Roy Hargrove factor avec des copains, mais finalement j&rsquo;ai été déçu par leur prestation (Sébastien est même persuadé que ce n&rsquo;était pas le guitariste habituel).
+J’étais allé au Parc Floral pour écouter Roy Hargrove factor avec des copains, mais finalement j’ai été déçu par leur prestation (Sébastien est même persuadé que ce n’était pas le guitariste habituel).
 
-Par contre, j&rsquo;ai adoré le premier groupe. [No Jazz](http://www.nojazz.net/) est un _Ovni musical_, un mélange d&rsquo;électro et de Jazz tout à fait réussi. Et puis, ils ont une présence sur scène remarquable &#8212; prendre la pose au milieur d&rsquo;un morceau, c&rsquo;est sympa.
+Par contre, j’ai adoré le premier groupe. [No Jazz](http://www.nojazz.net/) est un _Ovni musical_, un mélange d’électro et de Jazz tout à fait réussi. Et puis, ils ont une présence sur scène remarquable &#8212; prendre la pose au milieur d’un morceau, c’est sympa.

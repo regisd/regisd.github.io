@@ -25,4 +25,4 @@ Probably, I would also add continuous integration.
 Unfortunately there are actually few tools that cover everything.
 
   * [Trac](http://trac.edgewall.org/) nicely integrates source control with issue management (for free). So does [JIRA](http://www.atlassian.com/software/jira/) (at a fair price). Codice Software seems more integrated, à la Microsoft Team Server. I have also seen a very innovating approach:  [is an issue tracker inside subversion.](http://www.polarion.com/) 
-  * Bu they don&rsquo;t manage test plans. Mercury Test Director handles this, and has a (poor) issue tracker, as well. But it is really expensive and has a very poor interface &#8212; which makes it very difficult to integrate with another issue tracker or simply with a SCM. Well it is more « user oriented »
+  * Bu they don’t manage test plans. Mercury Test Director handles this, and has a (poor) issue tracker, as well. But it is really expensive and has a very poor interface &#8212; which makes it very difficult to integrate with another issue tracker or simply with a SCM. Well it is more « user oriented »

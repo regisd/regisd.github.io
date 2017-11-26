@@ -17,4 +17,4 @@ categories:
 tags:
   - Test
 ---
-Aujourd&rsquo;hui, les consoles de jeu ou les films de Dreamworks arrivent à un niveau de réalisme impresionnant. Au point qu&rsquo;il devient difficile de répondre à la question: [image de synthèse ou photo?](http://www.alias.com/eng/etc/fakeorfoto/)
+Aujourd’hui, les consoles de jeu ou les films de Dreamworks arrivent à un niveau de réalisme impresionnant. Au point qu’il devient difficile de répondre à la question: [image de synthèse ou photo?](http://www.alias.com/eng/etc/fakeorfoto/)

@@ -23,9 +23,9 @@ I have rised a number of [questions on friendfeed](http://friendfeed.com/search?
   * After an incremental crawl in Sharepoint 2007 search engine, are deleted documents supposed to be removed from the index? Any official reference?
   * Why is the HTML code so invalid/ugly
 
-Also, I have encountered bugs&#8230; What&rsquo;s the problem with:
+Also, I have encountered bugs…; What’s the problem with:
 
-  * I try to import an Excel spreadsheet in SharePoint, as described in [http://www.sharepointcustomization.com/wss&#8230;.](http://www.sharepointcustomization.com/wss/articles/lists-excel.htm) When I click the « Import » button, Excel does NOT open, I am redirected to /_layouts/ and thereby receive an « Access denied »
+  * I try to import an Excel spreadsheet in SharePoint, as described in [http://www.sharepointcustomization.com/wss…;.](http://www.sharepointcustomization.com/wss/articles/lists-excel.htm) When I click the « Import » button, Excel does NOT open, I am redirected to /_layouts/ and thereby receive an « Access denied »
   * When starting the standard approbation workflow, user sometimes gets « critical error » and Shapepoint logs refer to an « invalid canary ».
   * Deployed a solution. Some time later, deployed an upgrade containg a updated DLL and updated master pages. Ended with stsadm -o execadmsvcjobs and stsadm -o copyappbincontent. But the webpart behaves like it used to with the 1st version. Any idea why? Why was iisreset required?
   * Firefox is not supported in many scenarios

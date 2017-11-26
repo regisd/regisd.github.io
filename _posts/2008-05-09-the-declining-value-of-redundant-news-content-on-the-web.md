@@ -19,4 +19,4 @@ Scott Karp [thinks](http://publishing2.com/2008/05/04/the-declining-value-of-red
 
 > it’s a problem to have 2,000 stories about the SAME THING
 
-Yeah, [that&rsquo;s ironic](http://seekingalpha.com/article/76045-the-declining-value-of-redundant-web-news-content?source=feed).
+Yeah, [that’s ironic](http://seekingalpha.com/article/76045-the-declining-value-of-redundant-web-news-content?source=feed).

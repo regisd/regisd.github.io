@@ -18,6 +18,6 @@ tags:
 ---
 In sharepoint, I have a calendar in which I have created events. 
 
-I&rsquo;d like to be able to display the duration of the events in days, and to sum them up. 
+I’d like to be able to display the duration of the events in days, and to sum them up. 
 
 Use case: add vacations in your calendar and count how many days have added.

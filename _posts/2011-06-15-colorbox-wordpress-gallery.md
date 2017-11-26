@@ -31,7 +31,7 @@ tags:
   - JQuery
   - Wordpress
 ---
-J&rsquo;ai ajouté [Colorbox](http://colorpowered.com/colorbox/) sur les galeries d&rsquo;images.
+J’ai ajouté [Colorbox](http://colorpowered.com/colorbox/) sur les galeries d’images.
 
 Maintenant, quand on clique sur une photo, un calque (_overlay_) est ajouté et le défilement dans les photos se fait sans charger de nouvelle page.
 
@@ -43,4 +43,4 @@ Maintenant, quand on clique sur une photo, un calque (_overlay_) est ajouté et 
   </div><figcaption class='wp-caption-text gallery-caption' id='gallery-6-2075'> Les galeries sont embellies par Colorbox </figcaption></figure>
 </div>
 
-Techniquement, j&rsquo;ai choisi [cleaner galery](http://wordpress.org/extend/plugins/cleaner-gallery/) et j&rsquo;ai moi-même ajouté [Colorbox](http://colorpowered.com/colorbox/) dans le html (merci à [Head N foot](http://wordpress.org/extend/plugins/wp-headfoot/) pour cela)
+Techniquement, j’ai choisi [cleaner galery](http://wordpress.org/extend/plugins/cleaner-gallery/) et j’ai moi-même ajouté [Colorbox](http://colorpowered.com/colorbox/) dans le html (merci à [Head N foot](http://wordpress.org/extend/plugins/wp-headfoot/) pour cela)

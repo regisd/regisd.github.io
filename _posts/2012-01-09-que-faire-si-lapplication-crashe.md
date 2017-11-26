@@ -1,6 +1,6 @@
 ---
 id: 2298
-title: 'Que faire si l&rsquo;application crashe'
+title: 'Que faire si l’application crashe'
 date: 2012-01-09T22:29:23+00:00
 author: Régis
 excerpt: Que faire quand une application Android crashe? Vous pouvez aider le développeur!
@@ -17,28 +17,28 @@ tags:
   - Android
   - Talaria
 ---
-Quand il y a un bug grave dans une application Android, elle crashe. Le téléphone propose alors d&rsquo;envoyer un rapport de bug. Est-ce utile? Que faut-il indiquer en commentaire?
+Quand il y a un bug grave dans une application Android, elle crashe. Le téléphone propose alors d’envoyer un rapport de bug. Est-ce utile? Que faut-il indiquer en commentaire?
   
 <!--more-->
 
-### L&rsquo;utilité du rapport de bug
+### L’utilité du rapport de bug
 
-Le rapport de bug est-il utile? Absolument! Il permet au développeur de savoir que l&rsquo;application a un bug&#8230; En général, un développeur qui publie son application sur l&rsquo;Android market pense qu&rsquo;elle est exempte d&rsquo;anomalie. Cette information est donc indispensable.
+Le rapport de bug est-il utile? Absolument! Il permet au développeur de savoir que l’application a un bug…; En général, un développeur qui publie son application sur l’Android market pense qu’elle est exempte d’anomalie. Cette information est donc indispensable.
 
-Ensuite, il obtiendra des statistiques sur la fréquence de ce crash. Hé oui, un bug peut être rare (parce qu&rsquo;il ne concerne qu&rsquo;un modèle de téléphone, ou qu&rsquo;il n&rsquo;arrive que si des conditions rares sont réunies). Ou bien, le bug peut être très fréquent, auquel cas il est urgent de le corriger.
+Ensuite, il obtiendra des statistiques sur la fréquence de ce crash. Hé oui, un bug peut être rare (parce qu’il ne concerne qu’un modèle de téléphone, ou qu’il n’arrive que si des conditions rares sont réunies). Ou bien, le bug peut être très fréquent, auquel cas il est urgent de le corriger.
 
 Enfin, parce que le rapport permet de poster un commentaire.
 
-### Qu&rsquo;indiquer dans le commentaire
+### Qu’indiquer dans le commentaire
 
-Déjà, voici ce qu&rsquo;il est inutile d&rsquo;indiquer, parce le rapport de crash contient déjà ces informations:
+Déjà, voici ce qu’il est inutile d’indiquer, parce le rapport de crash contient déjà ces informations:
 
-  * le fait qu&rsquo;il y a eu une fermeture brutale de l&rsquo;application
-  * la date et l&rsquo;heure
+  * le fait qu’il y a eu une fermeture brutale de l’application
+  * la date et l’heure
 
-Mais c&rsquo;est tout. Voici ce qu&rsquo;il est très utile d&rsquo;indiquer:
+Mais c’est tout. Voici ce qu’il est très utile d’indiquer:
 
-  * la séquence d&rsquo;actions que vous avez effectuées pour tomber sur cette anomalie
+  * la séquence d’actions que vous avez effectuées pour tomber sur cette anomalie
   * éventuellement le modèle de votre téléphone
   * votre adresse e-mail si vous souhaitez être contacté, car les données sont anonymes 
 

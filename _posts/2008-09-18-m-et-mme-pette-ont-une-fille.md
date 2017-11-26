@@ -15,7 +15,7 @@ categories:
 tags:
   - M. et Mme
 ---
-Monsieur et Madame Pette ont une fille. comment s&rsquo;appelle-t-elle?
+Monsieur et Madame Pette ont une fille. comment s’appelle-t-elle?
   
 <!--more-->
 

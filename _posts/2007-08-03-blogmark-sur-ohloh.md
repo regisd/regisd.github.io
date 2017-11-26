@@ -15,6 +15,6 @@ categories:
 tags:
   - Blogmark
 ---
-J&rsquo;ai ajouté [blogmark sur ohloh](http://www.ohloh.net/projects/7099). Si vous l&rsquo;utilisez, n&rsquo;oubliez pas de l&#8217;empiler 😉
+J’ai ajouté [blogmark sur ohloh](http://www.ohloh.net/projects/7099). Si vous l’utilisez, n’oubliez pas de l&#8217;empiler 😉
 
 I have added [blogmark on ohloh](http://www.ohloh.net/projects/7099). If you are using it, please stack it 😉

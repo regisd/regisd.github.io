@@ -1,6 +1,6 @@
 ---
 id: 956
-title: 'Google chrome sync bookmarks, but&#8230;'
+title: 'Google chrome sync bookmarks, but…;'
 date: 2009-11-27T19:09:32+00:00
 author: Régis
 layout: post

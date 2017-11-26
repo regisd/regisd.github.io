@@ -15,7 +15,7 @@ categories:
 tags:
   - M. et Mme
 ---
-Monsieur et Madame Fassola ont un fils. Comment s&rsquo;appelle-t-il?
+Monsieur et Madame Fassola ont un fils. Comment s’appelle-t-il?
   
 <!--more-->
 

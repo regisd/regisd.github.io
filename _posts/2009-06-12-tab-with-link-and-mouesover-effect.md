@@ -21,7 +21,7 @@ tags:
 ---
 I like the user experience offered by [01net](http://www.01net.com/). There is a contextual text which changes when the mouse goes over titles positionned in tabs, and the tabs titles are links to a more detailed page.
 
-I&rsquo;ve done the [tab widget with clickable links with jQuery](http://regis.decamps.info/demo/idtab.html) (live demo). I have slightly extended the [original jQuery UI tabs by BKlaus Hartl](http://www.stilbuero.de/2007/10/23/jquery-ui-tabs-aka-tabs-3/).
+I’ve done the [tab widget with clickable links with jQuery](http://regis.decamps.info/demo/idtab.html) (live demo). I have slightly extended the [original jQuery UI tabs by BKlaus Hartl](http://www.stilbuero.de/2007/10/23/jquery-ui-tabs-aka-tabs-3/).
 
 First you need to [include the jQuery library](http://docs.jquery.com/Tutorials:Getting_Started_with_jQuery).
 
@@ -31,9 +31,9 @@ By default, the content of the tab panel is changed when you click on the tab. I
   
 [javascript]
   
-$(&lsquo;#tabs&rsquo;).tabs( {
+$(&lsquo;#tabs’).tabs( {
     
-event: &lsquo;mouseover&rsquo;
+event: &lsquo;mouseover’
   
 });
   
@@ -63,7 +63,7 @@ And of course, I have defined some Javascript to handle the click:
   
 [javascript]
 	  
-$(&lsquo;.clickable-tab&rsquo;).click(function(){
+$(&lsquo;.clickable-tab’).click(function(){
 	  
 document.location=this.rel;
 	  
@@ -79,13 +79,13 @@ Edit: to improve the user experience, [discret-incognito](http://http://discret-
       
 cursor: pointer;
       
-/\* cursor: hand; &#8212; add this for IE 5. I don&rsquo;t care \*/
+/\* cursor: hand; &#8212; add this for IE 5. I don’t care \*/
     
 }
   
 [/css]
   
-But because, this is overridden by jQuery-UI, it doesn&rsquo;t work &lsquo;or just a fraction of second). I actually have to overload jQuery:
+But because, this is overridden by jQuery-UI, it doesn’t work &lsquo;or just a fraction of second). I actually have to overload jQuery:
   
 [javascript]
   

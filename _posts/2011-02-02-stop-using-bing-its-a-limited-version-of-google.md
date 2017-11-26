@@ -25,9 +25,9 @@ We suddenly grasp why Microsoft can claim that Bing works better and better.
 
 [<img src="http://regis.decamps.info/blog/wp-content/uploads/2011/02/Capture-d’écran-2011-02-02-à-14.21.36-350x98.png" alt="Bing steals results from Google" title="Bing illustration" width="350" height="98" class="alignnone size-medium wp-image-1688" srcset="http://regis.decamps.info/blog/wp-content/uploads/2011/02/Capture-d’écran-2011-02-02-à-14.21.36-350x98.png 350w, http://regis.decamps.info/blog/wp-content/uploads/2011/02/Capture-d’écran-2011-02-02-à-14.21.36.png 650w" sizes="(max-width: 350px) 100vw, 350px" />](http://regis.decamps.info/blog/wp-content/uploads/2011/02/Capture-d’écran-2011-02-02-à-14.21.36.png)
 
-When Bing has no search result for a query, [it googles and adds Google&rsquo;s first result in its index](http://googleblog.blogspot.com/2011/02/microsofts-bing-uses-google-search.html). This is proved by the experiment that Google conducted:
+When Bing has no search result for a query, [it googles and adds Google’s first result in its index](http://googleblog.blogspot.com/2011/02/microsofts-bing-uses-google-search.html). This is proved by the experiment that Google conducted:
 
-> We created about 100 “synthetic queries”—queries that you would never expect a user to type, such as [hiybbprqag]. As a one-time experiment, for each synthetic query we inserted as Google’s top result a unique (real) webpage which had nothing to do with the query. [&#8230;] We were surprised that within a couple weeks of starting this experiment, our inserted results started appearing in Bing. 
+> We created about 100 “synthetic queries”—queries that you would never expect a user to type, such as [hiybbprqag]. As a one-time experiment, for each synthetic query we inserted as Google’s top result a unique (real) webpage which had nothing to do with the query. […;] We were surprised that within a couple weeks of starting this experiment, our inserted results started appearing in Bing. 
 
 Bottom line
 

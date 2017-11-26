@@ -18,8 +18,8 @@ tags:
   - Google
   - Wordpress
 ---
-J&rsquo;ai activé [pubsubhub](http://code.google.com/p/pubsubhubbub/) sur mon blog.
+J’ai activé [pubsubhub](http://code.google.com/p/pubsubhubbub/) sur mon blog.
 
 pubsubhub est un [protocole proposé par Google](http://pubsubhubbub.googlecode.com/svn/trunk/pubsubhubbub-core-0.2.html) pour définir un hub de [publish/subscribe](http://en.wikipedia.org/wiki/Publish/subscribe).
 
-Il m&rsquo;a suffit d&rsquo;activer le [PHP 5 sur OVH](http://guide.ovh.com/Php5ChezOvh) et d&rsquo;installer le [plugin pubsubhub pour wordpress](http://wordpress.org/extend/plugins/pubsubhubbub/).
+Il m’a suffit d’activer le [PHP 5 sur OVH](http://guide.ovh.com/Php5ChezOvh) et d’installer le [plugin pubsubhub pour wordpress](http://wordpress.org/extend/plugins/pubsubhubbub/).

@@ -14,6 +14,6 @@ categories:
 tags:
   - Talaria
 ---
-En raison d&rsquo;[une anomalie](https://bitbucket.org/regis/talaria/issue/47/), je vous invite à ne pas activer la source de données « Info officielles », dans les paramètres de l&rsquo;application.
+En raison d’[une anomalie](https://bitbucket.org/regis/talaria/issue/47/), je vous invite à ne pas activer la source de données « Info officielles », dans les paramètres de l’application.
 
-En effet, lorsqu&rsquo;elle est activée, le détail d&rsquo;incident affiche le mauvais incident.
+En effet, lorsqu’elle est activée, le détail d’incident affiche le mauvais incident.

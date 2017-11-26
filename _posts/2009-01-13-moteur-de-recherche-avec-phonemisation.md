@@ -18,7 +18,7 @@ tags:
 ---
 Au bureau, on cherche à écrire un moteur de recherche avec approximation phonétique. Pour cela, on cherche un algorithme de [phonémisation](http://fr.wikipedia.org/wiki/Phon%C3%A8me) approximatif.
 
-Avez vous des références? j&rsquo;ai déjà trouvé
+Avez vous des références? j’ai déjà trouvé
 
   * [qdicorime](http://dev.ignu.fr/qdicorime/trunk/fabricationbase/perlmodule/Lingua-FR-Phonemise/lib/Lingua/FR/Phonemise.pm), un programme qui aide à trouver des rimes &#8212; les développeurs sont de grands poètes
   * un outil de synthèse vocale, comme [FreeTTS](http://freetts.sourceforge.net/) ou [Franfest](http://www.culte.org/projets/biglux/devel/lao/franfest.shtml/)
@@ -26,4 +26,4 @@ Avez vous des références? j&rsquo;ai déjà trouvé
   * une implémentation [PHP de Soundex 2](http://www.phpclasses.org/browse/package/2972.html). Celui-ci réduit les mots sur seulement 4 caractères, il a implique donc une recherche plus vague
   * une implémentation PHP de [Phonex](http://www.phpclasses.org/browse/package/2974.html) qui est une évolution de Soundex
 
-Une implémentation java serait idéale, vu qu&rsquo;on souhaitait étendre Apache [Lucene](http://lucene.apache.org).
+Une implémentation java serait idéale, vu qu’on souhaitait étendre Apache [Lucene](http://lucene.apache.org).

@@ -20,6 +20,6 @@ categories:
 
 Je reviens de Zürich.
 
-J&rsquo;ai passé un très bon week-end prolongé (encore merci à Fab pour l&rsquo;hébergement) et ai été séduit par la qualité de vie que j&rsquo;ai pu y goûter. Zürich est une très belle ville, de taille humaine, calme, bercée par le Lac et les montagnes.
+J’ai passé un très bon week-end prolongé (encore merci à Fab pour l’hébergement) et ai été séduit par la qualité de vie que j’ai pu y goûter. Zürich est une très belle ville, de taille humaine, calme, bercée par le Lac et les montagnes.
   
 <br clear="all" />

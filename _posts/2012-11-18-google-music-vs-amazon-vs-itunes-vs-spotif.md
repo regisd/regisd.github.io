@@ -19,9 +19,9 @@ categories:
   - Musique
   - Sites web
 ---
-C&rsquo;est par Google Play que je viens d&rsquo;apprendre que [Google Music](http://music.google.com/) est disponible en France (depuis mardi, je suis très en retard!)
+C’est par Google Play que je viens d’apprendre que [Google Music](http://music.google.com/) est disponible en France (depuis mardi, je suis très en retard!)
 
-Et j&rsquo;avais envie de faire une comparaison rapide des services de musique dans les nuages…
+Et j’avais envie de faire une comparaison rapide des services de musique dans les nuages…
 
 <table>
   <tr>
@@ -51,7 +51,7 @@ Et j&rsquo;avais envie de faire une comparaison rapide des services de musique d
     </th>
     
     <td>
-      20&nbsp;000 titres
+      20 000 titres
     </td>
     
     <td>
@@ -59,7 +59,7 @@ Et j&rsquo;avais envie de faire une comparaison rapide des services de musique d
     </td>
     
     <td>
-      25&nbsp;000
+      25 000
     </td>
     
     <td>
@@ -85,7 +85,7 @@ Et j&rsquo;avais envie de faire une comparaison rapide des services de musique d
     </td>
     
     <td>
-      gratuit<sup><a href="#footnote_0_3018" id="identifier_0_3018" class="footnote-link footnote-identifier-link" title="5 &eacute;coutes gratuites de n&rsquo;importe quel titre, sinon il faut acheter le titre ou avoir un abonnement Premium &agrave; 10&euro;/mois">1</a></sup>
+      gratuit<sup><a href="#footnote_0_3018" id="identifier_0_3018" class="footnote-link footnote-identifier-link" title="5 &eacute;coutes gratuites de n’importe quel titre, sinon il faut acheter le titre ou avoir un abonnement Premium &agrave; 10&euro;/mois">1</a></sup>
     </td>
   </tr>
   
@@ -125,7 +125,7 @@ Et j&rsquo;avais envie de faire une comparaison rapide des services de musique d
   
   <tr>
     <td>
-      Muse &#8211; The 2nd Law
+      Muse – The 2nd Law
     </td>
     
     <td>
@@ -147,7 +147,7 @@ Et j&rsquo;avais envie de faire une comparaison rapide des services de musique d
   
   <tr>
     <td>
-      Adele &#8211; 21
+      Adele – 21
     </td>
     
     <td>
@@ -169,7 +169,7 @@ Et j&rsquo;avais envie de faire une comparaison rapide des services de musique d
   
   <tr>
     <td>
-      Green Day &#8211; ¡DOS!
+      Green Day – ¡DOS!
     </td>
     
     <td>
@@ -258,13 +258,13 @@ Et j&rsquo;avais envie de faire une comparaison rapide des services de musique d
 
 Niveau espace de stockage: je ne comprends pas pourquoi Amazon, qui a une infrastructure monstrueuse, a une limite aussi contraignante. Même moi qui ne suis pas un énorme mélomane, me retrouve bloqué avec cette limite de 250 titres.
 
-Niveau tarif, comme pour les films, Google n&rsquo;est absolument pas agressif. Je suis très surpris de voir qu&rsquo;iTunes est sensiblement plus cher.
+Niveau tarif, comme pour les films, Google n’est absolument pas agressif. Je suis très surpris de voir qu’iTunes est sensiblement plus cher.
 
 Google Musique offre une particularité: les artistes indépendants, non signés, peuvent [y vendre directement leurs titres](http://play.google.com/artists/ "Google music artist hub").
 
 <ol class="footnotes">
   <li id="footnote_0_3018" class="footnote">
-    5 écoutes gratuites de n&rsquo;importe quel titre, sinon il faut acheter le titre ou avoir un abonnement Premium à 10€/mois [<a href="#identifier_0_3018" class="footnote-link footnote-back-link">&#8617;</a>]
+    5 écoutes gratuites de n’importe quel titre, sinon il faut acheter le titre ou avoir un abonnement Premium à 10€/mois [<a href="#identifier_0_3018" class="footnote-link footnote-back-link">&#8617;</a>]
   </li>
   <li id="footnote_1_3018" class="footnote">
     320kbit/s en Premium [<a href="#identifier_1_3018" class="footnote-link footnote-back-link">&#8617;</a>]

@@ -31,7 +31,7 @@ req.Method = « PROPFIND »;
   
 req.Headers = new WebHeaderCollection();
   
-// I dunno what&rsquo;s for, but Sharepoint throws error 404 if it is not set
+// I dunno what’s for, but Sharepoint throws error 404 if it is not set
   
 req.Headers.Set(« translate », « f »);
   

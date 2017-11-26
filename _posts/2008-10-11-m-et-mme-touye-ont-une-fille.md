@@ -15,7 +15,7 @@ categories:
 tags:
   - M. et Mme
 ---
-Monsieur et Madame Touye ont une fille. Comment s&rsquo;appelle-elle?
+Monsieur et Madame Touye ont une fille. Comment s’appelle-elle?
   
 <!--more-->
 

@@ -12,4 +12,4 @@ tmac_last_id:
 categories:
   - Général
 ---
-Je suis de retour, mon blog n&rsquo;est pas mort 😉 C&rsquo;est simplement que je suis resté une semaine privé d&rsquo;ADSL&#8230; Cégétel me fait une remise de 20€, je ne vais pas trop râler.
+Je suis de retour, mon blog n’est pas mort 😉 C’est simplement que je suis resté une semaine privé d’ADSL…; Cégétel me fait une remise de 20€, je ne vais pas trop râler.

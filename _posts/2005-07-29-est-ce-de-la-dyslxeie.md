@@ -16,4 +16,4 @@ categories:
 tags:
   - Humour
 ---
-Des cherhceurs de l&rsquo;unvieristé de Livperool ont motnré que l&rsquo;on pouviat chnager l&rsquo;ordre des letrtes des mtos et lasiser le tetxe pafraietmnet lisbile. Il sufift de cosnrever la prmeière et la drenèire ltetre. Les gens ne fnot jamias aettniton à ce qu&rsquo;il y a au mileiu.
+Des cherhceurs de l’unvieristé de Livperool ont motnré que l’on pouviat chnager l’ordre des letrtes des mtos et lasiser le tetxe pafraietmnet lisbile. Il sufift de cosnrever la prmeière et la drenèire ltetre. Les gens ne fnot jamias aettniton à ce qu’il y a au mileiu.

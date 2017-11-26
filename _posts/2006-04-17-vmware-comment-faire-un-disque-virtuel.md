@@ -13,7 +13,7 @@ dsq_thread_id:
 categories:
   - Général
 ---
-En fait, c&rsquo;est très simple: il suffit d&rsquo;utiliser [Qemu](http://fabrice.bellard.free.fr/qemu/ "QEMU is a generic and open source processor emulator which achieves a good emulation speed by using dynamic translation.").
+En fait, c’est très simple: il suffit d’utiliser [Qemu](http://fabrice.bellard.free.fr/qemu/ "QEMU is a generic and open source processor emulator which achieves a good emulation speed by using dynamic translation.").
 
 <pre>qemu-img create -f vmdk NewDisk.vmdk 2G
 </pre>

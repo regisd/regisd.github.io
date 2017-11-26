@@ -19,4 +19,4 @@ tags:
   - Jflex
   - Maven
 ---
-I&rsquo;m happy to tell you that my [maven-jflex-plugin](http://jflex.sourceforge.net/maven-jflex-plugin/) is now [in the Maven central repository](http://repo2.maven.org/maven2/de/jflex/maven-jflex-plugin/).
+I’m happy to tell you that my [maven-jflex-plugin](http://jflex.sourceforge.net/maven-jflex-plugin/) is now [in the Maven central repository](http://repo2.maven.org/maven2/de/jflex/maven-jflex-plugin/).

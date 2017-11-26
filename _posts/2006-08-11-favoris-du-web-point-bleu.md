@@ -15,10 +15,10 @@ dsq_thread_id:
 categories:
   - Sites web
 ---
-J&rsquo;ai déjà parlé de blogmarks, j&rsquo;ai même fait une petite [extension firefox](http://regis.decamps.info/blog/categorie/informatique/firefox/blogmark-extension/) pour faciliter son utilisation. Grâce à blogmarks, je peux [afficher mes favoris](http://www.blogmarks.net/user/Regis) sur le web, et les retrouver facilement grâce à des labels ou au moteur de recherche.
+J’ai déjà parlé de blogmarks, j’ai même fait une petite [extension firefox](http://regis.decamps.info/blog/categorie/informatique/firefox/blogmark-extension/) pour faciliter son utilisation. Grâce à blogmarks, je peux [afficher mes favoris](http://www.blogmarks.net/user/Regis) sur le web, et les retrouver facilement grâce à des labels ou au moteur de recherche.
 
-Le système est très pratique et initié par [del.icio.us](http://del.icio.us). Mais l&rsquo;ancêtre a une interface hideuse, et il n&rsquo;y a pas eu d&rsquo;évolutions majeures depuis qu&rsquo;il existe.
+Le système est très pratique et initié par [del.icio.us](http://del.icio.us). Mais l’ancêtre a une interface hideuse, et il n’y a pas eu d’évolutions majeures depuis qu’il existe.
 
-Google a sorti un service un peu équivalent. Mais [Google bookmarks](http://www.google.com/bookmarks/) n&rsquo;arrive pas à la cheville de Blogmarks. Blogmarks offre: vignettes des sites, nuage de labels avec une police plus grande pour les labels populaires, voir les favoris des autres (partie sociale), publication des favoris sur son blog (que [j&rsquo;utilisais encore il n&rsquo;y a pas si longtemps](http://regis.decamps.info/blog/2006/05/blogmarks-du-2006-05-20/)), import/export&#8230; Tout cela, Google ne le fait pas. Et le manque d&rsquo;intégration avec le moteur Google est très décevant.
+Google a sorti un service un peu équivalent. Mais [Google bookmarks](http://www.google.com/bookmarks/) n’arrive pas à la cheville de Blogmarks. Blogmarks offre: vignettes des sites, nuage de labels avec une police plus grande pour les labels populaires, voir les favoris des autres (partie sociale), publication des favoris sur son blog (que [j’utilisais encore il n’y a pas si longtemps](http://regis.decamps.info/blog/2006/05/blogmarks-du-2006-05-20/)), import/export…; Tout cela, Google ne le fait pas. Et le manque d’intégration avec le moteur Google est très décevant.
 
-Je parle de tout cela pour présenter [Blue dot](http://bluedot.us). L&rsquo;interface est très agréable, techniquement j&rsquo;ai l&rsquo;impression que c&rsquo;est mieux fait que blogmarks, et il y a la notion d&rsquo;amis qui renforce encore l&rsquo;aspect « social » du système.
+Je parle de tout cela pour présenter [Blue dot](http://bluedot.us). L’interface est très agréable, techniquement j’ai l’impression que c’est mieux fait que blogmarks, et il y a la notion d’amis qui renforce encore l’aspect « social » du système.

@@ -1,6 +1,6 @@
 ---
 id: 968
-title: 'Eclipse bug: buttons don&rsquo;t work'
+title: 'Eclipse bug: buttons don’t work'
 date: 2009-11-28T19:01:20+00:00
 author: Régis
 excerpt: |
@@ -25,7 +25,7 @@ My Eclipse Galileo has been behaving very strangely, as some buttons have stoppe
 
 I discovered this when I tried to create a New Project, type Java, Next. Hey! Next!
   
-What? I couldn&rsquo;t click on « next ». However the Enter key still working&#8230;
+What? I couldn’t click on « next ». However the Enter key still working…;
 
 This is actually a [SWT bug with GTK in Eclipse](https://bugs.eclipse.org/bugs/show_bug.cgi?id=287307).
 

@@ -17,10 +17,10 @@ categories:
 tags:
   - Libre
 ---
-Je voulais offrir un T-shirt Firefox à un ami qui aime particulièrement le logiciel libre. Moi-même, après avoir utilisé des logiciels libres pendants plusieurs années sans avoir financièrement contribué, j&rsquo;étais content de pouvoir aider en achetant des produit à <strike>la fondation</strike> Mozilla. En plus, les polos du \[Mozilla sotre\](http://stope.mozilla.org/) ont l&rsquo;air de bonne qualité, ce qui justifiait leur prix élevé (de 24$).
+Je voulais offrir un T-shirt Firefox à un ami qui aime particulièrement le logiciel libre. Moi-même, après avoir utilisé des logiciels libres pendants plusieurs années sans avoir financièrement contribué, j’étais content de pouvoir aider en achetant des produit à <strike>la fondation</strike> Mozilla. En plus, les polos du \[Mozilla sotre\](http://stope.mozilla.org/) ont l’air de bonne qualité, ce qui justifiait leur prix élevé (de 24$).
 
 Malheureusement, juste avant de confirmer ma commande, je vois que les frais de ports sont en sus, mais pas indiqués. Je consulte \[les exemples de frais de livraison\](https://store.mozilla.org/international_examples.asp) et déchante vite: en plus de 24$ pour le polo, il faut ajouter 60$ de frais de ports! 
 
-Alors oui, j&rsquo;étais prêt à mettre \[la main au porte-monnaie\](http://standblog.org/blog/2005/08/29/93114324-la-main-au-porte-monnaie), mais certainement pas si c&rsquo;est pour que ça se retrouve principalement dans la poche d&rsquo;UPS. Conclusion: le Mozilla store est réservé aux Américains et on est d&rsquo;accord pour dire que les produits sont \[hors de prix\](http://www.skyminds.net/wireless/2005/10/22/t-shirts-mozilla-priceless/) pour nous, Français. 
+Alors oui, j’étais prêt à mettre \[la main au porte-monnaie\](http://standblog.org/blog/2005/08/29/93114324-la-main-au-porte-monnaie), mais certainement pas si c’est pour que ça se retrouve principalement dans la poche d’UPS. Conclusion: le Mozilla store est réservé aux Américains et on est d’accord pour dire que les produits sont \[hors de prix\](http://www.skyminds.net/wireless/2005/10/22/t-shirts-mozilla-priceless/) pour nous, Français. 
 
-Maintenant, j&rsquo;ai déjà vu des gens porter des T shirts Firefox. Comment ont-ils faits?
+Maintenant, j’ai déjà vu des gens porter des T shirts Firefox. Comment ont-ils faits?

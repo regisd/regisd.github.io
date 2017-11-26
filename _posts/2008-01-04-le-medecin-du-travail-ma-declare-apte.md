@@ -1,6 +1,6 @@
 ---
 id: 531
-title: 'Le médecin du travail m&rsquo;a déclaré apte'
+title: 'Le médecin du travail m’a déclaré apte'
 date: 2008-01-04T10:30:49+00:00
 author: Régis
 layout: post
@@ -15,4 +15,4 @@ categories:
 tags:
   - Santé
 ---
-Voilà, le médecin du service de santé au travail a donné un avis d&rsquo;aptitude positif. J&rsquo;ai le droit de travailler.
+Voilà, le médecin du service de santé au travail a donné un avis d’aptitude positif. J’ai le droit de travailler.

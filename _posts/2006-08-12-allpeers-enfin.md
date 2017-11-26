@@ -15,6 +15,6 @@ categories:
 tags:
   - Firefox
 ---
-J&rsquo;ai enfin reçu mon invitation pour la bêta de [AllPeers](http://www.allpeers.com/index_f.htm).
+J’ai enfin reçu mon invitation pour la bêta de [AllPeers](http://www.allpeers.com/index_f.htm).
 
-Reste plus qu&rsquo;à tester ça!
+Reste plus qu’à tester ça!

@@ -17,22 +17,22 @@ tags:
   - Android
   - Instant messaging
 ---
-J&rsquo;ai beau aimé Google Talk, j&rsquo;ai parfois l&rsquo;impression d&rsquo;être le seul&#8230; Alors pour discuter sur les autres réseaux (msn, Yahoo!, facebook, etc.) il y a 2 possibilités:
+J’ai beau aimé Google Talk, j’ai parfois l’impression d’être le seul…; Alors pour discuter sur les autres réseaux (msn, Yahoo!, facebook, etc.) il y a 2 possibilités:
 
-  * ajouter des passerelles Jabber (je l&rsquo;ai fait mais l&rsquo;opération n&rsquo;est pas forcément triviale)
+  * ajouter des passerelles Jabber (je l’ai fait mais l’opération n’est pas forcément triviale)
   * avoir une application de messagerie multi-protocoles
 
-Et dans cette dernière catégorie, j&rsquo;aime beaucoup [imo.im pour Android](https://market.android.com/details?id=com.imo.android.imoim).
+Et dans cette dernière catégorie, j’aime beaucoup [imo.im pour Android](https://market.android.com/details?id=com.imo.android.imoim).
   
 <!--more-->
 
 
   
-L&rsquo;ergonomie est réussie, l&rsquo;utilisation très intuitive.
+L’ergonomie est réussie, l’utilisation très intuitive.
 
 Les principaux réseaux sont supportés.
 
-Enfin, imo.im semble avoir bien optimisé les connexions réseau. En tout cas, la batterie n&rsquo;est pas trop atteinte, alors que eBuddy Messenger ruine ma batterie très rapidement.
+Enfin, imo.im semble avoir bien optimisé les connexions réseau. En tout cas, la batterie n’est pas trop atteinte, alors que eBuddy Messenger ruine ma batterie très rapidement.
 
 <div id='gallery-13' class='gallery galleryid-2406 gallery-columns-3 gallery-size-thumbnail'>
   <figure class='gallery-item'> 

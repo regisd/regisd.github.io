@@ -1,6 +1,6 @@
 ---
 id: 1701
-title: 'Demain, c&rsquo;est le jour de l&rsquo;IPv6'
+title: 'Demain, c’est le jour de l’IPv6'
 date: 2011-06-07T08:38:09+00:00
 author: Régis
 layout: post
@@ -17,6 +17,6 @@ categories:
 tags:
   - Internet
 ---
-Il y a de plus en plus d&rsquo;internautes, et donc de moins en moins d&rsquo;IP disponibles. La meilleure solution au problème est de créer de nouvelles IP. C&rsquo;est en substance ce que permet l&rsquo;IPv6 (par rapport à l&rsquo;IPv4 utilisé aujourd&rsquo;hui).
+Il y a de plus en plus d’internautes, et donc de moins en moins d’IP disponibles. La meilleure solution au problème est de créer de nouvelles IP. C’est en substance ce que permet l’IPv6 (par rapport à l’IPv4 utilisé aujourd’hui).
 
-Et pour tester que tout le monde est prêt, demain c&rsquo;est [le jour de l&rsquo;IPv6](http://isoc.org/wp/worldipv6day/), et les gros acteurs y sont: [Google](http://googleblog.blogspot.com/2011/01/world-ipv6-day-firing-up-engines-on-new.html), Facebook, Yahoo!, [Youtube](http://youtube-global.blogspot.com/2010/02/youtube-calls-on-ipv6.html), [Bing](http://www.bing.com/community/site_blogs/b/search/archive/2011/02/03/world-ipv6-day_3a00_-bing-taking-decisions-to-the-next-generation-of-the-internet.aspx), [Cisco](http://blogs.cisco.com/news/world-ipv6-day-working-together-towards-a-new-internet-protocol/), etc.
+Et pour tester que tout le monde est prêt, demain c’est [le jour de l’IPv6](http://isoc.org/wp/worldipv6day/), et les gros acteurs y sont: [Google](http://googleblog.blogspot.com/2011/01/world-ipv6-day-firing-up-engines-on-new.html), Facebook, Yahoo!, [Youtube](http://youtube-global.blogspot.com/2010/02/youtube-calls-on-ipv6.html), [Bing](http://www.bing.com/community/site_blogs/b/search/archive/2011/02/03/world-ipv6-day_3a00_-bing-taking-decisions-to-the-next-generation-of-the-internet.aspx), [Cisco](http://blogs.cisco.com/news/world-ipv6-day-working-together-towards-a-new-internet-protocol/), etc.

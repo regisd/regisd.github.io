@@ -19,9 +19,9 @@ tags:
 ---
 Google coop subscribed links permet de créer son propre moteur de recherche, qui apparaît alors comme les liens sponsorisés.
 
-J&rsquo;utilise quelques subscribed links de l&rsquo;annuaire: [Wikipedia](http://www.google.com/coop/profile?user=016597473608235241540), [digg](http://www.google.com/coop/profile?user=017771777217723414381), [javacio.us](http://www.google.com/coop/profile?user=014543831828880571631), [unix manpages](http://www.google.com/coop/profile?user=006335557234340235827) et [wink](http://www.google.com/coop/profile?user=002423039142682772392). Et franchement, ces subscribed links sont très pratiques. 
+J’utilise quelques subscribed links de l’annuaire: [Wikipedia](http://www.google.com/coop/profile?user=016597473608235241540), [digg](http://www.google.com/coop/profile?user=017771777217723414381), [javacio.us](http://www.google.com/coop/profile?user=014543831828880571631), [unix manpages](http://www.google.com/coop/profile?user=006335557234340235827) et [wink](http://www.google.com/coop/profile?user=002423039142682772392). Et franchement, ces subscribed links sont très pratiques. 
 
-Je viens d&rsquo;en écrire un très simple: mon module reconnaît les numéros de téléphone et crée un lien vers l&rsquo;annuaire universel. Pour l&rsquo;utiliser dans Google, [
+Je viens d’en écrire un très simple: mon module reconnaît les numéros de téléphone et crée un lien vers l’annuaire universel. Pour l’utiliser dans Google, [
   
 <img src="http://www.google.com/coop/images/addmyexpertisebadge.gif" class="subscribe-button" border="0" alt="Add my expertise to your Google search results" />
   

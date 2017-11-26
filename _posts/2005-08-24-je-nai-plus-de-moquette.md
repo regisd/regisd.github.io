@@ -1,6 +1,6 @@
 ---
 id: 40
-title: 'Je n&rsquo;ai plus de moquette'
+title: 'Je n’ai plus de moquette'
 date: 2005-08-24T14:51:15+00:00
 author: Régis
 excerpt: "La moquette était neuve, mais moche et de piètre qualité. Elle va donc laisser sa place à un parquet. Première étape: l'enlever!"

@@ -22,20 +22,20 @@ categories:
 tags:
   - Talaria
 ---
-Après 18 mois d&rsquo;existence et plus de 13&nbsp;000 téléchargements, il est temps pour Talaria de faire face aux aléas des connexions réseau. Les déconnexions sont fréquentes sur mobile, et particulièrement dans le métro!
+Après 18 mois d’existence et plus de 13 000 téléchargements, il est temps pour Talaria de faire face aux aléas des connexions réseau. Les déconnexions sont fréquentes sur mobile, et particulièrement dans le métro!
 
-J&rsquo;ai opté pour une réécriture complète, en me basant sur le mécanisme des « Comptes et Synchro ». Et je vous invite donc à [installer Lutece](https://play.google.com/store/apps/details?id=info.decamps.droid.lutece "Lutece sur Google Play").
+J’ai opté pour une réécriture complète, en me basant sur le mécanisme des « Comptes et Synchro ». Et je vous invite donc à [installer Lutece](https://play.google.com/store/apps/details?id=info.decamps.droid.lutece "Lutece sur Google Play").
 
 <!--more-->
 
 
   
-Lutece reprend les principales fonctionnalités de Talaria (liste des incidents, notifications, partage), mais cette nouvelle application est basée sur `SyncAdapter` (« Comptes et Synchro »). C&rsquo;est le système qui gère maintenant la synchronisation:
+Lutece reprend les principales fonctionnalités de Talaria (liste des incidents, notifications, partage), mais cette nouvelle application est basée sur `SyncAdapter` (« Comptes et Synchro »). C’est le système qui gère maintenant la synchronisation:
 
-  * la liste des incidents n&rsquo;est synchronisée que si le réseau est disponible
+  * la liste des incidents n’est synchronisée que si le réseau est disponible
   * la synchronisation est suspendue quand le paramètre global « Comptes et synchronisation » est sur « OFF ».
   * en cas de déconnexion, le système réessaye plus tard
   * de plus Lutece, limite la synchronisation à certaines plages horaires
   * grace à une base de données dans le mobile, la liste des incidents est toujours accessible
 
-Concernant Talaria, je ferai prochainement une dernière mise à jour, visant à masquer les messages d&rsquo;erreur liés aux déconnexion réseau.
+Concernant Talaria, je ferai prochainement une dernière mise à jour, visant à masquer les messages d’erreur liés aux déconnexion réseau.

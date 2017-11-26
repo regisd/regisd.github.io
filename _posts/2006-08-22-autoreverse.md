@@ -18,13 +18,13 @@ categories:
     <a href='http://www.jamendo.com/fr/album/1734/' title='J.SPRING - Autoreverse'><img src='http://img.jamendo.com/albums/1734/covers/1.200.jpg' style='width:200px;height:200px;border:0px;margin:3px;' alt='J.SPRING - Autoreverse' /></a></p> 
     
     <div class='jamendo_albumcomment'>
-      <a href='http://www.jamendo.com/fr/album/1734/'>J.SPRING &#8211; Autoreverse</a> sur <a href='http://www.jamendo.com/'>Jamendo</a>
+      <a href='http://www.jamendo.com/fr/album/1734/'>J.SPRING – Autoreverse</a> sur <a href='http://www.jamendo.com/'>Jamendo</a>
     </div>
   </div>
 </div>
 
-Lorsque ma liste de lecture a entammé Autoreverse, j&rsquo;ai prêté une oreille attentive. Le son est professionnel, J. Spring a vraiement une belle voix.
+Lorsque ma liste de lecture a entammé Autoreverse, j’ai prêté une oreille attentive. Le son est professionnel, J. Spring a vraiement une belle voix.
 
-Je n&rsquo;ai pas une culture musicale suffisante pour rapprocher l&rsquo;auteur d&rsquo;autres artistes, mais il s&rsquo;agit d&rsquo;une musique électronique douce (je pense en particulier à Easier), loin des tubes d&rsquo;été rythmés.
+Je n’ai pas une culture musicale suffisante pour rapprocher l’auteur d’autres artistes, mais il s’agit d’une musique électronique douce (je pense en particulier à Easier), loin des tubes d’été rythmés.
 
-Cependant, c&rsquo;est parfois un peu abrutissant (répétitif?), je n&rsquo;aime pas _Something&rsquo;s changed inside me_, par exemple.
+Cependant, c’est parfois un peu abrutissant (répétitif?), je n’aime pas _Something’s changed inside me_, par exemple.

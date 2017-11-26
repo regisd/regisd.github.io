@@ -19,13 +19,13 @@ categories:
 tags:
   - One-man show
 ---
-**Rating:**&nbsp;![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9734;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "4/5")&nbsp;
+**Rating:** ![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9734;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "4/5") 
 
 
   
-J&rsquo;avais adoré son premier spectacle, avec des jeux de mots fins, et une symbiose entre le jeu d&rsquo;acteur et le texte. 
+J’avais adoré son premier spectacle, avec des jeux de mots fins, et une symbiose entre le jeu d’acteur et le texte. 
 
-Sept ans après, J&rsquo;ai trouvé beaucoup de plaisir à voir _Denis Maréchal joue_, spectacle qui s&rsquo;articule autour du thème « faire des enfants ».
+Sept ans après, J’ai trouvé beaucoup de plaisir à voir _Denis Maréchal joue_, spectacle qui s’articule autour du thème « faire des enfants ».
   
 <!--more-->
 
@@ -33,6 +33,6 @@ Sept ans après, J&rsquo;ai trouvé beaucoup de plaisir à voir _Denis Maréchal
   
 
 
-Mais ai été déçu de ne pas retrouver les personnages du premier spectacle, en particulier Geoffrey. Denis reparle de Ruth, mais ce nouveau sketch n&rsquo;est pas super fin. 
+Mais ai été déçu de ne pas retrouver les personnages du premier spectacle, en particulier Geoffrey. Denis reparle de Ruth, mais ce nouveau sketch n’est pas super fin. 
 
-De façon générale, j&rsquo;ai trouvé ce nouveau texte plus intelligent vis-à-vis des thèmes abordés, mais moins élaboré en termes de jeux de mots.
+De façon générale, j’ai trouvé ce nouveau texte plus intelligent vis-à-vis des thèmes abordés, mais moins élaboré en termes de jeux de mots.

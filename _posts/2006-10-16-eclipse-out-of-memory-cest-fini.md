@@ -1,6 +1,6 @@
 ---
 id: 352
-title: 'Eclipse Out of memory : c&rsquo;est fini'
+title: 'Eclipse Out of memory : c’est fini'
 date: 2006-10-16T19:32:11+00:00
 author: Régis
 layout: post
@@ -19,9 +19,9 @@ tags:
 ---
 **Edit**: updated in [JVM Terminated -1](http://regis.decamps.info/blog/2008/08/eclipse-jvm-terminated/).
 
-Mon eclipse 3.2.1 était particulièrement instable. Je n&rsquo;avais pas besoin de faire grand chose pour planter avec un lamentable « Out of memory » <tt>java.lang.OutOfMemoryError: PermGen space</tt>.
+Mon eclipse 3.2.1 était particulièrement instable. Je n’avais pas besoin de faire grand chose pour planter avec un lamentable « Out of memory » <tt>java.lang.OutOfMemoryError: PermGen space</tt>.
 
-Pourtant j&rsquo;avais modifié mon eclipse.ini :
+Pourtant j’avais modifié mon eclipse.ini :
   
 `<br />
 -vmargs<br />
@@ -29,7 +29,7 @@ Pourtant j&rsquo;avais modifié mon eclipse.ini :
 -Xmx1024m<br />
 ` 
 
-En fait, c&rsquo;est un autre paramètre qu&rsquo;il fallait ajouter dans ce fichier de configuration
+En fait, c’est un autre paramètre qu’il fallait ajouter dans ce fichier de configuration
   
 `<br />
 -XX:MaxPermSize=256m<br />

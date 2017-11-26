@@ -36,7 +36,7 @@ I create a « flight » event, from Doha at 1:20 to Hong-Kong at 14:40.
 
 So, what I just defined in GMT is a flight from 21:20 to 6:40.
 
-But when I save this event, it appears in Google calendar (in Paris GMT+1 time) between 0:20 and 8:20. Strange&#8230;
+But when I save this event, it appears in Google calendar (in Paris GMT+1 time) between 0:20 and 8:20. Strange…;
 
 So, I opened the event again, and Google calendar added a one-hour offset: 2:20 (GMT+3) to 15:40 (GMT+8).
 

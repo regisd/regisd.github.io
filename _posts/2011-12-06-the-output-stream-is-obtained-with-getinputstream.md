@@ -17,7 +17,7 @@ categories:
 tags:
   - Java
 ---
-I have never used the Process class before and I&rsquo;m baffled by the getters of the <tt><a href="http://docs.oracle.com/javase/6/docs/api/java/lang/Process.html">Process</a></tt> class:
+I have never used the Process class before and I’m baffled by the getters of the <tt><a href="http://docs.oracle.com/javase/6/docs/api/java/lang/Process.html">Process</a></tt> class:
 
   * <tt><a href="http://docs.oracle.com/javase/6/docs/api/java/lang/Process.html#getErrorStream()">getErrorStream()</a></tt> returns the process error output stream. That makes sense.
   * <tt><a href="http://docs.oracle.com/javase/6/docs/api/java/lang/Process.html#getInputStream()">getInputStream()</a></tt> returns the process standard _output_ stream

@@ -1,6 +1,6 @@
 ---
 id: 26
-title: 'Illusions d&rsquo;optiques'
+title: 'Illusions d’optiques'
 date: 2005-07-30T01:10:00+00:00
 author: Régis
 excerpt: |
@@ -16,10 +16,10 @@ categories:
   - Général
   - Photo
 ---
-Trois [illusions d&rsquo;optique sur les couleurs](http://www.echalk.co.uk/amusements/OpticalIllusions/colourPerception/colourPerception.html) très impressionnantes.
+Trois [illusions d’optique sur les couleurs](http://www.echalk.co.uk/amusements/OpticalIllusions/colourPerception/colourPerception.html) très impressionnantes.
 
-Dans la première, deux pièces d&rsquo;échiquier ont la même couleur alors que la A paraît être une case noire et la B une cas blanche.
+Dans la première, deux pièces d’échiquier ont la même couleur alors que la A paraît être une case noire et la B une cas blanche.
 
 La deuxième et très classique et pas très impressionnante.
 
-La dernière est totalement bluffante. Il y a deux structures en 3D qui ressemblent à un X. Dans la première le centre du X paraît gris, alors que dans la deuxième il est jaune. Et pourtant, c&rsquo;est le même gris-jaune.
+La dernière est totalement bluffante. Il y a deux structures en 3D qui ressemblent à un X. Dans la première le centre du X paraît gris, alors que dans la deuxième il est jaune. Et pourtant, c’est le même gris-jaune.

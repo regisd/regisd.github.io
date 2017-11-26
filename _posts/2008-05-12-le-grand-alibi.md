@@ -15,4 +15,4 @@ categories:
 ---
 Vraiment médiocre.
 
-Le scénario, pourtant basé sur un roman d&rsquo;Agatha Christie, n&rsquo;a pas une intrigue très prenante. Et les acteurs n&rsquo;arrivent pas à donner un intérêt àce film, que j&rsquo;ai donc trouvé très médiocre.
+Le scénario, pourtant basé sur un roman d’Agatha Christie, n’a pas une intrigue très prenante. Et les acteurs n’arrivent pas à donner un intérêt àce film, que j’ai donc trouvé très médiocre.

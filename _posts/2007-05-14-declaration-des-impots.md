@@ -13,4 +13,4 @@ categories:
   - Général
   - Perso
 ---
-Et voilà, c&rsquo;est fait. [En ligne](http://impots.gouv.fr/) et préremplis: ça devient presque un plaisir.
+Et voilà, c’est fait. [En ligne](http://impots.gouv.fr/) et préremplis: ça devient presque un plaisir.

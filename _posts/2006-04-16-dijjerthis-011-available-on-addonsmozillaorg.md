@@ -18,7 +18,7 @@ tags:
 ---
 > Your item was tested by Nitallica using Firefox 1.5.0.2 on WinXP.
   
-> Editor&rsquo;s Comments:
+> Editor’s Comments:
    
 > A very handy extension. The only suggestion I have for improvement would be to include some screenshots with your next release/update so that viewers will know what to expect from your extension. 
 

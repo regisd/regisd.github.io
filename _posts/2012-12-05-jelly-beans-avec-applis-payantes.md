@@ -21,15 +21,15 @@ tags:
   - Android
   - Bug
 ---
-Sur la version Android Jelly Beans 4.1.1, [plusieurs composants sont perdus ou désactivés à chaque redémarrage du téléphone](https://code.google.com/p/android/issues/detail?id=34880 "Issue: Google Play installs app to /mnt/asec on Jelly Beans"): il s&rsquo;agit des ContentProviders, des widgets, des papiers-peints animés, des claviers alternatifs.
+Sur la version Android Jelly Beans 4.1.1, [plusieurs composants sont perdus ou désactivés à chaque redémarrage du téléphone](https://code.google.com/p/android/issues/detail?id=34880 "Issue: Google Play installs app to /mnt/asec on Jelly Beans"): il s’agit des ContentProviders, des widgets, des papiers-peints animés, des claviers alternatifs.
 
-Cela ne concerne que les applications payantes, qui en raison d&rsquo;une mesure de sécurité, sont installées sur une partition `/mnt/asec` qui n&rsquo;est pas disponible que trop tard dans la phase de démarrage.
+Cela ne concerne que les applications payantes, qui en raison d’une mesure de sécurité, sont installées sur une partition `/mnt/asec` qui n’est pas disponible que trop tard dans la phase de démarrage.
 
-Ceci est très frustrant, et vient s&rsquo;ajouter à ma [liste de bugs](/blog/tag/android+bug "Bugs sur Android").
+Ceci est très frustrant, et vient s’ajouter à ma [liste de bugs](/blog/tag/android+bug "Bugs sur Android").
   
 <!--more-->
 
-  * C&rsquo;est très frustrant pour l&rsquo;utilisateur, car ça concerne les applications payantes. Or, quand on paye pour une application, c&rsquo;est en général qu&rsquo;on estime qu&rsquo;elle est de meilleure qualité que les autres applications gratuites. Dans ce cas, c&rsquo;est pour avoir quelque chose cassé par le système d&rsquo;exploitation
-  * c&rsquo;est frustrant de voir qu&rsquo;Android reste une plateforme en perpétuelle bêta
-  * c&rsquo;est très frustrant pour les développeurs, qui peut recevoir des critiques négatives sur Google play, pour lesquelles il ne peut pas répondre, et qui ne sont pas de son fait
-  * c&rsquo;est frustrant pour le développeur, qui a développé une application utilisant des composants avancés et complexes, qui voit son travail ruiné par un bug dans le système d&rsquo;exploitation
+  * C’est très frustrant pour l’utilisateur, car ça concerne les applications payantes. Or, quand on paye pour une application, c’est en général qu’on estime qu’elle est de meilleure qualité que les autres applications gratuites. Dans ce cas, c’est pour avoir quelque chose cassé par le système d’exploitation
+  * c’est frustrant de voir qu’Android reste une plateforme en perpétuelle bêta
+  * c’est très frustrant pour les développeurs, qui peut recevoir des critiques négatives sur Google play, pour lesquelles il ne peut pas répondre, et qui ne sont pas de son fait
+  * c’est frustrant pour le développeur, qui a développé une application utilisant des composants avancés et complexes, qui voit son travail ruiné par un bug dans le système d’exploitation

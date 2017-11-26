@@ -13,9 +13,9 @@ dsq_thread_id:
 categories:
   - Général
 ---
-Lutece utilise un composant technique avancé, qui vient s&rsquo;insérer dans « Comptes et Synchro ».
+Lutece utilise un composant technique avancé, qui vient s’insérer dans « Comptes et Synchro ».
   
-Malheureusement, Android Jelly Beans 4.1.1 (et aussi 4.1.2 semble-t-il) présente [le bug 34880](https://code.google.com/p/android/issues/detail?id=34880 "Android issue 34880")&nbsp;: les composants de synchronisation disparaissent à chaque redémarrage pour les applications payantes installées depuis Google Play.
+Malheureusement, Android Jelly Beans 4.1.1 (et aussi 4.1.2 semble-t-il) présente [le bug 34880](https://code.google.com/p/android/issues/detail?id=34880 "Android issue 34880") : les composants de synchronisation disparaissent à chaque redémarrage pour les applications payantes installées depuis Google Play.
   
 <!--more-->
 
@@ -23,9 +23,9 @@ Malheureusement, Android Jelly Beans 4.1.1 (et aussi 4.1.2 semble-t-il) présent
   
 Le contournement que je propose est le suivant.
 
-### Activer l&rsquo;option _Sources inconnues_
+### Activer l’option _Sources inconnues_
 
-Si ce n&rsquo;est pas déjà fait, cette option se trouve dans `Paramètres système > Sécurité > Sources inconnues`.
+Si ce n’est pas déjà fait, cette option se trouve dans `Paramètres système > Sécurité > Sources inconnues`.
   
 
 
@@ -53,7 +53,7 @@ Si ce n&rsquo;est pas déjà fait, cette option se trouve dans `Paramètres syst
 
 [Télécharger Lutece](https://www.dropbox.com/s/7m5r8atq70158bh/Lutece.apk "Télécharger Lutece depuis Dropbox") **en dehors de Google Play**.
   
-**NB** Lutece reste une application payante; la présence d&rsquo;une license sera vérifiée.
+**NB** Lutece reste une application payante; la présence d’une license sera vérifiée.
   
 
 

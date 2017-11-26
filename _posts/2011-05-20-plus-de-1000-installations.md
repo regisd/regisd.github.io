@@ -17,4 +17,4 @@ categories:
 tags:
   - Talaria
 ---
-Plus de 1000 personnes suivent les [incidents sur les transports en commun](http://www.incidents-transport.com/) avec l&rsquo;application [Talaria](http://regis.decamps.info/blog/projects/incidents-transports/). Et vous?
+Plus de 1000 personnes suivent les [incidents sur les transports en commun](http://www.incidents-transport.com/) avec l’application [Talaria](http://regis.decamps.info/blog/projects/incidents-transports/). Et vous?

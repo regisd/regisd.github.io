@@ -21,11 +21,11 @@ tags:
   <a href="http://www.flickr.com/photos/wakaseoo/3096080290/" title="photo sharing"><img src="http://farm4.static.flickr.com/3002/3096080290_997a4e71b1_t.jpg" alt="Hotel The Venetian" /></a><br /> <span style="font-size: 0.8em; margin-top: 0px;"><br /> <a href="http://www.flickr.com/photos/wakaseoo/3096080290/">Hotel The Venetian</a>,<br /> originally uploaded by <a href="http://www.flickr.com/people/wakaseoo/">wakaseoo</a>.<br /> </span>
 </div>
 
-Aujourd&rsquo;hui, nous sommes arrivés à Las Vegas. Je suis hyper fatigué après 14h de transport et 9h de décalage horarire (on est arrivé vers 18h localement, mais cela correspond à 9h en France).
+Aujourd’hui, nous sommes arrivés à Las Vegas. Je suis hyper fatigué après 14h de transport et 9h de décalage horarire (on est arrivé vers 18h localement, mais cela correspond à 9h en France).
 
 Cependant, nous restons peu de temps ici, alors nous allons visiter un peu les hotels et casinos proches. Ca fait très toc, ambiance Disney carton-pâte garantie.
 
-Je m&rsquo;essaye à la roulette. La mise miniamle est de 10$, je claque donc 100$ en quelques minutes.
+Je m’essaye à la roulette. La mise miniamle est de 10$, je claque donc 100$ en quelques minutes.
 
 <div style="float: left; text-align: center; margin-right: 15px; margin-bottom: 15px;">
   <a href="http://www.flickr.com/photos/wakaseoo/3096081362/" title="photo sharing"><img src="http://farm4.static.flickr.com/3195/3096081362_c6a8220dc9_t.jpg" alt="Casino The Venetian" /></a><br /> <span style="font-size: 0.8em; margin-top: 0px;"><br /> <a href="http://www.flickr.com/photos/wakaseoo/3096081362/">Casino The Venetian</a>,<br /> originally uploaded by <a href="http://www.flickr.com/people/wakaseoo/">wakaseoo</a>.<br /> </span>

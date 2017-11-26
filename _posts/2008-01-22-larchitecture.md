@@ -1,6 +1,6 @@
 ---
 id: 475
-title: 'L&rsquo;architecture'
+title: 'L’architecture'
 date: 2008-01-22T22:32:33+00:00
 author: Régis
 layout: post
@@ -13,6 +13,6 @@ tmac_last_id:
 categories:
   - Informatique
 ---
-En faisant le ménage dans mon bureau, je suis tombé sur une plaquette d&rsquo;[Octo](http://www.octo.fr/) qui offre une jolie citation du Corbusier:
+En faisant le ménage dans mon bureau, je suis tombé sur une plaquette d’[Octo](http://www.octo.fr/) qui offre une jolie citation du Corbusier:
 
-> L&rsquo;architecture, c&rsquo;est formuler les problèmes avec clareté
+> L’architecture, c’est formuler les problèmes avec clareté

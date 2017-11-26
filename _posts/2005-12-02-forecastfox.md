@@ -13,6 +13,6 @@ categories:
 tags:
   - Firefox
 ---
-\[Forecastfox\](https://addons.mozilla.org/extensions/moreinfo.php?id=398&application=firefox) est une extension pour Firefox qui affiche discrètement les prévisions météo (d'\[AccuWeather\](AccuWeather.com)) dans la barre d&rsquo;état de notre navigateur favori.
+\[Forecastfox\](https://addons.mozilla.org/extensions/moreinfo.php?id=398&application=firefox) est une extension pour Firefox qui affiche discrètement les prévisions météo (d'\[AccuWeather\](AccuWeather.com)) dans la barre d’état de notre navigateur favori.
 
-Et cette note débute une nouvelle série d&rsquo;articles sur mes \[extensions firefox favorites\](http://blog.decamps.info/categorie/firefox).
+Et cette note débute une nouvelle série d’articles sur mes \[extensions firefox favorites\](http://blog.decamps.info/categorie/firefox).

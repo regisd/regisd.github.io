@@ -13,6 +13,6 @@ dsq_thread_id:
 categories:
   - Général
 ---
-J&rsquo;ai changé le chapeau de mes pages. La photo est celle du château d&rsquo;[Alquezár](http://maps.google.fr/maps?f=q&hl=fr&q=alquezar&ie=UTF8&ll=42.158823,-0.054932&spn=0.298275,0.852127&t=h&om=1), en Espagne.
+J’ai changé le chapeau de mes pages. La photo est celle du château d’[Alquezár](http://maps.google.fr/maps?f=q&hl=fr&q=alquezar&ie=UTF8&ll=42.158823,-0.054932&spn=0.298275,0.852127&t=h&om=1), en Espagne.
 
-Et puis, j&rsquo;ai de nouveau autorisé les commentaires, j&rsquo;ai parfaitement conscience qu&rsquo;il était pénible d&rsquo;ouvrir un compte juste pour poster un commentaire. Il faut simplement répondre à une petite addition (je croise les doigts pour que les robots de spam n&rsquo;y arrivent pas pour encore longtemps).
+Et puis, j’ai de nouveau autorisé les commentaires, j’ai parfaitement conscience qu’il était pénible d’ouvrir un compte juste pour poster un commentaire. Il faut simplement répondre à une petite addition (je croise les doigts pour que les robots de spam n’y arrivent pas pour encore longtemps).

@@ -21,6 +21,6 @@ categories:
   - Actualités
   - Politique
 ---
-En l&rsquo;occurrence, je viens d&rsquo;apprendre comment le mot « racailles » a été utilisé par Nicolas Sarkozy, à Argenteuil. Surprise dans un [reportage d&rsquo;arrêt sur Image](http://www.france5.fr/images/emissions/007548/10/0075481005.ram): quand le Ministre de l&rsquo;Intérieur lève la tête et parle de « racailles », il répond à une locataire, qui vit au premier étage d’une tour proche de la Dalle d’Argenteuil, et qui a employé le terme.
+En l’occurrence, je viens d’apprendre comment le mot « racailles » a été utilisé par Nicolas Sarkozy, à Argenteuil. Surprise dans un [reportage d’arrêt sur Image](http://www.france5.fr/images/emissions/007548/10/0075481005.ram): quand le Ministre de l’Intérieur lève la tête et parle de « racailles », il répond à une locataire, qui vit au premier étage d’une tour proche de la Dalle d’Argenteuil, et qui a employé le terme.
 
-Cela change [beaucoup de choses](http://www.liberation.com/page.php?Article=336245)&#8230; Les médias français n&rsquo;aiment plus Sarkozy, mais leur manque de professionnalisme pourrait avoir des conséquences plus graves qu&rsquo;il n&rsquo;y paraît.
+Cela change [beaucoup de choses](http://www.liberation.com/page.php?Article=336245)…; Les médias français n’aiment plus Sarkozy, mais leur manque de professionnalisme pourrait avoir des conséquences plus graves qu’il n’y paraît.

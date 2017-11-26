@@ -19,10 +19,10 @@ tags:
   - Art contemporain
   - Paris
 ---
-Je n&rsquo;ai pas tellement été convaincu par cette [exposition DYNAMO](http://www.grandpalais.fr/fr/evenement/dynamo "DYNAMO au Grand Palais"), au Grand Palais.
+Je n’ai pas tellement été convaincu par cette [exposition DYNAMO](http://www.grandpalais.fr/fr/evenement/dynamo "DYNAMO au Grand Palais"), au Grand Palais.
 
-**Rating:**&nbsp;![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "2/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "2/5")![&#9734;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "2/5")![&#9734;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "2/5")![&#9734;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "2/5")&nbsp;
+**Rating:** ![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "2/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "2/5")![&#9734;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "2/5")![&#9734;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "2/5")![&#9734;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "2/5") 
 
-Beaucoup des œuvres exposées jouent sur la lumière. Mais est-ce extraordinaire? Certes, on peut matérialiser de la lumière dans une pièce embrumée, mais j&rsquo;ai déjà vu mieux en concert. Certes, on peut utiliser un effet stroboscopique pour mettre en valeur un mouvement, mais j&rsquo;ai déjà vu mieux expliqué à la Cité des sciences.
+Beaucoup des œuvres exposées jouent sur la lumière. Mais est-ce extraordinaire? Certes, on peut matérialiser de la lumière dans une pièce embrumée, mais j’ai déjà vu mieux en concert. Certes, on peut utiliser un effet stroboscopique pour mettre en valeur un mouvement, mais j’ai déjà vu mieux expliqué à la Cité des sciences.
 
-Peut-être ai-je tout simplement manqué de mise en contexte (« c&rsquo;est le première artiste à avoir utilisé un néon », par exemple). Mais malheureusement l&rsquo;application officielle du musée n&rsquo;a pas vraiment guidé.
+Peut-être ai-je tout simplement manqué de mise en contexte (« c’est le première artiste à avoir utilisé un néon », par exemple). Mais malheureusement l’application officielle du musée n’a pas vraiment guidé.

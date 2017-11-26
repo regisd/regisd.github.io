@@ -13,4 +13,4 @@ categories:
   - Général
   - Perso
 ---
-Je serai à la Défense jusqu&rsquo;à la fin de la semaine pour une petite formation sur la SOA.
+Je serai à la Défense jusqu’à la fin de la semaine pour une petite formation sur la SOA.

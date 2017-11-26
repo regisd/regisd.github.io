@@ -1,6 +1,6 @@
 ---
 id: 3206
-title: 'Osborn&rsquo;s Law'
+title: 'Osborn’s Law'
 date: 2014-08-21T23:27:01+00:00
 author: Régis
 layout: post
@@ -14,4 +14,4 @@ categories:
 tags:
   - Citation
 ---
-> Variables won&rsquo;t; constants aren&rsquo;t.
+> Variables won’t; constants aren’t.

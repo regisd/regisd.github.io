@@ -15,10 +15,10 @@ categories:
 tags:
   - M. et Mme
 ---
-M. et Mme DUZIEL ont 4 filles comment s&rsquo;appellent-elles?
+M. et Mme DUZIEL ont 4 filles comment s’appellent-elles?
   
 <!--more-->
 
 
   
-Betty, Baba, Noëlle, Candide et Sandra (alors celle-ci, je l&rsquo;adore ; si vous ne trouvez pas, rappelez-vous quel jour nous sommes 😉 )
+Betty, Baba, Noëlle, Candide et Sandra (alors celle-ci, je l’adore ; si vous ne trouvez pas, rappelez-vous quel jour nous sommes 😉 )

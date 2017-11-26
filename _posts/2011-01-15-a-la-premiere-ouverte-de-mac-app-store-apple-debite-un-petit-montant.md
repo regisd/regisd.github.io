@@ -18,21 +18,21 @@ tags:
   - Banque
   - Mac OS X
 ---
-Comme tout les utilisateurs de Mac OS X, j&rsquo;ai ouvert Mac App Store pour voir à quoi il ressemblait.
+Comme tout les utilisateurs de Mac OS X, j’ai ouvert Mac App Store pour voir à quoi il ressemblait.
 
-Et la première chose que demande Apple, en bon commerçant, c&rsquo;est mon numéro de carte bleue&#8230;
+Et la première chose que demande Apple, en bon commerçant, c’est mon numéro de carte bleue…;
 
-En tout cas, je retrouve quelques logiciels que j&rsquo;utilise déjà<sup><a href="#footnote_0_1621" id="identifier_0_1621" class="footnote-link footnote-identifier-link" title="TextWrangler, Telephone, Stuffit">1</a></sup> et je me laisse tenté par un remplacement de leur version téléchargée par leur version « App Store ».
+En tout cas, je retrouve quelques logiciels que j’utilise déjà<sup><a href="#footnote_0_1621" id="identifier_0_1621" class="footnote-link footnote-identifier-link" title="TextWrangler, Telephone, Stuffit">1</a></sup> et je me laisse tenté par un remplacement de leur version téléchargée par leur version « App Store ».
 
-Je compte ainsi bénéficier de la mise à jour automatique, comme c&rsquo;était le cas sur chacune des distributions linux que j&rsquo;ai pu utiliser dans le passé<sup><a href="#footnote_1_1621" id="identifier_1_1621" class="footnote-link footnote-identifier-link" title="Debian a apt-get, Mandriva a urpmi, RedHat a yum, Gentoo a portage/emerge, etc.">2</a></sup>
+Je compte ainsi bénéficier de la mise à jour automatique, comme c’était le cas sur chacune des distributions linux que j’ai pu utiliser dans le passé<sup><a href="#footnote_1_1621" id="identifier_1_1621" class="footnote-link footnote-identifier-link" title="Debian a apt-get, Mandriva a urpmi, RedHat a yum, Gentoo a portage/emerge, etc.">2</a></sup>
 
 Mais juste après avoir Téléchargé TextWrangler, je reçois un SMS de Oney.
 
 > Vous venez de dépenser 1,98€ chez ITUNES-EURO Luxemeborg
 
-Hein? pardon? Je relis les conditions générales, au cas que je serais passé à côté de frais d&rsquo;activation du compte, de frais de téléchargement (même pour des applis gratuites&#8230;), mais il n&rsquo;y a décidément rien. Je contacte donc le support client.
+Hein? pardon? Je relis les conditions générales, au cas que je serais passé à côté de frais d’activation du compte, de frais de téléchargement (même pour des applis gratuites…;), mais il n’y a décidément rien. Je contacte donc le support client.
 
-Voici leur réponse: c&rsquo;était juste pour tester la validité de mon moyen de paiement, et l&rsquo;opération sera immédiatement annulée.
+Voici leur réponse: c’était juste pour tester la validité de mon moyen de paiement, et l’opération sera immédiatement annulée.
 
 > I understand that you are inquiring about the charges you are seeing on the credit card statement. I realize the importance of the issue and I can surely help you in this regard.
 > 
@@ -42,7 +42,7 @@ Voici leur réponse: c&rsquo;était juste pour tester la validité de mon moyen 
 
 Et effectivement, mon relevé de compte ne fait rien apparaître 🙂
 
-Un autre bon point, en tout cas, pour Oney, qui envoie une alerte SMS pour les paiements suspects. Il faudrait juste qu&rsquo;ils précisent si c&rsquo;est une _vérification_ et non une _dépense_.
+Un autre bon point, en tout cas, pour Oney, qui envoie une alerte SMS pour les paiements suspects. Il faudrait juste qu’ils précisent si c’est une _vérification_ et non une _dépense_.
 
 <ol class="footnotes">
   <li id="footnote_0_1621" class="footnote">

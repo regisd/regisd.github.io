@@ -15,6 +15,6 @@ categories:
   - Informatique
   - Perso
 ---
-Mon [site personnel](http://regis.decamps.free.fr/mediawiki/index.php?title=Accueil) n&rsquo;était vraiment pas à jour. J&rsquo;ai tout passé sur [mediawiki](http://www.mediawiki.org/).*
+Mon [site personnel](http://regis.decamps.free.fr/mediawiki/index.php?title=Accueil) n’était vraiment pas à jour. J’ai tout passé sur [mediawiki](http://www.mediawiki.org/).*
   
-Sur un FAI ce n&rsquo;est pas forcément évident à installer, ça peut donc intéresser d&rsquo;autres personnes de savoir comment j&rsquo;ai installé[mediawiki sur free.fr](http://regis.decamps.free.fr/mediawiki/index.php?title=Mediawiki_sur_free.fr)
+Sur un FAI ce n’est pas forcément évident à installer, ça peut donc intéresser d’autres personnes de savoir comment j’ai installé[mediawiki sur free.fr](http://regis.decamps.free.fr/mediawiki/index.php?title=Mediawiki_sur_free.fr)

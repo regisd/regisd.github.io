@@ -17,28 +17,28 @@ categories:
 tags:
   - Java
 ---
-Je ne veux pas entrer dans les détails ici, mais j&rsquo;avais besoin de comparer les performances de 2 applications:
+Je ne veux pas entrer dans les détails ici, mais j’avais besoin de comparer les performances de 2 applications:
 
 * une application historique écrite en C
   
 * un prototype de portage écrit en Java
 
-L&rsquo;idée était d&rsquo;exécuter ces 2 applications sur le même environnement, avec des données significatives (disons celles de production), sur une machine disponible exclusivement sur ces tests (donc pas sur les environnements de développement <strike>super lents</strike> mutualisés à l&rsquo;extrême), sachant qu&rsquo;on n&rsquo;a pas d&rsquo;environnement de test&#8230; On a donc retenu l&rsquo;environnement de pré-production. Mes tests de performance ont eu lieu ce matin. J&rsquo;avais testé le programme java en développement, il fonctionnait très bien. Ce matin, je prends donc le RER en direction du centre d&rsquo;exploitation, pour aider à lancer le programme java, et faire face aux prévisibles imprévus. 
+L’idée était d’exécuter ces 2 applications sur le même environnement, avec des données significatives (disons celles de production), sur une machine disponible exclusivement sur ces tests (donc pas sur les environnements de développement <strike>super lents</strike> mutualisés à l’extrême), sachant qu’on n’a pas d’environnement de test…; On a donc retenu l’environnement de pré-production. Mes tests de performance ont eu lieu ce matin. J’avais testé le programme java en développement, il fonctionnait très bien. Ce matin, je prends donc le RER en direction du centre d’exploitation, pour aider à lancer le programme java, et faire face aux prévisibles imprévus. 
 
-Mon exploitant me prépare l&rsquo;environnement, et on lance le batch, il tourne bien. Mais je me rends soudain compte d&rsquo;une horreur. Il est excessivement verbeux: chaque traitement engendre plusieurs lignes sur stdout! 
+Mon exploitant me prépare l’environnement, et on lance le batch, il tourne bien. Mais je me rends soudain compte d’une horreur. Il est excessivement verbeux: chaque traitement engendre plusieurs lignes sur stdout! 
 
-Il n&rsquo;y a pas de log4j. Impossible de reporter ces tests. Il faut trouver une solution rapidement.
+Il n’y a pas de log4j. Impossible de reporter ces tests. Il faut trouver une solution rapidement.
 
-Heureusement j&rsquo;ai le code source (et me souviens parfaitement avoir pensé « c&rsquo;est moche tous ces println, mais pour un prototype, ce n&rsquo;est pas grave »). Alors, _a posteriori_, voici la solution que j&rsquo;aurais due adopter: l&rsquo;AOP, bien sûr.
+Heureusement j’ai le code source (et me souviens parfaitement avoir pensé « c’est moche tous ces println, mais pour un prototype, ce n’est pas grave »). Alors, _a posteriori_, voici la solution que j’aurais due adopter: l’AOP, bien sûr.
 
-Pour cela, il faut avoir installé \[aspectJ\]( http://www.eclipse.org/aspectj/), et je suppose qu&rsquo;on a pris le plugin pour Eclipse dans la foulée. La première chose à faire, c&rsquo;est de convertir son projet en projet de type AspectJ. Un coup de bouton droit sur le projet et « Convert to AspectJ project » suffit.
+Pour cela, il faut avoir installé \[aspectJ\]( http://www.eclipse.org/aspectj/), et je suppose qu’on a pris le plugin pour Eclipse dans la foulée. La première chose à faire, c’est de convertir son projet en projet de type AspectJ. Un coup de bouton droit sur le projet et « Convert to AspectJ project » suffit.
 
 Je commence donc par définir un point de coupure sur les print*():
 
 <pre>pointcut printLn(): call(* PrintStream.print*(..));
 </pre>
 
-Et j&rsquo;ajoute un _advice_ _autour_ de ce printLn()
+Et j’ajoute un _advice_ _autour_ de ce printLn()
 
 <pre>void around() : printLn() {
 		//don't 
@@ -46,7 +46,7 @@ Et j&rsquo;ajoute un _advice_ _autour_ de ce printLn()
 	}
 </pre>
 
-Ici, donc, j&#8217;empaquette mon PrinterStream.print\*(&#8230;) dans une fonction qui ne fait rien. Comme ça, j&rsquo;ai supprimé tous mes System.out.print\*(&#8230;) (qui font appel à PrinterStream.print()). 
+Ici, donc, j&#8217;empaquette mon PrinterStream.print\*(…;) dans une fonction qui ne fait rien. Comme ça, j’ai supprimé tous mes System.out.print\*(…;) (qui font appel à PrinterStream.print()). 
 
 Finalement, voici mon aspect:
 
@@ -64,4 +64,4 @@ public aspect StopPrintingAspect {
 }
 </pre>
 
-Eclipse tisse l&rsquo;aspect automatiquement: il n&rsquo;y a plus qu&rsquo;à exécuter le programme initial; tous ses print\*(\*) ont été remplacés par&#8230; rien 😉 Je vais pouvoir faire mes tests de performance sans désavantager le java!
+Eclipse tisse l’aspect automatiquement: il n’y a plus qu’à exécuter le programme initial; tous ses print\*(\*) ont été remplacés par…; rien 😉 Je vais pouvoir faire mes tests de performance sans désavantager le java!

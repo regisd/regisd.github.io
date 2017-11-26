@@ -20,4 +20,4 @@ Mon blog offre maintenant un thème spécialisé pour les visites effectuées de
 
 Cela me donne un [score de 3,46/5 « good » sur ready.mobi](http://ready.mobi/results.jsp?uri=http://regis.decamps.info/blog/)
 
-J&rsquo;ai installé [WordPress mobile pack](http://), avec le thème [Carrington mobile](http://wordpress.org/extend/themes/carrington-mobile) qui ressemble un peu au thème principal [iNove](http://wordpress.org/extend/themes/inove)
+J’ai installé [WordPress mobile pack](http://), avec le thème [Carrington mobile](http://wordpress.org/extend/themes/carrington-mobile) qui ressemble un peu au thème principal [iNove](http://wordpress.org/extend/themes/inove)

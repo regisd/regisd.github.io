@@ -16,6 +16,6 @@ categories:
 tags:
   - Android
 ---
-[Mon premier post](http://regis.decamps.info/blog/2005/06/audio-scrobbler/) était une recommandation pour le site [Last.fm](http://www.lastfm.fr/), que j&rsquo;utilise toujours. Plus j&rsquo;indique ce que j&rsquo;écoute, et plus le système peut faire des recommandations pertinentes.
+[Mon premier post](http://regis.decamps.info/blog/2005/06/audio-scrobbler/) était une recommandation pour le site [Last.fm](http://www.lastfm.fr/), que j’utilise toujours. Plus j’indique ce que j’écoute, et plus le système peut faire des recommandations pertinentes.
 
-Comme mon téléphone me sert aussi de baladeur, il est utile qu&rsquo;il remonte mes écoutes sur Last.fm. Et c&rsquo;est possible grâce à une petite application qui observe ce que passe le lecteur (et [Simple Last.fm Scrobbler](https://market.android.com/details?id=com.adam.aslfms) fonctionne avec quasiment tous les lecteurs). Une application légère et efficace, exactement comme je les aime.
+Comme mon téléphone me sert aussi de baladeur, il est utile qu’il remonte mes écoutes sur Last.fm. Et c’est possible grâce à une petite application qui observe ce que passe le lecteur (et [Simple Last.fm Scrobbler](https://market.android.com/details?id=com.adam.aslfms) fonctionne avec quasiment tous les lecteurs). Une application légère et efficace, exactement comme je les aime.

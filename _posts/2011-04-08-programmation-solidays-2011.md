@@ -23,6 +23,6 @@ tags:
 ---
 Chouette, [Solidays](http://www.solidays.org/ "Site officiel") a été annoncé les 25, 26 et 27 juin 2011.
 
-Les premiers noms [à l&rsquo;affiche](http://www.solidays.org/a-laffiche/) sont appararus:
+Les premiers noms [à l’affiche](http://www.solidays.org/a-laffiche/) sont appararus:
 
 <img class="alignnone size-medium wp-image-1904" title="programmation Solidays 2011" src="http://regis.decamps.info/blog/wp-content/uploads/2011/04/solidays_programmation-350x179.png" alt="" width="350" height="179" srcset="http://regis.decamps.info/blog/wp-content/uploads/2011/04/solidays_programmation-350x179.png 350w, http://regis.decamps.info/blog/wp-content/uploads/2011/04/solidays_programmation.png 549w" sizes="(max-width: 350px) 100vw, 350px" />

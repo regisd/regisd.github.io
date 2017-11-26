@@ -19,6 +19,6 @@ tags:
 ---
 Mon [exension BlogMark pour firefox](https://addons.mozilla.org/extensions/moreinfo.php?id=1487) est maintenant disponible sur Mozilla Update.
 
-Elle permet d&rsquo;ajouter rapidement une page dans ses [blogmarks](http://blogmarks.net/).
+Elle permet d’ajouter rapidement une page dans ses [blogmarks](http://blogmarks.net/).
 
-Cette nouvelle version a un support de firefox étendu (jusqu&rsquo;à la version 1.6) et l&rsquo;entrée dans le menu contextuel a été déplacée.
+Cette nouvelle version a un support de firefox étendu (jusqu’à la version 1.6) et l’entrée dans le menu contextuel a été déplacée.

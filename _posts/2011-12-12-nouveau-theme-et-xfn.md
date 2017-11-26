@@ -17,13 +17,13 @@ tags:
   - Wordpress
   - xfn
 ---
-Il était temps de changer de thème WordPress, et j&rsquo;ai choisi [Graphene](http://wordpress.org/extend/themes/graphene).
+Il était temps de changer de thème WordPress, et j’ai choisi [Graphene](http://wordpress.org/extend/themes/graphene).
 
-J&rsquo;en ai profité pour ajouter des relations XFN.
+J’en ai profité pour ajouter des relations XFN.
 
   * Chaque article fait un <tt><a href rel="author"></tt> vers ma page de profil WordPress
   * Cette page de profil fait partie de mes « autres profils » dans mon profil Google
 
-Et voilà le résultat, vu dans [Google Rich Snippets Testing Tool](http://www.google.com/webmasters/tools/richsnippets)&nbsp;:<figure id="attachment_2275" style="width: 350px" class="wp-caption alignleft">
+Et voilà le résultat, vu dans [Google Rich Snippets Testing Tool](http://www.google.com/webmasters/tools/richsnippets) :<figure id="attachment_2275" style="width: 350px" class="wp-caption alignleft">
 
 [<img src="http://regis.decamps.info/blog/wp-content/uploads/2011/12/Capture-d’écran-2011-12-12-à-21.44.38-350x56.png" alt="Capture d’écran 2011-12-12 à 21.44.38" title="Affichage résutat google avec auteur" width="350" height="56" class="size-medium wp-image-2275" srcset="http://regis.decamps.info/blog/wp-content/uploads/2011/12/Capture-d’écran-2011-12-12-à-21.44.38-350x56.png 350w, http://regis.decamps.info/blog/wp-content/uploads/2011/12/Capture-d’écran-2011-12-12-à-21.44.38.png 621w" sizes="(max-width: 350px) 100vw, 350px" />](http://regis.decamps.info/blog/wp-content/uploads/2011/12/Capture-d’écran-2011-12-12-à-21.44.38.png)<figcaption class="wp-caption-text">Affichage de l'auteur dans les résultats Google</figcaption></figure>

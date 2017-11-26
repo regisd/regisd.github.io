@@ -38,7 +38,7 @@ tags:
   - Anglais
   - Test
 ---
-Aujourd&rsquo;hui j&rsquo;ai repassé le test Bright. Assez curieusement, le [précédent billet sur le sujet](http://regis.decamps.info/blog/2009/01/test-bright-evolution/)est très populaire, j&rsquo;ai donc fait l&rsquo;effort de retenir quelques questions pour pouvoir donner ici quelques exemples.
+Aujourd’hui j’ai repassé le test Bright. Assez curieusement, le [précédent billet sur le sujet](http://regis.decamps.info/blog/2009/01/test-bright-evolution/)est très populaire, j’ai donc fait l’effort de retenir quelques questions pour pouvoir donner ici quelques exemples.
 
 ### Ecrit
 
@@ -64,14 +64,14 @@ Vous avez droit à 45 secondes par question. Il y a 80 questions.
 
 > I checked with the clerck this morning, and there \___ any message for you.
 
-  * wasn&rsquo;t
-  * isn&rsquo;t
-  * weren&rsquo;t
-  * hasn&rsquo;t been
+  * wasn’t
+  * isn’t
+  * weren’t
+  * hasn’t been
 
 #### Pluriel / singulier
 
-> &#8212; Why didn&rsquo;t you send me the information I asked for?  
+> &#8212; Why didn’t you send me the information I asked for?  
 > &#8212; We sent \___ two days ago.
 
   * them to you
@@ -90,7 +90,7 @@ Vous avez droit à 2 écoutes et 60 secondes par question. Il y a 60 questions.
 [piste 1](http://regis.decamps.info/blog/wp-content/uploads/2011/06/ttspDmeKz.mp3)
 
   * John enjoys going to meetings
-  * Weekly meeting attendees usually don&rsquo;t see John
+  * Weekly meeting attendees usually don’t see John
   * John speaks a lot during weekly meetings
   * John is late for its meeting
 

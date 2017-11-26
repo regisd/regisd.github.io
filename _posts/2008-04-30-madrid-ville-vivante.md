@@ -25,6 +25,6 @@ tags:
 
 Je me suis aussi promené en ville: Opera Real, Gran Via, plaza del Sol, Plaza Mayor où ils installent la scène pour un spectacle.
 
-Renseignement pris, le 2 mai, à Madrid, on fête l&rsquo;indépendance contre Napoléon
+Renseignement pris, le 2 mai, à Madrid, on fête l’indépendance contre Napoléon
   
 <br clear="all" />

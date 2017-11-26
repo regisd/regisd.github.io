@@ -1,6 +1,6 @@
 ---
 id: 3337
-title: 'Le porteur d&rsquo;histoire'
+title: 'Le porteur d’histoire'
 date: 2017-05-28T17:14:55+00:00
 author: Régis
 layout: post
@@ -13,6 +13,6 @@ categories:
 tags:
   - Paris
 ---
-Excellente mise en scène, sobre, moderne et intelligente. Les acteurs sont excellents, ils nous plongent au cœur du récit sans surjouer. L&rsquo;histoire qui nous est contée à travers l&rsquo;Histoire est également prenante.
+Excellente mise en scène, sobre, moderne et intelligente. Les acteurs sont excellents, ils nous plongent au cœur du récit sans surjouer. L’histoire qui nous est contée à travers l’Histoire est également prenante.
 
-Je n&rsquo;avais pas vu d&rsquo;aussi bonne pièce depuis bien longtemps.
+Je n’avais pas vu d’aussi bonne pièce depuis bien longtemps.

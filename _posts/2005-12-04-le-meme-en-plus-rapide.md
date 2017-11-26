@@ -12,8 +12,8 @@ tmac_last_id:
 categories:
   - Général
 ---
-J&rsquo;ai quitté free.fr, sa gratuité et sa lenteur. Je suis maintenant hébergé chez \[OVH\](http://www.ovh.com/). 
+J’ai quitté free.fr, sa gratuité et sa lenteur. Je suis maintenant hébergé chez \[OVH\](http://www.ovh.com/). 
 
-* Les pages sont environ 10 fois plus rapides à s&rsquo;afficher
+* Les pages sont environ 10 fois plus rapides à s’afficher
   
-* Je peux utiliser l&rsquo;url-rewriting. Pour les néophytes, cela veut dire de « jolis URL ». Au lieu de http://regis.decamps.free.fr/wordpress/index.php?cat=2 on va maintenant sur http://blog.decamps.info/categorie/informatique/
+* Je peux utiliser l’url-rewriting. Pour les néophytes, cela veut dire de « jolis URL ». Au lieu de http://regis.decamps.free.fr/wordpress/index.php?cat=2 on va maintenant sur http://blog.decamps.info/categorie/informatique/

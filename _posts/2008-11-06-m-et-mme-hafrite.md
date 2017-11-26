@@ -15,12 +15,12 @@ categories:
 tags:
   - M. et Mme
 ---
-M. et Mme Hafrite ont un garçon, comment s&rsquo;appelle-t-il?
+M. et Mme Hafrite ont un garçon, comment s’appelle-t-il?
   
 <!--more-->
 
 
   
-Barrack (et c&rsquo;est d&rsquo;actualité en plus). 
+Barrack (et c’est d’actualité en plus). 
 
 Merci à Loïc pour celle-ci

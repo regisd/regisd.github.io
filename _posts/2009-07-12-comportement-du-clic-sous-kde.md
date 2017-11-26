@@ -15,10 +15,10 @@ categories:
 tags:
   - KDE
 ---
-KDE accepte 2 modes de fonctionnement de la souris&nbsp;:
+KDE accepte 2 modes de fonctionnement de la souris :
 
-  * le clic déclenche l&rsquo;action, comme dans Mac OS
-  * le clic sélectionne, et le double-clic déclenche l&rsquo;action, comme dans Windows
+  * le clic déclenche l’action, comme dans Mac OS
+  * le clic sélectionne, et le double-clic déclenche l’action, comme dans Windows
 
 Ce comportement se définit dans **systemsettings**, thème **« Clavier & Souris »**<figure id="attachment_917" style="width: 350px" class="wp-caption alignnone">
 

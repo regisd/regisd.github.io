@@ -19,4 +19,4 @@ categories:
 tags:
   - Banque de France
 ---
-Aujourd&rsquo;hui, je quitte [la Banque de France](http://www.banque-france.fr/) et rejoins l&rsquo;[Autorité du contrôle prudentiel](http://www.banque-france.fr/acp/index.htm).
+Aujourd’hui, je quitte [la Banque de France](http://www.banque-france.fr/) et rejoins l’[Autorité du contrôle prudentiel](http://www.banque-france.fr/acp/index.htm).

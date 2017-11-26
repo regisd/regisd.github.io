@@ -17,7 +17,7 @@ Cette question est souvent débattue<sup><a href="#footnote_0_795" id="identifie
   
 <!--more-->
 
-### Qu&rsquo;est qu&rsquo;un lien hypertexte?
+### Qu’est qu’un lien hypertexte?
 
 Un [lien hypertexte](http://fr.wikipedia.org/wiki/Lien_hypertexte) permet de réaliser un lien depuis une page web vers une autre ressource sur le web. Cette autre ressource peut-être elle même une page, ou un autre type de contenu (PDF, Vidéo, Audio, etc.)
 
@@ -25,47 +25,47 @@ Le lien hypertexte est au cœur du fonctionnement du web.
 
 Lorsque le lien pointe vers une ressource dont le contenu est illicite, le lien est lui-même interdit ; celui qui écrit un lien vers ce type de contenu engage sa responsabilité pénale et civile<sup><a href="#footnote_1_795" id="identifier_1_795" class="footnote-link footnote-identifier-link" title="Synth&egrave;se du forum des droits sur internet">2</a></sup>. 
 
-Mais qu&rsquo;en est-il des liens vers des contenus non contraires à la loi?
+Mais qu’en est-il des liens vers des contenus non contraires à la loi?
 
 On peut distinguer 2 types de lien:
 
-  * un lien vers la page d&rsquo;accueil du site, vers <http://regis.decamps.info/blog/> par exemple
+  * un lien vers la page d’accueil du site, vers <http://regis.decamps.info/blog/> par exemple
   * un lien vers une ressource particulière, vers <http://regis.decamps.info/blog/2009/02/a-t-on-le-droit-de-faire-un-lien-vers-un-autre-site> ou vers <http://regis.decamps.info/blog/wp-content/themes/limau-orange-01/images/rds_logo.png> par exemple
 
-### Les arguments d&rsquo;interdiction du lien sans autorisation
+### Les arguments d’interdiction du lien sans autorisation
 
-Le premier type d&rsquo;argumentation tient compte du fait que la ressource pointée est la propriété intellectuelle d&rsquo;un tiers. Pour l&rsquo;utiliser, il faudrait donc son accord écrit.
+Le premier type d’argumentation tient compte du fait que la ressource pointée est la propriété intellectuelle d’un tiers. Pour l’utiliser, il faudrait donc son accord écrit.
 
-D&rsquo;un point de vue plus pratique, la position se défend par le fait qu&rsquo;un préjudice est subit par celui qui est pointé sans avoir donné son accord:
+D’un point de vue plus pratique, la position se défend par le fait qu’un préjudice est subit par celui qui est pointé sans avoir donné son accord:
 
-  * préjudice en terme de revenu, si les internautes peuvent accéder au contenu utile sans naviguer sur l&rsquo;ensemble des pages contenant des publicités auparavant, ou les autres moyens d&rsquo;exploitation commerciale de l&rsquo;œuvre publiée<sup><a href="#footnote_2_795" id="identifier_2_795" class="footnote-link footnote-identifier-link" title="cf L22-2">3</a></sup>
-  * préjudice intellectuel si l&rsquo;internaute a l&rsquo;impression que le contenu vient du site qu&rsquo;il visite et ne réalise pas que la ressource pointe vers un lien différent
+  * préjudice en terme de revenu, si les internautes peuvent accéder au contenu utile sans naviguer sur l’ensemble des pages contenant des publicités auparavant, ou les autres moyens d’exploitation commerciale de l’œuvre publiée<sup><a href="#footnote_2_795" id="identifier_2_795" class="footnote-link footnote-identifier-link" title="cf L22-2">3</a></sup>
+  * préjudice intellectuel si l’internaute a l’impression que le contenu vient du site qu’il visite et ne réalise pas que la ressource pointe vers un lien différent
   * préjudice sur mon image si un site pornographique fait un lien vers mon site
-  * la présentation d&rsquo;un lien est un cas de réprésentation<sup><a href="#footnote_3_795" id="identifier_3_795" class="footnote-link footnote-identifier-link" title="tout comme Novotel qui diffuse la t&eacute;l&eacute;vision publique dans ses chambres et qui doit demander une autorisation sp&eacute;cifique">4</a></sup>
+  * la présentation d’un lien est un cas de réprésentation<sup><a href="#footnote_3_795" id="identifier_3_795" class="footnote-link footnote-identifier-link" title="tout comme Novotel qui diffuse la t&eacute;l&eacute;vision publique dans ses chambres et qui doit demander une autorisation sp&eacute;cifique">4</a></sup>
 
-Les fanatiques du droit d&rsquo;auteur exigent donc une autorisation pour tout lien; c&rsquo;est le cas de la [RATP par exemple](http://formats-ouverts.org/blog/2008/02/22/1505-liens-hypertextes-vers-ratpfr).
+Les fanatiques du droit d’auteur exigent donc une autorisation pour tout lien; c’est le cas de la [RATP par exemple](http://formats-ouverts.org/blog/2008/02/22/1505-liens-hypertextes-vers-ratpfr).
 
-### Les arguments pour l&rsquo;utilisation libre du lien
+### Les arguments pour l’utilisation libre du lien
 
-  * liberté d&rsquo;expression et le droit de citation-référence
+  * liberté d’expression et le droit de citation-référence
   * des mesures techniques existent pour bloquer les visiteurs requêtant une ressource appelée depuis un autre site (celui qui ferait le lien)
-  * par coutume: l&rsquo;hyperlien est au cœur du web ; la création de lien est de toute façon incontrôlable
+  * par coutume: l’hyperlien est au cœur du web ; la création de lien est de toute façon incontrôlable
 
-### Plus loin que le lien, l&rsquo;inclusion de contenu
+### Plus loin que le lien, l’inclusion de contenu
 
-Attention je parle bien ici de réaliser un lien et non d&rsquo;inclure du contenu en réalité hébergé sur un autre site.
+Attention je parle bien ici de réaliser un lien et non d’inclure du contenu en réalité hébergé sur un autre site.
 
-Le _hotlinking_ consiste à inclure une image (ou une autre ressource multimédia) sans l&rsquo;hébeger soi-même. 
+Le _hotlinking_ consiste à inclure une image (ou une autre ressource multimédia) sans l’hébeger soi-même. 
 
 Le cadrage ou _framing_ consiste à intégrer le site cible à une frame située sur sa propre page. 
 
-Outre une atteinte évidente à la propriété intellectuelle, ces deux techniques peuvent constituer une atteinte au droit moral de l’auteur (notamment à son droit à la paternité de l’œuvre) car le public peut penser que vous êtes l&rsquo;auteur du contenu. Outre une atteinte aux droits intellectuels et moraux, c&rsquo;est aussi du vol de bande passante. Ceci ne concerne évidemment pas les services spécialisés dans ce genre d&rsquo;hébergement (par exemple [flickr](http://flickr.com/))
+Outre une atteinte évidente à la propriété intellectuelle, ces deux techniques peuvent constituer une atteinte au droit moral de l’auteur (notamment à son droit à la paternité de l’œuvre) car le public peut penser que vous êtes l’auteur du contenu. Outre une atteinte aux droits intellectuels et moraux, c’est aussi du vol de bande passante. Ceci ne concerne évidemment pas les services spécialisés dans ce genre d’hébergement (par exemple [flickr](http://flickr.com/))
 
 ### Quelle position adopter?
 
-Le [forum des droits sur Internet](http://www.foruminternet.org/) n&rsquo;est pas une autorité juridique et n&rsquo;écrit ni la loi ni la jurisprudence mais fournit des [recommandations](http://www.foruminternet.org/telechargement/documents/reco-hyli-20030303.htm) qu&rsquo;il est sans doute bon de suivre.
+Le [forum des droits sur Internet](http://www.foruminternet.org/) n’est pas une autorité juridique et n’écrit ni la loi ni la jurisprudence mais fournit des [recommandations](http://www.foruminternet.org/telechargement/documents/reco-hyli-20030303.htm) qu’il est sans doute bon de suivre.
 
-> Le Forum estime qu&rsquo;il y a liberté de lier et recommande de n’envisager la nécessité d’obtenir une autorisation que dans les cas suivants :
+> Le Forum estime qu’il y a liberté de lier et recommande de n’envisager la nécessité d’obtenir une autorisation que dans les cas suivants :
 > 
 >   * pour toute inclusion par hyperlien, au sein d’une page web, de toute page appartenant à un site tiers ou de fichiers protégés par la propriété intellectuelle. 
 >     _Sont concernées les techniques dites de « framing » et « in line linking »._ </li> 

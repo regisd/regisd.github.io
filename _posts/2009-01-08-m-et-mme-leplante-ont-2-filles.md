@@ -15,10 +15,10 @@ categories:
 tags:
   - M. et Mme
 ---
-M. et Mme Léplante ont deux filles. Comment s&rsquo;appellent-elles?
+M. et Mme Léplante ont deux filles. Comment s’appellent-elles?
   
 <!--more-->
 
 
   
-Elsa et Rose (parce qu&rsquo;elles arrosent les plantes).
+Elsa et Rose (parce qu’elles arrosent les plantes).

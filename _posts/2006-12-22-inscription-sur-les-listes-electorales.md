@@ -12,6 +12,6 @@ categories:
   - Perso
   - Politique
 ---
-Je suis allé m&rsquo;inscrire sur les listes électorales de Paris. Je ne l&rsquo;avais pas fait depuis mon déménagement. Ce sera plus pratique pour aller voter!
+Je suis allé m’inscrire sur les listes électorales de Paris. Je ne l’avais pas fait depuis mon déménagement. Ce sera plus pratique pour aller voter!
 
-J&rsquo;ai été surpris par la facilité de la démarche. Même s&rsquo;il ne reste plus que 9 jours pour s&rsquo;inscrire pour voter en 2007, il n&rsquo;y avait pas trop de monde et la mairie du 10ème a mis en place une structure permettant de traiter efficacement les demandes.
+J’ai été surpris par la facilité de la démarche. Même s’il ne reste plus que 9 jours pour s’inscrire pour voter en 2007, il n’y avait pas trop de monde et la mairie du 10ème a mis en place une structure permettant de traiter efficacement les demandes.

@@ -24,6 +24,6 @@ My idea of having [a module to generate a Maven site with the markdown](http://r
 
 Tonight, I have made a quick and dirty Doxia module based on the MarkdownJ library.
 
-I&rsquo;ll try to publish it tomorrow. At least, I should bring the [doxia-module-markdown project page](http://code.google.com/p/doxia-module-markdown/) back.
+I’ll try to publish it tomorrow. At least, I should bring the [doxia-module-markdown project page](http://code.google.com/p/doxia-module-markdown/) back.
 
-**Edit:** I don&rsquo;t maintain this project any more. The good news is that there is a [fork on github](https://github.com/larrycai/doxia-module-markdown).
+**Edit:** I don’t maintain this project any more. The good news is that there is a [fork on github](https://github.com/larrycai/doxia-module-markdown).

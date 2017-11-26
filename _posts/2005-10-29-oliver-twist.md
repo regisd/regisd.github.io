@@ -13,4 +13,4 @@ dsq_thread_id:
 categories:
   - Cinéma
 ---
-Je n&rsquo;ai pas été déçu de l&rsquo;adaptation par Polanski du roman éponyme de Dickens. Les acteurs sont excellents, l&rsquo;histoire est très fidèle au roman, les décors sont parfaits et l&rsquo;atmosphère victorienne de Londres est pénétrante. Je regrette simplement quelques passages un peu longs (le film dure tout de même plus de 2 heures).
+Je n’ai pas été déçu de l’adaptation par Polanski du roman éponyme de Dickens. Les acteurs sont excellents, l’histoire est très fidèle au roman, les décors sont parfaits et l’atmosphère victorienne de Londres est pénétrante. Je regrette simplement quelques passages un peu longs (le film dure tout de même plus de 2 heures).

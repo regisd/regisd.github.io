@@ -1,6 +1,6 @@
 ---
 id: 171
-title: 'L&rsquo;Honneur du dragon Tom-Yum-Goong'
+title: 'L’Honneur du dragon Tom-Yum-Goong'
 date: 2006-02-10T01:01:52+00:00
 author: Régis
 excerpt: Pour M6 en deuxième partie de soirée?
@@ -14,6 +14,6 @@ tmac_last_id:
 categories:
   - Cinéma
 ---
-Je ne recommande pas du tout _L&rsquo;Honneur du dragon Tom-Yum-Goong_.
+Je ne recommande pas du tout _L’Honneur du dragon Tom-Yum-Goong_.
 
-C&rsquo;est un film de kung-fu thaïlandais dans lequel les pires clichés s&rsquo;enchaînent les uns à la suite des autres, ça en deviant risible. Le scénario est niais, les scènes de combat sont interminables et peu crédibles. On a l&rsquo;impression de regarder un jeu vidéo.
+C’est un film de kung-fu thaïlandais dans lequel les pires clichés s’enchaînent les uns à la suite des autres, ça en deviant risible. Le scénario est niais, les scènes de combat sont interminables et peu crédibles. On a l’impression de regarder un jeu vidéo.

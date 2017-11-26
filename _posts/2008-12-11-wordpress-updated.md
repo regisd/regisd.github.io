@@ -17,4 +17,4 @@ categories:
 tags:
   - Wordpress
 ---
-I&rsquo;ve upgraded wordpress and changed the theme. The new one is designed by Aeomedia.
+I’ve upgraded wordpress and changed the theme. The new one is designed by Aeomedia.

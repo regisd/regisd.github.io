@@ -14,6 +14,6 @@ categories:
 ---
 Sur le [blog de iJulien Dray](http://iledefrance.skyblog.com/index.html), le porte parole du PS écrit:
 
-> La situation des balieues est dramatique. Il y a d&rsquo;abord eu la mort de 2 jeunes à Clichy-sous-bois, et puis celle du jeune père de famille qui prenait des photos.
+> La situation des balieues est dramatique. Il y a d’abord eu la mort de 2 jeunes à Clichy-sous-bois, et puis celle du jeune père de famille qui prenait des photos.
 
-Il me semble important d&#8217;employer les termes appropriés et d&rsquo;arrêter les confusions. Les deux jeunes qui sont morts à Clichy-sous-bois sont morts électrocutés, il s&rsquo;agissait d&rsquo;un accident et ils m&rsquo;apparaissent totalement responsable de leur mort. Dans le deuxième cas, l&rsquo;homme a été assassiné en pleine rue, devant sa famille par des <strike>criminels</strike> sauvages. Cela n&rsquo;a rien à voir!
+Il me semble important d&#8217;employer les termes appropriés et d’arrêter les confusions. Les deux jeunes qui sont morts à Clichy-sous-bois sont morts électrocutés, il s’agissait d’un accident et ils m’apparaissent totalement responsable de leur mort. Dans le deuxième cas, l’homme a été assassiné en pleine rue, devant sa famille par des <strike>criminels</strike> sauvages. Cela n’a rien à voir!

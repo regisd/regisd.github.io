@@ -14,12 +14,12 @@ categories:
 tags:
   - Firefox
 ---
-Je fais partie de ceux qui aime la navigation par onglets de \[firefox\](http://www.getfirefox.com/) (ou d'\[opera\](http://www.opera.com) d&rsquo;ailleurs). Et cette extension transforme un truc très pratique, en un truc génial.
+Je fais partie de ceux qui aime la navigation par onglets de \[firefox\](http://www.getfirefox.com/) (ou d'\[opera\](http://www.opera.com) d’ailleurs). Et cette extension transforme un truc très pratique, en un truc génial.
 
-Lorsque l&rsquo;on survole un onglet, son contenu s&rsquo;affiche miniaturisé. C&rsquo;est à la fois élégant et très efficace pour reconnaître rapidement le site qui se cache dans cet onglet.
+Lorsque l’on survole un onglet, son contenu s’affiche miniaturisé. C’est à la fois élégant et très efficace pour reconnaître rapidement le site qui se cache dans cet onglet.
 
-Mais puisqu&rsquo;un exemple vaut mieux qu&rsquo;un long discours, voici une démo:
+Mais puisqu’un exemple vaut mieux qu’un long discours, voici une démo:
   
 
 
-J&rsquo;ai découvert \[Tab Preview\](http://ted.mielczarek.org/code/mozilla/tabpreview/) aujourd&rsquo;hui et j&rsquo;en suis déjà fan.
+J’ai découvert \[Tab Preview\](http://ted.mielczarek.org/code/mozilla/tabpreview/) aujourd’hui et j’en suis déjà fan.

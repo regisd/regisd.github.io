@@ -23,7 +23,7 @@ tags:
   - Adsl
   - Télévision
 ---
-Comme moi, les abonnés de SFR-Neuf-Cégétel-AOL_France-Club-internet-Wordnet-Ozone-Médiafibre-Erenis (médaille d&rsquo;or pour les aquisitions) peuvent regarder la [télévision avec leur Neuf Box](http://www.neuf.tv/) et [VLC](http://www.videolan.org/vlc/) et en utilisant la liste de lecture suivante <http://televisionsurpc.neuf.fr/televisionsurpc.m3u>
+Comme moi, les abonnés de SFR-Neuf-Cégétel-AOL_France-Club-internet-Wordnet-Ozone-Médiafibre-Erenis (médaille d’or pour les aquisitions) peuvent regarder la [télévision avec leur Neuf Box](http://www.neuf.tv/) et [VLC](http://www.videolan.org/vlc/) et en utilisant la liste de lecture suivante <http://televisionsurpc.neuf.fr/televisionsurpc.m3u>
   
 <!--more-->
 

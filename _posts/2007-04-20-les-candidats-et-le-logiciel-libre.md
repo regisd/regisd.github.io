@@ -12,4 +12,4 @@ categories:
   - Brève
   - Politique
 ---
-A l&rsquo;initiative de l&rsquo;April, la majorité des [candidats se sont engagés pour le logiciel libre](http://candidats.fr/). Seuls 2 candidats n&rsquo;ont pas répondu: Nicolas Sarkozy et Arlette Laguiller.
+A l’initiative de l’April, la majorité des [candidats se sont engagés pour le logiciel libre](http://candidats.fr/). Seuls 2 candidats n’ont pas répondu: Nicolas Sarkozy et Arlette Laguiller.

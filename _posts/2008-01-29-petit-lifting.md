@@ -14,4 +14,4 @@ categories:
 tags:
   - Wordpress
 ---
-J&rsquo;ai mis à jour ma version de WordPress et en ai profité pour changer de thème graphique. Vous aimez?
+J’ai mis à jour ma version de WordPress et en ai profité pour changer de thème graphique. Vous aimez?

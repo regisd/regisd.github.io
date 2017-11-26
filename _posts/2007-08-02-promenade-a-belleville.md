@@ -18,7 +18,7 @@ tags:
   - Insolite
   - Paris
 ---
-Cet après-midi j&rsquo;ai fait une petite promenade dans Belleville avec ma soeur et mes parents.
+Cet après-midi j’ai fait une petite promenade dans Belleville avec ma soeur et mes parents.
 
 Et on est tombé sur cette façade
 
@@ -32,6 +32,6 @@ Et on est tombé sur cette façade
   <tr>
     <tr>
       <td style="font-family:arial,sans-serif; font-size:11px; text-align:right">
-        From <a href="http://picasaweb.google.com/regis.decamps/20070802PromenadeDansBelleville">2007-08-02 Pr&#8230;</a>
+        From <a href="http://picasaweb.google.com/regis.decamps/20070802PromenadeDansBelleville">2007-08-02 Pr…;</a>
       </td>
     </tr></table>

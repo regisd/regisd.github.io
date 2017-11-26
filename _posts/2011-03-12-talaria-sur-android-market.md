@@ -1,6 +1,6 @@
 ---
 id: 1823
-title: 'Talaria-0.99 sur l&rsquo;Android Market'
+title: 'Talaria-0.99 sur l’Android Market'
 date: 2011-03-12T18:31:07+00:00
 author: Régis
 excerpt: "Mon application pour accéder à http://incidents-transports.com/ est maintenant disponible sur l'Android market"
@@ -26,14 +26,14 @@ categories:
 tags:
   - Talaria
 ---
-J&rsquo;ai finalement donné le nom **Talaria** à mon application pour accéder à <http://incidents-transports.com/> (qui a changé de nom mais pas fermé, [malgré les menaces](http://reflets.info/ratp-menace-developpeur/)).
+J’ai finalement donné le nom **Talaria** à mon application pour accéder à <http://incidents-transports.com/> (qui a changé de nom mais pas fermé, [malgré les menaces](http://reflets.info/ratp-menace-developpeur/)).
 
 <img src="http://regis.decamps.info/blog/wp-content/uploads/2011/03/486px-Talaria-150x150.png" alt="Reproduction d&#039;une gravure du 19eme siècle" title="Talaria" width="150" height="150" class="alignright size-thumbnail wp-image-1824" />
   
 Les talaria sont les sandales ailées que porte Hermès, qui, dans la mythologie grecque, est le dieu des voyages, des routes, du commerce et des voleurs. 
 
-Aujourd&rsquo;hui, j&rsquo;ai fignolé l&rsquo;interface, en joutant des icônes dans le menu. J&rsquo;ai aussi intégré une nouvelle fonctionnalité de l&rsquo;API, qui évite d&rsquo;avoir à recharger tous les incidents, quand on vient d&rsquo;en poster un.
+Aujourd’hui, j’ai fignolé l’interface, en joutant des icônes dans le menu. J’ai aussi intégré une nouvelle fonctionnalité de l’API, qui évite d’avoir à recharger tous les incidents, quand on vient d’en poster un.
 
-En tout cas, l&rsquo;application est maintenant disponible sur l&rsquo;Android market.<figure id="attachment_1827" style="width: 150px" class="wp-caption alignnone">
+En tout cas, l’application est maintenant disponible sur l’Android market.<figure id="attachment_1827" style="width: 150px" class="wp-caption alignnone">
 
 [<img src="http://regis.decamps.info/blog/wp-content/uploads/2011/03/img-150x150.png" alt="QR code de téléchargement de Talaria sur l&#039;Android market" title="Talaria sur Android market" width="150" height="150" class="size-thumbnail wp-image-1827" srcset="http://regis.decamps.info/blog/wp-content/uploads/2011/03/img-150x150.png 150w, http://regis.decamps.info/blog/wp-content/uploads/2011/03/img.png 162w" sizes="(max-width: 150px) 100vw, 150px" />](http://goo.gl/201OJ)<figcaption class="wp-caption-text">Scannez ce QR code sur votre mobile pour télécharger l'application</figcaption></figure>

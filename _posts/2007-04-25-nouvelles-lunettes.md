@@ -15,10 +15,10 @@ categories:
   - Perso
   - Shopping
 ---
-Pour changer de lunettes, il faut d&rsquo;abord me rendre chez l&rsquo;opthalmo, qui en découvre que j&rsquo;étais sur-corrigé. Il faut dire que le dernier opthalmo que j&rsquo;avais eu été celui de l&rsquo;hôpital de Beamount, qui avait déterminé mon acuité visuelle à l&rsquo;ancienne: « et avec cette lentille vous voyez mieux ou moins bien? » puis « et là, vous voyez mieux le rouge ou le vert? ».
+Pour changer de lunettes, il faut d’abord me rendre chez l’opthalmo, qui en découvre que j’étais sur-corrigé. Il faut dire que le dernier opthalmo que j’avais eu été celui de l’hôpital de Beamount, qui avait déterminé mon acuité visuelle à l’ancienne: « et avec cette lentille vous voyez mieux ou moins bien? » puis « et là, vous voyez mieux le rouge ou le vert? ».
 
-Ici, c&rsquo;est une machine qui a imprimé ma myopie sur un papier. C&rsquo;est à ce demander pourquoi on paye la consultation 56€ (encore un praticien hors barème, non?) Bon finalement, je suis sur-corrigé, donc il serait préférable que je change mes lunettes transparentes, aussi&#8230;
+Ici, c’est une machine qui a imprimé ma myopie sur un papier. C’est à ce demander pourquoi on paye la consultation 56€ (encore un praticien hors barème, non?) Bon finalement, je suis sur-corrigé, donc il serait préférable que je change mes lunettes transparentes, aussi…;
 
-J&rsquo;en profite aussi pour lui demander si je peux porter des lentilles, parce que la dernière fois: « ah mes monsieur, vous êtes à l&rsquo;hôpital public ici, je ne suis pas équipé pour faire des tests de lentille ».
+J’en profite aussi pour lui demander si je peux porter des lentilles, parce que la dernière fois: « ah mes monsieur, vous êtes à l’hôpital public ici, je ne suis pas équipé pour faire des tests de lentille ».
 
-Bref, je vais bientôt changer de lunettes &#8212; je vous préviens, je les ai prises un peu mode&#8230;
+Bref, je vais bientôt changer de lunettes &#8212; je vous préviens, je les ai prises un peu mode…;

@@ -19,9 +19,9 @@ tags:
   - Linux
   - Scanner
 ---
-On many forums, I&rsquo;ve read my brand new Canon Pixma MP550 would not be supported under Linux.
+On many forums, I’ve read my brand new Canon Pixma MP550 would not be supported under Linux.
 
-Well, that&rsquo;s incorrect 🙂 [Mandriva linux](http://www.mandrivalinux.com/) does not provide out-of-the-box support, but you&rsquo;ll find official Canon drivers for this very nice printer on the [Canon Australian web site](http://www.canon.com.au/Support-Services). Strangely enough, they are not on the sites in other countries :-/
+Well, that’s incorrect 🙂 [Mandriva linux](http://www.mandrivalinux.com/) does not provide out-of-the-box support, but you’ll find official Canon drivers for this very nice printer on the [Canon Australian web site](http://www.canon.com.au/Support-Services). Strangely enough, they are not on the sites in other countries :-/
 
 Here are my instructions:
 
@@ -41,7 +41,7 @@ Browse the results and find the Canon driver for linux.<figure id="attachment_97
 
 You find, the source code, the Redhat RPM package, and the Debian DEB package.
 
-You&rsquo;ll also find the drivers for the scanner.
+You’ll also find the drivers for the scanner.
 
 For a RPM-based distribution, download the RPM packages for 
 
@@ -63,6 +63,6 @@ run the install script
     ./install.sh
     
 
-## That&rsquo;s it
+## That’s it
 
 Check in the [CUPS adminsitration](http://localhost:631/printers/?) that the printer was added, and print the test page.

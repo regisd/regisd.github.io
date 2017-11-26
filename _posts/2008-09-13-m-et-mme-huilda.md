@@ -15,10 +15,10 @@ categories:
 tags:
   - M. et Mme
 ---
-M. et Mme Huilda ont un fils. Comment s&rsquo;appelle-t-il?
+M. et Mme Huilda ont un fils. Comment s’appelle-t-il?
   
 <!--more-->
 
 
   
-Rachid (parce que Huile d&rsquo;arachide)
+Rachid (parce que Huile d’arachide)

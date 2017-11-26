@@ -1,6 +1,6 @@
 ---
 id: 2978
-title: 'Android SQLLiteOpenHelper n&rsquo;aide pas vraiment'
+title: 'Android SQLLiteOpenHelper n’aide pas vraiment'
 date: 2012-10-11T21:37:11+00:00
 author: Régis
 layout: post
@@ -19,9 +19,9 @@ categories:
 tags:
   - Android
 ---
-Arg! Je viens de découvrir avec horreur que `<a href="http://developer.android.com/reference/android/database/sqlite/SQLiteOpenHelper.html">SQLLiteOpenHelper</a>` n&rsquo;était pas _thread-safe_.
+Arg! Je viens de découvrir avec horreur que `<a href="http://developer.android.com/reference/android/database/sqlite/SQLiteOpenHelper.html">SQLLiteOpenHelper</a>` n’était pas _thread-safe_.
 
-Plus précisément, lorsque l&rsquo;on fait un `<a href="http://developer.android.com/reference/android/content/ContentProvider.html">ContentProvider</a>`, on a envie d&rsquo;écrire quelque chose comme:
+Plus précisément, lorsque l’on fait un `<a href="http://developer.android.com/reference/android/content/ContentProvider.html">ContentProvider</a>`, on a envie d’écrire quelque chose comme:
   
 [code]
 	  
@@ -62,7 +62,7 @@ Hé bien, cela peut lever une exception
 <pre>10-11 21:17:24.624: E/AndroidRuntime(29832): Caused by: java.lang.IllegalStateException: Cannot perform this operation because the connection pool has been closed.
 </pre>
 
-En fait, la base qu&rsquo;on manipule est fermée d&rsquo;office lorsque
+En fait, la base qu’on manipule est fermée d’office lorsque
 
   * un autre thread appelle `getWritableDatabase()`. 
   * un autre thread appelle `close()` sur une autre instance de database, obtenue par un autre `SQLLiteOpenHelper`
@@ -70,6 +70,6 @@ En fait, la base qu&rsquo;on manipule est fermée d&rsquo;office lorsque
 Conclusion:
 
   * Réutiliser le même `SQLLiteOpenHelper`
-  * N&rsquo;utiliser que `getWritableDatabase()`
+  * N’utiliser que `getWritableDatabase()`
 
 Plus de détails dans un article en anglais [Database pitfalls](http://www.ragtag.info/2011/feb/1/database-pitfalls/).

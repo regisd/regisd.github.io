@@ -1,6 +1,6 @@
 ---
 id: 2024
-title: 'Suivez l&rsquo;actualité Talaria'
+title: 'Suivez l’actualité Talaria'
 date: 2011-06-06T17:42:10+00:00
 author: Régis
 excerpt: "Vous pouvez suivre l'actualité de Talaria sur Facebook et Twitter"
@@ -19,8 +19,8 @@ categories:
 tags:
   - Talaria
 ---
-Vous pouvez suivre l&rsquo;actualité de l&rsquo;application Talaria à 3 endroits:
+Vous pouvez suivre l’actualité de l’application Talaria à 3 endroits:
 
   * sur ce blog, pour les annonces de nouvelles versions, principalement (pensez au [flux Atom](http://regis.decamps.info/blog/tag/incidents-transports/feed/))
-  * [sur Facebook](http://goo.gl/klbEq): les actualités du blog sont reprises, mais c&rsquo;est aussi un endroit d&rsquo;échange (discussions et sondages sur la prochaine version)
+  * [sur Facebook](http://goo.gl/klbEq): les actualités du blog sont reprises, mais c’est aussi un endroit d’échange (discussions et sondages sur la prochaine version)
   * sur twitter [@talaria_android](http://goo.gl/6f9WE): des messages plus courts et plus nombreux

@@ -15,6 +15,6 @@ categories:
 tags:
   - Firefox
 ---
-Avec les tentatives de \[phishing de plus en plus élaborées\](http://isc.sans.org/diary.php?storyid=1118), la barre d&rsquo;outils de \[Netcraft\](http://news.netcraft.com/) peut se révéler utile.
+Avec les tentatives de \[phishing de plus en plus élaborées\](http://isc.sans.org/diary.php?storyid=1118), la barre d’outils de \[Netcraft\](http://news.netcraft.com/) peut se révéler utile.
 
 http://toolbar.netcraft.com/

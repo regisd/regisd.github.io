@@ -16,8 +16,8 @@ tags:
   - Insolite
   - Moteur de recherche
 ---
-Le propriétaire du site rekrute.com m&rsquo;a envoyé un mail pour m&rsquo;indiquer quelque chose d&rsquo;assez surprenant. En cherchant [ReKrute.com sur Google](http://www.google.fr/search?q=ReKrute.com), le premier moteur de recherche n&rsquo;affiche qu&rsquo;un résultat et c&rsquo;est www.decamps.info !
+Le propriétaire du site rekrute.com m’a envoyé un mail pour m’indiquer quelque chose d’assez surprenant. En cherchant [ReKrute.com sur Google](http://www.google.fr/search?q=ReKrute.com), le premier moteur de recherche n’affiche qu’un résultat et c’est www.decamps.info !
 
 Mais ne vous inquiétez pas, je ne vais pas parler de recrutement au Maroc!
 
-En tout cas, c&rsquo;est la première fois que je vois ainsi un bug flagrant dans Google (la requête fourni des résultats beaucoup plus pertinant que mon blog sur Yahoo!, msn, Teoma, Alltheweb ou Ask Jeeves)
+En tout cas, c’est la première fois que je vois ainsi un bug flagrant dans Google (la requête fourni des résultats beaucoup plus pertinant que mon blog sur Yahoo!, msn, Teoma, Alltheweb ou Ask Jeeves)

@@ -11,9 +11,9 @@ tmac_last_id:
 categories:
   - Général
 ---
-La fête du cinéma aurait pu attirer du monde. Il y a avait plusieurs bons films à l&rsquo;affiche. Et il a fait moche dimanche.
+La fête du cinéma aurait pu attirer du monde. Il y a avait plusieurs bons films à l’affiche. Et il a fait moche dimanche.
   
-Pourtant cette année encore, la fête du cinéma attire moins de monde que l&rsquo;an dernier.
+Pourtant cette année encore, la fête du cinéma attire moins de monde que l’an dernier.
   
 Mais, il y a la coupe du monde (-30% le mardi soir de match, par rapport au lundi).
   

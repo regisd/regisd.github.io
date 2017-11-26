@@ -25,4 +25,4 @@ Since I use Gmail, I have little spam delivered into my inbox. Yet, for a couple
   * Heifner Imbach reads the bible for me, and inadvertently joins a virus as a devil gift
   * Conseils santé sells very cheap medicine
   * B2D1 thinks I should get ready for my email marketing campaign
-  * and the list goes on&#8230; Have spammers found a leak in [gmail anti-spam filter](http://www.google.com/mail/help/fightspam/spamexplained.html)?
+  * and the list goes on…; Have spammers found a leak in [gmail anti-spam filter](http://www.google.com/mail/help/fightspam/spamexplained.html)?

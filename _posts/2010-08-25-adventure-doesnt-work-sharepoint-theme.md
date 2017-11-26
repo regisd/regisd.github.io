@@ -1,6 +1,6 @@
 ---
 id: 1397
-title: 'Adventure (doesn&rsquo;t) work &#8211; SharePoint Theme'
+title: 'Adventure (doesn’t) work – SharePoint Theme'
 date: 2010-08-25T19:51:41+00:00
 author: Régis
 layout: post
@@ -17,7 +17,7 @@ categories:
 tags:
   - SharePoint
 ---
-Let&rsquo;s put aside the fact that the « Adventure works » theme in SharePoint has justified text everywhere&#8230;
+Let’s put aside the fact that the « Adventure works » theme in SharePoint has justified text everywhere…;
 
 I have been wondering how to change the company in the footer of the page:
   
@@ -32,10 +32,10 @@ Well, it is defined in the master page <tt>OrangeSingleLevel.master</tt> with:
 This mean that modifying the company name requires to:
 
   * change the master page on each site that uses this theme to use your own resource file, eg. replace <tt>Resources:cms</tt> by <tt>Resources:brandedcms</tt>
-  * create a new resource file <tt>brandedcms.resx</tt> and package it in a solution<sup><a href="#footnote_0_1397" id="identifier_0_1397" class="footnote-link footnote-identifier-link" title="as explained by&nbsp;Edgar">1</a></sup>
+  * create a new resource file <tt>brandedcms.resx</tt> and package it in a solution<sup><a href="#footnote_0_1397" id="identifier_0_1397" class="footnote-link footnote-identifier-link" title="as explained by Edgar">1</a></sup>
   * ask a system administrator to deploy this solution
 
-In a word: it&rsquo;s painful. My recommandation: don&rsquo;t follow Microsoft practices.
+In a word: it’s painful. My recommandation: don’t follow Microsoft practices.
 
 I think the best practice is to place such variables in a list, so that anyone can edit them ; resource file should be used only to store (language dependant) constants.
 

@@ -25,22 +25,22 @@ tags:
 ---
 <img src="http://regis.decamps.info/blog/wp-content/uploads/2013/01/vz-d7cb7c37-6732-4d9d-85b9-e49d229826c4.jpeg" alt="Affiche de 5 Minutes de plaisir... 30 ans d&#039;emmerdes" width="180" height="246" class="alignleft size-full wp-image-3068" />
 
-Un couple confie ses enfants aux grands-parents et peut enfin se questionner sur l&rsquo;impact des petits monstres dans leur vie.
+Un couple confie ses enfants aux grands-parents et peut enfin se questionner sur l’impact des petits monstres dans leur vie.
 
-C&rsquo;est une comédie qui se présente donc sous une forme hyper classique. Mais cela faisait longtemps que je n&rsquo;en avais pas vu, et je dois dire que j&rsquo;ai beaucoup aimé.
+C’est une comédie qui se présente donc sous une forme hyper classique. Mais cela faisait longtemps que je n’en avais pas vu, et je dois dire que j’ai beaucoup aimé.
 
-**Rating:**&nbsp;![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9734;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "4/5")&nbsp;
+**Rating:** ![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9734;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "4/5") 
 
 <!--more-->
 
 
   
-J&rsquo;ai trouvé le texte très bien écrit, avec bon nombre de jeux de mots.
+J’ai trouvé le texte très bien écrit, avec bon nombre de jeux de mots.
 
-L&rsquo;utilisation de l&rsquo;espace est remarquable. La salle de la _Comédie Eiffel_ est toute petite (mais étonnament confortable, en fait), alors les acteurs n&rsquo;hésitent pas à utiliser la porte qui donne sur la rue.
+L’utilisation de l’espace est remarquable. La salle de la _Comédie Eiffel_ est toute petite (mais étonnament confortable, en fait), alors les acteurs n’hésitent pas à utiliser la porte qui donne sur la rue.
 
-Il y a plusieurs interactions avec le public. Par exemple, l&rsquo;acteur a saisi un moment où j&rsquo;ai ri un peu fort pour improviser une transition sur la scène suivante. 
+Il y a plusieurs interactions avec le public. Par exemple, l’acteur a saisi un moment où j’ai ri un peu fort pour improviser une transition sur la scène suivante. 
 
-D&rsquo;ailleurs cet acteur joue vraiment bien; j&rsquo;ai trouvé l&rsquo;actrice nettement en deça. Mais il est possible que le texte lui soit un peu à son avantage.
+D’ailleurs cet acteur joue vraiment bien; j’ai trouvé l’actrice nettement en deça. Mais il est possible que le texte lui soit un peu à son avantage.
 
-Bref, pour 9€, on peut voir une bonne petite comédie, dans bien des cas, ce sera mieux que d&rsquo;aller au cinéma!
+Bref, pour 9€, on peut voir une bonne petite comédie, dans bien des cas, ce sera mieux que d’aller au cinéma!

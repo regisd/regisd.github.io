@@ -18,4 +18,4 @@ tags:
 ---
 Demain, je serai au forum architecte organisé par Microsoft sur le thème \[Industrialisation des développements, vers une Software Factory\](http://www.microsoft.com/france/events/event.aspx?EventID=118766270)
 
-Est-ce que j&rsquo;ai une chance de rencontrer quelqu&rsquo;un que je connais?
+Est-ce que j’ai une chance de rencontrer quelqu’un que je connais?

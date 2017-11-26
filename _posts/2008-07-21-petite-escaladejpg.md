@@ -20,6 +20,6 @@ tags:
   <a href="http://www.flickr.com/photos/wakaseoo/2730019754/" title="photo sharing"><img src="http://farm4.static.flickr.com/3067/2730019754_d6fdf77359_t.jpg" alt="Petite escalade.jpg" /></a><br /> <span style="font-size: 0.8em; margin-top: 0px;"><br /> <a href="http://www.flickr.com/photos/wakaseoo/2730019754/">Petite escalade.jpg</a>,<br /> originally uploaded by <a href="http://www.flickr.com/people/wakaseoo/">wakaseoo</a>.<br /> </span>
 </div>
 
-Aujourd&rsquo;hui, escalade sur des voies faciles, pour revoir les manipulations et reprendre confiance dans les chaussons.
+Aujourd’hui, escalade sur des voies faciles, pour revoir les manipulations et reprendre confiance dans les chaussons.
   
 <br clear="all" />

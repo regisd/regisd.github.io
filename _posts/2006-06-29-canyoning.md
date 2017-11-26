@@ -14,6 +14,6 @@ categories:
   - Général
   - Vacances
 ---
-Je pars fin juillet en [canyoning avec l&rsquo;UCPA](http://www.ucpa-vacances.com/programme.aspx?univers=1&programme=SEABIEM10&tri=&page=1).
+Je pars fin juillet en [canyoning avec l’UCPA](http://www.ucpa-vacances.com/programme.aspx?univers=1&programme=SEABIEM10&tri=&page=1).
 
-Le confort a l&rsquo;air sommaire. En tout cas, ça fait longtemps que je n&rsquo;ai pas dormi dans une tente. J&rsquo;espère que ça ne sera pas trop physique. Ouh, il faudrait que je retourne un peu à la piscine pour me préparer. Mon Dieur, mais qu&rsquo;est-ce que j&rsquo;ai choisi?
+Le confort a l’air sommaire. En tout cas, ça fait longtemps que je n’ai pas dormi dans une tente. J’espère que ça ne sera pas trop physique. Ouh, il faudrait que je retourne un peu à la piscine pour me préparer. Mon Dieur, mais qu’est-ce que j’ai choisi?

@@ -16,8 +16,8 @@ categories:
 tags:
   - Adsl
 ---
-Depuis que je suis passé en dégroupage total chez Neuf, je n&rsquo;ai plus de téléphone. 
+Depuis que je suis passé en dégroupage total chez Neuf, je n’ai plus de téléphone. 
 
-Plus précisément, j&rsquo;ai le téléphone (en VoIP) mais la connexion ADSL est désynchronisée au bout de quelques secondes au téléphone. Il est inutilisable.
+Plus précisément, j’ai le téléphone (en VoIP) mais la connexion ADSL est désynchronisée au bout de quelques secondes au téléphone. Il est inutilisable.
 
-J&rsquo;ai appelé maintes fois le service technique (il me semble d&rsquo;ailleurs qu&rsquo;il est bien meilleur depuis que SFR a racheté Neuf-Cégétel). Après des vérifications réseau qui n&rsquo;ont rien révélé d&rsquo;anormal, SFR m&rsquo;offre un nouveau modem. Je croise les doigts! Peut-être que j&rsquo;aurais même la télé, ce serait pas mal, vu qu&rsquo;elle fait partie de mon abonnement&#8230;
+J’ai appelé maintes fois le service technique (il me semble d’ailleurs qu’il est bien meilleur depuis que SFR a racheté Neuf-Cégétel). Après des vérifications réseau qui n’ont rien révélé d’anormal, SFR m’offre un nouveau modem. Je croise les doigts! Peut-être que j’aurais même la télé, ce serait pas mal, vu qu’elle fait partie de mon abonnement…;

@@ -17,8 +17,8 @@ tags:
   - Jardin
   - Paris
 ---
-Le parvis de l&rsquo;Hôtel de Ville est revêtu d&rsquo;un jardin éphémaire. 3000m² n&rsquo;est pas une très grande surface, mais je trouve cette verdure fort appréciable.
+Le parvis de l’Hôtel de Ville est revêtu d’un jardin éphémaire. 3000m² n’est pas une très grande surface, mais je trouve cette verdure fort appréciable.
 
 ![Jardin éphémaire face à l'Hôtel de ville](http://static.flickr.com/3065/2593262223_6dec5c753f.jpg?v=0)
 
-Plus d&rsquo;informations: [Le parvis de l&rsquo;Hôtel de Ville se transforme en jardin !](http://www.paris.fr/portail/Parcs/Portal.lut?page_id=104&document_type_id=2&document_id=29370&portlet_id=11103)
+Plus d’informations: [Le parvis de l’Hôtel de Ville se transforme en jardin !](http://www.paris.fr/portail/Parcs/Portal.lut?page_id=104&document_type_id=2&document_id=29370&portlet_id=11103)

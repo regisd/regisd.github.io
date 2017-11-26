@@ -21,7 +21,7 @@ tags:
   - Concert
   - Festival
 ---
-J&rsquo;ai adoré [Shaka Ponk](http://www.lastfm.fr/music/Shaka+Ponk "Shaka Ponk sur Last.fm") qui a enflammé l&rsquo;hyppodrome
+J’ai adoré [Shaka Ponk](http://www.lastfm.fr/music/Shaka+Ponk "Shaka Ponk sur Last.fm") qui a enflammé l’hyppodrome
   
 <!--more-->
 

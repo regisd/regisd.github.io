@@ -14,14 +14,14 @@ categories:
   - Actualités
   - Politique
 ---
-Danone, Arcelor, la série continue avec Suez. Devant l&rsquo;offensive
+Danone, Arcelor, la série continue avec Suez. Devant l’offensive
   
-[d&rsquo;Enel et de Veolia](http://www.latribune.fr/Tribune/Articles.nsf/ArticlesWeb/IDC84BE35F34F2B28FC1257126004CDB90*-Veolia-reconnait-sa-participation-au-projet-d-OPA-sur-Suez?OpenDocument)), le gouvernement effectue un rapprochement éclair de Suez avec Gaz de France. 
+[d’Enel et de Veolia](http://www.latribune.fr/Tribune/Articles.nsf/ArticlesWeb/IDC84BE35F34F2B28FC1257126004CDB90*-Veolia-reconnait-sa-participation-au-projet-d-OPA-sur-Suez?OpenDocument)), le gouvernement effectue un rapprochement éclair de Suez avec Gaz de France. 
 
-Et tant pis s&rsquo;il faut modifier la loi sur la proportion du capital détenu par l&rsquo;État pour que Suez soit à l&rsquo;abri d&rsquo;un achat.
+Et tant pis s’il faut modifier la loi sur la proportion du capital détenu par l’État pour que Suez soit à l’abri d’un achat.
 
-Aujourd&rsquo;hui, la comission de Bruxelles demande des explications au gouvernement (car on a l&rsquo;impression d&rsquo;une entrave à la libre circulation des capitaux).
+Aujourd’hui, la comission de Bruxelles demande des explications au gouvernement (car on a l’impression d’une entrave à la libre circulation des capitaux).
 
-J&rsquo;ai quand même du mal à comprendre pourquoi on s&rsquo;attache temps à la protection des grands groupes. En attendant, on n&rsquo;a aucune « success story » (à la Google, Amazon, Cisco) en France. Est-ce bien efficace comme stratégie? Des startups ont-elles une chance de se créer en France quand les marchés sont dominés par des champions nationaux? Et les grands groupes s&rsquo;accaparent forcément les talents. Faut-il rappeler que Cisco a été fondé par des employés d&rsquo;AT&T suite à son éclatement?
+J’ai quand même du mal à comprendre pourquoi on s’attache temps à la protection des grands groupes. En attendant, on n’a aucune « success story » (à la Google, Amazon, Cisco) en France. Est-ce bien efficace comme stratégie? Des startups ont-elles une chance de se créer en France quand les marchés sont dominés par des champions nationaux? Et les grands groupes s’accaparent forcément les talents. Faut-il rappeler que Cisco a été fondé par des employés d’AT&T suite à son éclatement?
 
-Et puis, cette stratégie de défence éperdue ne pourra marcher encore bien longtemps. Il y a trop de proie potentielles. La capitalisation des entreprises française est très faible (les syndicats qui refusent les fonds de pension peuvent s&rsquo;en féliciter). Grand groupe ou pas, Danone est un nain face à Nestlé, Carrefour pourrait se faire en manger en une bouchée par Walmart. Sans compter les fonds d&rsquo;investissement.
+Et puis, cette stratégie de défence éperdue ne pourra marcher encore bien longtemps. Il y a trop de proie potentielles. La capitalisation des entreprises française est très faible (les syndicats qui refusent les fonds de pension peuvent s’en féliciter). Grand groupe ou pas, Danone est un nain face à Nestlé, Carrefour pourrait se faire en manger en une bouchée par Walmart. Sans compter les fonds d’investissement.

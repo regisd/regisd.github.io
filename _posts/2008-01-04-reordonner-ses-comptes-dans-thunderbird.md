@@ -15,10 +15,10 @@ categories:
 tags:
   - Thunderbird
 ---
-Dans Thunderbird, il est possible d&rsquo;avoir plusieurs comptes. Mais l&rsquo;interface ne permet pas de les réordonner.
+Dans Thunderbird, il est possible d’avoir plusieurs comptes. Mais l’interface ne permet pas de les réordonner.
 
 Bien sûr, on peut toujours bidouiller dans <tt>prefs.js</tt> la ligne
   
 `user_pref("mail.accountmanager.accounts", "account1,account2,account3,..");`
 
-Mais je trouve plus facile d&rsquo;utiliser l&rsquo;[extension Folderpane tools](https://addons.mozilla.org/en-US/thunderbird/addon/258).
+Mais je trouve plus facile d’utiliser l’[extension Folderpane tools](https://addons.mozilla.org/en-US/thunderbird/addon/258).

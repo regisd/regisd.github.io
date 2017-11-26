@@ -18,8 +18,8 @@ tags:
   - Community
   - Social
 ---
-J&rsquo;ai beaucoup aimé Madrid, mais l&rsquo;hôtel que j&rsquo;ai choisi n&rsquo;était pas du meilleur rapport qualité-prix.
+J’ai beaucoup aimé Madrid, mais l’hôtel que j’ai choisi n’était pas du meilleur rapport qualité-prix.
 
-Et il n&rsquo;est pas évident de faire connaissance une fois sur place (surtout _yo no hablo castellano_). 
+Et il n’est pas évident de faire connaissance une fois sur place (surtout _yo no hablo castellano_). 
 
-Et là, on m&rsquo;a recommandé [Couchsurfing](http://www.couchsurfing.com/people/WAKASEOO).
+Et là, on m’a recommandé [Couchsurfing](http://www.couchsurfing.com/people/WAKASEOO).

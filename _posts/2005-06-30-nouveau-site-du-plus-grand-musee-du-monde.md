@@ -17,4 +17,4 @@ categories:
 tags:
   - Paris
 ---
-On l&rsquo;aura attendu un certain temps, mais le voici enfin: [le nouveau site du musée du Louvre](http://www.louvre.fr/)
+On l’aura attendu un certain temps, mais le voici enfin: [le nouveau site du musée du Louvre](http://www.louvre.fr/)

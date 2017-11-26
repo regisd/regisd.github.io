@@ -15,6 +15,6 @@ tags:
   - Google
   - Humour
 ---
-Qu&rsquo;il fait chaud! Heureusement, je me suis acheté une bouteille de [Gulp smart drink](http://www.google.com/googlegulp/) 
+Qu’il fait chaud! Heureusement, je me suis acheté une bouteille de [Gulp smart drink](http://www.google.com/googlegulp/) 
   
-C&rsquo;est incroyablement déshydratant et ça m&rsquo;aide à surfer plus longtemps.
+C’est incroyablement déshydratant et ça m’aide à surfer plus longtemps.

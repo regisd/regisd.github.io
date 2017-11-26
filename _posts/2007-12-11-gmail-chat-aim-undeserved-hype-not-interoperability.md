@@ -21,4 +21,4 @@ The Google team has blogged that [Gmail + chat + AIM = crazy delicious](http://g
 
 Well what the GMail developers have made is not interoperability. They have simply released a web based multi-protocol chat. This really does not deserve hype, since Trillian, gaim or kopete have done that for years. One can even argue it is [bad news](http://serendipity.ruwenzori.net/index.php/2007/12/05/aim-for-gmail-users-is-bad-news).
 
-With interoperability, you could be able to send an instant message from Google Talk to a friend on AIM, without opening a AIM account yourself, and without even being aware this friend is on AIM. To achieve this, [AIM should be XMMP compliant, but it&rsquo;s not happening today](http://gregoire.menuel.free.fr/blog/?p=10).
+With interoperability, you could be able to send an instant message from Google Talk to a friend on AIM, without opening a AIM account yourself, and without even being aware this friend is on AIM. To achieve this, [AIM should be XMMP compliant, but it’s not happening today](http://gregoire.menuel.free.fr/blog/?p=10).

@@ -22,17 +22,17 @@ tags:
 ---
 Vous avez sans doute entendu parler des [menaces de la RATP](http://www.readtfb.net/2011/02/20/incidentsratp-la-lettre/) contre le site [http://incidents-ratp.com/](http://incidents-transports.com/) qui a pour but de
 
-> Vous donner l&rsquo;accès librement et gratuitement aux informations concernant vos transports en communs 
+> Vous donner l’accès librement et gratuitement aux informations concernant vos transports en communs 
 
-Quoi qu&rsquo;il en soit, [Benoît est en train de développer une application iPhone](http://twitter.com/#!/benoitclouet/status/41998214974554112) pour accéder plus rapidement aux informations trafic des transports en commun.
+Quoi qu’il en soit, [Benoît est en train de développer une application iPhone](http://twitter.com/#!/benoitclouet/status/41998214974554112) pour accéder plus rapidement aux informations trafic des transports en commun.
 
-Et [il m&rsquo;a suggéré de faire la même chose pour Android](http://www.google.com/buzz/regis.decamps/ftg9BFBKNbG). J&rsquo;ai plein de trucs importants à faire, mais une envie soudaine de coder m&rsquo;a pris.
+Et [il m’a suggéré de faire la même chose pour Android](http://www.google.com/buzz/regis.decamps/ftg9BFBKNbG). J’ai plein de trucs importants à faire, mais une envie soudaine de coder m’a pris.
 
-Hier, j&rsquo;ai commencé. Et il me paraît intéressant pour tous les développeurs en herbe de dire combien un tel développement consomme de temps. Hier, j&rsquo;ai donc passé 4 heures pour traiter les tâches suivantes.
+Hier, j’ai commencé. Et il me paraît intéressant pour tous les développeurs en herbe de dire combien un tel développement consomme de temps. Hier, j’ai donc passé 4 heures pour traiter les tâches suivantes.
 
 ### Découvrir le service web
 
-J&rsquo;ai d&rsquo;abord regardé l&rsquo;[API du service](http://incidents-transports.com/dev). C&rsquo;est encore un peu sommaire. 
+J’ai d’abord regardé l’[API du service](http://incidents-transports.com/dev). C’est encore un peu sommaire. 
 
 La liste des incidents est obtenu par un appel REST, dans le format de son choix (XML ou json).
 
@@ -50,17 +50,17 @@ Pas vraiment utile, vu que je vais me baser sur une ancienne version du SDK, afi
 
 ### Initier un nouveau projet
 
-Ça s&rsquo;est l&rsquo;affaire d&rsquo;un ou deux clics 🙂
+Ça s’est l’affaire d’un ou deux clics 🙂
   
-J&rsquo;utilise [bitbucket](https://bitbucket.org/) pour outiller ma gestion de configuration.
+J’utilise [bitbucket](https://bitbucket.org/) pour outiller ma gestion de configuration.
 
-Je laisse l&rsquo;interface vide pour le moment.
+Je laisse l’interface vide pour le moment.
 
 (10 min)
 
 ### Faire le client de service web
 
-Je crée ensuite un modèle objet pour un <tt>Incident</tt>. Il est très simple. Oui, j&rsquo;utilise des variables de classe publiques. Je n&rsquo;ai jamais compris la convention des _getters_&_setters_. Alors, pour un développement mobile, j&rsquo;évite les lourdeurs. (30 min)
+Je crée ensuite un modèle objet pour un <tt>Incident</tt>. Il est très simple. Oui, j’utilise des variables de classe publiques. Je n’ai jamais compris la convention des _getters_&_setters_. Alors, pour un développement mobile, j’évite les lourdeurs. (30 min)
 
 [code]
   
@@ -116,7 +116,7 @@ refresh(entity.getContent());
   
 [/code]
 
-Je passe ensuite au _mappage_ du résultat dans des objets <tt>Incident</tt>. Je pensais au début faire du castor/Jaxb/etc. mais c&rsquo;est trucs sont trop lourds pour un mobile. De base dans le framework, on a du SAX:
+Je passe ensuite au _mappage_ du résultat dans des objets <tt>Incident</tt>. Je pensais au début faire du castor/Jaxb/etc. mais c’est trucs sont trop lourds pour un mobile. De base dans le framework, on a du SAX:
   
 [code]
   
@@ -130,7 +130,7 @@ ArrayList@lt;incident@gt; incidents;
 	  
 private StringBuffer mBuffer;
   
-[&#8230;]
+[…;]
 	  
 public void refresh(InputStream in) throws IOException, SAXException {
 			  
@@ -212,20 +212,20 @@ mBuffer.append(chars, start, length);
   
 [/code]
   
-(1h avec les tests unitaires et l&rsquo;écriture des _setters_ dont j&rsquo;ai besoin)
+(1h avec les tests unitaires et l’écriture des _setters_ dont j’ai besoin)
 
 ### Affichage dans une liste
 
-Je modifie ensuite l&rsquo;interface pour ajouter une <tt>ListView</tt> qui présentera les résultats.
+Je modifie ensuite l’interface pour ajouter une <tt>ListView</tt> qui présentera les résultats.
 
-C&rsquo;est là dessus que j&rsquo;ai passé le plus de temps (2h). J&rsquo;ai d&rsquo;abord cru que je devrais écrire mon propre <tt>Adapter</tt>, alors que j&rsquo;ai finalement pu utiliser le <tt>ArrayAdapter</tt>. Ensuite, j&rsquo;ai mal compris comment celui-ci utilisait le <tt>TexteView</tt>.
+C’est là dessus que j’ai passé le plus de temps (2h). J’ai d’abord cru que je devrais écrire mon propre <tt>Adapter</tt>, alors que j’ai finalement pu utiliser le <tt>ArrayAdapter</tt>. Ensuite, j’ai mal compris comment celui-ci utilisait le <tt>TexteView</tt>.
 
-Et c&rsquo;est le « bonheur » du développement XML. Il faut exécuter dans l&rsquo;émulateur (plusieurs secondes à chaque fois) pour avoir un message d&rsquo;erreur pas toujours très clair&#8230; ou bien une appli qui fonctionne mais n&rsquo;affiche rien. 
+Et c’est le « bonheur » du développement XML. Il faut exécuter dans l’émulateur (plusieurs secondes à chaque fois) pour avoir un message d’erreur pas toujours très clair…; ou bien une appli qui fonctionne mais n’affiche rien. 
 
 ### In fine
 
-Mais [j&rsquo;ai fini par faire marcher cette partie](http://www.google.com/buzz/regis.decamps/hm5mX2tu7ie).
+Mais [j’ai fini par faire marcher cette partie](http://www.google.com/buzz/regis.decamps/hm5mX2tu7ie).
   
 [<img alt="Copie d&#039;écran" src="http://lh6.googleusercontent.com/_V9wavuJ6Kso/TWw1ApL89XI/AAAAAAAAYQ8/CTgrWzJrL-E/Capture%20d%E2%80%99e%CC%81cran%202011-03-01%20a%CC%80%2000.46.27.png" title="liste des Incidents" class="alignnone" width="336" height="494" />](http://www.google.com/buzz/regis.decamps/hm5mX2tu7ie)
 
-Et ce soir, j&rsquo;avais mieux à faire 😉
+Et ce soir, j’avais mieux à faire 😉

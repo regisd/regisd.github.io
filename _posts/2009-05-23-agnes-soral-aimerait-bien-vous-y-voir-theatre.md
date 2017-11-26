@@ -1,16 +1,16 @@
 ---
 id: 1034
-title: 'Agnès Soral &#8211; Aimerait bien vous y voir'
+title: 'Agnès Soral – Aimerait bien vous y voir'
 date: 2009-05-23T01:10:57+00:00
 author: Syndication
 excerpt: |
   
-  &nbsp;
-  Excellent divertissement pour adultesSa note&nbsp;:&nbsp;5 / 5 Spectacle drôle, souvent un peu sexy sans être vulgaire. Le texte est bien écrit, le spectacle ne s'essouffle à aucun moment. Agnès sait aussi interagi...
+   
+  Excellent divertissement pour adultesSa note : 5 / 5 Spectacle drôle, souvent un peu sexy sans être vulgaire. Le texte est bien écrit, le spectacle ne s'essouffle à aucun moment. Agnès sait aussi interagi...
 layout: post
 permalink: /2009/05/agnes-soral-aimerait-bien-vous-y-voir-theatre/
 syndication_source:
-  - 'Webcity&nbsp;:&nbsp;wakaseoo - Ses nouveaux avis'
+  - 'Webcity : wakaseoo - Ses nouveaux avis'
 syndication_source_uri:
   - http://www.webcity.fr/wakaseoo/avis
 syndication_source_id:
@@ -31,7 +31,7 @@ tags:
   - Humour
   - One-man show
 ---
-**Rating:**&nbsp;![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9734;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "4/5")&nbsp;
+**Rating:** ![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9734;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "4/5") 
 
 <table border="0">
   <tr>
@@ -40,15 +40,15 @@ tags:
     </td>
     
     <td valign="top">
-      &nbsp;
+       
     </td>
     
     <td valign="top">
       <a href="http://www.webcity.fr/wakaseoo/95476-e/avis">Excellent divertissement pour adultes</a></p> 
       
       <p>
-        Spectacle drôle, souvent un peu sexy sans être vulgaire. Le texte est bien écrit, le spectacle ne s&rsquo;essouffle à aucun moment. Agnès sait aussi interagir avec le public quand il le faut.
+        Spectacle drôle, souvent un peu sexy sans être vulgaire. Le texte est bien écrit, le spectacle ne s’essouffle à aucun moment. Agnès sait aussi interagir avec le public quand il le faut.
       </p>
       
       <p>
-        Je regrette juste la reprise quasi identique d&rsquo;une réplique de Dany Boon sur le « forfait voyelles » du téléphone cellulaire. &nbsp; <a href="http://www.webcity.fr/wakaseoo/95476-e/avis">Suite</a></td> </tr> </table>
+        Je regrette juste la reprise quasi identique d’une réplique de Dany Boon sur le « forfait voyelles » du téléphone cellulaire.   <a href="http://www.webcity.fr/wakaseoo/95476-e/avis">Suite</a></td> </tr> </table>

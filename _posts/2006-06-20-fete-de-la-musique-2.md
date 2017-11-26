@@ -15,6 +15,6 @@ categories:
 tags:
   - Concert
 ---
-Au premier coup d&rsquo;oeuil, j&rsquo;ai été suis assez impressionné par le [site de la fête de la musique](http://fetedelamusique.culture.fr/programme_france.php): les concerts sont indiqués avec Google maps. En fait, l&rsquo;interface n&rsquo;est pas parfaite &#8212; les regroupements sont déroutants et la recherche est peu conviviale &#8212; mais j&rsquo;applaudis l&rsquo;initiative.
+Au premier coup d’oeuil, j’ai été suis assez impressionné par le [site de la fête de la musique](http://fetedelamusique.culture.fr/programme_france.php): les concerts sont indiqués avec Google maps. En fait, l’interface n’est pas parfaite &#8212; les regroupements sont déroutants et la recherche est peu conviviale &#8212; mais j’applaudis l’initiative.
 
 En tout cas, je pense commencer par les concerts au Palais Royal.

@@ -11,6 +11,6 @@ tmac_last_id:
 categories:
   - Sites web
 ---
-Slashdot s&rsquo;apprête enfin à s&rsquo;habiller de son [nouveau design](http://slashdot.org/tmp/slashdot_redesign/).
+Slashdot s’apprête enfin à s’habiller de son [nouveau design](http://slashdot.org/tmp/slashdot_redesign/).
 
-Les modifications sont minimales. La mise en page est quasiment la même, l&rsquo;affreux vert demeure. Par contre, les articles ne sont plus écrits en italique, ce qui est bien plus lisible, à mon avis.
+Les modifications sont minimales. La mise en page est quasiment la même, l’affreux vert demeure. Par contre, les articles ne sont plus écrits en italique, ce qui est bien plus lisible, à mon avis.

@@ -13,9 +13,9 @@ dsq_thread_id:
 categories:
   - Actualités
 ---
-Après [Danone, Arcelor puis Gaz de France](http://regis.decamps.info/blog/2006/03/patriotisme-economique-acte-3/) on parle de nouveau de Patriotisme économique. Mais cette fois, pour dire qu&rsquo;il n&rsquo;y en a pas eu. 
+Après [Danone, Arcelor puis Gaz de France](http://regis.decamps.info/blog/2006/03/patriotisme-economique-acte-3/) on parle de nouveau de Patriotisme économique. Mais cette fois, pour dire qu’il n’y en a pas eu. 
 
-La SNCF a en effet choisi les trains de Bombardier (plutôt que ceux d&rsquo;Asltom) pour renouveler le matériel de banlieue Transilien. J&rsquo;ai cru comprendre que ces trains étaient meilleurs et moins chers que les appareils d&rsquo;Alstom. Sans doctrine, je pense donc que c&rsquo;est un bon choix.
+La SNCF a en effet choisi les trains de Bombardier (plutôt que ceux d’Asltom) pour renouveler le matériel de banlieue Transilien. J’ai cru comprendre que ces trains étaient meilleurs et moins chers que les appareils d’Alstom. Sans doctrine, je pense donc que c’est un bon choix.
 
 Philippe de Villiers critique ce choix
 
@@ -23,4 +23,4 @@ Philippe de Villiers critique ce choix
 
 Visiblement, les trains seront fabriqués en France, donc cet argument ne tient pas.
 
-D&rsquo;autres détracteurs de ce choix notent que les villes de Toronto et Montréal ont retenu Bombardier sans appel d&rsquo;offre, et que Bombardier bénéficie de contrats rentables là-bas ce qui permet au constructeur canadien d&rsquo;être compétitif à l&rsquo;international. Il aurait donc été légitime d&rsquo;invoquer la réciprocité pour refuser la proposition de Bombardier. Mais finalement, j&rsquo;en déduis que ce sont les contribuables canadiens qui payent le prix bas dont nous bénéficions. En quoi le protectionnisme serait-il un bon parti?
+D’autres détracteurs de ce choix notent que les villes de Toronto et Montréal ont retenu Bombardier sans appel d’offre, et que Bombardier bénéficie de contrats rentables là-bas ce qui permet au constructeur canadien d’être compétitif à l’international. Il aurait donc été légitime d’invoquer la réciprocité pour refuser la proposition de Bombardier. Mais finalement, j’en déduis que ce sont les contribuables canadiens qui payent le prix bas dont nous bénéficions. En quoi le protectionnisme serait-il un bon parti?

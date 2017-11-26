@@ -20,11 +20,11 @@ categories:
   <a href="http://www.flickr.com/photos/wakaseoo/1801073374/" title="photo sharing"><img src="http://farm3.static.flickr.com/2197/1801073374_0d1c6be525_m.jpg" alt="" style="border: solid 2px #000000;" /></a><br /> <br /> <span style="font-size: 0.9em; margin-top: 0px;"><br /> <a href="http://www.flickr.com/photos/wakaseoo/1801073374/">Ferrari Accessoires et Merchandising</a><br /> <br /> Originally uploaded by <a href="http://www.flickr.com/people/wakaseoo/">wakaseoo</a><br /> </span>
 </div>
 
-Avenue de l&rsquo;Opéra, il y a une boutique Ferrari ou on peut acheter t-shirt, casquette et petites reproductions. 
+Avenue de l’Opéra, il y a une boutique Ferrari ou on peut acheter t-shirt, casquette et petites reproductions. 
   
 Ce jour-là, en face de la boutique, le grand modèle vient faire une livraison.
 
-**Edit:** [36 Avenue de l&rsquo;Opéra, 75002 Paris](http://maps.google.fr/places/fr/paris/avenue-de-l'op%C3%A9ra/36/-ferrari-accessoires-et-merchandising)
+**Edit:** [36 Avenue de l’Opéra, 75002 Paris](http://maps.google.fr/places/fr/paris/avenue-de-l'op%C3%A9ra/36/-ferrari-accessoires-et-merchandising)
   
 tel 01 42 65 24 24‎
   

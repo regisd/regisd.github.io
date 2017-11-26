@@ -15,9 +15,9 @@ categories:
 tags:
   - Espagne
 ---
-J&rsquo;ai passé une très bonne semaine de vacances à Barcelone. J&rsquo;ai visité la capitale catalane pour la première fois. L&rsquo;architecture est très intéressante. Le centre historique est très latin ; le quartier plus récent de l&rsquo;Eixample est au contraire à l&rsquo;image de Madrid, très aéré, très allemand.
+J’ai passé une très bonne semaine de vacances à Barcelone. J’ai visité la capitale catalane pour la première fois. L’architecture est très intéressante. Le centre historique est très latin ; le quartier plus récent de l’Eixample est au contraire à l’image de Madrid, très aéré, très allemand.
 
-Les musées sont intéressants sans être exceptionnels. J&rsquo;ai adoré le musée Miro, mais ai été assez déçu par le musée d&rsquo;art contemporain. Beaubourg reste loin devant par la richesse et la diversité de sa collection.
+Les musées sont intéressants sans être exceptionnels. J’ai adoré le musée Miro, mais ai été assez déçu par le musée d’art contemporain. Beaubourg reste loin devant par la richesse et la diversité de sa collection.
 
 Évidemment, il a fait un temps superbe 🙂
   

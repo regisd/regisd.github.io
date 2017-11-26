@@ -21,9 +21,9 @@ tags:
   - Chrome
   - Google
 ---
-Google chrome has been a major news in the web browser space. I couldn&rsquo;t help but to test it. It&rsquo;s incredibly lightweight and fast, and brings a fair amount of innovations. I have been using it more and more since the latest version of firefox 3.5, which has disappointed me a lot &#8212; firefox is slow to start, and I&rsquo;m pretty sure there are many holes for memory leaks. 
+Google chrome has been a major news in the web browser space. I couldn’t help but to test it. It’s incredibly lightweight and fast, and brings a fair amount of innovations. I have been using it more and more since the latest version of firefox 3.5, which has disappointed me a lot &#8212; firefox is slow to start, and I’m pretty sure there are many holes for memory leaks. 
 
-Google chrome is a very fast web browser, is lightweight, quick to start and innovating. However the linux version didn&rsquo;t support plugins. As such, Flash player was not support, and I had to choice but to stick on firefox/opera for browsing dailymotion, facebook games and so on.
+Google chrome is a very fast web browser, is lightweight, quick to start and innovating. However the linux version didn’t support plugins. As such, Flash player was not support, and I had to choice but to stick on firefox/opera for browsing dailymotion, facebook games and so on.
 
 The latest builds of Chrome has an experimental support of mozilla plugins. I now have flash 🙂<figure id="attachment_925" style="width: 350px" class="wp-caption alignnone">
 
@@ -34,7 +34,7 @@ The latest builds of Chrome has an experimental support of mozilla plugins. I no
   
     `chrome --enable-plugins`
 
-Oh by the way, I&rsquo;ve made a quick script to easily install or upgrade chrome on linux
+Oh by the way, I’ve made a quick script to easily install or upgrade chrome on linux
 
     #!/bin/sh
     DEST=/usr/local/google/chrome

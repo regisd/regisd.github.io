@@ -13,6 +13,6 @@ tmac_last_id:
 categories:
   - Général
 ---
-Je planifie une mise à jour de wordpress aujourd&rsquo;hui entre 23:30 et 00:30.
+Je planifie une mise à jour de wordpress aujourd’hui entre 23:30 et 00:30.
   
 Le blog sera inaccessible dans cet intervalle.

@@ -1,6 +1,6 @@
 ---
 id: 521
-title: 'J&rsquo;ai repeint ma salle de bain'
+title: 'J’ai repeint ma salle de bain'
 date: 2008-05-20T20:13:54+00:00
 author: Régis
 layout: post

@@ -14,12 +14,12 @@ categories:
 tags:
   - DADVSI
 ---
-Lors de l&rsquo;inauguration du \[site de propagande sur DADVSI\](http://lestelechargements.com/), le Ministre de la Culture prononcé un \[discours\](http://www.culture.gouv.fr/culture/actualites/index-telecharge.htm)
+Lors de l’inauguration du \[site de propagande sur DADVSI\](http://lestelechargements.com/), le Ministre de la Culture prononcé un \[discours\](http://www.culture.gouv.fr/culture/actualites/index-telecharge.htm)
 
 > Le projet de loi concilie la protection des œuvres et l’utilisation par chacun des œuvres licitement acquises : il garantit la copie privée !
 > 
 > Le projet de loi concilie le principe de l’interopérabilité : une œuvre acquise légalement doit pouvoir être lue sur n’importe quel matériel !
 
-C&rsquo;est très louable, mais je ne peux que me demander comment y parvenir.
+C’est très louable, mais je ne peux que me demander comment y parvenir.
 
-Aujourd&rsquo;hui tous les dispositifs de « protection des œuvres » (on parle de DRM) empêchent toute lecture sous Linux.
+Aujourd’hui tous les dispositifs de « protection des œuvres » (on parle de DRM) empêchent toute lecture sous Linux.

@@ -13,8 +13,8 @@ categories:
   - Linux
   - Mobile
 ---
-Avant pour envoyer un fichier sur mon téléphone par mobile, je passais par le client obex de KDE. C&rsquo;était pas très bien intégré, mais ça marchait.
+Avant pour envoyer un fichier sur mon téléphone par mobile, je passais par le client obex de KDE. C’était pas très bien intégré, mais ça marchait.
 
-Maintenant, ils ont tout réécrit pour l&rsquo;incorporer dans kioslave. C&rsquo;est probablement une solution plus élégante, mais ça ne marche plus.
+Maintenant, ils ont tout réécrit pour l’incorporer dans kioslave. C’est probablement une solution plus élégante, mais ça ne marche plus.
 
-Du coup, je suis obligé d&rsquo;envoyer mes fichiers avec le client obexftp en ligne de commande&#8230; (d&rsquo;ailleurs je me suis fait [un petit wrapper](http://shellutils.googlecode.com/svn/trunk/send2bt.sh) pour ça).
+Du coup, je suis obligé d’envoyer mes fichiers avec le client obexftp en ligne de commande…; (d’ailleurs je me suis fait [un petit wrapper](http://shellutils.googlecode.com/svn/trunk/send2bt.sh) pour ça).

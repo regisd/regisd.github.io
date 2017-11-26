@@ -1,6 +1,6 @@
 ---
 id: 1803
-title: 'Bêta publique de l&rsquo;application Incidents-Transports'
+title: 'Bêta publique de l’application Incidents-Transports'
 date: 2011-03-08T23:55:02+00:00
 author: Régis
 layout: post
@@ -23,4 +23,4 @@ tags:
   - Android
   - Talaria
 ---
-Vous pouvez maintenant [télécharger la bêta publique de l&rsquo;application Incidents-Transports](http://regis.decamps.info/blog/projects/incidents-transports/).
+Vous pouvez maintenant [télécharger la bêta publique de l’application Incidents-Transports](http://regis.decamps.info/blog/projects/incidents-transports/).

@@ -22,4 +22,4 @@ Alright, I restart my X11 server. I can log in, and during the initialisation of
 
 My first idea was that the wine applicaiton was still in the KDE session. Being exectuted during the startup, it would push the new unsupported video mode.
 
-Actually, it&rsquo;s much more simple. There is a configuration file called <tt>~/.kde4/share/config/krandrrc</tt> which defines the resolution, à la randr ([X Resize and Rotate Extension](http://en.wikipedia.org/wiki/XRandR))
+Actually, it’s much more simple. There is a configuration file called <tt>~/.kde4/share/config/krandrrc</tt> which defines the resolution, à la randr ([X Resize and Rotate Extension](http://en.wikipedia.org/wiki/XRandR))

@@ -1,6 +1,6 @@
 ---
 id: 682
-title: 'Sunrise on Las Vegas&rsquo; strips'
+title: 'Sunrise on Las Vegas’ strips'
 date: 2008-12-05T16:15:03+00:00
 author: Régis
 layout: post
@@ -19,11 +19,11 @@ tags:
   - Voyage
 ---
 <div style="float: left; text-align: center; margin-right: 15px; margin-bottom: 15px;">
-  <a href="http://www.flickr.com/photos/wakaseoo/3095320611/" title="photo sharing"><img src="http://farm4.static.flickr.com/3118/3095320611_186d887a8e_t.jpg" alt="Sunrise on Las Vegas' strips" /></a><br /> <span style="font-size: 0.8em; margin-top: 0px;"><br /> <a href="http://www.flickr.com/photos/wakaseoo/3095320611/">Sunrise on Las Vegas&rsquo; strips</a>,<br /> originally uploaded by <a href="http://www.flickr.com/people/wakaseoo/">wakaseoo</a>.<br /> </span>
+  <a href="http://www.flickr.com/photos/wakaseoo/3095320611/" title="photo sharing"><img src="http://farm4.static.flickr.com/3118/3095320611_186d887a8e_t.jpg" alt="Sunrise on Las Vegas' strips" /></a><br /> <span style="font-size: 0.8em; margin-top: 0px;"><br /> <a href="http://www.flickr.com/photos/wakaseoo/3095320611/">Sunrise on Las Vegas’ strips</a>,<br /> originally uploaded by <a href="http://www.flickr.com/people/wakaseoo/">wakaseoo</a>.<br /> </span>
 </div>
 
-De notre chambre d&rsquo;hôtel, on a une très belle vue sur le Strips.
+De notre chambre d’hôtel, on a une très belle vue sur le Strips.
 
-Même en s&rsquo;étant couchés à 1h du mat, on se lève un peu avant 6h (le jet lag est dure, à Paris il est 15h)
+Même en s’étant couchés à 1h du mat, on se lève un peu avant 6h (le jet lag est dure, à Paris il est 15h)
   
 <br clear="all" />

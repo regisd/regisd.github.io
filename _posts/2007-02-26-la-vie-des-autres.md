@@ -14,6 +14,6 @@ categories:
   - Cinéma
   - Général
 ---
-Pour faire court: j&rsquo;ai beaucoup aimé.
+Pour faire court: j’ai beaucoup aimé.
 
-L&rsquo;atmosphère kafkaïenne est très crédible, mais si les scènes d&rsquo;interrogatoires sont sans doute très douces par rapport à la réalité.
+L’atmosphère kafkaïenne est très crédible, mais si les scènes d’interrogatoires sont sans doute très douces par rapport à la réalité.

@@ -19,13 +19,13 @@ tags:
   - Android
   - Talaria
 ---
-Lorsque l&rsquo;on fait un appel web, la méthode <tt>execute()</tt> prend un certain temps. Elle fige l&rsquo;interface graphique.
+Lorsque l’on fait un appel web, la méthode <tt>execute()</tt> prend un certain temps. Elle fige l’interface graphique.
 
 Pour éviter cela, il faut exécuter cette tâche longue dans un autre thread, et le framework Android offre la clase [AsyncTask](http://developer.android.com/reference/android/os/AsyncTask.html) pour cela.<figure id="attachment_1779" style="width: 348px" class="wp-caption alignnone">
 
 [<img src="http://regis.decamps.info/blog/wp-content/uploads/2011/03/Capture-d’écran-2011-03-04-à-00.05.37.png" alt="Screencast" title="Tâche asynchrone dans Android" width="348" height="508" class="size-full wp-image-1779" srcset="http://regis.decamps.info/blog/wp-content/uploads/2011/03/Capture-d’écran-2011-03-04-à-00.05.37.png 348w, http://regis.decamps.info/blog/wp-content/uploads/2011/03/Capture-d’écran-2011-03-04-à-00.05.37-239x350.png 239w" sizes="(max-width: 348px) 100vw, 348px" />](http://screencast.com/t/FXfjzUyMW)<figcaption class="wp-caption-text">La liste des incidents est maintenant rafraichie de façon asynchrone.</figcaption></figure> 
 
-Le code m&rsquo;a pris une heure:
+Le code m’a pris une heure:
   
 [code]
 	  
@@ -37,7 +37,7 @@ private Toast toast;
 
 @Override
 		  
-protected Boolean doInBackground(String&#8230; params) {
+protected Boolean doInBackground(String…; params) {
 			  
 String scope = params[0];
 			  
@@ -141,6 +141,6 @@ toast.show();
   
 [/code]
 
-Et même chose pour le poste d&rsquo;un nouvel incident.
+Et même chose pour le poste d’un nouvel incident.
 
-Le refactoring est obligatoire: le <tt>doInBackground()</tt> n&rsquo;a pas accès aux éléments d&rsquo;interface du thread principal &#8212; Il n&rsquo;y a pas d&rsquo;erreur à la compilation, mais un crash à l&rsquo;exécution.</string>
+Le refactoring est obligatoire: le <tt>doInBackground()</tt> n’a pas accès aux éléments d’interface du thread principal &#8212; Il n’y a pas d’erreur à la compilation, mais un crash à l’exécution.</string>

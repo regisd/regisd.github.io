@@ -15,19 +15,19 @@ categories:
 tags:
   - HOWTO
 ---
-À mon travail, j&rsquo;ai un compte Unix sur un serveur AIX sur lequel il n&rsquo;y a pas tout ce que je veux&#8230; Du coup j&rsquo;ai envie d&rsquo;en ajouter un peu&#8230;
+À mon travail, j’ai un compte Unix sur un serveur AIX sur lequel il n’y a pas tout ce que je veux…; Du coup j’ai envie d’en ajouter un peu…;
 
-Première solution: compiler moi-même les programmes que je veux. Problème: il faut le compilateur, il faut arriver à compiler (et ce n&rsquo;est pas toujours évident sous AIX &#8212; c&rsquo;est un PowerPC, beaucoup de programmes systèmes ne sont pas identiques à Linux, l&rsquo;assembleur d&rsquo;IBM est buggé, etc.).
+Première solution: compiler moi-même les programmes que je veux. Problème: il faut le compilateur, il faut arriver à compiler (et ce n’est pas toujours évident sous AIX &#8212; c’est un PowerPC, beaucoup de programmes systèmes ne sont pas identiques à Linux, l’assembleur d’IBM est buggé, etc.).
 
-Deuxième solution; installer les [RPM fournis par Redhat](http://www-03.ibm.com/servers/aix/products/aixos/linux/download.html). Il faut [bidouiller son <tt>.rpmmacros</tt>](http://www.bigbold.com/snippets/posts/show/1715). Mais les RPM d&rsquo;IBM sont mal conçus et ne sont pas relocalisables. Les RPM utilisent en dur <tt>/opt/freeware</tt> et ne sont pas relocalisables. Bouhhhh.
+Deuxième solution; installer les [RPM fournis par Redhat](http://www-03.ibm.com/servers/aix/products/aixos/linux/download.html). Il faut [bidouiller son <tt>.rpmmacros</tt>](http://www.bigbold.com/snippets/posts/show/1715). Mais les RPM d’IBM sont mal conçus et ne sont pas relocalisables. Les RPM utilisent en dur <tt>/opt/freeware</tt> et ne sont pas relocalisables. Bouhhhh.
 
-Dernière solution: extraire le contenu du RPM et l&rsquo;utiliser tel quel. Je fais cela avec <tt>rpm2cpio</tt> et <tt>cpio</tt>. Mais comme le rpm2cpio d&rsquo;AIX semble buggué, j&rsquo;ai eu l&rsquo;idée de faire ça sous Linux pour générer un tgz&#8230; Voici mon programme:
+Dernière solution: extraire le contenu du RPM et l’utiliser tel quel. Je fais cela avec <tt>rpm2cpio</tt> et <tt>cpio</tt>. Mais comme le rpm2cpio d’AIX semble buggué, j’ai eu l’idée de faire ça sous Linux pour générer un tgz…; Voici mon programme:
   
 [python]
   
 #!/bin/sh
   
-#verbose. set to &lsquo;v&rsquo; for verbose mode
+#verbose. set to &lsquo;v’ for verbose mode
   
 v= »
 
@@ -43,7 +43,7 @@ fi
 
 #catch interrupt
   
-trap &lsquo;echo « Cleaning up » >&2; cd « $pwdorig » ; rm -rf $tmp ; exit&rsquo; 1 2 3 15
+trap &lsquo;echo « Cleaning up » >&2; cd « $pwdorig » ; rm -rf $tmp ; exit’ 1 2 3 15
 
 RDS_extract() {
           
@@ -105,4 +105,4 @@ done
   
 [/python]
 
-Et oui, je sais: j&rsquo;ai [réinventé la roue](http://gentoo-portage.com/app-arch/rpm2targz).
+Et oui, je sais: j’ai [réinventé la roue](http://gentoo-portage.com/app-arch/rpm2targz).

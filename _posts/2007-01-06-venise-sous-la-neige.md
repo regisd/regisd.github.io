@@ -17,10 +17,10 @@ tags:
   - Humour
   - Théâtre de boulevard
 ---
-**Rating:**&nbsp;![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "2/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "2/5")![&#9734;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "2/5")![&#9734;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "2/5")![&#9734;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "2/5")&nbsp;
+**Rating:** ![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "2/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "2/5")![&#9734;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "2/5")![&#9734;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "2/5")![&#9734;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "2/5") 
 
-Blandine m&rsquo;a emmené voir [Venise sous la Neige](http://www.venise-sous-la-neige.com/) au Café de la Gare. C&rsquo;était drôle mais pas hilarant. En particulier, le jeu d&rsquo;une des actrices m&rsquo;a déplu.
+Blandine m’a emmené voir [Venise sous la Neige](http://www.venise-sous-la-neige.com/) au Café de la Gare. C’était drôle mais pas hilarant. En particulier, le jeu d’une des actrices m’a déplu.
 
-J&rsquo;ai aussi souffert du confort sommaire du Café de la gare.
+J’ai aussi souffert du confort sommaire du Café de la gare.
 
-Dans la catégorie café théatre, j&rsquo;avais largement préféré [J&rsquo;aime beaucoup ce que vous faites](http://www.au-theatre.com/bdd/PageT/j'aimebeaucoup.htm) et surtout [Tout baigne](http://regis.decamps.info/blog/2006/05/tout-baigne/).
+Dans la catégorie café théatre, j’avais largement préféré [J’aime beaucoup ce que vous faites](http://www.au-theatre.com/bdd/PageT/j'aimebeaucoup.htm) et surtout [Tout baigne](http://regis.decamps.info/blog/2006/05/tout-baigne/).

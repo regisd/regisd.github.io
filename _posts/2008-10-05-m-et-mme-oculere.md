@@ -15,7 +15,7 @@ categories:
 tags:
   - M. et Mme
 ---
-M. et Mme Oculère ont une fille. Comment s&rsquo;appelle-t-elle?
+M. et Mme Oculère ont une fille. Comment s’appelle-t-elle?
   
 <!--more-->
 

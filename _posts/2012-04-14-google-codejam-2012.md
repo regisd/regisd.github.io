@@ -11,13 +11,13 @@ dsq_thread_id:
 categories:
   - Programmation
 ---
-Cette année, j&rsquo;ai réussi à m&rsquo;inscrire et être devant mon ordinateur pour le début de la compétition.
+Cette année, j’ai réussi à m’inscrire et être devant mon ordinateur pour le début de la compétition.
   
 <!--more-->
 
 ### Problem A. Speaking in Tongues
 
-Le premier problème est complètement trivial à résoudre en python. Mais j&rsquo;ai perdu une tentative en répondant
+Le premier problème est complètement trivial à résoudre en python. Mais j’ai perdu une tentative en répondant
   
 `Case #0: our language is impossible to understand`
   
@@ -27,24 +27,24 @@ au lieu de
   
 Arg!
 
-J&rsquo;y ai passé 40 min.
+J’y ai passé 40 min.
 
 ### Problem B. Dancing With the Googlers
 
-Le second problème n&rsquo;est pas très complexe non plus. Mais j&rsquo;ai peur que l&rsquo;algorithme que j&rsquo;ai implémenté échoue dans certains. En tout cas, il passe sur le petit jeu de tests 🙂
+Le second problème n’est pas très complexe non plus. Mais j’ai peur que l’algorithme que j’ai implémenté échoue dans certains. En tout cas, il passe sur le petit jeu de tests 🙂
 
-J&rsquo;y ai passé 35 min
+J’y ai passé 35 min
 
 ### Problem C. Recycled Numbers
 
-Le troisième problème a un énoncé très court, et facile à comprendre, comme j&rsquo;aime.
+Le troisième problème a un énoncé très court, et facile à comprendre, comme j’aime.
   
-Ma première implémentation « naïve » m&rsquo;a pris 30 min.
+Ma première implémentation « naïve » m’a pris 30 min.
 
-Mais, catastrophe, elle n&rsquo;a absolument pas tenu la charge du gros jeu de test. Frustré, je l&rsquo;ai réimplémenté (ce qui m&rsquo;a repris 35 min), et je traite maintenant le gros jeu de tests en moins d&rsquo;une minute. Malheureusement, on n&rsquo;a droit qu&rsquo;à une réponse 🙁
+Mais, catastrophe, elle n’a absolument pas tenu la charge du gros jeu de test. Frustré, je l’ai réimplémenté (ce qui m’a repris 35 min), et je traite maintenant le gros jeu de tests en moins d’une minute. Malheureusement, on n’a droit qu’à une réponse 🙁
 
 ### Problem D. Hall of Mirrors
 
-Quand au dernier problème il ressemble à un moteur de ray-tracing, et je n&rsquo;ai pas la moindre idée de réponse. J&rsquo;y ai consacré en vain 1h de réflexion — c&rsquo;est le cas de le dire&#8230;<h3what 's next?</h3> 
+Quand au dernier problème il ressemble à un moteur de ray-tracing, et je n’ai pas la moindre idée de réponse. J’y ai consacré en vain 1h de réflexion — c’est le cas de le dire…;<h3what 's next?</h3> 
 
-Je suis confiant d&rsquo;assurer les 20 points requis pour passer à la suite, et je vais donc retourner dans la vraie vie. </h3what>
+Je suis confiant d’assurer les 20 points requis pour passer à la suite, et je vais donc retourner dans la vraie vie. </h3what>

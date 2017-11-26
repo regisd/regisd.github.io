@@ -19,12 +19,12 @@ tags:
 <div style="margin-bottom:25px;margin-top:25px;">
   <div style="width:320px;text-align:left;">
     <p>
-      <br /><span style="margin-top:0px;"><a href="http://www.dailymotion.com/video/x1kegf_tete-a-claque-capitaine-kung-fu">Têtes a Claques &#8211; Capitaine kung fu</a><br />Vidéo envoyée par <a href="http://www.dailymotion.com/Kaioso">Kaioso</a><br /></span></div> </div> 
+      <br /><span style="margin-top:0px;"><a href="http://www.dailymotion.com/video/x1kegf_tete-a-claque-capitaine-kung-fu">Têtes a Claques – Capitaine kung fu</a><br />Vidéo envoyée par <a href="http://www.dailymotion.com/Kaioso">Kaioso</a><br /></span></div> </div> 
       
       <p>
         Episode 43 des aventures des têtes a claques.
       </p>
       
       <p>
-        D&rsquo;autres clips, certains étant vraiment excellents sur le site des <a href="http://www.tetesaclaques.tv/">Têtes à claques</a>.
+        D’autres clips, certains étant vraiment excellents sur le site des <a href="http://www.tetesaclaques.tv/">Têtes à claques</a>.
       </p>

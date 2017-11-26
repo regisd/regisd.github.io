@@ -14,6 +14,6 @@ categories:
   - Perso
   - Sport
 ---
-Aujourd&rsquo;hui, j&rsquo;ai ressorti mon VTT et après de long mois d&rsquo;inutilisation, les vitesses étaient complètement déréglées. Le grand plateau était tout simplement inaccessible.
+Aujourd’hui, j’ai ressorti mon VTT et après de long mois d’inutilisation, les vitesses étaient complètement déréglées. Le grand plateau était tout simplement inaccessible.
 
-À l&rsquo;aide de [ce guide qui explique comment régler ses dérailleurs](http://membres.lycos.fr/belgiquevtt/derailleur.htm?), je suis assez fier d&rsquo;avoir réussi à obtenir un réglage tout à fait convenable. C&rsquo;est la première fois que le faisais moi-même (un peu contraint et forcé, la boutique de cycle du centre-ville a fermé).
+À l’aide de [ce guide qui explique comment régler ses dérailleurs](http://membres.lycos.fr/belgiquevtt/derailleur.htm?), je suis assez fier d’avoir réussi à obtenir un réglage tout à fait convenable. C’est la première fois que le faisais moi-même (un peu contraint et forcé, la boutique de cycle du centre-ville a fermé).

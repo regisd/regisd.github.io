@@ -16,16 +16,16 @@ categories:
 tags:
   - Blogmark
 ---
-Merci pour vos suggestions, je ne pensais pas qu&rsquo;il pourrait encore y avoir des choses à faire sur une petite extension comme ça 😉 
+Merci pour vos suggestions, je ne pensais pas qu’il pourrait encore y avoir des choses à faire sur une petite extension comme ça 😉 
 
-Arnet propose par exemple d&rsquo;ajouter un « [blogmark this link](http://regis.decamps.info/blog/2006/03/version-14-testee-et-approuvee/#comment-387)« . J&rsquo;ai cependant un peu de mal à voir l&rsquo;intérêt qu&rsquo;il pourrait y avoir un blogmarker une page que l&rsquo;on n&rsquo;a pas encore vue&#8230; Je viens d&rsquo;ailleurs de découvrir que Firefox proposait la fonction équivalente avec son « bookmark this link ».
+Arnet propose par exemple d’ajouter un « [blogmark this link](http://regis.decamps.info/blog/2006/03/version-14-testee-et-approuvee/#comment-387)« . J’ai cependant un peu de mal à voir l’intérêt qu’il pourrait y avoir un blogmarker une page que l’on n’a pas encore vue…; Je viens d’ailleurs de découvrir que Firefox proposait la fonction équivalente avec son « bookmark this link ».
 
-Sinon, j&rsquo;ai également également à une évolution (bigrement plus complexe à mettre en œuvre). Il s&rsquo;agirait d&rsquo;une parade aux indisponibilités de blogmarks.net, qui a visiblement du mal à monter en charge en ce moment. Face à cela, je pense:
+Sinon, j’ai également également à une évolution (bigrement plus complexe à mettre en œuvre). Il s’agirait d’une parade aux indisponibilités de blogmarks.net, qui a visiblement du mal à monter en charge en ce moment. Face à cela, je pense:
 
 * importer les blogmarks régulièrement et les intégrer dans un menu Blogmarks (qui remplacerait le menu Bookmarks naturel)
   
-* faire un ajout asynchrone d&rsquo;un nouveau site, de façon à pourvoir ajouter un site, même quand blogmarks.net est hors-service.
+* faire un ajout asynchrone d’un nouveau site, de façon à pourvoir ajouter un site, même quand blogmarks.net est hors-service.
 
 Et pour rendre tout le monde heureux, il faudrait laisser ce type de comportement dans des options.
 
-Qu&rsquo;en pensez-vous ? D&rsquo;autres idées ?
+Qu’en pensez-vous ? D’autres idées ?

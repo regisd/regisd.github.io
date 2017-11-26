@@ -13,4 +13,4 @@ dsq_thread_id:
 categories:
   - Général
 ---
-Pour tester SkypeOut, <a href"http://www.skype.com/go/freeskypedays">Skype offre aujourd&rsquo;hui 10 minutes de téléphone</a>.
+Pour tester SkypeOut, <a href"http://www.skype.com/go/freeskypedays">Skype offre aujourd’hui 10 minutes de téléphone</a>.

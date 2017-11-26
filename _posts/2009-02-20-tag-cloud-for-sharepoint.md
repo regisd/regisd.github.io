@@ -19,6 +19,6 @@ tags:
 ---
 Tagging is a notable feature of web2.0 sites. The need for tagging is further increased in MS Sharepoint 2007, due to the new sites templates blog and wiki. 
 
-I&rsquo;m happy to announce that we have developed and released [Nuage](http://www.codeplex.com/nuage), a solution for Sharepoint that allows to tag elements and build a tag cloud.
+I’m happy to announce that we have developed and released [Nuage](http://www.codeplex.com/nuage), a solution for Sharepoint that allows to tag elements and build a tag cloud.
 
 There are already such solutions, such as [CKS](http://www.codeplex.com/CKS/Release/ProjectReleases.aspx?ReleaseId=4820), but we were disappointed by their performance when the number of elements scales. Also we wanted to build a tag cloud on the entire site collection, and this feature was not implemented in the solutions we tried.

@@ -14,6 +14,6 @@ categories:
   - Perso
   - Sites web
 ---
-J&rsquo;ai récemment dû renouveler mon nom de domaine. J&rsquo;en ai profité pour passer de [gandi](http://www.gandi.net) vers [Netim](http://www.netim.fr/). Dans l&rsquo;histoire mon nom de domaine a été hors service, ce qui a été surtout gênant pour les courriers électroniques, en fait. 
+J’ai récemment dû renouveler mon nom de domaine. J’en ai profité pour passer de [gandi](http://www.gandi.net) vers [Netim](http://www.netim.fr/). Dans l’histoire mon nom de domaine a été hors service, ce qui a été surtout gênant pour les courriers électroniques, en fait. 
 
-Tout devrait revenir dans l&rsquo;ordre dans les jours qui viennent.
+Tout devrait revenir dans l’ordre dans les jours qui viennent.

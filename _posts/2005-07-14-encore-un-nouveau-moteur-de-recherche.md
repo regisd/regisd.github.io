@@ -15,4 +15,4 @@ categories:
 tags:
   - Moteur de recherche
 ---
-Dans les fonctionnalités intéressantes, on trouve: un raffinement guidé des critères de recherche, une prévisualisation des résultats, ainsi qu&rsquo;une recherche approchée et même phonétique.
+Dans les fonctionnalités intéressantes, on trouve: un raffinement guidé des critères de recherche, une prévisualisation des résultats, ainsi qu’une recherche approchée et même phonétique.

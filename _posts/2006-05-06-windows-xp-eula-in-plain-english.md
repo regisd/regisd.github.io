@@ -13,4 +13,4 @@ categories:
 ---
 This article deciphers the end user licence agreement of Windows XP.
 
-[read more](http://linuxadvocate.org/articles.php?p=1)&nbsp;|&nbsp;[digg story](http://digg.com/deals/Windows_XP_EULA_in_Plain_English_)
+[read more](http://linuxadvocate.org/articles.php?p=1) | [digg story](http://digg.com/deals/Windows_XP_EULA_in_Plain_English_)

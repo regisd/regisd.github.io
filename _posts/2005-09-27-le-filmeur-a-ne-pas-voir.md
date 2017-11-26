@@ -12,4 +12,4 @@ tmac_last_id:
 categories:
   - Cinéma
 ---
-La plupart des gens qui n&rsquo;ont rien de spécial à dire ouvrent un blog, et c&rsquo;est chiant à lire. Alain Cavalier étant cinéaste, il a fait un film, mais c&rsquo;est tout aussi chiant à regarder.
+La plupart des gens qui n’ont rien de spécial à dire ouvrent un blog, et c’est chiant à lire. Alain Cavalier étant cinéaste, il a fait un film, mais c’est tout aussi chiant à regarder.

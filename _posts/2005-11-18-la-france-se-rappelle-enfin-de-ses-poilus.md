@@ -12,6 +12,6 @@ tmac_last_id:
 categories:
   - Actualités
 ---
-J&rsquo;ai toujours trouvé choquant que la Première Guerre Mondiale soit ainsi tombée dans l&rsquo;oubli en France. En Angleterre, tout le monde porte par exemple une marguerite le premier novembre en mémoire à la bataille de Verdun.
+J’ai toujours trouvé choquant que la Première Guerre Mondiale soit ainsi tombée dans l’oubli en France. En Angleterre, tout le monde porte par exemple une marguerite le premier novembre en mémoire à la bataille de Verdun.
 
-Chaque Chirac propose enfin de se souvenir de la guerre la plus meurtrière que les Français aient subie: [La France offrira des obsèques nationales au dernier « poilu » (Nouvel Obs)](http://permanent.nouvelobs.com/societe/20051118.FAP7167.html?1746) (quelle chance!) ; l&rsquo;appel du 18 juin du Général De Gaulle sera commémoré, et l&rsquo;année 2006 sera marquée par le 90ème anniversaire de la bataille de Verdun.
+Chaque Chirac propose enfin de se souvenir de la guerre la plus meurtrière que les Français aient subie: [La France offrira des obsèques nationales au dernier « poilu » (Nouvel Obs)](http://permanent.nouvelobs.com/societe/20051118.FAP7167.html?1746) (quelle chance!) ; l’appel du 18 juin du Général De Gaulle sera commémoré, et l’année 2006 sera marquée par le 90ème anniversaire de la bataille de Verdun.

@@ -15,10 +15,10 @@ categories:
 tags:
   - M. et Mme
 ---
-M. et Mme Ruinet ont une fille. Comment s&rsquo;appelle-t-elle?
+M. et Mme Ruinet ont une fille. Comment s’appelle-t-elle?
   
 <!--more-->
 
 
   
-Emma (parce qu&rsquo;elle m&rsquo;a ruiné)
+Emma (parce qu’elle m’a ruiné)

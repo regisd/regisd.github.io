@@ -1,6 +1,6 @@
 ---
 id: 257
-title: 'J&rsquo;ai renouvelé mon portable'
+title: 'J’ai renouvelé mon portable'
 date: 2006-04-15T17:24:35+00:00
 author: Régis
 excerpt: Je me suis acheté un Sagem SG346i
@@ -16,6 +16,6 @@ categories:
   - Perso
   - Shopping
 ---
-J&rsquo;ai remplacé mon téléphone portable par un SG346i avec mes points fidélités Bougues Télécom (et 47€).
+J’ai remplacé mon téléphone portable par un SG346i avec mes points fidélités Bougues Télécom (et 47€).
 
 Le <strike>SG346i</strike> \[Sagem my 401x (de son vrai nom) est plutôt pas mal\](http://www.mobile-review.com/review/sagem-my401x-en.shtml).

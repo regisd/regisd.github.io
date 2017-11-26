@@ -18,4 +18,4 @@ tags:
 ---
 Ce midi on a mangé des [Okonimiyaki](http://fr.wikipedia.org/wiki/Okonomiyaki)
   
-C&rsquo;est rigolo, quand c&rsquo;est servi les oignons donnent l&rsquo;impression que le plat est vivant
+C’est rigolo, quand c’est servi les oignons donnent l’impression que le plat est vivant

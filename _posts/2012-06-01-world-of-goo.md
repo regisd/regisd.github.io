@@ -20,11 +20,11 @@ categories:
 tags:
   - Android
 ---
-Ce matin, j&rsquo;ai acheté [World of goo pour Android](https://play.google.com/store/apps/details?id=com.twodboy.worldofgoofull "World of goo sur Google play").
+Ce matin, j’ai acheté [World of goo pour Android](https://play.google.com/store/apps/details?id=com.twodboy.worldofgoofull "World of goo sur Google play").
   
 
 
-**Rating:**&nbsp;![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "5/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "5/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "5/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "5/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "5/5")&nbsp;
+**Rating:** ![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "5/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "5/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "5/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "5/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "5/5") 
 
 Ce jeu est super! Il est dans la lignée des jeux de construction. Mais à la différence de [X Construction](https://play.google.com/store/apps/details?id=de.hms.xconstructionfull "X Construction sur Google play"), World of goo a de superbes graphismes, une ambiance, une histoire, et est très amusant!
 

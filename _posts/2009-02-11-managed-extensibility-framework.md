@@ -41,13 +41,13 @@ public class MefShapesGame:IMefShapesGame
       
 {
           
-&#8230;
+…;
           
 [Import]
           
 public ObservableCollection<Export<IShape, IShapeMetadata>> SelectionShapes { get; private set; }
           
-&#8230;
+…;
       
 }
   
@@ -67,7 +67,7 @@ public class Diagonal : RegularShape
       
 {
           
-&#8230;
+…;
       
 }
   

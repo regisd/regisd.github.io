@@ -22,4 +22,4 @@ tags:
 ---
 [<img src="http://regis.decamps.info/blog/wp-content/uploads/2011/05/Dadrm2011-yellow-triangle.png" alt="" title="Day against DRM" width="208" height="208" class="alignright size-full wp-image-1933" srcset="http://regis.decamps.info/blog/wp-content/uploads/2011/05/Dadrm2011-yellow-triangle.png 208w, http://regis.decamps.info/blog/wp-content/uploads/2011/05/Dadrm2011-yellow-triangle-150x150.png 150w" sizes="(max-width: 208px) 100vw, 208px" />](http://www.april.org/que-sont-les-drm)
   
-Parce que quand j&rsquo;achète une œuvre électronique, je veux pourvoir la voir ou l&rsquo;écouter, où je veux, quand je veux, comme je veux: [non au DRM](http://www.april.org/que-sont-les-drm).
+Parce que quand j’achète une œuvre électronique, je veux pourvoir la voir ou l’écouter, où je veux, quand je veux, comme je veux: [non au DRM](http://www.april.org/que-sont-les-drm).

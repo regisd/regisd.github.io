@@ -11,14 +11,14 @@ dsq_thread_id:
 categories:
   - Théâtre
 ---
-**Rating:**&nbsp;![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "5/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "5/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "5/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "5/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "5/5")&nbsp;
+**Rating:** ![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "5/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "5/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "5/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "5/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "5/5") 
 
-J&rsquo;ai beaucoup aimé cette pièce, à mi-chemin entre théâtre de boulevard et match d&rsquo;impro. 
+J’ai beaucoup aimé cette pièce, à mi-chemin entre théâtre de boulevard et match d’impro. 
 
-Dans une ouverture très contemporaine, les acteurs sont déjà affairés sur scène quand le public entre. La première partie est assez ordinaire, mais les acteurs jouent très bien, les personnages ont des caractères très marqués, il y a de l&rsquo;humour « tarte à la crème » et des jeux de mots. C&rsquo;est déjà très plaisant.
+Dans une ouverture très contemporaine, les acteurs sont déjà affairés sur scène quand le public entre. La première partie est assez ordinaire, mais les acteurs jouent très bien, les personnages ont des caractères très marqués, il y a de l’humour « tarte à la crème » et des jeux de mots. C’est déjà très plaisant.
 
-Jusqu&rsquo;à ce qu&rsquo;un meurtre soit commis. La police arrive et entreprend une reconstitution. Évidemment, les suspects taisent certains de leur propos ou de leurs gestes qui pourraient les inculper. Un peu à la façon d&rsquo;<u>Exercice de style</u>, il n&rsquo;est pas du tout lassant de revivre la même histoire racontée complètement différemment. Surtout que c&rsquo;est au public de signaler ces erreurs et omissions.
+Jusqu’à ce qu’un meurtre soit commis. La police arrive et entreprend une reconstitution. Évidemment, les suspects taisent certains de leur propos ou de leurs gestes qui pourraient les inculper. Un peu à la façon d’<u>Exercice de style</u>, il n’est pas du tout lassant de revivre la même histoire racontée complètement différemment. Surtout que c’est au public de signaler ces erreurs et omissions.
 
-Il y a ici une belle prouesse d&rsquo;acteur de la part du capitaine de police qui doit canaliser et orchestrer les interactions avec le public. Au passage, les premiers rangs ne sont pas une cible de choix, tout le monde peut intervertir.
+Il y a ici une belle prouesse d’acteur de la part du capitaine de police qui doit canaliser et orchestrer les interactions avec le public. Au passage, les premiers rangs ne sont pas une cible de choix, tout le monde peut intervertir.
 
-Enfin, l&rsquo;acteur qui joue le coiffeur gay incarne magnifiquement le personnage.
+Enfin, l’acteur qui joue le coiffeur gay incarne magnifiquement le personnage.

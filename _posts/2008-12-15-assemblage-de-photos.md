@@ -22,8 +22,8 @@ Cette image est un assemblage de trois photographies prises avec des réglages i
 
 [<img src="http://regis.decamps.info/blog/wp-content/uploads/2008/12/screenshot-gimp-assemblage_canape-350x277.png" alt="J&#039;utilise les masques de transparence sur mes layers pour faire mon assemblage photo" title="Assemblage avec the GIMP" width="350" height="277" class="size-medium wp-image-749" srcset="http://regis.decamps.info/blog/wp-content/uploads/2008/12/screenshot-gimp-assemblage_canape-350x277.png 350w, http://regis.decamps.info/blog/wp-content/uploads/2008/12/screenshot-gimp-assemblage_canape.png 748w" sizes="(max-width: 350px) 100vw, 350px" />](http://regis.decamps.info/blog/wp-content/uploads/2008/12/screenshot-gimp-assemblage_canape.png)
   
-J&rsquo;ai choisi une image de référence sur laquelle j&rsquo;ai ajouté le sujet principal par détourage. Pour cela, j&rsquo;ai créé trois couches dans image, et j&rsquo;ai collé une image différente sur chacune d&rsquo;entre elles. Ensuite, j&rsquo;ai appliqué des masques de transparence sur chacuns des
+J’ai choisi une image de référence sur laquelle j’ai ajouté le sujet principal par détourage. Pour cela, j’ai créé trois couches dans image, et j’ai collé une image différente sur chacune d’entre elles. Ensuite, j’ai appliqué des masques de transparence sur chacuns des
   
-layers pour faire apparaitre d&rsquo;avantage le sujet principal (en l&rsquo;occurence: moi :-))
+layers pour faire apparaitre d’avantage le sujet principal (en l’occurence: moi :-))
 
 Question: y a-t-il une façon plus simple/plus automatisée pour réaliser ce genre de montage photo?

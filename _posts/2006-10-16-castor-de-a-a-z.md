@@ -15,7 +15,7 @@ categories:
 ---
 #### Génération des beans
 
-En suivant la convention de maven, j&rsquo;ai placé mon XSD dans <tt>main/castor</tt>.
+En suivant la convention de maven, j’ai placé mon XSD dans <tt>main/castor</tt>.
 
 Ma fonction <tt>toXML()</tt> fait maintenant appel au Marshaller de Castor:
   
@@ -35,7 +35,7 @@ return w.toString();
   
 [/java]
 
-et le Unmarshaller aussi, qui pour l&rsquo;occasion ne sait plus travailler qu&rsquo;avec un objet &lsquo;Settings&rsquo; (d&rsquo;où son changement de nom)
+et le Unmarshaller aussi, qui pour l’occasion ne sait plus travailler qu’avec un objet &lsquo;Settings’ (d’où son changement de nom)
   
 [java]
 	  
@@ -51,11 +51,11 @@ return (Settings) um.unmarshal(xmlSettingsReader);
 
 #### Petit problème avec Castor
 
-Je relance mes tests unitaires (<tt>mvn test</tt>). Et bam, tout est cassé. Castor n&rsquo;indente pas le xml comme XStream. Ce n&rsquo;est rien: je change mes constantes de test.
+Je relance mes tests unitaires (<tt>mvn test</tt>). Et bam, tout est cassé. Castor n’indente pas le xml comme XStream. Ce n’est rien: je change mes constantes de test.
 
-Je relance mes tests et rebam. Mon problème c&rsquo;est que [Castor sérialise l&rsquo;élément racine avec une majuscule](http://permalink.gmane.org/gmane.comp.java.castor.user/4226).
+Je relance mes tests et rebam. Mon problème c’est que [Castor sérialise l’élément racine avec une majuscule](http://permalink.gmane.org/gmane.comp.java.castor.user/4226).
   
-Par exemple, au lieu d&rsquo;avoir
+Par exemple, au lieu d’avoir
   
 [xml]
   
@@ -71,7 +71,7 @@ Castor génère à la place
   
 [/xml]
 
-J&rsquo;ai contourné le problème de la façon suivante
+J’ai contourné le problème de la façon suivante
   
 [java]
 	  
@@ -93,4 +93,4 @@ return w.toString();
   
 [/java]
 
-Cepedant, j&rsquo;aimerais bien comprendre ce qui se passe. [À suivre&#8230;](http://comments.gmane.org/gmane.comp.java.castor.user/4226?set_lines=100000&set_cite=hide)
+Cepedant, j’aimerais bien comprendre ce qui se passe. [À suivre…;](http://comments.gmane.org/gmane.comp.java.castor.user/4226?set_lines=100000&set_cite=hide)

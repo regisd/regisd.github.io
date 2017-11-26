@@ -1,6 +1,6 @@
 ---
 id: 278
-title: 'Everbee n&rsquo;est pas mort'
+title: 'Everbee n’est pas mort'
 date: 2006-06-13T20:14:41+00:00
 author: Régis
 layout: post
@@ -16,4 +16,4 @@ categories:
 tags:
   - Faillite
 ---
-Non, [Everbee](http://www.everbee.fr/) n&rsquo;est pas mort, malgré le départ massif d&rsquo;[iiens](http://www.iiens.net/) récemment. Au contraire, ils remportent des contrats, avec [Wengo](http://openwengo.org/index.php/openwengo/public/homePage/news?payload[newsId]=1) ou [LaCie](http://www.everbee.fr/html/home.php?rub=5&niv=2&art=37) par exemple.
+Non, [Everbee](http://www.everbee.fr/) n’est pas mort, malgré le départ massif d’[iiens](http://www.iiens.net/) récemment. Au contraire, ils remportent des contrats, avec [Wengo](http://openwengo.org/index.php/openwengo/public/homePage/news?payload[newsId]=1) ou [LaCie](http://www.everbee.fr/html/home.php?rub=5&niv=2&art=37) par exemple.

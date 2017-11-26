@@ -17,7 +17,7 @@ tags:
   - JSON
   - Python
 ---
-For a couple of days, I&rsquo;ve been playing with google-app-engine. In order to build a JSON-based RESTful service, Google suggests a [utility method to transform an object into JSON](http://code.google.com/p/google-app-engine-samples/source/browse/trunk/geochat/json.py?r=55).
+For a couple of days, I’ve been playing with google-app-engine. In order to build a JSON-based RESTful service, Google suggests a [utility method to transform an object into JSON](http://code.google.com/p/google-app-engine-samples/source/browse/trunk/geochat/json.py?r=55).
 
 Unfortunately, this does not handle <tt>db/Blob</tt> entries, and fails with
   
@@ -41,15 +41,15 @@ class GqlEncoder(json.JSONEncoder):
 
 Adds support to simplejson JSONEncoders for GQL results and properties by
       
-overriding JSONEncoder&rsquo;s default method.
+overriding JSONEncoder’s default method.
       
 «  » »
       
 def default(self, obj):
           
-if hasattr(obj, &lsquo;\_\_json\_\_&rsquo;):
+if hasattr(obj, &lsquo;\_\_json\_\_’):
               
-return getattr(obj, &lsquo;\_\_json\_\_&rsquo;)()
+return getattr(obj, &lsquo;\_\_json\_\_’)()
 
 if isinstance(obj, db.GqlQuery):
               
@@ -69,11 +69,11 @@ if isinstance(data, str):
                       
 \# db.Blob inherits from str
                       
-data = data.encode(&lsquo;string-escape&rsquo;)
+data = data.encode(&lsquo;string-escape’)
                   
 output[field] = data
               
-output[&lsquo;id&rsquo;] = obj.key().id()
+output[&lsquo;id’] = obj.key().id()
               
 return output
   

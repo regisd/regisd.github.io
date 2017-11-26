@@ -19,6 +19,6 @@ tags:
   - Logo
   - Subliminal
 ---
-Toujours dans la série des graphismes qui ont un message caché, voici la pochette de Mario galaxy. J&rsquo;ai passé en sépia l&rsquo;image, sauf les lettres qui ont une étoile brillante.<figure id="attachment_876" style="width: 150px" class="wp-caption alignnone">
+Toujours dans la série des graphismes qui ont un message caché, voici la pochette de Mario galaxy. J’ai passé en sépia l’image, sauf les lettres qui ont une étoile brillante.<figure id="attachment_876" style="width: 150px" class="wp-caption alignnone">
 
 <img src="http://regis.decamps.info/blog/wp-content/uploads/2009/05/super_mario_galaxy-150x150.jpg" alt="Super mario galaxy says You are Mr gay" title="super_mario_galaxy" width="150" height="150" class="size-thumbnail wp-image-876" /><figcaption class="wp-caption-text">Super mario galaxy says You are Mr gay</figcaption></figure>

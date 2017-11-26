@@ -15,7 +15,7 @@ categories:
 ---
 Ingrédients
   
-&#8212;&#8212;&#8212;&#8211;
+&#8212;&#8212;&#8212;–
 
 * 1 pâte brisée
   
@@ -31,9 +31,9 @@ Ingrédients
 
 Préparation: 15 min
   
-&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8211;
+&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;–
   
-J&rsquo;achète ma pâte en rouleau. La laisser à température ambiante pour la dérouler plus facilement.
+J’achète ma pâte en rouleau. La laisser à température ambiante pour la dérouler plus facilement.
 
 Couper les tomates en lamelles fines et les laisser égoutter.
   
@@ -55,9 +55,9 @@ Faire cuire 30min à 165°, en posant le moule directement sur le bas du four.
 
 Service
   
-&#8212;&#8212;&#8211;
+&#8212;&#8212;–
   
-Servir chaud ou froid, avec 2 feuilles de menthe pour la décoration (attention, la menthe noircit sous l&rsquo;effet de la chaleur).
+Servir chaud ou froid, avec 2 feuilles de menthe pour la décoration (attention, la menthe noircit sous l’effet de la chaleur).
 
 Vin
   

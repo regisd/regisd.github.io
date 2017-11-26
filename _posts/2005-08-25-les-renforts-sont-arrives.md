@@ -16,7 +16,7 @@ categories:
 tags:
   - Appart
 ---
-Le pro est à l&rsquo;œuvre!
+Le pro est à l’œuvre!
 
 <a href="http://server5.theimagehosting.com/image.php?img=IMG_2396_s.jpg" target="_blank"><img src="http://images5.theimagehosting.com/IMG_2396_s.jpg" border="0" title="Fabrice pose la sous couche" width="400" height="533" /></a> 
 

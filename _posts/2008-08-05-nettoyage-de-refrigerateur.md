@@ -18,4 +18,4 @@ tags:
   - Entretien
   - Santé
 ---
-J&rsquo;ai dégivré et nettoyé mon réfrigérateur. Si je suis le [guide de prendresoin.fr](http://www.prendresoin.fr/numero_01/p18.pdf), je devrais faire ça beaucoup plus souvent&#8230;
+J’ai dégivré et nettoyé mon réfrigérateur. Si je suis le [guide de prendresoin.fr](http://www.prendresoin.fr/numero_01/p18.pdf), je devrais faire ça beaucoup plus souvent…;

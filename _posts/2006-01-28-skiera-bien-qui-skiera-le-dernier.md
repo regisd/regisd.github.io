@@ -17,6 +17,6 @@ tags:
   - Montagne
   - Ski
 ---
-Je pars demain à [Tignes](http://www.tignes.net). Donc, pendant une semaine, pas d&rsquo;activité sur mon blog. C&rsquo;est en montagne que ça se passera. Mais promis, je vous ramenerai des photos 😉
+Je pars demain à [Tignes](http://www.tignes.net). Donc, pendant une semaine, pas d’activité sur mon blog. C’est en montagne que ça se passera. Mais promis, je vous ramenerai des photos 😉
 
-En attendant, je me prépare au froid. Là haut, il fait -14° avec 60 km/h de vent (soit une [température perçue](http://www.msc.ec.gc.ca/education/windchill/calculator_f.cfm) de -28°). J&rsquo;espère que ma [bouillotte magique](http://www.alibaba.com/catalog/10177576/Magic_Hot_Pad.html) marche aussi en altitude.
+En attendant, je me prépare au froid. Là haut, il fait -14° avec 60 km/h de vent (soit une [température perçue](http://www.msc.ec.gc.ca/education/windchill/calculator_f.cfm) de -28°). J’espère que ma [bouillotte magique](http://www.alibaba.com/catalog/10177576/Magic_Hot_Pad.html) marche aussi en altitude.

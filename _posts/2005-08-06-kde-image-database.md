@@ -16,6 +16,6 @@ tags:
   - KDE
   - Moteur de recherche
 ---
-Ca y est, j&rsquo;ai trouvé mon bonheur pour classer mes photos sous linux. Le logiciel s&rsquo;appelle [KImDaBa](http://ktown.kde.org/kimdaba/) pour KDE Image Database.
+Ca y est, j’ai trouvé mon bonheur pour classer mes photos sous linux. Le logiciel s’appelle [KImDaBa](http://ktown.kde.org/kimdaba/) pour KDE Image Database.
 
-L&rsquo;idée est la même qu&rsquo;avec Picasa: on place des tags sur les images. Sauf qu&rsquo;à la différence de F-Spot ou digikam, l&rsquo;interface est très efficace.
+L’idée est la même qu’avec Picasa: on place des tags sur les images. Sauf qu’à la différence de F-Spot ou digikam, l’interface est très efficace.

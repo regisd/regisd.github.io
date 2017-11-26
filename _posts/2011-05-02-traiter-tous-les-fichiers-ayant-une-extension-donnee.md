@@ -18,9 +18,9 @@ categories:
 tags:
   - Shell
 ---
-Sous Unix, mon besoin est de faire un traitement (disons un <tt>ls</tt>) sur tous les fichiers donné (disons tous les <tt>*.xml</tt>) d&rsquo;un répertoire.
+Sous Unix, mon besoin est de faire un traitement (disons un <tt>ls</tt>) sur tous les fichiers donné (disons tous les <tt>*.xml</tt>) d’un répertoire.
 
-Naturellement, j&rsquo;écris
+Naturellement, j’écris
   
 [code]
   
@@ -36,9 +36,9 @@ done
 
 Les guillemets sont obligatoire pour gérer les noms de fichiers contenant des espaces.
 
-Le problème, c&rsquo;est que je ne gère pas la casse&#8230;
+Le problème, c’est que je ne gère pas la casse…;
 
-Après avoir [perdu du temps en essayant de modifier IFS](http://www.cyberciti.biz/tips/handling-filenames-with-spaces-in-bash.html), la [solution toute simple](http://www.macgeekery.com/tips/cli/handling_filenames_with_spaces_in_bash) est d&rsquo;utiliser <tt>read</tt>:
+Après avoir [perdu du temps en essayant de modifier IFS](http://www.cyberciti.biz/tips/handling-filenames-with-spaces-in-bash.html), la [solution toute simple](http://www.macgeekery.com/tips/cli/handling_filenames_with_spaces_in_bash) est d’utiliser <tt>read</tt>:
   
 [code]
   

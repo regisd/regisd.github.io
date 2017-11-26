@@ -17,13 +17,13 @@ tags:
   - Google
   - Microsoft
 ---
-Le _cloud_ est le mot à la mode, mais cela fait plus de dix ans que l&rsquo;on confie ses données à des prestataires externes afin d&rsquo;y accéder à la demande. Pour moi, c&rsquo;était avec [Gmail](http://mail.google.com/).
+Le _cloud_ est le mot à la mode, mais cela fait plus de dix ans que l’on confie ses données à des prestataires externes afin d’y accéder à la demande. Pour moi, c’était avec [Gmail](http://mail.google.com/).
 
 Il est possible de faire la même chose avec tous ses documents, pas seulement les e-mails. Les offres de disque en ligne sont devenues très abordables – voire gratuites pour les usages peu intensifs – et de plus en plus complètes, avec traitement de texte, tableur, éditeur photo, etc. en ligne.
 
-Aujourd&rsquo;hui, il n&rsquo;y a plus de raison de perdre de données quand son disque-dur rend l&rsquo;âme ou quand on une clé USB.
+Aujourd’hui, il n’y a plus de raison de perdre de données quand son disque-dur rend l’âme ou quand on une clé USB.
 
-Mais la récente affaire de [fuite de photos de célébrités sur iCloud](http://mashable.com/2014/08/31/how-safe-is-icloud/ "Mashable: How safe is the cloud?") rappelle à quel point ils est important de sécuriser l&rsquo;accès à ses documents. Pour cela, la solution la plus efficace est l&rsquo;_authentification à deux facteurs_&nbsp;: pour se connecter, il faut un mot de passe **et** un appareil sécurisé.
+Mais la récente affaire de [fuite de photos de célébrités sur iCloud](http://mashable.com/2014/08/31/how-safe-is-icloud/ "Mashable: How safe is the cloud?") rappelle à quel point ils est important de sécuriser l’accès à ses documents. Pour cela, la solution la plus efficace est l’_authentification à deux facteurs_ : pour se connecter, il faut un mot de passe **et** un appareil sécurisé.
   
 <!--more-->
 
@@ -87,7 +87,7 @@ Mais la récente affaire de [fuite de photos de célébrités sur iCloud](http:/
     </th>
     
     <td>
-      2Go<br />jusqu&rsquo;à 16Go en parrainant
+      2Go<br />jusqu’à 16Go en parrainant
     </td>
     
     <td>

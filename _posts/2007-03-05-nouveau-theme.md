@@ -11,13 +11,13 @@ tmac_last_id:
 categories:
   - Général
 ---
-J&rsquo;utilise maintenant une variante de l&rsquo;ancien thème de mon blog. 
+J’utilise maintenant une variante de l’ancien thème de mon blog. 
 
-On retrouve (normalement) toutes les fonctionnalités qu&rsquo;il y avait avant et à peu près la même présentation. Simplement, j&rsquo;ai maintenant deux colonnes de menu à droite, ce qui m&rsquo;a permis d&rsquo;ajouter ma liste de lecture Jameno 😉
+On retrouve (normalement) toutes les fonctionnalités qu’il y avait avant et à peu près la même présentation. Simplement, j’ai maintenant deux colonnes de menu à droite, ce qui m’a permis d’ajouter ma liste de lecture Jameno 😉
 
 Bonne lecture!
 
 <div align="center">
 </div>
 
-J&rsquo;en ai aussi profité pour activer [Askmiet, un filtre anti-spam](http://www.askimet.com).
+J’en ai aussi profité pour activer [Askmiet, un filtre anti-spam](http://www.askimet.com).

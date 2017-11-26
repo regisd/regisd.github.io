@@ -16,7 +16,7 @@ categories:
   - Linux
   - Logiciel
 ---
-I&rsquo;ve just discovered a pretty impressive open-source vector drawing program called [Xara Extreme](http://www.xaraxtreme.org/). 
+I’ve just discovered a pretty impressive open-source vector drawing program called [Xara Extreme](http://www.xaraxtreme.org/). 
 
 [<img id="image394" src="http://regis.decamps.info/blog/wp-content/uploads/2007/03/capture_xara04.jpg" alt="Xara Extreme screenshot" />](http://regis.decamps.info/blog/wp-content/uploads/2007/03/capture_xara04.jpg "Xara Extreme screenshot"){.imagelink}
 

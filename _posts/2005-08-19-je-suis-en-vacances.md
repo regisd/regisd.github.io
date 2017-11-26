@@ -17,6 +17,6 @@ categories:
 tags:
   - Appart
 ---
-Oui, j&rsquo;ai pris mes vacances bien tardivement. Et je n&rsquo;ai pris que deux semaines. Il risque d&rsquo;y avoir pas mal de liquidation en mai l&rsquo;année prochaine.
+Oui, j’ai pris mes vacances bien tardivement. Et je n’ai pris que deux semaines. Il risque d’y avoir pas mal de liquidation en mai l’année prochaine.
 
-La semaine prochaine, je m&rsquo;attache à finir les travaux dans mon appart, et la semaine qui suit, Desmond et Trionna viennent à Paris, puis nous partons ensemble (mais on ne sait pas encore trop où&#8230; On avait prévu l&rsquo;Espagne, mais sur une semaine, je pense qu&rsquo;il va falloir réduire nos ambitions)
+La semaine prochaine, je m’attache à finir les travaux dans mon appart, et la semaine qui suit, Desmond et Trionna viennent à Paris, puis nous partons ensemble (mais on ne sait pas encore trop où…; On avait prévu l’Espagne, mais sur une semaine, je pense qu’il va falloir réduire nos ambitions)

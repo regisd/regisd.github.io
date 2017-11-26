@@ -13,4 +13,4 @@ categories:
 ---
 Un répondant à un très court questionnaire de Gillette (en gros, quelle marque de rasoir on utilie en ce moment), [Gillette nous envoie un rasoir Gillette Mach 3](http://www.edengo.com/visite/frame_visite.cfm?idpart=1317&clic_origine=edengo).
 
-Un bon plan, vu que j&rsquo;ai oublié ma trousse de toilette à l&rsquo;hôtel.
+Un bon plan, vu que j’ai oublié ma trousse de toilette à l’hôtel.

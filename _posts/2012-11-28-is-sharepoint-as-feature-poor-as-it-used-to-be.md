@@ -26,7 +26,7 @@ tags:
 ---
 When I was working on SharePoint, I was shocked to see the gap between the rich marketing slides on one hand and the poor feature set on the other hand.
 
-Apparently, this hasn&rsquo;t changed, if I take a look at the number of blogs that promote Sharepoint but which are hosted on a better Web content management system (usually [WordPress](http://wordpress.org/))
+Apparently, this hasn’t changed, if I take a look at the number of blogs that promote Sharepoint but which are hosted on a better Web content management system (usually [WordPress](http://wordpress.org/))
 
   * http://blogs.technet.com/b/tothesharepoint/ NOT hosted on SarePoint
   * The Sharepoint guy http://blogs.msdn.com/b/uksharepoint/ NOT hosted on Sharepoint
@@ -35,4 +35,4 @@ Apparently, this hasn&rsquo;t changed, if I take a look at the number of blogs t
   * http://sharepointdragons.com/ powered by WordPress
   * http://notes2sharepoint.org/ powered by wordpress
 
-People: eat your own food! Why don&rsquo;t you do some WordPress consulting instead?
+People: eat your own food! Why don’t you do some WordPress consulting instead?

@@ -15,10 +15,10 @@ categories:
 tags:
   - M. et Mme
 ---
-M. et Mme Terrieur ont deux fils. Comment s&rsquo;appellent-ils?
+M. et Mme Terrieur ont deux fils. Comment s’appellent-ils?
   
 <!--more-->
 
 
   
-Geffroy et Alex (parce que j&rsquo;ai froid à l&rsquo;extérieur)
+Geffroy et Alex (parce que j’ai froid à l’extérieur)

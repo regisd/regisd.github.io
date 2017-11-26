@@ -12,4 +12,4 @@ categories:
   - Informatique
   - Perso
 ---
-Aujourd&rsquo;hui, j&rsquo;ai reçu un courrier d&rsquo;Effico-Soreco qui me réclame 76 euros pour une facture impayée chez Free haut débit du mois de mai. Pourtant en mai, je n&rsquo;étais plus chez Free. Et pendant 4 mois, j&rsquo;ai payé  [30 euros par mois pour une offre zeroplay](http://www.ciao.fr/Freebox__Avis_851481). Jusqu&rsquo;à présent, j&rsquo;avais l&rsquo;impression de ne pas avoir eu de chance chez Free. Maintenant, je pense que c&rsquo;est une pompe à fric: si la freebox marche, tant mieux; sinon on n&rsquo;a aucun recours contre eux.
+Aujourd’hui, j’ai reçu un courrier d’Effico-Soreco qui me réclame 76 euros pour une facture impayée chez Free haut débit du mois de mai. Pourtant en mai, je n’étais plus chez Free. Et pendant 4 mois, j’ai payé  [30 euros par mois pour une offre zeroplay](http://www.ciao.fr/Freebox__Avis_851481). Jusqu’à présent, j’avais l’impression de ne pas avoir eu de chance chez Free. Maintenant, je pense que c’est une pompe à fric: si la freebox marche, tant mieux; sinon on n’a aucun recours contre eux.

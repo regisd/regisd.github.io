@@ -18,9 +18,9 @@ tags:
 ---
 It can be fun to programm JavaME applications, but very expensive to do if you need to use wap every time to download your jar+jad files on your phone.
 
-If you don&rsquo;t use wap, and send the jar+jad files with bluetooth, the flies appear in the « Other files » folder and there is nothing you can do with them (except deleting them 🙁 )
+If you don’t use wap, and send the jar+jad files with bluetooth, the flies appear in the « Other files » folder and there is nothing you can do with them (except deleting them 🙁 )
 
-Well, that&rsquo;s before you unlock the java installation. Here is how to do it: On the phone homepage, type in the code \*#9998\*52824678255# (which reads \*#9998\*JAVAINSTALL# ). Your phone should display &lsquo;Activated&rsquo;.
+Well, that’s before you unlock the java installation. Here is how to do it: On the phone homepage, type in the code \*#9998\*52824678255# (which reads \*#9998\*JAVAINSTALL# ). Your phone should display &lsquo;Activated’.
 
 Now, to install a new Java application:
 

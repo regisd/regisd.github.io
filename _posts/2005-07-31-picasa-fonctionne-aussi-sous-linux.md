@@ -20,10 +20,10 @@ tags:
   - Google
   - Linux
 ---
-Un collègue m&rsquo;a beaucoup venté les mérites de [Picasa](http://picasa.google.com/index.html), le logiciel de gestion d&rsquo;albums photos de Google. Et comme je voulais justement réorganiser mes photos, je l&rsquo;ai essayé.
+Un collègue m’a beaucoup venté les mérites de [Picasa](http://picasa.google.com/index.html), le logiciel de gestion d’albums photos de Google. Et comme je voulais justement réorganiser mes photos, je l’ai essayé.
 
-Quelle ne fut pas ma surprise de réussir l&rsquo;installation de Picasa avec [WINE](http://www.winehq.com/) (Wine est un émulateur des API de Windows sous linux). Et pas que l&rsquo;installation: Picasa semble fonctionner sous linux (avec wine).
+Quelle ne fut pas ma surprise de réussir l’installation de Picasa avec [WINE](http://www.winehq.com/) (Wine est un émulateur des API de Windows sous linux). Et pas que l’installation: Picasa semble fonctionner sous linux (avec wine).
 
-Je dois dire que j&rsquo;ai été impressionné par l&rsquo;interface. Comme [Google fait la guerre contre l&rsquo;organisation hierarchisée des données (en)](http://www.microcontentnews.com/articles/deathofhierarchy.htm), on place des labels sur les photos et cela les organise dynamiquement par catégorie.
+Je dois dire que j’ai été impressionné par l’interface. Comme [Google fait la guerre contre l’organisation hierarchisée des données (en)](http://www.microcontentnews.com/articles/deathofhierarchy.htm), on place des labels sur les photos et cela les organise dynamiquement par catégorie.
 
-Malheureusement, les polices sont illisibles. Et puis ce n&rsquo;est pas très propre d&rsquo;émuler une application, comme ça&#8230; Bref, à quand la version linux de Picasa?
+Malheureusement, les polices sont illisibles. Et puis ce n’est pas très propre d’émuler une application, comme ça…; Bref, à quand la version linux de Picasa?

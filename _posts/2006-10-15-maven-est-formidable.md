@@ -20,22 +20,22 @@ tags:
 ---
 #### Maven, le gentoo-portage pour Java
 
-J&rsquo;ai découvert [Maven](http://www.maven.org/) il y a (trop) peu longtemps.
+J’ai découvert [Maven](http://www.maven.org/) il y a (trop) peu longtemps.
 
-C&rsquo;est assez génial, ça offre des archetypes de projet pour aller plus vite, un peu comme les [scaffolds de Ruby on rails](http://wiki.rubyonrails.org/rails/pages/Scaffold). Et ensuite ça gère la dépendence des jars, un peu comme [une bonne distribution linux](http://www.gentoo.org/doc/en/handbook/handbook-x86.xml?part=2&chap=1). 
+C’est assez génial, ça offre des archetypes de projet pour aller plus vite, un peu comme les [scaffolds de Ruby on rails](http://wiki.rubyonrails.org/rails/pages/Scaffold). Et ensuite ça gère la dépendence des jars, un peu comme [une bonne distribution linux](http://www.gentoo.org/doc/en/handbook/handbook-x86.xml?part=2&chap=1). 
 
 #### m2settings
 
-Maven stocke les paramètres d&rsquo;un utilisateur dans un fichier de configuration XML. Aujourd&rsquo;hui, j&rsquo;ai décidé de m&rsquo;amuser à écrire une petite interface graphique pour modifier ce fichier&#8230; Mon projet va s&rsquo;appeler **m2settings**
+Maven stocke les paramètres d’un utilisateur dans un fichier de configuration XML. Aujourd’hui, j’ai décidé de m’amuser à écrire une petite interface graphique pour modifier ce fichier…; Mon projet va s’appeler **m2settings**
 
 #### Quel outil de mapping Java<->XML ?
 
 Je ne me pose pas trop de questions, je vais faire ça en Java. Je commence par le lien JavaBean<->XML. Comme toujours en Java, il y a une pléthore de possibilité:
 
-  * [Apache Xerces](http://xerces.apache.org/xerces2-j/) ne répond pas vraiment, il fait le parsing de XML. Mais moi, j&rsquo;aurais aussi besoin d&rsquo;écrire la configuration modifiée
+  * [Apache Xerces](http://xerces.apache.org/xerces2-j/) ne répond pas vraiment, il fait le parsing de XML. Mais moi, j’aurais aussi besoin d’écrire la configuration modifiée
   * Justement [Apache betwixt](http://jakarta.apache.org/commons/betwixt/index.html) fait le contraire: il transforme un Bean en XML.
   * Jato semble répondre, mais manque de documentation et le projet est visiblement <strike>mort</strike> en hibernation
-  * [castor](http://www.castor.org/) répond parfaitement à mon besoin (et en plus je l&rsquo;ai déjà un peu utilisé au boulot)
+  * [castor](http://www.castor.org/) répond parfaitement à mon besoin (et en plus je l’ai déjà un peu utilisé au boulot)
   * [Xstream](http://xstream.codehaus.org/) fait aussi tout à fait ce que je veux faire, et semble [vraiment très simple à utiliser](http://xstream.codehaus.org/tutorial.html).
 
 Je décide donc de commencer avec Xstream.
@@ -139,7 +139,7 @@ this.alias(« proxy », Proxy.class);
   
 [/java]
 
-Ce qui m&rsquo;oblige enfin à écrire le bean en question:
+Ce qui m’oblige enfin à écrire le bean en question:
   
 [java]
   
@@ -237,8 +237,8 @@ return (active == p.isActive() && protocol == p.getProtocol()
 
 #### Il faut écrite tous ses beans à la main?
 
-Tout cela marche très bien, mais il faut écrire tous les beans&#8230;
+Tout cela marche très bien, mais il faut écrire tous les beans…;
 
-Alors je passe à Castor, qui sait faire cela à partir de schéma XML. Et justement, j&rsquo;ai le [XSD de settings](http://http://maven.apache.org/xsd/settings-1.0.0.xsd).
+Alors je passe à Castor, qui sait faire cela à partir de schéma XML. Et justement, j’ai le [XSD de settings](http://http://maven.apache.org/xsd/settings-1.0.0.xsd).
 
 La suite au prochain épisode!

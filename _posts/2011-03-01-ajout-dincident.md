@@ -1,6 +1,6 @@
 ---
 id: 1744
-title: 'Ajout d&rsquo;incident'
+title: 'Ajout d’incident'
 date: 2011-03-01T23:26:09+00:00
 author: Régis
 layout: post
@@ -17,18 +17,18 @@ categories:
 tags:
   - Talaria
 ---
-J&rsquo;ai passé 2h30 à compléter mon application Android pour <http://incidents-transports.com> (qui [a changé de nom aujourd&rsquo;hui](http://twitter.com/#!/ogirardot/status/42668466376933376))
+J’ai passé 2h30 à compléter mon application Android pour <http://incidents-transports.com> (qui [a changé de nom aujourd’hui](http://twitter.com/#!/ogirardot/status/42668466376933376))
 
-J&rsquo;ai ajouté une nouvelle activité pour rapporter un nouvel incident.
+J’ai ajouté une nouvelle activité pour rapporter un nouvel incident.
 
-Il me fallait donc un référentiel des lignes existantes. Je n&rsquo;ai pas fait compliqué, et ai codé ce référentiel en dur. Grosso-modo c&rsquo;et une Hashmap qui fait:
+Il me fallait donc un référentiel des lignes existantes. Je n’ai pas fait compliqué, et ai codé ce référentiel en dur. Grosso-modo c’et une Hashmap qui fait:
   
 `<br />
 "Metro" : {"1", "2", "3", "3bis", etc.},<br />
 "RER": {"A", "B", "C", "D", "E"}<br />
 ` 
 
-Puis j&rsquo;ai défini l&rsquo;interface utilisateur. Un peu comme Benoît sur iPhone, j&rsquo;ai mis un premier <tt>Spinner</tt> qui permet de choisir le type de ligne (« Métro », « RER », etc.) et un second qui permet de choisir la ligne exacte.
+Puis j’ai défini l’interface utilisateur. Un peu comme Benoît sur iPhone, j’ai mis un premier <tt>Spinner</tt> qui permet de choisir le type de ligne (« Métro », « RER », etc.) et un second qui permet de choisir la ligne exacte.
 
 [code]
 			  
@@ -52,9 +52,9 @@ spinnerLineName.setAdapter(adapter);
   
 [/code]
 
-Et pour finir, j&rsquo;ai ajouté une méthode <tt>post(Incident incident)</tt> sur mon <tt>IncidentProvider</tt>. 
+Et pour finir, j’ai ajouté une méthode <tt>post(Incident incident)</tt> sur mon <tt>IncidentProvider</tt>. 
 
-Dans la journée, Olivier Girardot, m&rsquo;a donné l&rsquo;API pour poster. Il m&rsquo;a fait peur parce que l&rsquo;ajout d&rsquo;un incident ne peut se faire qu&rsquo;en JSON. Mais miracle, Android gère très simplement le JSON. 
+Dans la journée, Olivier Girardot, m’a donné l’API pour poster. Il m’a fait peur parce que l’ajout d’un incident ne peut se faire qu’en JSON. Mais miracle, Android gère très simplement le JSON. 
 
 [code]
 	  

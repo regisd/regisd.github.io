@@ -28,10 +28,10 @@ tags:
 
 # <span style="font-weight: normal;font-size: 13px">I like to play music from my computer</span>
 
-  * <span style="font-weight: normal;font-size: 13px">It&rsquo;s more convenient to play music from the computer than inserting the CD in my hi-fi;</span>
+  * <span style="font-weight: normal;font-size: 13px">It’s more convenient to play music from the computer than inserting the CD in my hi-fi;</span>
   * <span style="font-weight: normal;font-size: 13px">It offers enhanced features, such as displaying the lyrics, artist bio, etc.;</span>
   * The software can build smart playlists from what has been played before;
-  * <span style="font-weight: normal;font-size: 13px">Don&rsquo;t worry, my <a title="Typical sound level is 18 dB" href="http://support.apple.com/kb/SP588">iMac is very silent</a>, and my hifi is plugged with an optical link.</span>
+  * <span style="font-weight: normal;font-size: 13px">Don’t worry, my <a title="Typical sound level is 18 dB" href="http://support.apple.com/kb/SP588">iMac is very silent</a>, and my hifi is plugged with an optical link.</span>
 
 ### What format to use?
 
@@ -66,7 +66,7 @@ iTunes can rip CDs into « Apple Lossless ».
 
 For mobile play, it is not necessary to have genuine sound quality, because small hear plugs can give a good sound anyway. Plus, memory space is rare precious.
 
-That&rsquo;s why, I re-encode my songs in [Ogg Vorbis](http://www.vorbis.com/ "Ogg Vorbis"), at 96 kbds VBR.
+That’s why, I re-encode my songs in [Ogg Vorbis](http://www.vorbis.com/ "Ogg Vorbis"), at 96 kbds VBR.
 
 <ol class="footnotes">
   <li id="footnote_0_1446" class="footnote">

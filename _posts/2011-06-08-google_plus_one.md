@@ -18,6 +18,6 @@ categories:
 tags:
   - Google
 ---
-Je viens d&rsquo;ajouter le bouton Google +1
+Je viens d’ajouter le bouton Google +1
 
-J&rsquo;espère que ça sera utile — entre buzz, reader, +1, favoris, on s&rsquo;y perd un peu, non?
+J’espère que ça sera utile — entre buzz, reader, +1, favoris, on s’y perd un peu, non?

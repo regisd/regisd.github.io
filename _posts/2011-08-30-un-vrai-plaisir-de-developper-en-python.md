@@ -17,13 +17,13 @@ categories:
 tags:
   - Python
 ---
-J&rsquo;avais tendance à sortir des débats sur le choix du langage de programmation en me disant qu&rsquo;il s&rsquo;agit principalement d&rsquo;un phénomène de mode, et qu&rsquo;après tout, c&rsquo;est l&rsquo;algorithme implémenté qui compte. J&rsquo;avais tort.
+J’avais tendance à sortir des débats sur le choix du langage de programmation en me disant qu’il s’agit principalement d’un phénomène de mode, et qu’après tout, c’est l’algorithme implémenté qui compte. J’avais tort.
 
-Car le langage est plus ou moins lisible, et cela impacte directement la qualilté de l&rsquo;implémentation. Quand le code est pourri par la lourdeur de la création de variables ou de la syntaxe des structures de contrôle (boucles <tt>for</tt> et exécution conditionnelle <tt>if</tt>), c&rsquo;est tout l&rsquo;algorithme qui en souffre.
+Car le langage est plus ou moins lisible, et cela impacte directement la qualilté de l’implémentation. Quand le code est pourri par la lourdeur de la création de variables ou de la syntaxe des structures de contrôle (boucles <tt>for</tt> et exécution conditionnelle <tt>if</tt>), c’est tout l’algorithme qui en souffre.
 
 Il ne faut pas négliger non plus le plaisir de programmer. Un langage sympa donne envie de faire des choses.
 
-Et en ce moment, j&rsquo;ai retrouvé un vrai plaisir avec python. Par exemple, si j&rsquo;ai une hashmap <tt>mot -> nombre</tt> (ça peut être un compteur d&rsquo;occurence de mots) et récupérer uniquement les nombres pairs, je ne peux plus supporter la lourdeur de Java<sup>TM</sup>
+Et en ce moment, j’ai retrouvé un vrai plaisir avec python. Par exemple, si j’ai une hashmap <tt>mot -> nombre</tt> (ça peut être un compteur d’occurence de mots) et récupérer uniquement les nombres pairs, je ne peux plus supporter la lourdeur de Java<sup>TM</sup>
 
     
     Map<String, Integer> dictionary = new HashMap<String, Integer>();
@@ -38,7 +38,7 @@ Et en ce moment, j&rsquo;ai retrouvé un vrai plaisir avec python. Par exemple, 
         }
     
 
-Et je préfère nettement ce que l&rsquo;on peut écrire en Python:
+Et je préfère nettement ce que l’on peut écrire en Python:
   
 [code]
   

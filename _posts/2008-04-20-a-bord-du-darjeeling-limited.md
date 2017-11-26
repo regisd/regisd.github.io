@@ -13,4 +13,4 @@ categories:
 ---
 Trois frères qui ne se sont pas vus depuis le décès de leur père entamment un voyage en Inde pour retisser les liens entre eux. Cette quête spirituelle ne se passe pas exactement comme prévu.
 
-Je m&rsquo;attendais à une comédie, finalement il s&rsquo;agit plutôt d&rsquo;un _<strike>road</strike> track movie_ avec quelques touches humoristiques. Les situations sont plus absurdes que cocasses, et je n&rsquo;ai pas trouvé les personnages attachants. Finalement, le rire est peu déclenché et c&rsquo;est carrément l&rsquo;ennui qui s&rsquo;installe par moment.
+Je m’attendais à une comédie, finalement il s’agit plutôt d’un _<strike>road</strike> track movie_ avec quelques touches humoristiques. Les situations sont plus absurdes que cocasses, et je n’ai pas trouvé les personnages attachants. Finalement, le rire est peu déclenché et c’est carrément l’ennui qui s’installe par moment.

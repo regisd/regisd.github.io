@@ -1,6 +1,6 @@
 ---
 id: 462
-title: 'Trompe l&rsquo;oeil'
+title: 'Trompe l’oeil'
 date: 2007-10-29T23:06:59+00:00
 author: Régis
 layout: post

@@ -17,4 +17,4 @@ tags:
   - AllowRightClick
   - Chrome
 ---
-[AllowRightClick](https://chrome.google.com/extensions/detail/hompjdfbfmmmgflfjdlnkohcplmboaeo) now supports Flickr and doesn&rsquo;t break Yahoo! mail
+[AllowRightClick](https://chrome.google.com/extensions/detail/hompjdfbfmmmgflfjdlnkohcplmboaeo) now supports Flickr and doesn’t break Yahoo! mail

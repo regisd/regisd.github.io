@@ -16,9 +16,9 @@ tags:
   - Concert
   - Libre
 ---
-J&rsquo;ai déjà parlé de [Jamendo](http://www.jamendo.com/fr/), la communauté de musique libre.
+J’ai déjà parlé de [Jamendo](http://www.jamendo.com/fr/), la communauté de musique libre.
 
-Hé bien, Jamendo organise un concert exceptionnel au Glaz&rsquo;art ([près de la Villette](http://maps.google.com/maps?f=q&hl=fr&geocode=&q=7+avenue+de+la+Porte+de+la+Villette,+paris+(glaz%27art)&sll=48.533608,4.142398&sspn=0.009705,0.019226&g=7+avenue+de+la+Porte+de+la+Villette,+paris&ie=UTF8&z=16&iwloc=addr)), ce mercredi 26 novembre à 20 heures. Sur scène, trois de mes artistes préférés, : [Drunksouls](http://www.jamendo.com/fr/artist/drunksouls) (dont [j&rsquo;ai déjà parlé](http://regis.decamps.info/blog/2006/03/drunksouls/)), [Hype](http://www.jamendo.com/fr/artist/hype) et [Try^d](http://www.jamendo.com/fr/artist/tryad)
+Hé bien, Jamendo organise un concert exceptionnel au Glaz’art ([près de la Villette](http://maps.google.com/maps?f=q&hl=fr&geocode=&q=7+avenue+de+la+Porte+de+la+Villette,+paris+(glaz%27art)&sll=48.533608,4.142398&sspn=0.009705,0.019226&g=7+avenue+de+la+Porte+de+la+Villette,+paris&ie=UTF8&z=16&iwloc=addr)), ce mercredi 26 novembre à 20 heures. Sur scène, trois de mes artistes préférés, : [Drunksouls](http://www.jamendo.com/fr/artist/drunksouls) (dont [j’ai déjà parlé](http://regis.decamps.info/blog/2006/03/drunksouls/)), [Hype](http://www.jamendo.com/fr/artist/hype) et [Try^d](http://www.jamendo.com/fr/artist/tryad)
 
 <div align="center">
 </div>

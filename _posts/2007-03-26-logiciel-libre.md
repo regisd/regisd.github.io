@@ -16,10 +16,10 @@ categories:
 tags:
   - Libre
 ---
-> Je déclare utiliser des logiciels libres et souhaiter qu&rsquo;à l&rsquo;avenir :
+> Je déclare utiliser des logiciels libres et souhaiter qu’à l’avenir :
 > 
 > les droits des développeurs et des utilisateurs de logiciels libres soient pris en compte par le législateur
 > 
-> l&rsquo;utilisation, la production et la diffusion de logiciels libres soient encouragées par les pouvoirs publics
+> l’utilisation, la production et la diffusion de logiciels libres soient encouragées par les pouvoirs publics
 > 
 > Vous aussi signez [la déclaration que le logiciel libre soit pleinement reconnu par le législateur](http://www.candidats.fr/signer)

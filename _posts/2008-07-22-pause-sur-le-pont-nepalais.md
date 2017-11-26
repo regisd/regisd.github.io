@@ -21,7 +21,7 @@ tags:
   <a href="http://www.flickr.com/photos/wakaseoo/2730066880/" title="photo sharing"><img src="http://farm4.static.flickr.com/3019/2730066880_9583c2efbb_t.jpg" alt="Pause sur le pont nepalais.jpg" /></a><br /> <span style="font-size: 0.8em; margin-top: 0px;"><br /> <a href="http://www.flickr.com/photos/wakaseoo/2730066880/">Pause sur le pont nepalais.jpg</a>,<br /> originally uploaded by <a href="http://www.flickr.com/people/wakaseoo/">wakaseoo</a>.<br /> </span>
 </div>
 
-J&rsquo;ai adoré cette journée à la Via Ferrata de la grande Fistoire. C&rsquo;était beaucoup plus sportif et impressioninant que je ne l&rsquo;avais imaginé.
+J’ai adoré cette journée à la Via Ferrata de la grande Fistoire. C’était beaucoup plus sportif et impressioninant que je ne l’avais imaginé.
 
 Je prends <strike>une</strike> la pause pour la photo 😉
   

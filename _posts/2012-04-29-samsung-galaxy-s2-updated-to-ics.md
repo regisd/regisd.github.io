@@ -18,7 +18,7 @@ I have just updated my Samsung Galaxy SII to Android 4 (aka Ice cream sandwich).
 
 I have used the official Kies application for Mac OS. Everything went smoothly after I fixed these two issues.
 
-Problem: Kies doesn&rsquo;t detect my device
+Problem: Kies doesn’t detect my device
   
 I do Android development, and had turned on « USB debugging ». This n needs to be turned off.
 

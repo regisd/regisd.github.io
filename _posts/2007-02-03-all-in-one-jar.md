@@ -16,11 +16,11 @@ categories:
 tags:
   - Java
 ---
-The more I use Maven, the more I think it simplifies the developer&rsquo;s life and the packaging task.
+The more I use Maven, the more I think it simplifies the developer’s life and the packaging task.
 
-The packaging task? Not so much, in fact. If you write a mavenized Java application, you can easily build the jar with « mvn package ». But the application probably won&rsquo;t run as such. To run the jar, the end user needs to have the libraries the application depends upon, and sets his CLASSPATH correctly. You cannot expect that from end-users.
+The packaging task? Not so much, in fact. If you write a mavenized Java application, you can easily build the jar with « mvn package ». But the application probably won’t run as such. To run the jar, the end user needs to have the libraries the application depends upon, and sets his CLASSPATH correctly. You cannot expect that from end-users.
 
-That&rsquo;s why I think the jar packaging is incomplete. You still need to provide more jars, and something to run the whole thing. Well that&rsquo;s not Maven&rsquo;s fault but the way Java is designed.
+That’s why I think the jar packaging is incomplete. You still need to provide more jars, and something to run the whole thing. Well that’s not Maven’s fault but the way Java is designed.
 
 There are two elegant solutions to this. The first one is to provide a webstart descriptor, and use maven to deploy all required jars on the same server.
 
@@ -50,7 +50,7 @@ mvn minijar:ueberjar<br />
   
 produces an artifact which contains all my code+librairies.
 
-That&rsquo;s great but it does not work well. Running
+That’s great but it does not work well. Running
   
 `<br />
 java -jar myapp-ueberjar.jar<br />

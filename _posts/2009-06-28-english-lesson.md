@@ -16,7 +16,7 @@ categories:
 tags:
   - Anglais
 ---
-J&rsquo;ai repris des cours d&rsquo;anglais. Voici ce que j&rsquo;ai noté:
+J’ai repris des cours d’anglais. Voici ce que j’ai noté:
 
 debts is pronounced [[det](http://dictionary.reference.com/browse/debt)]
 
@@ -26,4 +26,4 @@ to come up with a plan
 
 <del>How to avoid something?</del> -> How can we avoid something?
 
-J&rsquo;ai toujours eu des difficultés pour prononcer [Law](http://dictionary.reference.com/browse/law) et [low](http://dictionary.reference.com/browse/low)
+J’ai toujours eu des difficultés pour prononcer [Law](http://dictionary.reference.com/browse/law) et [low](http://dictionary.reference.com/browse/low)

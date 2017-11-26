@@ -14,13 +14,13 @@ tags:
   - Android
   - Bug
 ---
-Je continue ma série sur les [bugs d&rsquo;Android](http://regis.decamps.info/blog/tag/android+bug/), cette fois pour dire que ça m&rsquo;agace de voir un bug trivial non corrigé pendant plus de 3&nbsp;ans.
+Je continue ma série sur les [bugs d’Android](http://regis.decamps.info/blog/tag/android+bug/), cette fois pour dire que ça m’agace de voir un bug trivial non corrigé pendant plus de 3 ans.
   
 <!--more-->
 
 
   
-Le problème, c&rsquo;est que si l&rsquo;on a une WebView, et que l&rsquo;on fait
+Le problème, c’est que si l’on a une WebView, et que l’on fait
   
 [code]
   
@@ -40,4 +40,4 @@ webView.loadDataWithBaseURL(null, « Régis », « text/html », « utf-8 
   
 [/code]
 
-Et ça m&rsquo;énerve, parce que [ça fait plus de 3&nbsp;ans que ça traîne](http://code.google.com/p/android/issues/detail?id=1958 "Android issue 1958")!
+Et ça m’énerve, parce que [ça fait plus de 3 ans que ça traîne](http://code.google.com/p/android/issues/detail?id=1958 "Android issue 1958")!

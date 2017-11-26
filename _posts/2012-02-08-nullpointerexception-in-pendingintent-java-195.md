@@ -14,7 +14,7 @@ tags:
   - Android
   - Bug
 ---
-Mobile development is difficult for a number of reasons. But Android framework does not help&#8230; This is my complaint of today (read more in the series [Android bugs](http://regis.decamps.info/blog/tag/android+bug))
+Mobile development is difficult for a number of reasons. But Android framework does not help…; This is my complaint of today (read more in the series [Android bugs](http://regis.decamps.info/blog/tag/android+bug))
   
 <!--more-->
 
@@ -24,7 +24,7 @@ If you want to display a notification in the Android status bar, the [the javado
   
 int icon = android.R.drawable.stat\_notify\_chat;
   
-CharSequence tickerText = « Bonjour! Tu veux qu&rsquo;on déjeune ensemble ce midi? »;
+CharSequence tickerText = « Bonjour! Tu veux qu’on déjeune ensemble ce midi? »;
   
 long when = System.currentTimeMillis();
   
@@ -36,7 +36,7 @@ notificationManager.notify(id, notification);
   
 [/code]
 
-Well, it doesn&rsquo;t. My text is only the _ticker_, but the notification bar can also be expanded. Hence a title and a message must be defined. Actually, you must add a <tt>LastestEventInfo</tt>
+Well, it doesn’t. My text is only the _ticker_, but the notification bar can also be expanded. Hence a title and a message must be defined. Actually, you must add a <tt>LastestEventInfo</tt>
   
 [code]
   
@@ -72,7 +72,7 @@ PendingIntent contentIntent = PendingIntent.getActivity(context, requestCode, in
   
 [/code]
 
-Since I&rsquo;m always complaining, can anyone in the Android team explain why the put fields which are « not used » (sic)?
+Since I’m always complaining, can anyone in the Android team explain why the put fields which are « not used » (sic)?
 
 This eventually works and when we click on the notification, Android opens the MessageActivity
   
@@ -82,7 +82,7 @@ All this is not very complicated, but it is 14 lines of code just to add one not
 
 
 
-But it also introduces a bug. Imagine one of my notification doesn&rsquo;t need to start an activity, it would make sense to do
+But it also introduces a bug. Imagine one of my notification doesn’t need to start an activity, it would make sense to do
   
 [code]
   
@@ -90,7 +90,7 @@ displayNotification(« That will kill you », MessageActivity.class);
   
 [/code]
 
-But Pending intent doesn&rsquo;t say it doesn&rsquo;t accept <tt>null</tt> in the doc, nor does it raise a proper <tt>IllegalArgumentException</tt>.
+But Pending intent doesn’t say it doesn’t accept <tt>null</tt> in the doc, nor does it raise a proper <tt>IllegalArgumentException</tt>.
 
 Instead, your application will crash with
   

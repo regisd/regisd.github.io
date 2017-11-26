@@ -14,9 +14,9 @@ tags:
   - Bug
   - Wordpress
 ---
-J&rsquo;avais un étrange _bug_ dans WordPress. La page d&rsquo;archives affichait « Error 404 &#8211; Not found ».
+J’avais un étrange _bug_ dans WordPress. La page d’archives affichait « Error 404 – Not found ».
 
-Il suffisait d&rsquo;effectuer la petite manipulation suivante dans la console d&rsquo;administration:
+Il suffisait d’effectuer la petite manipulation suivante dans la console d’administration:
   
 Manage -> Pages.
   
@@ -24,4 +24,4 @@ Archives -> Edit
   
 Save.
 
-Maintenant, la [page d&rsquo;archives](/blog/archives/) affiche effectivement les archives.
+Maintenant, la [page d’archives](/blog/archives/) affiche effectivement les archives.

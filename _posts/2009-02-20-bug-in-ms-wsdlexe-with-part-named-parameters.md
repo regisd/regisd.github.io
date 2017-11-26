@@ -1,6 +1,6 @@
 ---
 id: 830
-title: 'bug in MS wsdl.exe with part named &lsquo;parameters&rsquo;'
+title: 'bug in MS wsdl.exe with part named &lsquo;parameters’'
 date: 2009-02-20T15:22:45+00:00
 author: Régis
 layout: post

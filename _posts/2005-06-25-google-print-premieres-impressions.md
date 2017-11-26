@@ -18,14 +18,14 @@ tags:
   - Google
   - Moteur de recherche
 ---
-Cela fait plusieurs jours que [Google Print](http://print.google.com/) est disponible (en version beta), mais je n&rsquo;ai vraiment eu le temps de ne le regarder qu&rsquo;aujourd&rsquo;hui. 
+Cela fait plusieurs jours que [Google Print](http://print.google.com/) est disponible (en version beta), mais je n’ai vraiment eu le temps de ne le regarder qu’aujourd’hui. 
 
 En fait, il y a deux projets distincts.
 
-Google publisher présente des des extraits d&rsquo;oeuvres dont les droits d&rsquo;auteurs sont toujours valides. le but n&rsquo;est pas de lire le livre, mais simplement d&rsquo;être en mesurer de ltrouver, pour pouvoir cliquer sur « buy this book at amazon ».
+Google publisher présente des des extraits d’oeuvres dont les droits d’auteurs sont toujours valides. le but n’est pas de lire le livre, mais simplement d’être en mesurer de ltrouver, pour pouvoir cliquer sur « buy this book at amazon ».
 
-Il y a aussi Google Library print, dont le catalogue est constitué d&rsquo;oeuvres publiques. exactement comme l&rsquo;[ABU](http://abu.cnam.fr/), le[projet Gutenberg](http://www.gutenberg.org/) ou encore comme [Gallica](http://gallica.bnf.fr/), la bibliothèque numérique de la [Bibliothèque nationale de France](http://www.bnf.fr). 
+Il y a aussi Google Library print, dont le catalogue est constitué d’oeuvres publiques. exactement comme l’[ABU](http://abu.cnam.fr/), le[projet Gutenberg](http://www.gutenberg.org/) ou encore comme [Gallica](http://gallica.bnf.fr/), la bibliothèque numérique de la [Bibliothèque nationale de France](http://www.bnf.fr). 
 
-Techniquement, Google print ne propose que des images des pages, exactement comme gallica, et non le texte comme l&rsquo;ABU ou Gutemberg. Cependant, avec Google print, il est possible de chercher dans le texte des images, le résultat étant alors surligné sur l&rsquo;image. Une bonne façon de réconcilier recherche dans le texte avec respect de la présentation (même si un PDF est une meilleure solution à mon avis). 
+Techniquement, Google print ne propose que des images des pages, exactement comme gallica, et non le texte comme l’ABU ou Gutemberg. Cependant, avec Google print, il est possible de chercher dans le texte des images, le résultat étant alors surligné sur l’image. Une bonne façon de réconcilier recherche dans le texte avec respect de la présentation (même si un PDF est une meilleure solution à mon avis). 
 
-Enfin, les inquiétudes de Jean-Noël Jeanneney (directeur de la BNF) s&rsquo;avèrent assez justes: même _les Misérables_ de Victor Hugo ne sont pas disponibles sur Google Print&#8230;
+Enfin, les inquiétudes de Jean-Noël Jeanneney (directeur de la BNF) s’avèrent assez justes: même _les Misérables_ de Victor Hugo ne sont pas disponibles sur Google Print…;

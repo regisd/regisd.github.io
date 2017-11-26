@@ -20,7 +20,7 @@ tags:
 ---
 Do you remember my little firefox extension for firefox to interact with Blogmarks.net?
 
-Well, now that [Google Chrome supports extensions](http://lifehacker.com/5405519/an-early-look-at-chromes-extensions-system) too (at least in the dev channel), I&rsquo;m going to redevelop it for Chrome 🙂
+Well, now that [Google Chrome supports extensions](http://lifehacker.com/5405519/an-early-look-at-chromes-extensions-system) too (at least in the dev channel), I’m going to redevelop it for Chrome 🙂
 
 My first impressions:
 

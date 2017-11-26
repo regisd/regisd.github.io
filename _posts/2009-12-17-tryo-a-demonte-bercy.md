@@ -19,6 +19,6 @@ tags:
   
 [<img src="http://regis.decamps.info/blog/wp-content/uploads/2009/12/IMG_04331-150x150.jpg" alt="Concert de Tryo à Bercy" title="Concert de Tryo à Bercy" width="150" height="150" class="alignleft size-thumbnail wp-image-1124" />](http://www.flickr.com/photos/tags/lastfm%3Aevent%3D866995/)
 
-[Tryo](http://www.lastfm.fr/music/Tryo?ac=tryo) a réussi à donner un concert intime à Bercy. Présent partout dans la salle, le groupe a reçu en première parti La Rue kétanou, avec qui ils ont aussi chanté. Ils ont aussi reçu sur scène Ayo, <strike>Zebda</strike>, Arthur&nbsp;H, et d&rsquo;autres
+[Tryo](http://www.lastfm.fr/music/Tryo?ac=tryo) a réussi à donner un concert intime à Bercy. Présent partout dans la salle, le groupe a reçu en première parti La Rue kétanou, avec qui ils ont aussi chanté. Ils ont aussi reçu sur scène Ayo, <strike>Zebda</strike>, Arthur H, et d’autres
 
-Et c&rsquo;était à voir en live sur [Arte TV](http://liveweb.arte.tv/fr/video/Tryo_en_concert_au_palais_omnisport_Paris_Bercy/)
+Et c’était à voir en live sur [Arte TV](http://liveweb.arte.tv/fr/video/Tryo_en_concert_au_palais_omnisport_Paris_Bercy/)

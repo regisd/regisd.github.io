@@ -20,8 +20,8 @@ tags:
   <a href="http://www.flickr.com/photos/wakaseoo/2614390842/" title="photo sharing"><img src="http://farm4.static.flickr.com/3066/2614390842_6578df11fa_t.jpg" alt="Le Mont Blanc.jpg" /></a><br /> <span style="font-size: 0.8em; margin-top: 0px;"><br /> <a href="http://www.flickr.com/photos/wakaseoo/2614390842/">Le Mont Blanc.jpg</a>,<br /> originally uploaded by <a href="http://www.flickr.com/people/wakaseoo/">wakaseoo</a>.<br /> </span>
 </div>
 
-J&rsquo;ai passé le week-end à Notre-Dame-De-Bellecombe. J&rsquo;ai retrouvé la station des Saisies où j&rsquo;étais allé il y a des années (deux fois en hiver et une fois en été).
+J’ai passé le week-end à Notre-Dame-De-Bellecombe. J’ai retrouvé la station des Saisies où j’étais allé il y a des années (deux fois en hiver et une fois en été).
 
-Il a fait un temps magnifique, ce qui m&rsquo;a permis de prendre ce cliché où l&rsquo;on voit le Mont Blanc presque dans son intégralité.
+Il a fait un temps magnifique, ce qui m’a permis de prendre ce cliché où l’on voit le Mont Blanc presque dans son intégralité.
   
 <br clear="all" />

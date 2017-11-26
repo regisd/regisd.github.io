@@ -16,4 +16,4 @@ categories:
 tags:
   - Best practice
 ---
-Merci &agrave; Michel d&rsquo;avoir [point&eacute; dans son blog](http://rasschaert.blogspot.com/2005/06/conventions-de-codages-exceptions-et.html) un excellent article de Joel Spolsky dans lequel il explique que la notation hongroise n&rsquo;a rien de d&eacute;bile et qu&rsquo;elle aide au contraire &agrave; rendre visible le code foireux: [Making wrong code look wrong](http://www.joelonsoftware.com/articles/Wrong.html).
+Merci &agrave; Michel d’avoir [point&eacute; dans son blog](http://rasschaert.blogspot.com/2005/06/conventions-de-codages-exceptions-et.html) un excellent article de Joel Spolsky dans lequel il explique que la notation hongroise n’a rien de d&eacute;bile et qu’elle aide au contraire &agrave; rendre visible le code foireux: [Making wrong code look wrong](http://www.joelonsoftware.com/articles/Wrong.html).

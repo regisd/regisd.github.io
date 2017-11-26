@@ -14,15 +14,15 @@ categories:
   - Général
   - Politique
 ---
-Je me suis souvent demandé si l&rsquo;action gouvernementale pouvait changer le taux de chômage. La réponse est évidemment oui (le gouvernement choisit le taux d&rsquo;imposition, décide de la mise ne place de politique d&rsquo;aide à l&#8217;emploi, etc.). Mais en même temps, la réponse est évidemment non (le gouvernement ne peut rien à un choc pétrolier, aux attentats, à l&rsquo;économie des pays partenaires, etc.).
+Je me suis souvent demandé si l’action gouvernementale pouvait changer le taux de chômage. La réponse est évidemment oui (le gouvernement choisit le taux d’imposition, décide de la mise ne place de politique d’aide à l&#8217;emploi, etc.). Mais en même temps, la réponse est évidemment non (le gouvernement ne peut rien à un choc pétrolier, aux attentats, à l’économie des pays partenaires, etc.).
 
-A déaut de trouver une réponse je me suis amusé à tracer le taux de chômage en France au sens BIT (le données viennent de l&rsquo;INSEE) en mettant en arrière plan la couleur politique du gouvernement (en fait, celle du Premier Ministre).
+A déaut de trouver une réponse je me suis amusé à tracer le taux de chômage en France au sens BIT (le données viennent de l’INSEE) en mettant en arrière plan la couleur politique du gouvernement (en fait, celle du Premier Ministre).
 
 Je vous laisse le soin de trouver une éventuelle corrélation!
   
 [<img id="image374" src="http://regis.decamps.info/blog/wp-content/uploads/2006/12/capture14_comage.thumbnail.png" alt="ChÃ´mage en France" />](http://regis.decamps.info/blog/wp-content/uploads/2006/12/capture14_comage.png "ChÃ´mage en France"){.imagelink}
 
-Moi, je n&rsquo;en trouve pas. J&rsquo;imagine donc qu&rsquo;il faudrait tracer d&rsquo;autres courbes pour mesurer l&rsquo;efficacité des gouvernements. Par exemple:
+Moi, je n’en trouve pas. J’imagine donc qu’il faudrait tracer d’autres courbes pour mesurer l’efficacité des gouvernements. Par exemple:
 
   * la différence entre le chômage français et le chômage européen
   * la différence entre la croissance du chômage français et la croissance du chômage européen

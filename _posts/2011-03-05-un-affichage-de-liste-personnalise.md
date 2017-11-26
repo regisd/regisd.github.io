@@ -27,7 +27,7 @@ tags:
   - Android
   - Talaria
 ---
-[L&rsquo;API de incidents-transports](http://www.incidents-transports.com/dev/) a évolué et indique maintenant l&rsquo;identifiant de la ligne sur lequel l&rsquo;incident a eu lieu. Je tire parti de cette nouvelle information, en affichant le pictogramme de la ligne concernée dans la liste. <figure id="attachment_1789" style="width: 233px" class="wp-caption alignnone">
+[L’API de incidents-transports](http://www.incidents-transports.com/dev/) a évolué et indique maintenant l’identifiant de la ligne sur lequel l’incident a eu lieu. Je tire parti de cette nouvelle information, en affichant le pictogramme de la ligne concernée dans la liste. <figure id="attachment_1789" style="width: 233px" class="wp-caption alignnone">
 
 [<img src="http://regis.decamps.info/blog/wp-content/uploads/2011/03/device-233x350.png" alt="Capture d&#039;écran montrant l&#039;Adapter au travail" title="Liste des incidents avec Custom Adapter" width="233" height="350" class="size-medium wp-image-1789" srcset="http://regis.decamps.info/blog/wp-content/uploads/2011/03/device-233x350.png 233w, http://regis.decamps.info/blog/wp-content/uploads/2011/03/device.png 320w" sizes="(max-width: 233px) 100vw, 233px" />](http://regis.decamps.info/blog/wp-content/uploads/2011/03/device.png)<figcaption class="wp-caption-text">L'Adapter surchargé permet de construire un affichage plus avancé</figcaption></figure> 
 
@@ -83,7 +83,7 @@ ImageView imageViewPicto = (ImageView) view
 				  
 .findViewById(R.id.ImageViewIncidentListItemPicto);
 		  
-// sinon reprend l&rsquo;image de la ligne précédente
+// sinon reprend l’image de la ligne précédente
 		  
 imageViewPicto.setImageBitmap(null);
 		  

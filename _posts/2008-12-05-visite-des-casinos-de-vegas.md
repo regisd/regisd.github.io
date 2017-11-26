@@ -26,6 +26,6 @@ Nous débutons la journée par une visite visite les autres casinos de Vegas, à
   
 <!--more-->
 
-De l&rsquo;extérieur, le Luxor a une forme de pyramide, et les chambres sont sur les paroies de cette pyramide.
+De l’extérieur, le Luxor a une forme de pyramide, et les chambres sont sur les paroies de cette pyramide.
 
 Je trouve cette architecture très impressionnante. Le lieu dégage une atmosphère de science-fiction.

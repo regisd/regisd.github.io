@@ -1,15 +1,15 @@
 ---
 id: 1880
-title: 'Olivier Giraud &#8211; How to become parisian in one hour ?'
+title: 'Olivier Giraud – How to become parisian in one hour ?'
 date: 2011-03-18T12:54:13+00:00
 author: Syndication
 excerpt: |
   A voir avec des amis étrangers.
-  Ma note&nbsp;:&nbsp;3 / 5
+  Ma note : 3 / 5
 layout: post
 permalink: /2011/03/olivier-giraud-how-to-become-parisian-in-one-hour-theatre/
 syndication_source:
-  - 'Webcity&nbsp;:&nbsp;wakaseoo - Ses nouveaux avis'
+  - 'Webcity : wakaseoo - Ses nouveaux avis'
 syndication_source_uri:
   - http://www.webcity.fr/wakaseoo/avis
 syndication_source_id:
@@ -32,12 +32,12 @@ tags:
   - One-man show
   - Paris
 ---
-**Rating:**&nbsp;![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "3/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "3/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "3/5")![&#9734;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "3/5")![&#9734;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "3/5")&nbsp;
+**Rating:** ![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "3/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "3/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "3/5")![&#9734;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "3/5")![&#9734;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "3/5") 
 
 <img src="http://regis.decamps.info/blog/wp-content/uploads/2011/03/olivierflyers-233x350.jpg" alt="Affiche du spectacle" title="How to become parisian in one hour?" width="233" height="350" class="alignleft size-medium wp-image-1882" srcset="http://regis.decamps.info/blog/wp-content/uploads/2011/03/olivierflyers-233x350.jpg 233w, http://regis.decamps.info/blog/wp-content/uploads/2011/03/olivierflyers.jpg 480w" sizes="(max-width: 233px) 100vw, 233px" />
 
-Les sketchs sont des leçons pour apprendre aux étrangers (les provinciaux ou les touristes) à devenir parisiens. Évidemment, on peut s&rsquo;attendre à un défilé de clichés&#8230; Les défauts des parisiens ou des étrangers sont mis en exergue.
+Les sketchs sont des leçons pour apprendre aux étrangers (les provinciaux ou les touristes) à devenir parisiens. Évidemment, on peut s’attendre à un défilé de clichés…; Les défauts des parisiens ou des étrangers sont mis en exergue.
   
-J&rsquo;ai ri, mais globalement, je n&rsquo;ai pas trouvé dans ce spectacle la subtilité de « A year in the merde », par exemple. &nbsp; [Suite&#8230;](http://www.webcity.fr/wakaseoo/120477-e/avis)
+J’ai ri, mais globalement, je n’ai pas trouvé dans ce spectacle la subtilité de « A year in the merde », par exemple.   [Suite…;](http://www.webcity.fr/wakaseoo/120477-e/avis)
 
 Site officiel: [Olivier Giraud](http://www.oliviergiraud.com/)

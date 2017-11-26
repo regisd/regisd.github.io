@@ -14,6 +14,6 @@ categories:
   - Brève
   - Shopping
 ---
-FIAnet est une assurance qui protège les commerçants et peut compliquer la procédure d&rsquo;achats pour les consommateurs.
+FIAnet est une assurance qui protège les commerçants et peut compliquer la procédure d’achats pour les consommateurs.
 
-A l&rsquo;approche des fêtes de Noël, il me semble donc utile de rappeler cet [ancien article](http://regis.decamps.info/blog/2008/05/a-quoi-sert-fia-net-exactement/), qui est toujours d&rsquo;actualités, vus les commentaires qui y sont postés. Personnellement, je recommande de ne pas aller chez un commerçant qui porte le badge FIA-net.
+A l’approche des fêtes de Noël, il me semble donc utile de rappeler cet [ancien article](http://regis.decamps.info/blog/2008/05/a-quoi-sert-fia-net-exactement/), qui est toujours d’actualités, vus les commentaires qui y sont postés. Personnellement, je recommande de ne pas aller chez un commerçant qui porte le badge FIA-net.

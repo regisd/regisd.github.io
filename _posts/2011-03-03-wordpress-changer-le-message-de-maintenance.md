@@ -30,6 +30,6 @@ Quand on fait une mise à jour sur wordpress, celui-ci affiche un message utile 
 
 > Indisponibilité temporaire pour cause de maintenance. Veuillez revenir dans un instant
 
-En fait, il est possible de mettre ce que l&rsquo;on souhaite. Il suffit d&rsquo;ajouter la page <tt>wp-content/maintenance.php</tt><figure id="attachment_1773" style="width: 351px" class="wp-caption alignnone">
+En fait, il est possible de mettre ce que l’on souhaite. Il suffit d’ajouter la page <tt>wp-content/maintenance.php</tt><figure id="attachment_1773" style="width: 351px" class="wp-caption alignnone">
 
 <img src="http://regis.decamps.info/blog/wp-content/uploads/2011/03/greenshot_2011-03-03_10-44-38.png" alt="Capture d&#039;écran page maintenance" title="Page de maintenance" width="351" height="392" class="size-full wp-image-1773" srcset="http://regis.decamps.info/blog/wp-content/uploads/2011/03/greenshot_2011-03-03_10-44-38.png 351w, http://regis.decamps.info/blog/wp-content/uploads/2011/03/greenshot_2011-03-03_10-44-38-313x350.png 313w" sizes="(max-width: 351px) 100vw, 351px" /><figcaption class="wp-caption-text">Et voilà. Ma page de maintenance affiche un message plus sympathique.</figcaption></figure>

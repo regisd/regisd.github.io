@@ -13,6 +13,6 @@ categories:
 tags:
   - Blogmark
 ---
-Il faudrait que je me remette à développerl&rsquo;extension blogmark pour Firefox&#8230;
+Il faudrait que je me remette à développerl’extension blogmark pour Firefox…;
 
 Vous pouvez proposer une[nouvelle fonctionnalité](http://code.google.com/p/blogmark/issues/list?q=label:Type-Enhancement).

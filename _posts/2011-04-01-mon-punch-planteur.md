@@ -28,21 +28,21 @@ Le punch planteur est un [cocktail](http://www.1001cocktails.com/cocktails/1153/
 
 Voici mes ingrédients pour 3 litres:
 
-  * 1,5L de jus d&rsquo;orange._
+  * 1,5L de jus d’orange._
   
-    C&rsquo;est surtout sur les jus de fruits que la qualité doit être là. L&rsquo;idéal est de le presser soi-même. Sinon, je recommande un [Andros](http://www.andros.fr/) au rayon frais (avec une bouteille vide d&rsquo;avance car elle est est bien pratique) ou un [Tropicana](http://www.tropicana.fr/#/carrouselproduit) au rayon frais. Le Sunny delight a ses adeptes, mais je trouve son acidité inadaptée au punch. Evitez les jus pasteurisés en brique ou en bouteille. Et surtout pas de jus à base de concentré._
-  * 0,75 cl d&rsquo;autre jus.
+    C’est surtout sur les jus de fruits que la qualité doit être là. L’idéal est de le presser soi-même. Sinon, je recommande un [Andros](http://www.andros.fr/) au rayon frais (avec une bouteille vide d’avance car elle est est bien pratique) ou un [Tropicana](http://www.tropicana.fr/#/carrouselproduit) au rayon frais. Le Sunny delight a ses adeptes, mais je trouve son acidité inadaptée au punch. Evitez les jus pasteurisés en brique ou en bouteille. Et surtout pas de jus à base de concentré._
+  * 0,75 cl d’autre jus.
   
-    _Type multi-agrumes, ou multi-fruits, ou ananas, ou goyave ou mangue, selon l&rsquo;acidité et la texture que l&rsquo;on veut donner_
+    _Type multi-agrumes, ou multi-fruits, ou ananas, ou goyave ou mangue, selon l’acidité et la texture que l’on veut donner_
   * 10 cl de sucre de canne liquide
   * 40 cl de Rhum blanc
   
-    _Il faut un Rhum correct, mais inutile prendre un rhum agricole de première qualité. Par exemple un [Dillon](http://www.rhums-dillon.com/) fait parfaitement l&rsquo;affaire._
+    _Il faut un Rhum correct, mais inutile prendre un rhum agricole de première qualité. Par exemple un [Dillon](http://www.rhums-dillon.com/) fait parfaitement l’affaire._
   * 15 cl de rhum arrangé
   * 5 cl de rhum brun.
   * 1/2 citron.
   
-    _Les pesticides ne sont pas bons, un citron bio permet de laisser la peau (qui ressemblera à un fruit confit sous l&rsquo;effet de la macération)_
+    _Les pesticides ne sont pas bons, un citron bio permet de laisser la peau (qui ressemblera à un fruit confit sous l’effet de la macération)_
   * 1/2 pomme épluchée
   * 1 mandarine ou 1/2 orange épuclée
   * 1 gousse de vanille
@@ -60,11 +60,11 @@ La recette est très simple:
 
 ### Le rhum arrangé
 
-_Le vrai secret du punch est d&rsquo;utiliser du rhum arrangé, c&rsquo;est lui qui va enrichir le punch de tous ses arômes._
+_Le vrai secret du punch est d’utiliser du rhum arrangé, c’est lui qui va enrichir le punch de tous ses arômes._
 
 Pour le rhum arrangé, il faut:
 
-  * un rhum de qualité supérieur. _J&rsquo;aime particulèrement le [HSE Saint-Etienne](http://www.lacompagniedurhum.com/hse-rhum-blanc-cuvee-de-l-an-2000-70cl-50-habitation-saint-etienne,fr,4,M_HSE_01.cfm)_
-  * un mélange d&rsquo;épices: Feuilles et zestes d&rsquo;agrumes, Feuilles et bâtons de canelle, citronnelle, vanille de Bourbon, anis étoilé, [faham](http://fr.wikipedia.org/wiki/Faham "art. sur Wikipédia"). _En fait, mes parents m&rsquo;avaient offert une [préparation](http://www.bienmanger.com/1F2242_Pour_Rhum_Arrange_Traditionnel_Reunion.html) à leur retour de vacances de la Réunion._
+  * un rhum de qualité supérieur. _J’aime particulèrement le [HSE Saint-Etienne](http://www.lacompagniedurhum.com/hse-rhum-blanc-cuvee-de-l-an-2000-70cl-50-habitation-saint-etienne,fr,4,M_HSE_01.cfm)_
+  * un mélange d’épices: Feuilles et zestes d’agrumes, Feuilles et bâtons de canelle, citronnelle, vanille de Bourbon, anis étoilé, [faham](http://fr.wikipedia.org/wiki/Faham "art. sur Wikipédia"). _En fait, mes parents m’avaient offert une [préparation](http://www.bienmanger.com/1F2242_Pour_Rhum_Arrange_Traditionnel_Reunion.html) à leur retour de vacances de la Réunion._
 
 Bonne dégustation, sans abus évidemment 🙂

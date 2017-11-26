@@ -17,4 +17,4 @@ tags:
 ---
 Les moteurs de recherche \[Exalead\]( http://blog.decamps.info/2005/12/exalead/) ou \[Clusty\](http://clusty.com) proposent des termes similaires à celui recherché.
 
-Il ne reste plus qu&rsquo;à présenté ces termes sous une forme un peu graphique (en faisant varier leur taille selon leur fréquence) et l&rsquo;on obtient [le Nébuloscope](http://aixtal.blogspot.com/2006/01/outil-le-nbuloscope.html). Un petit outil sympathique à essayer très vite (il s&rsquo;appuie sur \[dir.com\](http://www.dir.com))
+Il ne reste plus qu’à présenté ces termes sous une forme un peu graphique (en faisant varier leur taille selon leur fréquence) et l’on obtient [le Nébuloscope](http://aixtal.blogspot.com/2006/01/outil-le-nbuloscope.html). Un petit outil sympathique à essayer très vite (il s’appuie sur \[dir.com\](http://www.dir.com))

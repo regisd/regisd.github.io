@@ -15,4 +15,4 @@ categories:
 ---
 Qui a dit que les administrations ne savaient pas se moderniser?
 
-La caisse d&rsquo;assurance vieillesse (CNAV) permet de consulter en ligne son  [relevé de carrière](https://www.retraite.cnav.fr/cgi-cnav/givehtm.exe?formhtm=/web/rel-index.htm&DEPT=), c&rsquo;est à dire combien de trimestres on a déjà côtisé.
+La caisse d’assurance vieillesse (CNAV) permet de consulter en ligne son  [relevé de carrière](https://www.retraite.cnav.fr/cgi-cnav/givehtm.exe?formhtm=/web/rel-index.htm&DEPT=), c’est à dire combien de trimestres on a déjà côtisé.

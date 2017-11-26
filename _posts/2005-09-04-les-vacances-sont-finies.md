@@ -17,6 +17,6 @@ categories:
 ---
 <a href="http://server5.theimagehosting.com/image.php?img=panoramique_screen.jpg" target="_blank"><img src="http://images5.theimagehosting.com/panoramique_screen.th.jpg" border="0" title="The Image Hosting" /></a> 
 
-Je suis parti dans les Alpes, entre Évian et Annecy. Le temps a été superbe tout le temps, il a presque fait trop chaud. Parti en voiture, nous avons visité Beaune à allé. Rando petite et grande (départ 900, col à 1800m), VTT (petite descente de 3 heures) visite de Thonon et d&rsquo;Évian, puis de Lyon pour le retour, j&rsquo;ai bien rempli nos emplois du temps. 
+Je suis parti dans les Alpes, entre Évian et Annecy. Le temps a été superbe tout le temps, il a presque fait trop chaud. Parti en voiture, nous avons visité Beaune à allé. Rando petite et grande (départ 900, col à 1800m), VTT (petite descente de 3 heures) visite de Thonon et d’Évian, puis de Lyon pour le retour, j’ai bien rempli nos emplois du temps. 
 
-Dommage qu&rsquo;une gastro entérite soit venue gâcher le retour.
+Dommage qu’une gastro entérite soit venue gâcher le retour.

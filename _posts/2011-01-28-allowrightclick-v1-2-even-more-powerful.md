@@ -19,7 +19,7 @@ tags:
   - AllowRightClick
   - Chrome
 ---
-Many site try to prevent you from accessing the context menu. Well that&rsquo;s a nice try; thanks to [AllowRightClick](http://regis.decamps.info/blog/projects/allow-rightclickextension-for-google-chrome/) extension for google Chrome, you will have your context menu anyway :-p
+Many site try to prevent you from accessing the context menu. Well that’s a nice try; thanks to [AllowRightClick](http://regis.decamps.info/blog/projects/allow-rightclickextension-for-google-chrome/) extension for google Chrome, you will have your context menu anyway :-p
 
 This new version works on more sites than before:
 

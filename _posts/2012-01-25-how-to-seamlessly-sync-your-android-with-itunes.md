@@ -23,14 +23,14 @@ tags:
 I want to synchronize my music library on my iMac with my Android mobile phone:
 
   * I want something simple.
-  * I&rsquo;d rather use WiFi rather than USB. I don&rsquo;t really need a cloud service, though.
-  * I want my songs to be re-encoded. Indeed, my iTunes library is Apple Lossless (when ripped from CD) or high-quality MP3 (when bought on Amazon MP3). I can&rsquo;t play m4a alac on Android. And I don&rsquo;t want to waste my phone memory on high lossless songs, since they wil be listen with earphones anyway.
+  * I’d rather use WiFi rather than USB. I don’t really need a cloud service, though.
+  * I want my songs to be re-encoded. Indeed, my iTunes library is Apple Lossless (when ripped from CD) or high-quality MP3 (when bought on Amazon MP3). I can’t play m4a alac on Android. And I don’t want to waste my phone memory on high lossless songs, since they wil be listen with earphones anyway.
 
 <!--more-->
 
 ### Many products. None of them good.
 
-I&rsquo;ve spent a couple of hours trying different solutions:
+I’ve spent a couple of hours trying different solutions:
 
   * [Lifehacker recommends DoubleTwist](http://lifehacker.com/5801473/how-to-sync-android-with-your-mac-as-seamlessly-as-an-iphone). It requires you to plug the mobile with the USB cable (except if you buy DoubleTwist AirSync).
   * [Easy Phone Tunes](https://market.android.com/details?id=com.easyphonetunes.android.app&feature=search_result) is free for one playlist (well, I called that playlist « Android sync ») and works well

@@ -15,6 +15,6 @@ categories:
 tags:
   - Firefox
 ---
-Si on ne pouvait installer qu&rsquo;une extension pour firefox, ce serait sans doute [Greasemonkey](http://greasemonkey.mozdev.org/).
+Si on ne pouvait installer qu’une extension pour firefox, ce serait sans doute [Greasemonkey](http://greasemonkey.mozdev.org/).
 
-Greasemonkey permet d&rsquo;exécuter du javascript sur n&rsquo;importe quelle page HTML. En clair, cela permet de modifier le contenu de la page (enlever des pubs, ajouter un bouton « Supprimer » dans gmail, etc.). Je donnerai dans les jours qui viennent des pointeurs vers des scripts greasemonkey&#8230;
+Greasemonkey permet d’exécuter du javascript sur n’importe quelle page HTML. En clair, cela permet de modifier le contenu de la page (enlever des pubs, ajouter un bouton « Supprimer » dans gmail, etc.). Je donnerai dans les jours qui viennent des pointeurs vers des scripts greasemonkey…;

@@ -18,4 +18,4 @@ categories:
 
 I took my phone out of my pocket and discovered with horror that the « back » and « search » buttons were torn off.
 
-They still work, though&#8230; For how long?
+They still work, though…; For how long?

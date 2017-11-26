@@ -19,4 +19,4 @@ tags:
 ---
 [<img id="image309" src="http://regis.decamps.info/blog/wp-content/uploads/2006/08/mg_5560.sized.thumbnail.jpg" alt="Logo de firefox tracé dans un champ" />](http://regis.decamps.info/blog/wp-content/uploads/2006/08/mg_5560.sized.jpg "Logo de firefox tracÃ© dans un champ"){.imagelink}
   
-Un groupe d&rsquo;utilisateurs de linux de l&rsquo;Oregon s&rsquo;est amusé à [faucher un champ pour dessiner le logo de firefox](http://lug.oregonstate.edu/index.php/Projects/Firefox/Firefox_Circle).
+Un groupe d’utilisateurs de linux de l’Oregon s’est amusé à [faucher un champ pour dessiner le logo de firefox](http://lug.oregonstate.edu/index.php/Projects/Firefox/Firefox_Circle).

@@ -14,8 +14,8 @@ categories:
 tags:
   - DADVSI
 ---
-Avec le nombre de CRS déployés autour du Palais Royal aujourd&rsquo;hui, je m&rsquo;étais bien douté qu&rsquo;il se passait quelque chose d&rsquo;important au Ministère de la Culture (d&rsquo;autres pensaient plutôt au Conseil d&rsquo;Etat).
+Avec le nombre de CRS déployés autour du Palais Royal aujourd’hui, je m’étais bien douté qu’il se passait quelque chose d’important au Ministère de la Culture (d’autres pensaient plutôt au Conseil d’Etat).
 
-La chose importante, c&rsquo;est un débat sur DADVSI, et les CRS, c&rsquo;est simplement parce que quand on entend « débat », on entend forcément Nicolas Sarkozy.
+La chose importante, c’est un débat sur DADVSI, et les CRS, c’est simplement parce que quand on entend « débat », on entend forcément Nicolas Sarkozy.
 
 En tout cas, Frédéric Couchet (président de [FSF](http://www.fsf.org/) France) a fait un [compte-rendu](http://www.couchet.org/blog/index.php?2006/01/17/108-reunion-a-l-ump-sur-le-projet-de-loi-dadvsi) intéressant.

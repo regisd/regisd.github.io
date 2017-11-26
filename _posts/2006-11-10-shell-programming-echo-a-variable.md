@@ -18,7 +18,7 @@ tags:
 ---
 Quite often when I write shell scripts, I need to echo a variable for debugging. 
 
-If _a_ is &lsquo;toto&rsquo;, I&rsquo;d like to print:
+If _a_ is &lsquo;toto’, I’d like to print:
   
 a=toto
 
@@ -30,7 +30,7 @@ echo a=$a
   
 [/code]
 
-But since I&rsquo;m <strike>a programmer</strike> lazy, I&rsquo;d like to:
+But since I’m <strike>a programmer</strike> lazy, I’d like to:
   
 [code]
   

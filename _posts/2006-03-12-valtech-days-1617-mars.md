@@ -15,22 +15,22 @@ categories:
   - Boulot
   - Informatique
 ---
-Travailler pour la Banque de France a des inconvénients (au hasard, le salaire), mais aussi des avantages, parmi lesquels les formations. En l&rsquo;occurence j&rsquo;irai aux Valtech Days jeudi et vendredi prochains.
+Travailler pour la Banque de France a des inconvénients (au hasard, le salaire), mais aussi des avantages, parmi lesquels les formations. En l’occurence j’irai aux Valtech Days jeudi et vendredi prochains.
 
-[Valtech dixit « 2 journées 100% techniques pour comprendre les évolutions technologiques »]&rsquo;http://www.valtech.fr/servlet/ContentServer?pagename=Valtech/Page&assetid=1137684746182).
+[Valtech dixit « 2 journées 100% techniques pour comprendre les évolutions technologiques »]’http://www.valtech.fr/servlet/ContentServer?pagename=Valtech/Page&assetid=1137684746182).
   
-Moi, je veux bien les croire, il n&rsquo;y a que des gens bien chez Valtech Training.
+Moi, je veux bien les croire, il n’y a que des gens bien chez Valtech Training.
 
-Le programme se fait « à la carte », en naviguant dans 5 grandes « planètes » (comprendre thématique). Je n&rsquo;ai pas encore bien élaboré mon programme, et il va falloir que je choisisse parmi ces conférences (qui tombent en même temps):
+Le programme se fait « à la carte », en naviguant dans 5 grandes « planètes » (comprendre thématique). Je n’ai pas encore bien élaboré mon programme, et il va falloir que je choisisse parmi ces conférences (qui tombent en même temps):
 
 * « Automatiser les recettes fonctionnelles » vs « Hiernate, EJB 3 et Seam »
   
 * « The historical accident of waterfall » vs « La gestion des exigences dans la relation MOE-MOA »
   
-* « Agile project management » vs « Cas d&rsquo;utilisation: bonne et mauvaise utilisation »
+* « Agile project management » vs « Cas d’utilisation: bonne et mauvaise utilisation »
   
 * « XP » vs « AOP »
 
-Les planètes « Agile » et « Industrialisation » ont l&rsquo;air fort intéressantes.
+Les planètes « Agile » et « Industrialisation » ont l’air fort intéressantes.
 
-Je vous ferai sans doute un petit compte-rendu&#8230;
+Je vous ferai sans doute un petit compte-rendu…;

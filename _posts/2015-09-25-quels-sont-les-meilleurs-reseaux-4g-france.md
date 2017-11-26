@@ -12,13 +12,13 @@ dsq_thread_id:
 categories:
   - Général
 ---
-OpenSignal mesure la vitesse de connection de milliers de téléphones, et vient de publier son [rapport trimestriel sur l&rsquo;état de la 4G](http://opensignal.com/reports/2015/09/state-of-lte-q3-2015/) (LTE).
+OpenSignal mesure la vitesse de connection de milliers de téléphones, et vient de publier son [rapport trimestriel sur l’état de la 4G](http://opensignal.com/reports/2015/09/state-of-lte-q3-2015/) (LTE).
   
 <!--more-->
 
 
   
-Les abonnements de téléphonie en France sont peu chers, mais l&rsquo;infrastructure en pâtît: la France a une des pires couvertures LTE dans le monde, derrière la Grèce, les USA, la Russie ou l&rsquo;Inde. Les pays qui ont déployé la 4G sur plus de 80% de leur territoire sont la Corée du Sud, le Japon, Hong Kong, le Koweït, Singapore, l&rsquo;Uruguay et le Kazakhstan.
+Les abonnements de téléphonie en France sont peu chers, mais l’infrastructure en pâtît: la France a une des pires couvertures LTE dans le monde, derrière la Grèce, les USA, la Russie ou l’Inde. Les pays qui ont déployé la 4G sur plus de 80% de leur territoire sont la Corée du Sud, le Japon, Hong Kong, le Koweït, Singapore, l’Uruguay et le Kazakhstan.
 
 Et en France, quel est le meilleur opérateur? Orange et Bouygues telecom sont au coude-à-coude pour la première marche du podium.
 

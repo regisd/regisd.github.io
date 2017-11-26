@@ -22,7 +22,7 @@ categories:
 tags:
   - Chine
 ---
-Ca fait un moment que je n&rsquo;ai rien posté parce que j&rsquo;ai fait un voyage de 2 semaines de vacances dans le Yunnan, avec des copains et copines.
+Ca fait un moment que je n’ai rien posté parce que j’ai fait un voyage de 2 semaines de vacances dans le Yunnan, avec des copains et copines.
 
 <div id='gallery-2' class='gallery galleryid-1906 gallery-columns-3 gallery-size-thumbnail'>
   <figure class='gallery-item'> 
@@ -49,7 +49,7 @@ Ca fait un moment que je n&rsquo;ai rien posté parce que j&rsquo;ai fait un voy
   
   <div class='gallery-icon portrait'>
     <a href='http://regis.decamps.info/blog/2011/04/voyage-en-chine/imgp5111/'><img width="150" height="150" src="http://regis.decamps.info/blog/wp-content/uploads/2011/04/IMGP5111-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="L&#039;intérieur d&#039;un temple bouddhiste" aria-describedby="gallery-2-1915" /></a>
-  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-2-1915'> L&rsquo;intérieur d&rsquo;un temple bouddhiste </figcaption></figure><figure class='gallery-item'> 
+  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-2-1915'> L’intérieur d’un temple bouddhiste </figcaption></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
     <a href='http://regis.decamps.info/blog/2011/04/voyage-en-chine/imgp5290/'><img width="150" height="150" src="http://regis.decamps.info/blog/wp-content/uploads/2011/04/IMGP5290-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="Fête des minorités" aria-describedby="gallery-2-1916" /></a>

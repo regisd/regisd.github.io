@@ -15,12 +15,12 @@ categories:
 tags:
   - Vélib
 ---
-Après l&rsquo;abonnement de 29€ par an pour uriliser Vélib (les touristes trouveront un abonnement à 1€ la journée), il faut payer pour utiliser Vélib.
+Après l’abonnement de 29€ par an pour uriliser Vélib (les touristes trouveront un abonnement à 1€ la journée), il faut payer pour utiliser Vélib.
 
-La première demi-heure et gratuite, mais ensuite c&rsquo;est de plus en plus cher, ce qui donne un coût de locationi quasiment exponentiel:
+La première demi-heure et gratuite, mais ensuite c’est de plus en plus cher, ce qui donne un coût de locationi quasiment exponentiel:
 
-  * gratuit pour moins d&rsquo;une demi-heure
-  * 1€ jusqu&rsquo;à une heure
+  * gratuit pour moins d’une demi-heure
+  * 1€ jusqu’à une heure
   * 2€ en sus pour une demi-heure supplémentaire
   * 4€ ajoutés pour chaque demi-heure suivante
 

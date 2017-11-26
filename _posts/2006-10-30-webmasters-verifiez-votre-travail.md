@@ -16,9 +16,9 @@ categories:
 tags:
   - HTML
 ---
-On ne répètera jamais assez l&rsquo;importance de respecter les standards. Une page web qui ne les respecte pas à toutes les chances de mal s&rsquo;afficher voir de ne pas fonctionner sur différent navigateurs (y compris sur IE7).
+On ne répètera jamais assez l’importance de respecter les standards. Une page web qui ne les respecte pas à toutes les chances de mal s’afficher voir de ne pas fonctionner sur différent navigateurs (y compris sur IE7).
 
-Pour éviter la catastrophe, on peut faire auditer son site par des services comme [ocawa](http://www.ocawa.com/) ou [Mon opquast](http://www.opquast.com/mon-opquast/). Ces services regardent aussi un certain nombre de bonnes pratiques (exemple: « L&rsquo;adresse du webmaster est clairement indiquée sur la page de contacts »), notamment celles édictées par l&rsquo;[Administration française en ligne](http://www.adele.gouv.fr/spip/article.php3?id_article=246).
+Pour éviter la catastrophe, on peut faire auditer son site par des services comme [ocawa](http://www.ocawa.com/) ou [Mon opquast](http://www.opquast.com/mon-opquast/). Ces services regardent aussi un certain nombre de bonnes pratiques (exemple: « L’adresse du webmaster est clairement indiquée sur la page de contacts »), notamment celles édictées par l’[Administration française en ligne](http://www.adele.gouv.fr/spip/article.php3?id_article=246).
 
 Je parle de tout cela parce que je viens de découvrir une extension pour firefox bien pratique: [Ocawa toolbar](https://addons.mozilla.org/firefox/3624/) indique sur la page auditée les erreurs constatées.
 

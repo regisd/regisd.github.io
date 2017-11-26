@@ -16,10 +16,10 @@ tags:
   - Gay
   - One-man show
 ---
-**Rating:**&nbsp;![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9734;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "4/5")&nbsp;
+**Rating:** ![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9734;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "4/5") 
 
 Samuel Laroque est gay et son one-man-show raconte quelques épisodes de sa vie à travers des personnages drôles et attachants.
 
-Vue la thématique, ce sont surtout des gays qui viennnent voir le spectacle ; mais c&rsquo;est dommage car il est vraiment drôle.
+Vue la thématique, ce sont surtout des gays qui viennnent voir le spectacle ; mais c’est dommage car il est vraiment drôle.
 
-Mais paradoxalement, j&rsquo;ai trouvé le spectacle un peu trop long. Je pense qu&rsquo;une heure aurait suffit.
+Mais paradoxalement, j’ai trouvé le spectacle un peu trop long. Je pense qu’une heure aurait suffit.

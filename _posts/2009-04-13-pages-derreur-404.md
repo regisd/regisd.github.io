@@ -1,6 +1,6 @@
 ---
 id: 853
-title: 'Pages d&rsquo;erreur 404'
+title: 'Pages d’erreur 404'
 date: 2009-04-13T22:39:12+00:00
 author: Régis
 layout: post
@@ -14,13 +14,13 @@ categories:
   - Informatique
   - Sites web
 ---
-Un site web peut fournir une page d&rsquo;erreur 404 personnalisée, et certaines sont vraiment sympas:
+Un site web peut fournir une page d’erreur 404 personnalisée, et certaines sont vraiment sympas:
 
-  * [www.limpfish.com/](http://www.limpfish.com/regis) sous la forme d&rsquo;une petite annonce
+  * [www.limpfish.com/](http://www.limpfish.com/regis) sous la forme d’une petite annonce
   * [Github.com](https://github.com/0no.html) avec une image en 3D
   * [huml](http://huml.org/404.shtml) a fait un écran bleu de la mort
   * [css-tricks](http://css-tricks.com/regis) a mis une image créative
-  * [southpark](http://www.southparkstudios.com/regis) change de d&rsquo;illustration régulièrement
+  * [southpark](http://www.southparkstudios.com/regis) change de d’illustration régulièrement
   * [lightpostcreative.com](http://www.lightpostcreative.com/regis) a mis une photo créative
   * [bluedaniel](http://www.bluedaniel.com/regis) offre un petit film
 

@@ -15,9 +15,9 @@ categories:
 tags:
   - Humour
 ---
-Avec l&rsquo;éclatement de la bulle Internet en 2001, on pensait que le web avait été trop à la mode. 
+Avec l’éclatement de la bulle Internet en 2001, on pensait que le web avait été trop à la mode. 
 
-Mais quelques années, plus tard, le web est bien présent, plus que jamais. C&rsquo;est lors d&rsquo;un séminaire en septembre 2005, que Dale Dougherty et Tim O&rsquo;Reilly font remarquer que les survivants de l&rsquo;éclatement sont de plus en plus présent dans la vie des gens ; et que de nouvelles applications innovantes voient régulièrement le jour. Dale Dougherty et Tim O&rsquo;Reilly pensent que ces survivants et ces nouvelles applications ont quelque chose de commun, et pour les distinguer de l&rsquo;époque avant-bulle, ils les font entrer dans l&rsquo;ère du « _web 2.0_« . Pour illustrer leurs propos, ils ont donné quelques exemples:
+Mais quelques années, plus tard, le web est bien présent, plus que jamais. C’est lors d’un séminaire en septembre 2005, que Dale Dougherty et Tim O’Reilly font remarquer que les survivants de l’éclatement sont de plus en plus présent dans la vie des gens ; et que de nouvelles applications innovantes voient régulièrement le jour. Dale Dougherty et Tim O’Reilly pensent que ces survivants et ces nouvelles applications ont quelque chose de commun, et pour les distinguer de l’époque avant-bulle, ils les font entrer dans l’ère du « _web 2.0_« . Pour illustrer leurs propos, ils ont donné quelques exemples:
 
 > | Web 1.0                    | Web 2.0                    |
 > | -------------------------- | -------------------------- |
@@ -36,7 +36,7 @@ Mais quelques années, plus tard, le web est bien présent, plus que jamais. C&r
 > | directories (taxonomy)     | tagging (« folksonomy »)   |
 > | stickiness                 | syndication                |
 
-Le terme de « web 2.0 » est devenu un vértiable buzz word &#8212; j&rsquo;espère d&rsquo;ailleurs attirer un grand nombre de visiteurs en l&rsquo;utilisant sur cet article. Au point que ça en agace certains, et moi le premier. J&rsquo;aime beaucoup cet article de [Zeldman qui propose de recenser les fausses différences](http://www.zeldman.com/2006/10/17/web-20-thinking-game/), comme par exemple:
+Le terme de « web 2.0 » est devenu un vértiable buzz word &#8212; j’espère d’ailleurs attirer un grand nombre de visiteurs en l’utilisant sur cet article. Au point que ça en agace certains, et moi le premier. J’aime beaucoup cet article de [Zeldman qui propose de recenser les fausses différences](http://www.zeldman.com/2006/10/17/web-20-thinking-game/), comme par exemple:
 
 > | Web 1.0                 | Web 2.0               |
 > | ----------------------- | --------------------- |

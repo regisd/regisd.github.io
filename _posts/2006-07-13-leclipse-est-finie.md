@@ -13,6 +13,6 @@ dsq_thread_id:
 categories:
   - Programmation
 ---
-Siemens m&rsquo;a échangé mon écran LCD, j&rsquo;ai retrouvé un rétro-éclairage normal, et peux de nouveau bloguer un peu.
+Siemens m’a échangé mon écran LCD, j’ai retrouvé un rétro-éclairage normal, et peux de nouveau bloguer un peu.
 
-Et puisque j&rsquo;étais dans le noir, je rappelle qu&rsquo;[Eclipse 3.2](http://www.eclipse.org) est sorti. La première chose qui a complété mon installation est [Callisto](http://wiki.eclipse.org/Callisto_Simultaneous_Release), ce projet qui planifie la diffusion collective de plugins aussi utiles que C/C++ IDE, Web tools platforms, Visual Editor, BIRT, etc. [AspectJ](http://www.eclipse.org/ajdt/) a suivi de très peu et je n&rsquo;ai pas non plus oublié [Rails](http://rubyeclipse.sourceforge.net/index.rdt.html) et [Vex](http://vex.sourceforge.net/).
+Et puisque j’étais dans le noir, je rappelle qu’[Eclipse 3.2](http://www.eclipse.org) est sorti. La première chose qui a complété mon installation est [Callisto](http://wiki.eclipse.org/Callisto_Simultaneous_Release), ce projet qui planifie la diffusion collective de plugins aussi utiles que C/C++ IDE, Web tools platforms, Visual Editor, BIRT, etc. [AspectJ](http://www.eclipse.org/ajdt/) a suivi de très peu et je n’ai pas non plus oublié [Rails](http://rubyeclipse.sourceforge.net/index.rdt.html) et [Vex](http://vex.sourceforge.net/).

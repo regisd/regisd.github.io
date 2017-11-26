@@ -15,8 +15,8 @@ categories:
 tags:
   - Humour
 ---
-Les journalistes traquent la voiture de Nicolas Sarkozy et c&rsquo;est assez ennuyeux.
+Les journalistes traquent la voiture de Nicolas Sarkozy et c’est assez ennuyeux.
 
-Merci à Nicolas Canteloup d&rsquo;avoir chroniqué cela sur [Europe 1](http://www.europe1.fr/informations/chroniques/697254/la-revue-de-presque.html).
+Merci à Nicolas Canteloup d’avoir chroniqué cela sur [Europe 1](http://www.europe1.fr/informations/chroniques/697254/la-revue-de-presque.html).
 
 <img src="http://www.europe1.fr//images/pix.gif" height="10" width="1" />

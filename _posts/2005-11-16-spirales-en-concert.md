@@ -18,8 +18,8 @@ tags:
   - Concert
   - Paris
 ---
-Je ne connais pas le groupe spirales, mais ce sont des amis d&rsquo;une amie. Donc probablement des gens biens. Apparemment ils jouent de la chanson française et du rock. Si quelqu&rsquo;un le connaît, qu&rsquo;il nous parle de ce groupe dans les commentaires!
+Je ne connais pas le groupe spirales, mais ce sont des amis d’une amie. Donc probablement des gens biens. Apparemment ils jouent de la chanson française et du rock. Si quelqu’un le connaît, qu’il nous parle de ce groupe dans les commentaires!
 
-En tout cas, ils sont en concert le lundi 28 novembre au Bateau Ivre (entrée gratuite) et le jeudi 1er décembre au bistrot des artistes (3 euros). J&rsquo;irai sans doute les voir au Bateau Ivre.
+En tout cas, ils sont en concert le lundi 28 novembre au Bateau Ivre (entrée gratuite) et le jeudi 1er décembre au bistrot des artistes (3 euros). J’irai sans doute les voir au Bateau Ivre.
 
 [<img src="http://regis.decamps.info/blog/wp-content/uploads/2005/11/spirales-concert-245x350.jpeg" alt="Affiche du concert de Spirales" width="245" height="350" class="alignright size-medium wp-image-3264" srcset="http://regis.decamps.info/blog/wp-content/uploads/2005/11/spirales-concert-245x350.jpeg 245w, http://regis.decamps.info/blog/wp-content/uploads/2005/11/spirales-concert.jpeg 294w" sizes="(max-width: 245px) 100vw, 245px" />](http://regis.decamps.info/blog/wp-content/uploads/2005/11/spirales-concert.jpeg)

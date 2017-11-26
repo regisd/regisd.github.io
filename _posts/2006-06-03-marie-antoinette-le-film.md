@@ -12,8 +12,8 @@ tmac_last_id:
 categories:
   - Cinéma
 ---
-Avec tout le bruit qui a entouré la sortie de Marie-Antoinette de Sofia Coppola, je m&rsquo;attendais à un film à la hauteur de Virgin Suicides. Eh ben non.
+Avec tout le bruit qui a entouré la sortie de Marie-Antoinette de Sofia Coppola, je m’attendais à un film à la hauteur de Virgin Suicides. Eh ben non.
 
-Le film se consacre à l&rsquo;ennui de Marie-Antoinette à Versailles. Mais à filmer l&rsquo;ennui, le risque, c&rsquo;est de le communiquer, et sur ce point, c&rsquo;est parfaitement réussi.
+Le film se consacre à l’ennui de Marie-Antoinette à Versailles. Mais à filmer l’ennui, le risque, c’est de le communiquer, et sur ce point, c’est parfaitement réussi.
 
 PS: Suis-je le seul à avoir vu des Converses en arrière-plan lorsque Kirsten Dust essaye des ballarines?

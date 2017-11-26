@@ -1,6 +1,6 @@
 ---
 id: 2133
-title: 'Impossible d&rsquo;ajouter un incident'
+title: 'Impossible d’ajouter un incident'
 date: 2011-07-18T21:58:49+00:00
 author: Régis
 layout: post
@@ -18,6 +18,6 @@ categories:
 tags:
   - Talaria
 ---
-En raison de difficultés techniques sur le serveur, l&rsquo;ajout d&rsquo;incident est souvent impossible depuis quelques jours. Vous recevez l&rsquo;erreur « BAD REQUEST ».
+En raison de difficultés techniques sur le serveur, l’ajout d’incident est souvent impossible depuis quelques jours. Vous recevez l’erreur « BAD REQUEST ».
 
-L&rsquo;équipe du site [incidents-transports.com](http://incidents-transports.com/) investigue le problème.
+L’équipe du site [incidents-transports.com](http://incidents-transports.com/) investigue le problème.

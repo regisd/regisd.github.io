@@ -34,7 +34,7 @@ Filesystem            Size  Used Avail Use% Mounted on<br />
                       3,8G  3,8G   14M 100% /usr/local<br />
 ` 
 
-Oooops! It&rsquo;s not the first time that I perform this task, but it&rsquo;s always so good to see LVM and Reiserfs in action:
+Oooops! It’s not the first time that I perform this task, but it’s always so good to see LVM and Reiserfs in action:
   
 `[root@kro64 ~]# lvresize -L+1G /dev/system/local<br />
   Extending logical volume local to 4,76 GB<br />

@@ -1,6 +1,6 @@
 ---
 id: 2160
-title: 'My life with Android: « it&rsquo;s complicated »'
+title: 'My life with Android: « it’s complicated »'
 date: 2011-08-16T07:25:53+00:00
 author: Régis
 excerpt: Mobile development on Android is one of the most callenging thing I have done so far. This is a limited compilation of the problems I have encountered on a simple application...
@@ -23,9 +23,9 @@ tags:
 ---
 [<img class="alignright size-thumbnail wp-image-2162" title="it-s-complicated-facebook-status" src="http://regis.decamps.info/blog/wp-content/uploads/2011/07/it-s-complicated-when-facebook-status-can-t-describe-you-part-1-25473565-150x150.jpg" alt="Facebook screenshot: relationship status: it's complicated" width="150" height="150" />](http://regis.decamps.info/blog/wp-content/uploads/2011/07/it-s-complicated-when-facebook-status-can-t-describe-you-part-1-25473565.jpg)
 
-Mobile development is difficult: there is not much memory, the CPU is low, network connection is limited, there are different screen sizes and hardware capabilities to take care of, etc. Android aims at helping on these topics, but the life of an Android developer is still not a paradise&#8230;
+Mobile development is difficult: there is not much memory, the CPU is low, network connection is limited, there are different screen sizes and hardware capabilities to take care of, etc. Android aims at helping on these topics, but the life of an Android developer is still not a paradise…;
 
-### Some classes pretend to help, but just don&rsquo;t
+### Some classes pretend to help, but just don’t
 
 The framework encourages you to use classes that supposely simplify complex development.
 

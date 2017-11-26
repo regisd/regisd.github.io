@@ -14,4 +14,4 @@ categories:
 tags:
   - Ski
 ---
-Je pars à La Plagne avec des amis. Je sens qu&rsquo;on va avoir de la bonne neige de printemps. Ca va être chouette 🙂
+Je pars à La Plagne avec des amis. Je sens qu’on va avoir de la bonne neige de printemps. Ca va être chouette 🙂

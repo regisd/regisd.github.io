@@ -21,10 +21,10 @@ Trouver un nom de pays qui commence par A? Une couleur par R? Une série TV par 
 
 Vous connaissez sans doute le jeu du bac, et je me suis amusé à le développer
 
-  * C&rsquo;est une application Android, avec un thème qui donne une présentation soignée
-  * J&rsquo;ai aussi intégré Facebook, pour partager son score
+  * C’est une application Android, avec un thème qui donne une présentation soignée
+  * J’ai aussi intégré Facebook, pour partager son score
   * il y a aussi un serveur qui vérifie les réponses
 
 Il y a déjà deux modes de jeu: entraînement et contre-la-montre.
 
-Je vais ajouter un mode multi-joueur, mais [je publie le jeu](http://regis.decamps.info/blog/projects/le-grand-bac/) aujourd&rsquo;hui, et vous invite à me faire part de vos commentaires.
+Je vais ajouter un mode multi-joueur, mais [je publie le jeu](http://regis.decamps.info/blog/projects/le-grand-bac/) aujourd’hui, et vous invite à me faire part de vos commentaires.

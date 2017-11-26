@@ -18,4 +18,4 @@ tags:
 ---
 La [version 1.4 de Blogmark](http://blog.decamps.info/2006/02/nouvelle-version-de-blogmark/) a été approuvée par Mozilla Update.
 
-Vous pouvez donc [la télécharger sur addons.mozilla.org](https://addons.mozilla.org/extensions/moreinfo.php?id=1487&application=firefox). Et n&rsquo;hésitez pas à [donner votre avis](https://addons.mozilla.org/extensions/moreinfo.php?application=firefox&id=1487&page=opinion).
+Vous pouvez donc [la télécharger sur addons.mozilla.org](https://addons.mozilla.org/extensions/moreinfo.php?id=1487&application=firefox). Et n’hésitez pas à [donner votre avis](https://addons.mozilla.org/extensions/moreinfo.php?application=firefox&id=1487&page=opinion).

@@ -14,12 +14,12 @@ categories:
 tags:
   - Firefox
 ---
-L&rsquo;extension [Performancing pour Firefox](http://performancing.com/firefox) aide les bloggeurs à publier. 
+L’extension [Performancing pour Firefox](http://performancing.com/firefox) aide les bloggeurs à publier. 
 
-En choisissant « blog this » dans le menu contextuel de la page, un petit éditeur s&rsquo;ouvre.
+En choisissant « blog this » dans le menu contextuel de la page, un petit éditeur s’ouvre.
 
 ![Capture d\'&Atilde;&copy;cran de l\'extension Performancing](http://blog.decamps.info/data/navigateuts2.png)
 
 Technorati Tags: <a href="http://technorati.com/tag/firefox" rel="tag">firefox</a>, <a href="http://technorati.com/tag/extension" rel="tag">extension</a>
 
-Si l&rsquo;extension est parfaitement intégrée à firefox (merci \[xul\](http://www.xulfr.org/)), je trouve qu&rsquo;elle l&rsquo;est beaucoup moins au logiciel de blog (wordpress pour moi). Le code HTML produit par l&rsquo;extension est tout à fait illisible, avec des blocs &lsquo;quote&rsquo; que je n&rsquo;ai jamais demandés.
+Si l’extension est parfaitement intégrée à firefox (merci \[xul\](http://www.xulfr.org/)), je trouve qu’elle l’est beaucoup moins au logiciel de blog (wordpress pour moi). Le code HTML produit par l’extension est tout à fait illisible, avec des blocs &lsquo;quote’ que je n’ai jamais demandés.

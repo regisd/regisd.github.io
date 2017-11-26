@@ -18,6 +18,6 @@ tags:
   - USA
   - Voyage
 ---
-Tiens, je me rends compte que je n&rsquo;ai pas encore signalé sur ce blog que je partais début décembre à Las Vegas.
+Tiens, je me rends compte que je n’ai pas encore signalé sur ce blog que je partais début décembre à Las Vegas.
 
-C&rsquo;est juste pour quelques jours. Pas très écolo tout ça, je m&rsquo;en veux un peu.
+C’est juste pour quelques jours. Pas très écolo tout ça, je m’en veux un peu.

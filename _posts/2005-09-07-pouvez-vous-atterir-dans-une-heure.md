@@ -14,9 +14,9 @@ categories:
 tags:
   - Insolite
 ---
-Un avion de la compagnie Qantas Airways a tourné au-dessus de la capitale australienne pendant 20 minutes avant que le contrôleur aérien, censé commencer le travail à 5h30, n&rsquo;arrive enfin.
+Un avion de la compagnie Qantas Airways a tourné au-dessus de la capitale australienne pendant 20 minutes avant que le contrôleur aérien, censé commencer le travail à 5h30, n’arrive enfin.
 
-Son subordonné, arrivé à l&rsquo;heure, lui, était dans l&rsquo;impossibilité d&rsquo;entrer dans la tour de contrôle, car celle-ci avait été méticuleusement fermée à clé par le contrôleur aérien la veille. 
+Son subordonné, arrivé à l’heure, lui, était dans l’impossibilité d’entrer dans la tour de contrôle, car celle-ci avait été méticuleusement fermée à clé par le contrôleur aérien la veille. 
 
 Un porte-parole de Airservices Australia a précisé que les vacations avaient été modifiées suite à cet incident.
 

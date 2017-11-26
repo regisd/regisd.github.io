@@ -21,10 +21,10 @@ tags:
   - Google
   - Spam
 ---
-La dernière fois, [je râlais que Gmail laisse passer des spams](http://regis.decamps.info/blog/2008/07/spam-getting-in-my-inbox/) dans ma boîte de réception. Aujourd&rsquo;hui, c&rsquo;est le contraire! En parcours le dossier « Spam », j&rsquo;ai constaté beaucoup de faux positifs:
+La dernière fois, [je râlais que Gmail laisse passer des spams](http://regis.decamps.info/blog/2008/07/spam-getting-in-my-inbox/) dans ma boîte de réception. Aujourd’hui, c’est le contraire! En parcours le dossier « Spam », j’ai constaté beaucoup de faux positifs:
 
   * un email de confirmation de paiement de Paypal
-  * un email d&rsquo;une agence immobilière 
+  * un email d’une agence immobilière 
   * un email de notification de MySpace
 
-Certes il s&rsquo;agit de courriers électroniques automatiques et envoyés en masse, et en aucun cas d&rsquo;un message d&rsquo;un ami. Mais quand même&#8230; il est très gênant qu&rsquo;un filtre anti-spam classifie comme spam des messages qui ne le sont pas. D&rsquo;après Google, il n&rsquo;y aurait que [1% de faux positifs](http://gadgetwise.blogs.nytimes.com/2012/04/11/gmail-fires-back-in-the-war-on-spam/), mais j&rsquo;ai l&rsquo;impression d&rsquo;en avoir beaucoup plus.
+Certes il s’agit de courriers électroniques automatiques et envoyés en masse, et en aucun cas d’un message d’un ami. Mais quand même…; il est très gênant qu’un filtre anti-spam classifie comme spam des messages qui ne le sont pas. D’après Google, il n’y aurait que [1% de faux positifs](http://gadgetwise.blogs.nytimes.com/2012/04/11/gmail-fires-back-in-the-war-on-spam/), mais j’ai l’impression d’en avoir beaucoup plus.

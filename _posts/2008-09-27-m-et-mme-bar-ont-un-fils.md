@@ -15,10 +15,10 @@ categories:
 tags:
   - M. et Mme
 ---
-M. et Mme Bar ont un fils. Comment s&rsquo;appelle-t-il?
+M. et Mme Bar ont un fils. Comment s’appelle-t-il?
   
 <!--more-->
 
 
   
-Laurent (parce que l&rsquo;or en barre)
+Laurent (parce que l’or en barre)

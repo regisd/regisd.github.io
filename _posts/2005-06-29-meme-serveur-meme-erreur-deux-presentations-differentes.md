@@ -14,9 +14,9 @@ dsq_thread_id:
 categories:
   - Informatique
 ---
-J&rsquo;avais souscrit au programme de Fidélité d&rsquo;Air France « Fréquence Plus Jeune ». Or maintenant, je ne suis plus jeune, et Air France a fusionné avec KLM. Le nouveau programme s&rsquo;appelle Flying Blue. Avec tant de nouveautés, je voulais asvoir où en était mon compte et si je pouvais voyager gratuitement jusqu&rsquo;à Tokyo.
+J’avais souscrit au programme de Fidélité d’Air France « Fréquence Plus Jeune ». Or maintenant, je ne suis plus jeune, et Air France a fusionné avec KLM. Le nouveau programme s’appelle Flying Blue. Avec tant de nouveautés, je voulais asvoir où en était mon compte et si je pouvais voyager gratuitement jusqu’à Tokyo.
 
-Je n&rsquo;ai pas pû consulter mes miles à cause d&rsquo;un problème de serveur, mais la comparaison des messages d&rsquo;erreur affichés est un bon exemple de ce qu&rsquo;il faut faire ou ne pas faire.
+Je n’ai pas pû consulter mes miles à cause d’un problème de serveur, mais la comparaison des messages d’erreur affichés est un bon exemple de ce qu’il faut faire ou ne pas faire.
 
 <a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://photos1.blogger.com/blogger/5983/1226/1600/airfrance_flyingblue_releve1.jpg"><img src="http://photos1.blogger.com/blogger/5983/1226/320/airfrance_flyingblue_releve1.jpg" border="0" alt="Air France. Joli message d'erreur sur mon compte flying blue." /></a>
   

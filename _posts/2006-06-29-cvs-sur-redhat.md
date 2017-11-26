@@ -16,6 +16,6 @@ categories:
 tags:
   - SCM
 ---
-J&rsquo;ai mis du temps à faire fonctionner CVS pserver sur Fedora Core 4. Bizarrement il ne suffit pas de faire « yum install cvs » pour que ça marche. Il faut [soi-même modifier le /etc/pam.d/cvspserver](http://www.network-theory.co.uk/docs/cvsmanual/cvs_30.html "Il faut modifier la configuration de pam pour que cvs server fonctionnne")
+J’ai mis du temps à faire fonctionner CVS pserver sur Fedora Core 4. Bizarrement il ne suffit pas de faire « yum install cvs » pour que ça marche. Il faut [soi-même modifier le /etc/pam.d/cvspserver](http://www.network-theory.co.uk/docs/cvsmanual/cvs_30.html "Il faut modifier la configuration de pam pour que cvs server fonctionnne")
   
-Je n&rsquo;aime pas <strike>Redhat</strike> Fedora.
+Je n’aime pas <strike>Redhat</strike> Fedora.

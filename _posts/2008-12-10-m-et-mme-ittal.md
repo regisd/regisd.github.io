@@ -15,12 +15,12 @@ categories:
 tags:
   - M. et Mme
 ---
-M. et Mme Ittal ont un fils. Comment s&rsquo;appelle-t-il?
+M. et Mme Ittal ont un fils. Comment s’appelle-t-il?
   
 <!--more-->
 
 
   
-Eugène! (parce que euh&#8230; génital?)
+Eugène! (parce que euh…; génital?)
 
 Pour la petite anecdote, cette blague a été inventée à 35m sous le niveau de la mer, dans la _Death Valley_ par [Benjamin](http://www.new.facebook.com/profile.php?id=746033657).

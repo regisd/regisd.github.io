@@ -18,6 +18,6 @@ tags:
 ---
 Je trouve super pénible que des sites empêchent le clic droit (menu contextuel) sur la page.
 
-Firefox a une option qui désactive ce type de modification ; mais Google Chrome ne l&rsquo;a pas.
+Firefox a une option qui désactive ce type de modification ; mais Google Chrome ne l’a pas.
 
-Alors j&rsquo;ai fait une petite extension [AllowRightClick pour Google chrome](https://chrome.google.com/extensions/detail/hompjdfbfmmmgflfjdlnkohcplmboaeo?hl=en-US). Elle ne peut pas traiter tous les cas, mais c&rsquo;est toujours mieux que rien.
+Alors j’ai fait une petite extension [AllowRightClick pour Google chrome](https://chrome.google.com/extensions/detail/hompjdfbfmmmgflfjdlnkohcplmboaeo?hl=en-US). Elle ne peut pas traiter tous les cas, mais c’est toujours mieux que rien.

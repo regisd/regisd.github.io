@@ -1,6 +1,6 @@
 ---
 id: 1698
-title: 'C&rsquo;est mon anniversaire'
+title: 'C’est mon anniversaire'
 date: 2011-01-29T18:00:35+00:00
 author: Régis
 layout: post
@@ -16,4 +16,4 @@ categories:
   - Brève
   - Perso
 ---
-Et oui, aujourd&rsquo;hui, j&rsquo;ai 1 milliard de secondes.
+Et oui, aujourd’hui, j’ai 1 milliard de secondes.

@@ -1,6 +1,6 @@
 ---
 id: 370
-title: 'Sur le port d&rsquo;Amsterdam'
+title: 'Sur le port d’Amsterdam'
 date: 2006-12-12T00:04:43+00:00
 author: Régis
 layout: post
@@ -11,6 +11,6 @@ tmac_last_id:
 categories:
   - Vacances
 ---
-J&rsquo;ai prévu de passer quelque jours à Amsterdam.
+J’ai prévu de passer quelque jours à Amsterdam.
 
 Quel quartier me recommandez-vous pour loger? Voir un hôtel en particulier? Quels sont les _musts_?

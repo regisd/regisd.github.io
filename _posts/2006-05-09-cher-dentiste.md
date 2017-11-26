@@ -15,4 +15,4 @@ categories:
 tags:
   - Santé
 ---
-Je reviens de chez le dentiste et ce qu&rsquo;il m&rsquo;a fait ne me donne pas du tout envie d&rsquo;y retourner.
+Je reviens de chez le dentiste et ce qu’il m’a fait ne me donne pas du tout envie d’y retourner.

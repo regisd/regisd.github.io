@@ -23,7 +23,7 @@ After updating Mac OS X to the latest 10.6.6 version, Wireshark cannot detect an
 
 > There are no interfaces on which a capture can be done.
 
-Hopefully, that&rsquo;s just a [permission issue](http://wiki.wireshark.org/CaptureSetup/CapturePrivileges). Here is how I solved it:
+Hopefully, that’s just a [permission issue](http://wiki.wireshark.org/CaptureSetup/CapturePrivileges). Here is how I solved it:
   
 `admin$ sudo chgrp _developer /dev/bpf*<br />
 admin$ sudo chmod g+rw /dev/bpf*<br />

@@ -16,4 +16,4 @@ categories:
   - Musique
   - Sites web
 ---
-AmaroK, mon lecteur de musique favori, m&rsquo;a incité à utiliser le service web AudioScrobbler. Sur [ma page Audioscrobbler](http://www.audioscrobbler.com/user/wakaseoo/), on doit donc pouvoir consulter ce que j&rsquo;écoute. Le but n&rsquo;est pas de jouer à Big Brother mais de me suggérer des artistes en fonction de mes goûts musicaux. Bref, ça ressemble au « Amazon sugguests » sauf que c&rsquo;est basé sur ce que les gens _écoutent_ et non sur ce qu&rsquo;ils _achètent_.
+AmaroK, mon lecteur de musique favori, m’a incité à utiliser le service web AudioScrobbler. Sur [ma page Audioscrobbler](http://www.audioscrobbler.com/user/wakaseoo/), on doit donc pouvoir consulter ce que j’écoute. Le but n’est pas de jouer à Big Brother mais de me suggérer des artistes en fonction de mes goûts musicaux. Bref, ça ressemble au « Amazon sugguests » sauf que c’est basé sur ce que les gens _écoutent_ et non sur ce qu’ils _achètent_.

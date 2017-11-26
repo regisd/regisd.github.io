@@ -18,9 +18,9 @@ tags:
   - M2settings
   - Maven
 ---
-J&rsquo;ai touché quelques petits trucs dans [m2settings](http://code.google.com/p/m2settings/), et j&rsquo;en profite pour publier une nouvelle version ([télécharger](http://m2settings.googlecode.com/files/m2settings-0.7-one-jar.jar)). Celle-ci génère un <tt>settings.xml</tt> bien plus lisible.
+J’ai touché quelques petits trucs dans [m2settings](http://code.google.com/p/m2settings/), et j’en profite pour publier une nouvelle version ([télécharger](http://m2settings.googlecode.com/files/m2settings-0.7-one-jar.jar)). Celle-ci génère un <tt>settings.xml</tt> bien plus lisible.
 
-Voici par exemple ce que l&rsquo;on peut obtenir en quelques clic:
+Voici par exemple ce que l’on peut obtenir en quelques clic:
   
 `</p>
 <pre>

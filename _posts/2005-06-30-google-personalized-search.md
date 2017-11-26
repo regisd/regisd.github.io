@@ -16,6 +16,6 @@ categories:
 tags:
   - Moteur de recherche
 ---
-Quand on cherche quelque chose sur internet, c&rsquo;est souvent lié à des centres d&rsquo;intérêts. Google propose donc de [personnaliser ma recherche](http://labs.google.com/personalized) à partir de mon [historique google](http://www.google.com/searchhistory).
+Quand on cherche quelque chose sur internet, c’est souvent lié à des centres d’intérêts. Google propose donc de [personnaliser ma recherche](http://labs.google.com/personalized) à partir de mon [historique google](http://www.google.com/searchhistory).
 
-En théorie, c&rsquo;est une (très) bonne idée; reste à voir ce que cela donne en pratique!
+En théorie, c’est une (très) bonne idée; reste à voir ce que cela donne en pratique!

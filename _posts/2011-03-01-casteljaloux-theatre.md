@@ -7,7 +7,7 @@ excerpt: Une mise en scène très réussie, mais des longueurs 4/5
 layout: post
 permalink: /2011/03/casteljaloux-theatre/
 syndication_source:
-  - 'Webcity&nbsp;:&nbsp;wakaseoo - Ses nouveaux avis'
+  - 'Webcity : wakaseoo - Ses nouveaux avis'
 syndication_source_uri:
   - http://www.webcity.fr/wakaseoo/avis
 syndication_source_id:
@@ -31,7 +31,7 @@ tags:
   - Contemporain
   - Paris
 ---
-**Rating:**&nbsp;![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "2/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "2/5")![&#9734;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "2/5")![&#9734;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "2/5")![&#9734;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "2/5")&nbsp;
+**Rating:** ![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "2/5")![&#9733;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/star.png "2/5")![&#9734;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "2/5")![&#9734;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "2/5")![&#9734;](http://regis.decamps.info/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "2/5") 
 
 <table border="0">
   <tr>
@@ -40,16 +40,16 @@ tags:
     </td>
     
     <td valign="top">
-      &nbsp;
+       
     </td>
     
     <td valign="top">
-      <a href="http://www.webcity.fr/wakaseoo/120234-e/avis">Une mise en scène très réussie, mais des longueurs</a><br />La pièce démarre difficilement. Le jeune Romain n&rsquo;est pas forcément l&rsquo;acteur le plus expérimenté de la troupe, mais c&rsquo;est lui qui ouvre la pièce sur un long monologue, qui le met un peu en difficulté. Cette pièce autobiographique aborde de nombreux sujets, et il n&rsquo;est pas facile de la résumer, il n&rsquo;y a pas vraiment de thème directeur ; c&rsquo;est plus&#8230; &nbsp; <a href="http://www.webcity.fr/wakaseoo/120234-e/avis">Suite</a>
+      <a href="http://www.webcity.fr/wakaseoo/120234-e/avis">Une mise en scène très réussie, mais des longueurs</a><br />La pièce démarre difficilement. Le jeune Romain n’est pas forcément l’acteur le plus expérimenté de la troupe, mais c’est lui qui ouvre la pièce sur un long monologue, qui le met un peu en difficulté. Cette pièce autobiographique aborde de nombreux sujets, et il n’est pas facile de la résumer, il n’y a pas vraiment de thème directeur ; c’est plus…;   <a href="http://www.webcity.fr/wakaseoo/120234-e/avis">Suite</a>
     </td>
   </tr>
 </table>
 
-Lien officiel: [Théâtre de la commune d&rsquo;Aubervilliers](http://www.theatredelacommune.com/cdn/saison-2010-2011/casteljaloux)
+Lien officiel: [Théâtre de la commune d’Aubervilliers](http://www.theatredelacommune.com/cdn/saison-2010-2011/casteljaloux)
 
 
 

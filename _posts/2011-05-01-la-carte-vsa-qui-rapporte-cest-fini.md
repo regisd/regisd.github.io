@@ -1,6 +1,6 @@
 ---
 id: 2131
-title: 'La carte VISA qui rapporte, c&rsquo;est fini'
+title: 'La carte VISA qui rapporte, c’est fini'
 date: 2011-05-01T10:36:44+00:00
 author: Régis
 excerpt: Oney ne peut plus fournir de cash-back sur sa carte de paiement.
@@ -18,4 +18,4 @@ categories:
   - Droit
   - Shopping
 ---
-[Oney offrait une carte avec _cash back_](http://regis.decamps.info/blog/2011/01/cashback/). Suite à un changement de législation, [le cash-back n&rsquo;est plus](https://www.oney.fr/oney/oneydocs/ressources/pdf/info-arret-cashback.pdf "Notice d'information arrêt cash back oney"). Du coup, Oney offre la cotisation de la carte bleue VISA.
+[Oney offrait une carte avec _cash back_](http://regis.decamps.info/blog/2011/01/cashback/). Suite à un changement de législation, [le cash-back n’est plus](https://www.oney.fr/oney/oneydocs/ressources/pdf/info-arret-cashback.pdf "Notice d'information arrêt cash back oney"). Du coup, Oney offre la cotisation de la carte bleue VISA.
