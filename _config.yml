@@ -4,3 +4,4 @@ title: Rien de spécial
 description: Le blog de Régis
 theme: jekyll-theme-slate
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile']
+google_analytics: 78978-1
