@@ -1,5 +1,6 @@
 ---
 id: 782
+disqus_id: 782 http://regis.decamps.info/blog/?p=782
 title: How to count days of events in a calendar in sharepoint
 date: 2009-01-09T17:31:07+00:00
 author: Régis

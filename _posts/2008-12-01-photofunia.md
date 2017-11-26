@@ -1,5 +1,6 @@
 ---
 id: 625
+disqus_id: 625 http://regis.decamps.info/blog/?p=625
 title: PhotoFunia
 date: 2008-12-01T00:45:42+00:00
 author: Régis

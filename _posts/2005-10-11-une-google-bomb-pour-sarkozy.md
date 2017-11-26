@@ -1,5 +1,6 @@
 ---
 id: 80
+disqus_id: 80 http://regis.decamps.info/blog/?p=80
 title: Une google bomb pour Sarkozy
 date: 2005-10-11T01:00:05+00:00
 author: Régis

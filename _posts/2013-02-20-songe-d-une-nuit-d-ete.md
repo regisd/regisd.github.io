@@ -1,5 +1,6 @@
 ---
 id: 3116
+disqus_id: 3116 http://regis.decamps.info/blog/?p=3116
 title: 'Songe d’une nuit d’été'
 date: 2013-02-20T22:53:41+00:00
 author: Régis

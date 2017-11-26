@@ -1,5 +1,6 @@
 ---
 id: 13
+disqus_id: 13 http://regis.decamps.info/blog/?p=13
 title: Google Personalized Search
 date: 2005-06-30T02:22:34+00:00
 author: Régis

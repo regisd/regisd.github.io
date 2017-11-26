@@ -1,5 +1,6 @@
 ---
 id: 340
+disqus_id: 340 http://regis.decamps.info/blog/?p=340
 title: Placebo à Paris Bercy
 date: 2006-10-01T23:55:18+00:00
 author: Régis

@@ -1,5 +1,6 @@
 ---
 id: 946
+disqus_id: 946 http://regis.decamps.info/blog/?p=946
 title: SharePoint limits URL to 260 characters
 date: 2009-11-25T19:37:56+00:00
 author: Régis

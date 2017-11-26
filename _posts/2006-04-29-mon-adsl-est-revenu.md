@@ -1,5 +1,6 @@
 ---
 id: 260
+disqus_id: 260 http://regis.decamps.info/blog/?p=260
 title: Mon adsl est revenu
 date: 2006-04-29T12:46:35+00:00
 author: Régis

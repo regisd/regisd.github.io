@@ -1,5 +1,6 @@
 ---
 id: 362
+disqus_id: 362 http://regis.decamps.info/blog/?p=362
 title: Code source
 date: 2006-10-30T20:21:46+00:00
 author: Régis

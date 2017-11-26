@@ -1,5 +1,6 @@
 ---
 id: 472
+disqus_id: 472 http://regis.decamps.info/blog/?p=472
 title: Bonne année!
 date: 2008-01-04T00:30:26+00:00
 author: Régis

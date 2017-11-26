@@ -1,5 +1,6 @@
 ---
 id: 10
+disqus_id: 10 http://regis.decamps.info/blog/?p=10
 title: 'Google Print: premières impressions'
 date: 2005-06-25T14:17:08+00:00
 author: Régis

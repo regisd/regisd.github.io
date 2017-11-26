@@ -1,5 +1,6 @@
 ---
 id: 540
+disqus_id: 540 http://regis.decamps.info/blog/?p=540
 title: Escalade en Provence
 date: 2008-07-18T20:01:49+00:00
 author: Régis

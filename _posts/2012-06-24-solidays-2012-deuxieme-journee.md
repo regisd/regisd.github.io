@@ -1,5 +1,6 @@
 ---
 id: 2802
+disqus_id: 2802 http://regis.decamps.info/blog/?p=2802
 title: 'Solidays 2012: deuxième journée'
 date: 2012-06-24T03:52:33+00:00
 author: Régis

@@ -1,5 +1,6 @@
 ---
 id: 378
+disqus_id: 378 http://regis.decamps.info/blog/?p=378
 title: 'Framasoft n’a pas été sage'
 date: 2006-12-20T20:42:07+00:00
 author: Régis

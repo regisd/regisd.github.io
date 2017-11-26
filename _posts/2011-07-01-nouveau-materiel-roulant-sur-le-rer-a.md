@@ -1,5 +1,6 @@
 ---
 id: 2143
+disqus_id: 2143 http://regis.decamps.info/blog/?p=2143
 title: Nouveau matériel roulant sur le RER A
 date: 2011-07-01T20:06:11+00:00
 author: Régis

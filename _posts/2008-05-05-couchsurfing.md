@@ -1,5 +1,6 @@
 ---
 id: 510
+disqus_id: 510 http://regis.decamps.info/blog/?p=510
 title: Couchsurfing
 date: 2008-05-05T22:52:49+00:00
 author: Régis

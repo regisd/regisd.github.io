@@ -1,5 +1,6 @@
 ---
 id: 574
+disqus_id: 574 http://regis.decamps.info/blog/?p=574
 title: M. et Mme Fassola
 date: 2008-10-04T13:04:26+00:00
 author: Régis

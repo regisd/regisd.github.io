@@ -1,5 +1,6 @@
 ---
 id: 25
+disqus_id: 25 http://regis.decamps.info/blog/?p=25
 title: Est-ce de la dyslxeie ?
 date: 2005-07-29T19:46:00+00:00
 author: Régis

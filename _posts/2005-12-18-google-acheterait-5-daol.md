@@ -1,5 +1,6 @@
 ---
 id: 139
+disqus_id: 139 http://regis.decamps.info/blog/?p=139
 title: 'Google achèterait 5% d’AOL: adsense prend tout son sens'
 date: 2005-12-18T10:32:09+00:00
 author: Régis

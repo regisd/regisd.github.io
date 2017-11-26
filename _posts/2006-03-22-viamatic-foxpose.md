@@ -1,5 +1,6 @@
 ---
 id: 231
+disqus_id: 231 http://regis.decamps.info/blog/?p=231
 title: Viamatic foXpose
 date: 2006-03-22T00:31:20+00:00
 author: Régis

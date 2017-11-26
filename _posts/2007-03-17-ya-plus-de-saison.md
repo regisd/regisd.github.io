@@ -1,5 +1,6 @@
 ---
 id: 397
+disqus_id: 397 http://regis.decamps.info/blog/?p=397
 title: 'Y’a plus de saison'
 date: 2007-03-17T21:39:30+00:00
 author: Régis

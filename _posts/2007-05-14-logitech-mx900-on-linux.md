@@ -1,5 +1,6 @@
 ---
 id: 412
+disqus_id: 412 http://regis.decamps.info/blog/?p=412
 title: Logitech MX900 on Linux
 date: 2007-05-14T21:22:56+00:00
 author: Régis

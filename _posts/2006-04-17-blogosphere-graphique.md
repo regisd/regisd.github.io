@@ -1,5 +1,6 @@
 ---
 id: 253
+disqus_id: 253 http://regis.decamps.info/blog/?p=253
 title: Blogosphère graphique
 date: 2006-04-17T15:15:56+00:00
 author: Régis

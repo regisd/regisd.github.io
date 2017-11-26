@@ -1,5 +1,6 @@
 ---
 id: 1701
+disqus_id: 1701 http://regis.decamps.info/blog/?p=1701
 title: 'Demain, c’est le jour de l’IPv6'
 date: 2011-06-07T08:38:09+00:00
 author: Régis

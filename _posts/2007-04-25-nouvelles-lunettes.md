@@ -1,5 +1,6 @@
 ---
 id: 418
+disqus_id: 418 http://regis.decamps.info/blog/?p=418
 title: Nouvelles lunettes
 date: 2007-04-25T17:02:28+00:00
 author: Régis

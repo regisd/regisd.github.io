@@ -1,5 +1,6 @@
 ---
 id: 3067
+disqus_id: 3067 http://regis.decamps.info/blog/?p=3067
 title: '5 Minutes de plaisir, 30 Ans d&#8217;emmerdes…'
 date: 2013-01-06T20:06:09+00:00
 author: Régis

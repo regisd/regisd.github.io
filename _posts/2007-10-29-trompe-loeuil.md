@@ -1,5 +1,6 @@
 ---
 id: 462
+disqus_id: 462 http://regis.decamps.info/blog/?p=462
 title: 'Trompe l’oeil'
 date: 2007-10-29T23:06:59+00:00
 author: Régis

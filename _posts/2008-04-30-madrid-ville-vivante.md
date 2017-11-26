@@ -1,5 +1,6 @@
 ---
 id: 506
+disqus_id: 506 http://regis.decamps.info/blog/?p=506
 title: Madrid, ville vivante
 date: 2008-04-30T18:21:15+00:00
 author: Régis

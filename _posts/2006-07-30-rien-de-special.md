@@ -1,5 +1,6 @@
 ---
 id: 300
+disqus_id: 300 http://regis.decamps.info/blog/?p=300
 title: Rien de spécial
 date: 2006-07-30T20:45:29+00:00
 author: Régis

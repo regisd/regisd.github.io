@@ -1,5 +1,6 @@
 ---
 id: 181
+disqus_id: 181 http://regis.decamps.info/blog/?p=181
 title: 'J’ai  perdu mes clés :-('
 date: 2005-11-30T22:02:36+00:00
 author: Régis

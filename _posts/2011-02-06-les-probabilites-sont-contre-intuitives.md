@@ -1,5 +1,6 @@
 ---
 id: 1696
+disqus_id: 1696 http://regis.decamps.info/blog/?p=1696
 title: Les probabilités sont contre-intuitives
 date: 2011-02-06T14:14:26+00:00
 author: Régis

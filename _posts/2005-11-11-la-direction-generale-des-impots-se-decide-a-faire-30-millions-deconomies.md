@@ -1,5 +1,6 @@
 ---
 id: 96
+disqus_id: 96 http://regis.decamps.info/blog/?p=96
 title: 'La direction générale des impôts se décide à faire 30 millions d’économies'
 date: 2005-11-11T20:07:21+00:00
 author: Régis

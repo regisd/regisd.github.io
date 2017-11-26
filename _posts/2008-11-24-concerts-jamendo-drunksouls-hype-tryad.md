@@ -1,5 +1,6 @@
 ---
 id: 611
+disqus_id: 611 http://regis.decamps.info/blog/?p=611
 title: 'Concerts Jamendo: Drunksouls &#038; hype &#038; tryad'
 date: 2008-11-24T02:17:35+00:00
 author: Régis

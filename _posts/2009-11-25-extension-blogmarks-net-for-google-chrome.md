@@ -1,5 +1,6 @@
 ---
 id: 953
+disqus_id: 953 http://regis.decamps.info/blog/?p=953
 title: Extension blogmarks.net for Google chrome
 date: 2009-11-25T22:13:08+00:00
 author: Régis

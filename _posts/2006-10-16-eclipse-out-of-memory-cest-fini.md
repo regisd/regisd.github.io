@@ -1,5 +1,6 @@
 ---
 id: 352
+disqus_id: 352 http://regis.decamps.info/blog/?p=352
 title: 'Eclipse Out of memory : c’est fini'
 date: 2006-10-16T19:32:11+00:00
 author: Régis

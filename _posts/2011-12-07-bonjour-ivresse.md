@@ -1,5 +1,6 @@
 ---
 id: 2957
+disqus_id: 2957 http://regis.decamps.info/blog/?p=2957
 title: Bonjour Ivresse
 date: 2011-12-07T23:30:14+00:00
 author: Régis

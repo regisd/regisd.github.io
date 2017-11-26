@@ -1,5 +1,6 @@
 ---
 id: 1609
+disqus_id: 1609 http://regis.decamps.info/blog/?p=1609
 title: 'Plus de 11 000 visiteurs en 2010: merci'
 date: 2011-01-02T16:20:17+00:00
 author: Régis

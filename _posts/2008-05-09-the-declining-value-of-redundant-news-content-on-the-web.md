@@ -1,5 +1,6 @@
 ---
 id: 511
+disqus_id: 511 http://regis.decamps.info/blog/?p=511
 title: The declining value of redundant news content on the web
 date: 2008-05-09T15:39:56+00:00
 author: Régis

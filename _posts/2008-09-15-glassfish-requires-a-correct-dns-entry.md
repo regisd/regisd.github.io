@@ -1,5 +1,6 @@
 ---
 id: 587
+disqus_id: 587 http://regis.decamps.info/blog/?p=587
 title: Glassfish requires a correct DNS entry
 date: 2008-09-15T18:48:31+00:00
 author: Régis

@@ -1,5 +1,6 @@
 ---
 id: 875
+disqus_id: 875 http://regis.decamps.info/blog/?p=875
 title: Mario dit You are Mr Gay
 date: 2009-05-06T18:16:14+00:00
 author: Régis

@@ -1,5 +1,6 @@
 ---
 id: 105
+disqus_id: 105 http://regis.decamps.info/blog/?p=105
 title: 'J’abandonne le Capital'
 date: 2005-11-16T21:36:30+00:00
 author: Régis

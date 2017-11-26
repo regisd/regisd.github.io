@@ -1,5 +1,6 @@
 ---
 id: 11
+disqus_id: 11 http://regis.decamps.info/blog/?p=11
 title: Nouvelle méthode de japonais
 date: 2005-06-26T14:57:46+00:00
 author: Régis

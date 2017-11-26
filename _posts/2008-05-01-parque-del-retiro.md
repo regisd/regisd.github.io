@@ -1,5 +1,6 @@
 ---
 id: 505
+disqus_id: 505 http://regis.decamps.info/blog/?p=505
 title: Parque del Retiro
 date: 2008-05-01T13:14:58+00:00
 author: Régis

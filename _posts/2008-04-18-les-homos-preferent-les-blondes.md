@@ -1,5 +1,6 @@
 ---
 id: 501
+disqus_id: 501 http://regis.decamps.info/blog/?p=501
 title: Les homos préfèrent les blondes
 date: 2008-04-18T23:46:19+00:00
 author: Régis

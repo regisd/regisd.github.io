@@ -1,5 +1,6 @@
 ---
 id: 133
+disqus_id: 133 http://regis.decamps.info/blog/?p=133
 title: 'J’en ai rêvé, Mozilla l’a fait'
 date: 2005-12-12T20:17:34+00:00
 author: Régis

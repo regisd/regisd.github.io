@@ -1,5 +1,6 @@
 ---
 id: 429
+disqus_id: 429 http://regis.decamps.info/blog/?p=429
 title: 'Re: Three core pillars'
 date: 2007-06-17T15:02:50+00:00
 author: Régis

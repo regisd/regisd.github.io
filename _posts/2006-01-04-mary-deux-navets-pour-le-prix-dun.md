@@ -1,5 +1,6 @@
 ---
 id: 148
+disqus_id: 148 http://regis.decamps.info/blog/?p=148
 title: 'Mary: deux navets pour le prix d’un'
 date: 2006-01-04T21:55:18+00:00
 author: Régis

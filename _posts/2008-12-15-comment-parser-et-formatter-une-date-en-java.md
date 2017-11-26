@@ -1,5 +1,6 @@
 ---
 id: 762
+disqus_id: 762 http://regis.decamps.info/blog/?p=762
 title: Comment parser et formater une date en Java
 date: 2008-12-15T22:16:48+00:00
 author: Régis

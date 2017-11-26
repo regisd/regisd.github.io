@@ -1,5 +1,6 @@
 ---
 id: 1949
+disqus_id: 1949 http://regis.decamps.info/blog/?p=1949
 title: Intent to open twitter client on Android
 date: 2011-06-02T11:59:49+00:00
 author: Régis

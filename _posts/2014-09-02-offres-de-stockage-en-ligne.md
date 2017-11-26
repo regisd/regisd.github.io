@@ -1,5 +1,6 @@
 ---
 id: 3209
+disqus_id: 3209 http://regis.decamps.info/blog/?p=3209
 title: Offres de stockage en ligne
 date: 2014-09-02T00:47:00+00:00
 author: Régis

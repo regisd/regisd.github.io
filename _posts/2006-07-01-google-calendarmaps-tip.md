@@ -1,5 +1,6 @@
 ---
 id: 285
+disqus_id: 285 http://regis.decamps.info/blog/?p=285
 title: Google calendar/maps tip
 date: 2006-07-01T18:43:06+00:00
 author: Régis

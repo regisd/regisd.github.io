@@ -1,5 +1,6 @@
 ---
 id: 373
+disqus_id: 373 http://regis.decamps.info/blog/?p=373
 title: Le gouvernement est-il responsable du chômage?
 date: 2006-12-17T16:48:17+00:00
 author: Régis

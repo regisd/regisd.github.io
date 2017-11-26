@@ -1,5 +1,6 @@
 ---
 id: 204
+disqus_id: 204 http://regis.decamps.info/blog/?p=204
 title: Le Nébuloscope
 date: 2006-03-01T22:10:39+00:00
 author: Régis

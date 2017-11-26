@@ -1,5 +1,6 @@
 ---
 id: 277
+disqus_id: 277 http://regis.decamps.info/blog/?p=277
 title: Encore du cash back
 date: 2006-06-04T17:43:14+00:00
 author: Régis

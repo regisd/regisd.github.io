@@ -1,5 +1,6 @@
 ---
 id: 380
+disqus_id: 380 http://regis.decamps.info/blog/?p=380
 title: Inscription sur les listes électorales
 date: 2006-12-22T19:19:55+00:00
 author: Régis

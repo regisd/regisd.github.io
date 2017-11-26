@@ -1,5 +1,6 @@
 ---
 id: 1900
+disqus_id: 1900 http://regis.decamps.info/blog/?p=1900
 title: Doxia module for Markdown syntax
 date: 2011-04-08T01:16:03+00:00
 author: Régis

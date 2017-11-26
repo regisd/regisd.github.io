@@ -1,5 +1,6 @@
 ---
 id: 1891
+disqus_id: 1891 http://regis.decamps.info/blog/?p=1891
 title: Mon punch planteur
 date: 2011-04-01T12:44:35+00:00
 author: Régis

@@ -1,5 +1,6 @@
 ---
 id: 2434
+disqus_id: 2434 http://regis.decamps.info/blog/?p=2434
 title: 'Soundhound: Reconnaissance de musique sur Android'
 date: 2011-12-06T20:26:44+00:00
 author: Régis

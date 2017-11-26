@@ -1,5 +1,6 @@
 ---
 id: 107
+disqus_id: 107 http://regis.decamps.info/blog/?p=107
 title: La France se rappelle enfin de ses poilus
 date: 2005-11-18T21:16:02+00:00
 author: Régis

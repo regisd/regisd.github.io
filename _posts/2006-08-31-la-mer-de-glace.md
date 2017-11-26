@@ -1,5 +1,6 @@
 ---
 id: 324
+disqus_id: 324 http://regis.decamps.info/blog/?p=324
 title: La mer de glace
 date: 2006-08-31T18:27:49+00:00
 author: Régis

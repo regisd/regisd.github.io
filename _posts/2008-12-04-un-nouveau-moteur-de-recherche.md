@@ -1,5 +1,6 @@
 ---
 id: 645
+disqus_id: 645 http://regis.decamps.info/blog/?p=645
 title: Un nouveau moteur de recherche
 date: 2008-12-04T21:23:54+00:00
 author: Régis

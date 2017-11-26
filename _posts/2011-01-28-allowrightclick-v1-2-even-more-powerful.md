@@ -1,5 +1,6 @@
 ---
 id: 1647
+disqus_id: 1647 http://regis.decamps.info/blog/?p=1647
 title: 'AllowRightClick v1.2: Even more powerful'
 date: 2011-01-28T00:33:33+00:00
 author: Régis

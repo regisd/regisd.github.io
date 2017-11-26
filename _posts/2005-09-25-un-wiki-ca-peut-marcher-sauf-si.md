@@ -1,5 +1,6 @@
 ---
 id: 64
+disqus_id: 64 http://regis.decamps.info/blog/?p=64
 title: 'Un wiki, ça peut marcher sauf si…;'
 date: 2005-09-25T17:56:41+00:00
 author: Régis

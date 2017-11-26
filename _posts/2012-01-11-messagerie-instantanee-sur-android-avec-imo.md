@@ -1,5 +1,6 @@
 ---
 id: 2406
+disqus_id: 2406 http://regis.decamps.info/blog/?p=2406
 title: Messagerie instantanée sur Android avec imo
 date: 2012-01-11T23:35:34+00:00
 author: Régis

@@ -1,5 +1,6 @@
 ---
 id: 411
+disqus_id: 411 http://regis.decamps.info/blog/?p=411
 title: Pékin express
 date: 2007-05-05T14:31:55+00:00
 author: Régis

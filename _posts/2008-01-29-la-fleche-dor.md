@@ -1,5 +1,6 @@
 ---
 id: 478
+disqus_id: 478 http://regis.decamps.info/blog/?p=478
 title: 'La Flèche d’Or'
 date: 2008-01-29T00:11:09+00:00
 author: Régis

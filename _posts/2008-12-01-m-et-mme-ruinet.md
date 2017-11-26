@@ -1,5 +1,6 @@
 ---
 id: 633
+disqus_id: 633 http://regis.decamps.info/blog/?p=633
 title: M. et Mme Ruinet
 date: 2008-12-01T08:30:54+00:00
 author: Régis

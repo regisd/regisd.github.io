@@ -1,5 +1,6 @@
 ---
 id: 321
+disqus_id: 321 http://regis.decamps.info/blog/?p=321
 title: Escalade et canyoning
 date: 2006-08-30T18:27:43+00:00
 author: Régis

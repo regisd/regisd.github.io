@@ -1,5 +1,6 @@
 ---
 id: 302
+disqus_id: 302 http://regis.decamps.info/blog/?p=302
 title: 'La télé sous Linux, premiers pas…;'
 date: 2006-08-05T16:47:10+00:00
 author: Régis

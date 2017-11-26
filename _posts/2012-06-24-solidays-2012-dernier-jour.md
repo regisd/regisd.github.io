@@ -1,5 +1,6 @@
 ---
 id: 2806
+disqus_id: 2806 http://regis.decamps.info/blog/?p=2806
 title: 'Solidays 2012: dernier jour'
 date: 2012-06-24T23:44:18+00:00
 author: Régis

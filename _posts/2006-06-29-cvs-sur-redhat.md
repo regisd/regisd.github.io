@@ -1,5 +1,6 @@
 ---
 id: 282
+disqus_id: 282 http://regis.decamps.info/blog/?p=282
 title: cvs sur Fedora
 date: 2006-06-29T19:52:03+00:00
 author: Régis

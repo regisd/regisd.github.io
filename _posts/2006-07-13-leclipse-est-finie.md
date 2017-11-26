@@ -1,5 +1,6 @@
 ---
 id: 286
+disqus_id: 286 http://regis.decamps.info/blog/?p=286
 title: 'L&apos;eclipse est finie'
 date: 2006-07-13T21:48:37+00:00
 author: Régis

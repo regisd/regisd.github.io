@@ -1,5 +1,6 @@
 ---
 id: 171
+disqus_id: 171 http://regis.decamps.info/blog/?p=171
 title: 'L’Honneur du dragon Tom-Yum-Goong'
 date: 2006-02-10T01:01:52+00:00
 author: Régis

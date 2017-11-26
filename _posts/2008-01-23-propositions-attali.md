@@ -1,5 +1,6 @@
 ---
 id: 476
+disqus_id: 476 http://regis.decamps.info/blog/?p=476
 title: Propositions Attali
 date: 2008-01-23T20:49:48+00:00
 author: Régis

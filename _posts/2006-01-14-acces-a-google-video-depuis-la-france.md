@@ -1,5 +1,6 @@
 ---
 id: 154
+disqus_id: 154 http://regis.decamps.info/blog/?p=154
 title: Accès à Google Video depuis la France
 date: 2006-01-14T14:08:13+00:00
 author: Régis

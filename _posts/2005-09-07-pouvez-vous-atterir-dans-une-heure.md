@@ -1,5 +1,6 @@
 ---
 id: 53
+disqus_id: 53 http://regis.decamps.info/blog/?p=53
 title: Pouvez-vous atterrir dans une heure?
 date: 2005-09-07T00:23:59+00:00
 author: Régis

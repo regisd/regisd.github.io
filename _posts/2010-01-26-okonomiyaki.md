@@ -1,5 +1,6 @@
 ---
 id: 1144
+disqus_id: 1144 http://regis.decamps.info/blog/?p=1144
 title: Okonomiyaki
 date: 2010-01-26T13:01:52+00:00
 author: Régis

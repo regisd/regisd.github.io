@@ -1,5 +1,6 @@
 ---
 id: 1880
+disqus_id: 1880 http://regis.decamps.info/blog/?p=1880
 title: 'Olivier Giraud – How to become parisian in one hour ?'
 date: 2011-03-18T12:54:13+00:00
 author: Syndication

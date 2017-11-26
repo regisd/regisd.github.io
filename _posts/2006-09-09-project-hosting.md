@@ -1,5 +1,6 @@
 ---
 id: 334
+disqus_id: 334 http://regis.decamps.info/blog/?p=334
 title: Project hosting
 date: 2006-09-09T15:10:07+00:00
 author: Régis

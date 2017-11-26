@@ -1,5 +1,6 @@
 ---
 id: 420
+disqus_id: 420 http://regis.decamps.info/blog/?p=420
 title: Swisserland, paradise on earth?
 date: 2007-05-20T22:21:54+00:00
 author: Régis

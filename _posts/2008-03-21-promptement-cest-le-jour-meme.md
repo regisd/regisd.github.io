@@ -1,5 +1,6 @@
 ---
 id: 492
+disqus_id: 492 http://regis.decamps.info/blog/?p=492
 title: 'Promptement, c’est le jour même'
 date: 2008-03-21T19:35:29+00:00
 author: Régis

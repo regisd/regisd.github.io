@@ -1,5 +1,6 @@
 ---
 id: 60
+disqus_id: 60 http://regis.decamps.info/blog/?p=60
 title: HP et les licenciements
 date: 2005-09-14T00:18:59+00:00
 author: Régis

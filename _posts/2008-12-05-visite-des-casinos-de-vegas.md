@@ -1,5 +1,6 @@
 ---
 id: 686
+disqus_id: 686 http://regis.decamps.info/blog/?p=686
 title: Visite des casinos de Vegas
 date: 2008-12-05T20:23:26+00:00
 author: Régis

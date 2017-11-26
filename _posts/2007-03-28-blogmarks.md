@@ -1,5 +1,6 @@
 ---
 id: 399
+disqus_id: 399 http://regis.decamps.info/blog/?p=399
 title: Blogmarks
 date: 2007-03-28T23:52:00+00:00
 author: Régis

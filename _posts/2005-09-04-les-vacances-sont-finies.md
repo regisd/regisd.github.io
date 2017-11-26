@@ -1,5 +1,6 @@
 ---
 id: 50
+disqus_id: 50 http://regis.decamps.info/blog/?p=50
 title: Les vacances sont finies
 date: 2005-09-04T21:37:06+00:00
 author: Régis

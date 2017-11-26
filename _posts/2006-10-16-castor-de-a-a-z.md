@@ -1,5 +1,6 @@
 ---
 id: 350
+disqus_id: 350 http://regis.decamps.info/blog/?p=350
 title: 'Castor: de A à Z'
 date: 2006-10-16T21:18:02+00:00
 author: Régis

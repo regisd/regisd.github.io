@@ -1,5 +1,6 @@
 ---
 id: 453
+disqus_id: 453 http://regis.decamps.info/blog/?p=453
 title: 'L’ISO désapprouve le format OOXML'
 date: 2007-09-06T14:47:04+00:00
 author: Régis

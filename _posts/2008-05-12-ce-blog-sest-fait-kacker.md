@@ -1,5 +1,6 @@
 ---
 id: 515
+disqus_id: 515 http://regis.decamps.info/blog/?p=515
 title: 'Ce blog s’est fait kacker'
 date: 2008-05-12T23:41:08+00:00
 author: Régis

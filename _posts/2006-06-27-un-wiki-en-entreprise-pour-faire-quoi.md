@@ -1,5 +1,6 @@
 ---
 id: 280
+disqus_id: 280 http://regis.decamps.info/blog/?p=280
 title: Un wiki en entreprise, pour faire quoi?
 date: 2006-06-27T18:37:31+00:00
 author: Régis

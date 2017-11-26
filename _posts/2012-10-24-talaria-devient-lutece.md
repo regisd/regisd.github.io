@@ -1,5 +1,6 @@
 ---
 id: 2994
+disqus_id: 2994 http://regis.decamps.info/blog/?p=2994
 title: Talaria est morte. Vive Lutece!
 date: 2012-10-24T08:04:59+00:00
 author: Régis

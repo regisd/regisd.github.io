@@ -1,5 +1,6 @@
 ---
 id: 530
+disqus_id: 530 http://regis.decamps.info/blog/?p=530
 title: Week-end à la montagne
 date: 2008-06-23T22:03:04+00:00
 author: Régis

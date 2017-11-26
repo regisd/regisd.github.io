@@ -1,5 +1,6 @@
 ---
 id: 2442
+disqus_id: 2442 http://regis.decamps.info/blog/?p=2442
 title: How to seamlessly sync your Android with iTunes?
 date: 2012-01-25T19:08:32+00:00
 author: Régis

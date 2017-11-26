@@ -1,5 +1,6 @@
 ---
 id: 211
+disqus_id: 211 http://regis.decamps.info/blog/?p=211
 title: '« Ce n’est pas un site de propagande gouvernementale »'
 date: 2006-03-05T23:28:22+00:00
 author: Régis

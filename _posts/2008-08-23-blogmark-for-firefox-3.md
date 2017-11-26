@@ -1,5 +1,6 @@
 ---
 id: 551
+disqus_id: 551 http://regis.decamps.info/blog/?p=551
 title: Blogmark for Firefox 3
 date: 2008-08-23T22:21:27+00:00
 author: Régis

@@ -1,5 +1,6 @@
 ---
 id: 528
+disqus_id: 528 http://regis.decamps.info/blog/?p=528
 title: Le blog de MOSS est minimal
 date: 2008-06-06T19:31:31+00:00
 author: Régis

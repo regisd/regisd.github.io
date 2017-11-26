@@ -1,5 +1,6 @@
 ---
 id: 198
+disqus_id: 198 http://regis.decamps.info/blog/?p=198
 title: 'Lestelechargements: Guillaume Champeau'
 date: 2006-02-26T00:12:30+00:00
 author: Régis

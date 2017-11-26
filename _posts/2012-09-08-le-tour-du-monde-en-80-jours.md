@@ -1,5 +1,6 @@
 ---
 id: 2965
+disqus_id: 2965 http://regis.decamps.info/blog/?p=2965
 title: Le tour du monde en 80 jours
 date: 2012-09-08T01:19:02+00:00
 author: Régis

@@ -1,5 +1,6 @@
 ---
 id: 853
+disqus_id: 853 http://regis.decamps.info/blog/?p=853
 title: 'Pages d’erreur 404'
 date: 2009-04-13T22:39:12+00:00
 author: Régis

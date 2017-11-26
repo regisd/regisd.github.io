@@ -1,5 +1,6 @@
 ---
 id: 463
+disqus_id: 463 http://regis.decamps.info/blog/?p=463
 title: Boutique Ferrari
 date: 2007-10-29T23:26:16+00:00
 author: Régis

@@ -1,5 +1,6 @@
 ---
 id: 1476
+disqus_id: 1476 http://regis.decamps.info/blog/?p=1476
 title: Utiliser firefox en intranet
 date: 2010-11-02T13:40:05+00:00
 author: Régis

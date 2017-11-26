@@ -1,5 +1,6 @@
 ---
 id: 699
+disqus_id: 699 http://regis.decamps.info/blog/?p=699
 title: Grand Canyon
 date: 2008-12-06T19:42:10+00:00
 author: Régis

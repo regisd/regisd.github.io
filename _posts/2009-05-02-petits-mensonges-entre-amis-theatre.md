@@ -1,5 +1,6 @@
 ---
 id: 1044
+disqus_id: 1044 http://regis.decamps.info/blog/?p=1044
 title: Petits mensonges entre amis
 date: 2009-05-02T13:34:17+00:00
 author: Syndication

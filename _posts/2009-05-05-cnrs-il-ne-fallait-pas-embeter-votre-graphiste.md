@@ -1,5 +1,6 @@
 ---
 id: 869
+disqus_id: 869 http://regis.decamps.info/blog/?p=869
 title: 'CNRS: il ne fallait pas embêter votre graphiste'
 date: 2009-05-05T18:51:07+00:00
 author: Régis

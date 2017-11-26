@@ -1,5 +1,6 @@
 ---
 id: 493
+disqus_id: 493 http://regis.decamps.info/blog/?p=493
 title: The organic rebellion
 date: 2008-03-29T18:32:45+00:00
 author: Régis

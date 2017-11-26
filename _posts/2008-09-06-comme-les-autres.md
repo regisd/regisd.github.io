@@ -1,5 +1,6 @@
 ---
 id: 554
+disqus_id: 554 http://regis.decamps.info/blog/?p=554
 title: Comme les autres
 date: 2008-09-06T01:01:48+00:00
 author: Régis

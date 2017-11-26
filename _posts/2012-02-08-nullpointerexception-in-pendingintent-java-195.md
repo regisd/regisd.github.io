@@ -1,5 +1,6 @@
 ---
 id: 2529
+disqus_id: 2529 http://regis.decamps.info/blog/?p=2529
 title: NullPointerException in PendingIntent.java:195
 date: 2012-02-08T00:24:13+00:00
 author: Régis

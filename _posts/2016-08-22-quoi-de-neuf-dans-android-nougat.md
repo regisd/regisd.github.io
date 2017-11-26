@@ -1,5 +1,6 @@
 ---
 id: 3330
+disqus_id: 3330 http://regis.decamps.info/blog/?p=3330
 title: Quoi de neuf dans Android Nougat
 date: 2016-08-22T19:55:04+00:00
 author: Régis

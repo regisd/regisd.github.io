@@ -1,5 +1,6 @@
 ---
 id: 240
+disqus_id: 240 http://regis.decamps.info/blog/?p=240
 title: 'CPE: un « retrait » possible?'
 date: 2006-03-30T23:48:03+00:00
 author: Régis

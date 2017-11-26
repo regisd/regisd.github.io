@@ -1,5 +1,6 @@
 ---
 id: 3161
+disqus_id: 3161 http://regis.decamps.info/blog/?p=3161
 title: La troupe à Palmade
 date: 2013-05-30T23:32:01+00:00
 author: Régis

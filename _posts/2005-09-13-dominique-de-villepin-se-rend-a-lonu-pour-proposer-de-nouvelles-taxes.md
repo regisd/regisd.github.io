@@ -1,5 +1,6 @@
 ---
 id: 58
+disqus_id: 58 http://regis.decamps.info/blog/?p=58
 title: 'Dominique de Villepin se rend à l’ONU pour proposer de nouvelles taxes'
 date: 2005-09-13T22:52:28+00:00
 author: Régis

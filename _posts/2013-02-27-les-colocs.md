@@ -1,5 +1,6 @@
 ---
 id: 3124
+disqus_id: 3124 http://regis.decamps.info/blog/?p=3124
 title: Les colocs
 date: 2013-02-27T22:34:38+00:00
 author: Régis

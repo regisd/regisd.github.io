@@ -1,5 +1,6 @@
 ---
 id: 254
+disqus_id: 254 http://regis.decamps.info/blog/?p=254
 title: Dijjer this! 0.1.1 available on addons.mozilla.org
 date: 2006-04-16T10:33:55+00:00
 author: Régis

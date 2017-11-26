@@ -1,5 +1,6 @@
 ---
 id: 1841
+disqus_id: 1841 http://regis.decamps.info/blog/?p=1841
 title: Wireshark does not detect networks cards after Mac OS update
 date: 2011-03-14T21:16:39+00:00
 author: Régis

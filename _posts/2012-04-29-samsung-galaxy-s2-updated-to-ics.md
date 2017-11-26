@@ -1,5 +1,6 @@
 ---
 id: 2727
+disqus_id: 2727 http://regis.decamps.info/blog/?p=2727
 title: Samsung Galaxy S2 updated to ICS
 date: 2012-04-29T00:00:41+00:00
 author: Régis

@@ -1,5 +1,6 @@
 ---
 id: 1730
+disqus_id: 1730 http://regis.decamps.info/blog/?p=1730
 title: Les œufs coco
 date: 2011-02-26T21:55:30+00:00
 author: Régis

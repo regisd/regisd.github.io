@@ -1,5 +1,6 @@
 ---
 id: 1034
+disqus_id: 1034 http://regis.decamps.info/blog/?p=1034
 title: 'Agnès Soral – Aimerait bien vous y voir'
 date: 2009-05-23T01:10:57+00:00
 author: Syndication

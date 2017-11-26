@@ -1,5 +1,6 @@
 ---
 id: 78
+disqus_id: 78 http://regis.decamps.info/blog/?p=78
 title: 'Le filmeur: à ne pas voir'
 date: 2005-09-27T23:42:00+00:00
 author: Régis

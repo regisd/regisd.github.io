@@ -1,5 +1,6 @@
 ---
 id: 529
+disqus_id: 529 http://regis.decamps.info/blog/?p=529
 title: Jardin éphémère
 date: 2008-06-20T00:23:46+00:00
 author: Régis

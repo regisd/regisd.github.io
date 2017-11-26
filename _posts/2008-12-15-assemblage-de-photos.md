@@ -1,5 +1,6 @@
 ---
 id: 750
+disqus_id: 750 http://regis.decamps.info/blog/?p=750
 title: Assemblage de photos
 date: 2008-12-15T01:54:21+00:00
 author: Régis

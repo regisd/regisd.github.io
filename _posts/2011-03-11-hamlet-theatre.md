@@ -1,5 +1,6 @@
 ---
 id: 1847
+disqus_id: 1847 http://regis.decamps.info/blog/?p=1847
 title: 'Hamlet – Théâtre'
 date: 2011-03-11T23:07:28+00:00
 author: Syndication

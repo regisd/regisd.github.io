@@ -1,5 +1,6 @@
 ---
 id: 381
+disqus_id: 381 http://regis.decamps.info/blog/?p=381
 title: Et ça recommence encore cette année
 date: 2006-12-21T20:19:24+00:00
 author: Régis

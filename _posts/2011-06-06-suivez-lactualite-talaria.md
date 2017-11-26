@@ -1,5 +1,6 @@
 ---
 id: 2024
+disqus_id: 2024 http://regis.decamps.info/blog/?p=2024
 title: 'Suivez l’actualité Talaria'
 date: 2011-06-06T17:42:10+00:00
 author: Régis

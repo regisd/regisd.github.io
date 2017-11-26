@@ -1,5 +1,6 @@
 ---
 id: 560
+disqus_id: 560 http://regis.decamps.info/blog/?p=560
 title: M. et Mme Huilda
 date: 2008-09-13T12:23:01+00:00
 author: Régis

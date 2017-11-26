@@ -1,5 +1,6 @@
 ---
 id: 137
+disqus_id: 137 http://regis.decamps.info/blog/?p=137
 title: 'Harry Potter: bof bof bof'
 date: 2005-12-17T15:25:20+00:00
 author: Régis

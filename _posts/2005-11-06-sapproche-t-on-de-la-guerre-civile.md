@@ -1,5 +1,6 @@
 ---
 id: 90
+disqus_id: 90 http://regis.decamps.info/blog/?p=90
 title: 'S’approche-t-on de la guerre civile?'
 date: 2005-11-06T18:49:28+00:00
 author: Régis

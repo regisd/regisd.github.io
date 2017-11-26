@@ -1,5 +1,6 @@
 ---
 id: 384
+disqus_id: 384 http://regis.decamps.info/blog/?p=384
 title: 'Bilan d’un an de blog'
 date: 2007-01-02T23:34:30+00:00
 author: Régis

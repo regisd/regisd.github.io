@@ -1,5 +1,6 @@
 ---
 id: 1658
+disqus_id: 1658 http://regis.decamps.info/blog/?p=1658
 title: Gmail, mon centre de communication unifiée email / SMS / messagerie instantannée
 date: 2011-01-28T21:30:27+00:00
 author: Régis

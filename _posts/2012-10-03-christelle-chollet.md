@@ -1,5 +1,6 @@
 ---
 id: 3003
+disqus_id: 3003 http://regis.decamps.info/blog/?p=3003
 title: Christelle Chollet
 date: 2012-10-03T23:28:30+00:00
 author: Régis

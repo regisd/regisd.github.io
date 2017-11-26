@@ -1,5 +1,6 @@
 ---
 id: 3
+disqus_id: 3 http://regis.decamps.info/blog/?p=3
 title: Audio Scrobbler
 date: 2005-06-19T18:52:38+00:00
 author: Régis

@@ -1,5 +1,6 @@
 ---
 id: 101
+disqus_id: 101 http://regis.decamps.info/blog/?p=101
 title: Blogmarks passe en version 1.0
 date: 2005-11-16T01:50:50+00:00
 author: Régis

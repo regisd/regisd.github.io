@@ -1,5 +1,6 @@
 ---
 id: 28
+disqus_id: 28 http://regis.decamps.info/blog/?p=28
 title: 'C’est fou ce qu’on peut faire avec du XHTML et du CSS'
 date: 2005-08-01T02:34:42+00:00
 author: Régis

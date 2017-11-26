@@ -1,5 +1,6 @@
 ---
 id: 197
+disqus_id: 197 http://regis.decamps.info/blog/?p=197
 title: 'Lestelechargements: Malik et Wallen'
 date: 2006-02-25T23:56:02+00:00
 author: Régis

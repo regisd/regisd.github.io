@@ -1,5 +1,6 @@
 ---
 id: 445
+disqus_id: 445 http://regis.decamps.info/blog/?p=445
 title: Post pictures to Picasa from Linux
 date: 2007-08-02T17:06:08+00:00
 author: Régis

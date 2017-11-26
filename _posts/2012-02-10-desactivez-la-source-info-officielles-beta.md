@@ -1,5 +1,6 @@
 ---
 id: 2546
+disqus_id: 2546 http://regis.decamps.info/blog/?p=2546
 title: 'Désactivez la source « info officielles [bêta] »'
 date: 2012-02-10T10:33:28+00:00
 author: Régis

@@ -1,5 +1,6 @@
 ---
 id: 3284
+disqus_id: 3284 http://regis.decamps.info/blog/?p=3284
 title: 1000 jours sur Stackoverflow
 date: 2014-12-19T23:21:54+00:00
 author: Régis

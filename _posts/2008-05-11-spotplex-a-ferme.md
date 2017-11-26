@@ -1,5 +1,6 @@
 ---
 id: 513
+disqus_id: 513 http://regis.decamps.info/blog/?p=513
 title: Spotplex a fermé
 date: 2008-05-11T18:37:36+00:00
 author: Régis

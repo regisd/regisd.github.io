@@ -1,5 +1,6 @@
 ---
 id: 570
+disqus_id: 570 http://regis.decamps.info/blog/?p=570
 title: M. et Mme Bar
 date: 2008-09-27T12:52:25+00:00
 author: Régis

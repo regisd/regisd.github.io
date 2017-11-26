@@ -1,5 +1,6 @@
 ---
 id: 393
+disqus_id: 393 http://regis.decamps.info/blog/?p=393
 title: Xara Extreme
 date: 2007-03-10T13:13:06+00:00
 author: Régis

@@ -1,5 +1,6 @@
 ---
 id: 2399
+disqus_id: 2399 http://regis.decamps.info/blog/?p=2399
 title: Allociné sur Android
 date: 2012-01-10T20:52:10+00:00
 author: Régis

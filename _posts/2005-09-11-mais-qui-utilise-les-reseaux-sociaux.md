@@ -1,5 +1,6 @@
 ---
 id: 57
+disqus_id: 57 http://regis.decamps.info/blog/?p=57
 title: Mais qui utilise les réseaux sociaux?
 date: 2005-09-11T13:44:42+00:00
 author: Régis

@@ -1,5 +1,6 @@
 ---
 id: 12
+disqus_id: 12 http://regis.decamps.info/blog/?p=12
 title: Même serveur, même erreur, deux présentations différentes
 date: 2005-06-29T22:44:26+00:00
 author: Régis

@@ -1,5 +1,6 @@
 ---
 id: 885
+disqus_id: 885 http://regis.decamps.info/blog/?p=885
 title: Grosse frayeur ce soir
 date: 2009-05-14T21:35:48+00:00
 author: Régis

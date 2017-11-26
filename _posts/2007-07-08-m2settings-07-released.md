@@ -1,5 +1,6 @@
 ---
 id: 435
+disqus_id: 435 http://regis.decamps.info/blog/?p=435
 title: m2settings 0.7 released
 date: 2007-07-08T16:58:01+00:00
 author: Régis

@@ -1,5 +1,6 @@
 ---
 id: 67
+disqus_id: 67 http://regis.decamps.info/blog/?p=67
 title: 'Et ils creusaient, et ils creusaient…;'
 date: 2005-09-26T23:27:08+00:00
 author: Régis

@@ -1,5 +1,6 @@
 ---
 id: 2881
+disqus_id: 2881 http://regis.decamps.info/blog/?p=2881
 title: La RATP peut encore travailler sur ses données Open Data
 date: 2012-08-27T20:52:47+00:00
 author: Régis

@@ -1,5 +1,6 @@
 ---
 id: 2724
+disqus_id: 2724 http://regis.decamps.info/blog/?p=2724
 title: 'Espace de stockage Google: 6 fois plus cher qu’avant!'
 date: 2012-04-25T19:12:19+00:00
 author: Régis

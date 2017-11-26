@@ -1,5 +1,6 @@
 ---
 id: 550
+disqus_id: 550 http://regis.decamps.info/blog/?p=550
 title: Mise à jour de wordpress
 date: 2008-08-08T22:30:46+00:00
 author: Régis

@@ -1,5 +1,6 @@
 ---
 id: 312
+disqus_id: 312 http://regis.decamps.info/blog/?p=312
 title: 'AllPeers: enfin'
 date: 2006-08-12T12:28:12+00:00
 author: Régis

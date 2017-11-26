@@ -1,5 +1,6 @@
 ---
 id: 284
+disqus_id: 284 http://regis.decamps.info/blog/?p=284
 title: Et un, et deux, et trois, zéro
 date: 2006-06-29T17:03:33+00:00
 author: Régis

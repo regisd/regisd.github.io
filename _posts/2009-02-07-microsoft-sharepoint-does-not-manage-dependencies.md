@@ -1,5 +1,6 @@
 ---
 id: 808
+disqus_id: 808 http://regis.decamps.info/blog/?p=808
 title: Microsoft Sharepoint does not manage dependencies
 date: 2009-02-07T14:28:47+00:00
 author: Régis

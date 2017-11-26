@@ -1,5 +1,6 @@
 ---
 id: 3230
+disqus_id: 3230 http://regis.decamps.info/blog/?p=3230
 title: Quoi de neuf dans Android Lollipop?
 date: 2014-11-12T23:33:50+00:00
 author: Régis

@@ -1,5 +1,6 @@
 ---
 id: 930
+disqus_id: 930 http://regis.decamps.info/blog/?p=930
 title: Questions and critics on SharePoint
 date: 2009-08-29T18:19:32+00:00
 author: Régis

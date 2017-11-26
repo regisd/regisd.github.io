@@ -1,5 +1,6 @@
 ---
 id: 192
+disqus_id: 192 http://regis.decamps.info/blog/?p=192
 title: La meilleure blague sur les blondes
 date: 2006-02-25T02:32:52+00:00
 author: Régis

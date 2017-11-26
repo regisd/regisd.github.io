@@ -1,5 +1,6 @@
 ---
 id: 369
+disqus_id: 369 http://regis.decamps.info/blog/?p=369
 title: Sans doute le meilleur James Bond
 date: 2006-12-05T21:54:10+00:00
 author: Régis

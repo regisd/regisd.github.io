@@ -1,5 +1,6 @@
 ---
 id: 3047
+disqus_id: 3047 http://regis.decamps.info/blog/?p=3047
 title: 'Jelly Beans: les applications payantes ne fonctionnent plus'
 date: 2012-12-05T09:29:29+00:00
 author: Régis

@@ -1,5 +1,6 @@
 ---
 id: 59
+disqus_id: 59 http://regis.decamps.info/blog/?p=59
 title: 'l’iPod nano plus cher ici qu’ailleurs'
 date: 2005-09-13T23:08:04+00:00
 author: Régis

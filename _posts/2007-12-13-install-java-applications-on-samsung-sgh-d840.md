@@ -1,5 +1,6 @@
 ---
 id: 467
+disqus_id: 467 http://regis.decamps.info/blog/?p=467
 title: Install Java applications on Samsung SGH D840
 date: 2007-12-13T00:05:29+00:00
 author: Régis

@@ -1,5 +1,6 @@
 ---
 id: 1752
+disqus_id: 1752 http://regis.decamps.info/blog/?p=1752
 title: Raffraîchir les incidents
 date: 2011-03-02T23:39:44+00:00
 author: Régis

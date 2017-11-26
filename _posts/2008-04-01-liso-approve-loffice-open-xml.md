@@ -1,5 +1,6 @@
 ---
 id: 499
+disqus_id: 499 http://regis.decamps.info/blog/?p=499
 title: 'L’ISO approve L’Office Open XML'
 date: 2008-04-01T21:20:59+00:00
 author: Régis

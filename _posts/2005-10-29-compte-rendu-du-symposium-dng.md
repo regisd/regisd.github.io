@@ -1,5 +1,6 @@
 ---
 id: 86
+disqus_id: 86 http://regis.decamps.info/blog/?p=86
 title: Compte rendu du symposium DNG
 date: 2005-10-29T14:30:17+00:00
 author: Régis

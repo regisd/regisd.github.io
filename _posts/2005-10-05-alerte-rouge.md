@@ -1,5 +1,6 @@
 ---
 id: 72
+disqus_id: 72 http://regis.decamps.info/blog/?p=72
 title: Alerte rouge
 date: 2005-10-05T19:45:43+00:00
 author: Régis

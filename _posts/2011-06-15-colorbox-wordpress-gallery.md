@@ -1,5 +1,6 @@
 ---
 id: 2074
+disqus_id: 2074 http://regis.decamps.info/blog/?p=2074
 title: Colorbox des galeries
 date: 2011-06-15T20:49:29+00:00
 author: Régis

@@ -1,5 +1,6 @@
 ---
 id: 389
+disqus_id: 389 http://regis.decamps.info/blog/?p=389
 title: All-in-one jar
 date: 2007-02-03T19:54:56+00:00
 author: Régis

@@ -1,5 +1,6 @@
 ---
 id: 2708
+disqus_id: 2708 http://regis.decamps.info/blog/?p=2708
 title: Dernier coup de ciseaux
 date: 2012-03-12T17:27:19+00:00
 author: Régis

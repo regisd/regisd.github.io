@@ -1,5 +1,6 @@
 ---
 id: 1098
+disqus_id: 1098 http://regis.decamps.info/blog/?p=1098
 title: Atom to XHTML with XSLT for Friendfeed stream
 date: 2009-12-04T21:29:32+00:00
 author: Régis

@@ -1,5 +1,6 @@
 ---
 id: 2131
+disqus_id: 2131 http://regis.decamps.info/blog/?p=2131
 title: 'La carte VISA qui rapporte, c’est fini'
 date: 2011-05-01T10:36:44+00:00
 author: Régis

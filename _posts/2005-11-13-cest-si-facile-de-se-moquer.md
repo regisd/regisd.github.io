@@ -1,5 +1,6 @@
 ---
 id: 98
+disqus_id: 98 http://regis.decamps.info/blog/?p=98
 title: 'C’est si facile de se moquer'
 date: 2005-11-13T21:39:17+00:00
 author: Régis

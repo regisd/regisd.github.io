@@ -1,5 +1,6 @@
 ---
 id: 9
+disqus_id: 9 http://regis.decamps.info/blog/?p=9
 title: Site perso mis à jour
 date: 2005-06-23T21:21:52+00:00
 author: Régis

@@ -1,5 +1,6 @@
 ---
 id: 143
+disqus_id: 143 http://regis.decamps.info/blog/?p=143
 title: 'Écouter de la musique n’est pourtant pas un crime!'
 date: 2005-12-21T22:11:04+00:00
 author: Régis

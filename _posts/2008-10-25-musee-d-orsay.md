@@ -1,5 +1,6 @@
 ---
 id: 598
+disqus_id: 598 http://regis.decamps.info/blog/?p=598
 title: 'Musée d’orsay'
 date: 2008-10-25T19:12:19+00:00
 author: Régis

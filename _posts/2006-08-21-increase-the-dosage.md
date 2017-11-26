@@ -1,5 +1,6 @@
 ---
 id: 313
+disqus_id: 313 http://regis.decamps.info/blog/?p=313
 title: 'Increase the Dosage : Encore'
 date: 2006-08-21T13:44:44+00:00
 author: Régis

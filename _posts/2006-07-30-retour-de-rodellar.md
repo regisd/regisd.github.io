@@ -1,5 +1,6 @@
 ---
 id: 288
+disqus_id: 288 http://regis.decamps.info/blog/?p=288
 title: Retour de Rodellar
 date: 2006-07-30T00:30:08+00:00
 author: Régis

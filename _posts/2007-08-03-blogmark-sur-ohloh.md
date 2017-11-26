@@ -1,5 +1,6 @@
 ---
 id: 448
+disqus_id: 448 http://regis.decamps.info/blog/?p=448
 title: Blogmark sur ohloh
 date: 2007-08-03T11:42:50+00:00
 author: Régis

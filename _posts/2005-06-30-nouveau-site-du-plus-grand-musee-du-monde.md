@@ -1,5 +1,6 @@
 ---
 id: 14
+disqus_id: 14 http://regis.decamps.info/blog/?p=14
 title: Nouveau site du plus grand musée du monde
 date: 2005-06-30T23:04:54+00:00
 author: Régis

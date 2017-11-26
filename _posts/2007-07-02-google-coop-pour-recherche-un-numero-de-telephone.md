@@ -1,5 +1,6 @@
 ---
 id: 431
+disqus_id: 431 http://regis.decamps.info/blog/?p=431
 title: Google coop pour recherche un numéro de téléphone
 date: 2007-07-02T20:19:35+00:00
 author: Régis

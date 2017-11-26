@@ -1,5 +1,6 @@
 ---
 id: 3036
+disqus_id: 3036 http://regis.decamps.info/blog/?p=3036
 title: Ils se re-aiment
 date: 2012-11-23T23:33:05+00:00
 author: Régis

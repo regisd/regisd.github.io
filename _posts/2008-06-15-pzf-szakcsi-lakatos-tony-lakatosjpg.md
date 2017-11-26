@@ -1,5 +1,6 @@
 ---
 id: 537
+disqus_id: 537 http://regis.decamps.info/blog/?p=537
 title: 'Szakcsi-Lakatos &#038; Tony Lakatos'
 date: 2008-06-15T20:06:17+00:00
 author: Régis

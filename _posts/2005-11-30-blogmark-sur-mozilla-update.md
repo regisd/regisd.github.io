@@ -1,5 +1,6 @@
 ---
 id: 108
+disqus_id: 108 http://regis.decamps.info/blog/?p=108
 title: BlogMark sur Mozilla Update
 date: 2005-11-30T01:19:02+00:00
 author: Régis

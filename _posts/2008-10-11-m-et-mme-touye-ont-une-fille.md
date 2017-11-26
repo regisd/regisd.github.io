@@ -1,5 +1,6 @@
 ---
 id: 578
+disqus_id: 578 http://regis.decamps.info/blog/?p=578
 title: M. et Mme Touye
 date: 2008-10-11T13:09:37+00:00
 author: Régis

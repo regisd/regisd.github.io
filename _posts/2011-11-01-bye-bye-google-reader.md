@@ -1,5 +1,6 @@
 ---
 id: 2264
+disqus_id: 2264 http://regis.decamps.info/blog/?p=2264
 title: Bye bye Google Reader
 date: 2011-11-01T21:05:57+00:00
 author: Régis

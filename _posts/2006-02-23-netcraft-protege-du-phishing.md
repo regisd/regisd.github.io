@@ -1,5 +1,6 @@
 ---
 id: 186
+disqus_id: 186 http://regis.decamps.info/blog/?p=186
 title: Netcraft protège du phishing
 date: 2006-02-23T20:56:59+00:00
 author: Régis

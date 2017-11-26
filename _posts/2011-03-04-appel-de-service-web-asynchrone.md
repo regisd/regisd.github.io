@@ -1,5 +1,6 @@
 ---
 id: 1777
+disqus_id: 1777 http://regis.decamps.info/blog/?p=1777
 title: Appel de service web asynchrone
 date: 2011-03-04T00:13:00+00:00
 author: Régis

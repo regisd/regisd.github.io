@@ -1,5 +1,6 @@
 ---
 id: 132
+disqus_id: 132 http://regis.decamps.info/blog/?p=132
 title: Où est la Boutique Mozilla en France?
 date: 2005-12-11T16:59:04+00:00
 author: Régis

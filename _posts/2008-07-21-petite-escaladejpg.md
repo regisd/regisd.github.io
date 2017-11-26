@@ -1,5 +1,6 @@
 ---
 id: 543
+disqus_id: 543 http://regis.decamps.info/blog/?p=543
 title: Petite escalade
 date: 2008-07-21T23:48:20+00:00
 author: Régis

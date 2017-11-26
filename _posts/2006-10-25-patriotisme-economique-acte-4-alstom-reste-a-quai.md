@@ -1,5 +1,6 @@
 ---
 id: 358
+disqus_id: 358 http://regis.decamps.info/blog/?p=358
 title: 'Patriotisme économique, acte 4: Alstom reste à quai'
 date: 2006-10-25T20:37:17+00:00
 author: Régis

@@ -1,5 +1,6 @@
 ---
 id: 938
+disqus_id: 938 http://regis.decamps.info/blog/?p=938
 title: English lesson
 date: 2009-06-28T19:00:27+00:00
 author: Régis

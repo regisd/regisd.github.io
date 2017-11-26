@@ -1,5 +1,6 @@
 ---
 id: 1511
+disqus_id: 1511 http://regis.decamps.info/blog/?p=1511
 title: 'Comment prendre des photo d’identités pour passeport?'
 date: 2010-12-09T01:10:18+00:00
 author: Régis

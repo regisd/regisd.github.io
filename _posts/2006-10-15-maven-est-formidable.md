@@ -1,5 +1,6 @@
 ---
 id: 349
+disqus_id: 349 http://regis.decamps.info/blog/?p=349
 title: Maven est formidable
 date: 2006-10-15T23:46:04+00:00
 author: Régis

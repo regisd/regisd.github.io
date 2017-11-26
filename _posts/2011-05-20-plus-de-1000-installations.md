@@ -1,5 +1,6 @@
 ---
 id: 1944
+disqus_id: 1944 http://regis.decamps.info/blog/?p=1944
 title: Plus de 1000 installations
 date: 2011-05-20T14:56:25+00:00
 author: Régis

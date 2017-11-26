@@ -1,5 +1,6 @@
 ---
 id: 477
+disqus_id: 477 http://regis.decamps.info/blog/?p=477
 title: La révolution musicale
 date: 2008-01-26T14:26:09+00:00
 author: Régis

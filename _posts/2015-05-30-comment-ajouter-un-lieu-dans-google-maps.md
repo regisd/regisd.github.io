@@ -1,5 +1,6 @@
 ---
 id: 3293
+disqus_id: 3293 http://regis.decamps.info/blog/?p=3293
 title: Comment ajouter un lieu dans Google maps?
 date: 2015-05-30T21:19:09+00:00
 author: Régis

@@ -1,5 +1,6 @@
 ---
 id: 301
+disqus_id: 301 http://regis.decamps.info/blog/?p=301
 title: 'DADVSI: c’est le pire2pire'
 date: 2006-08-01T18:43:19+00:00
 author: Régis

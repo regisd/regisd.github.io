@@ -1,5 +1,6 @@
 ---
 id: 773
+disqus_id: 773 http://regis.decamps.info/blog/?p=773
 title: Joyeux Noël!
 date: 2008-12-24T14:06:50+00:00
 author: Régis

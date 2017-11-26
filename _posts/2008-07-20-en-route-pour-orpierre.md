@@ -1,5 +1,6 @@
 ---
 id: 542
+disqus_id: 542 http://regis.decamps.info/blog/?p=542
 title: En route pour Orpierre
 date: 2008-07-20T20:31:07+00:00
 author: Régis

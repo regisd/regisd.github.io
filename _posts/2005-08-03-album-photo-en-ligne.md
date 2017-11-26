@@ -1,5 +1,6 @@
 ---
 id: 29
+disqus_id: 29 http://regis.decamps.info/blog/?p=29
 title: Album photo en ligne?
 date: 2005-08-03T00:34:22+00:00
 author: Régis

@@ -1,5 +1,6 @@
 ---
 id: 500
+disqus_id: 500 http://regis.decamps.info/blog/?p=500
 title: A bord du Darjeeling Limited
 date: 2008-04-20T23:38:41+00:00
 author: Régis

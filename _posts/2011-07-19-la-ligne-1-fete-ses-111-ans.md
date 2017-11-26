@@ -1,5 +1,6 @@
 ---
 id: 2155
+disqus_id: 2155 http://regis.decamps.info/blog/?p=2155
 title: La ligne 1 fête ses 111 ans
 date: 2011-07-19T20:27:24+00:00
 author: Régis

@@ -1,5 +1,6 @@
 ---
 id: 443
+disqus_id: 443 http://regis.decamps.info/blog/?p=443
 title: LVM + ReiserFS
 date: 2007-07-27T19:46:06+00:00
 author: Régis

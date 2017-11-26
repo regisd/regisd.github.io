@@ -1,5 +1,6 @@
 ---
 id: 21
+disqus_id: 21 http://regis.decamps.info/blog/?p=21
 title: Streamripper
 date: 2005-07-17T17:22:01+00:00
 author: Régis

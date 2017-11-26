@@ -1,5 +1,6 @@
 ---
 id: 179
+disqus_id: 179 http://regis.decamps.info/blog/?p=179
 title: Gestion de configuration
 date: 2006-02-22T00:55:25+00:00
 author: Régis

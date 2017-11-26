@@ -1,5 +1,6 @@
 ---
 id: 306
+disqus_id: 306 http://regis.decamps.info/blog/?p=306
 title: 'Favoris du web: point bleu'
 date: 2006-08-11T20:10:11+00:00
 author: Régis

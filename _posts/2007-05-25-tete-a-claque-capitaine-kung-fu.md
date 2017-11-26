@@ -1,5 +1,6 @@
 ---
 id: 416
+disqus_id: 416 http://regis.decamps.info/blog/?p=416
 title: Capitaine Kung fu
 date: 2007-05-25T18:00:07+00:00
 author: Régis

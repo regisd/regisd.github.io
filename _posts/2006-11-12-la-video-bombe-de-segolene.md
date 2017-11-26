@@ -1,5 +1,6 @@
 ---
 id: 365
+disqus_id: 365 http://regis.decamps.info/blog/?p=365
 title: La vidéo bombe de Ségolène
 date: 2006-11-12T22:06:08+00:00
 author: Régis

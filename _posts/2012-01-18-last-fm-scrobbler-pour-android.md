@@ -1,5 +1,6 @@
 ---
 id: 2410
+disqus_id: 2410 http://regis.decamps.info/blog/?p=2410
 title: Last.fm scrobbler pour Android
 date: 2012-01-18T18:54:54+00:00
 author: Régis

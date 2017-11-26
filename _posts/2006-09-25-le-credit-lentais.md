@@ -1,5 +1,6 @@
 ---
 id: 338
+disqus_id: 338 http://regis.decamps.info/blog/?p=338
 title: Le crédit lentais
 date: 2006-09-25T21:01:24+00:00
 author: Régis

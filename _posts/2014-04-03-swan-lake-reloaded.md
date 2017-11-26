@@ -1,5 +1,6 @@
 ---
 id: 3177
+disqus_id: 3177 http://regis.decamps.info/blog/?p=3177
 title: 'Swan Lake [reloaded]'
 date: 2014-04-03T22:21:32+00:00
 author: Régis

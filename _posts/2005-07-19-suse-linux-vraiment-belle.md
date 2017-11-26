@@ -1,5 +1,6 @@
 ---
 id: 22
+disqus_id: 22 http://regis.decamps.info/blog/?p=22
 title: 'SUSE Linux: vraiment belle'
 date: 2005-07-19T23:57:45+00:00
 author: Régis

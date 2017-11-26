@@ -1,5 +1,6 @@
 ---
 id: 1642
+disqus_id: 1642 http://regis.decamps.info/blog/?p=1642
 title: Permettre le clic-droit pour Google chrome
 date: 2010-05-04T12:12:41+00:00
 author: Régis

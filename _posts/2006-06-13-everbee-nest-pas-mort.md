@@ -1,5 +1,6 @@
 ---
 id: 278
+disqus_id: 278 http://regis.decamps.info/blog/?p=278
 title: 'Everbee n’est pas mort'
 date: 2006-06-13T20:14:41+00:00
 author: Régis

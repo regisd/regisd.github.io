@@ -1,5 +1,6 @@
 ---
 id: 509
+disqus_id: 509 http://regis.decamps.info/blog/?p=509
 title: Reina Sofia
 date: 2008-05-03T17:47:19+00:00
 author: Régis

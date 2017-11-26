@@ -1,5 +1,6 @@
 ---
 id: 1596
+disqus_id: 1596 http://regis.decamps.info/blog/?p=1596
 title: Application sur carte SD
 date: 2011-01-07T19:32:57+00:00
 author: Régis

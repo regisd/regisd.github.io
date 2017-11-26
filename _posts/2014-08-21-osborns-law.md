@@ -1,5 +1,6 @@
 ---
 id: 3206
+disqus_id: 3206 http://regis.decamps.info/blog/?p=3206
 title: 'Osborn’s Law'
 date: 2014-08-21T23:27:01+00:00
 author: Régis

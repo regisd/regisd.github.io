@@ -1,5 +1,6 @@
 ---
 id: 1508
+disqus_id: 1508 http://regis.decamps.info/blog/?p=1508
 title: Photo ID Droid
 date: 2010-12-08T02:11:36+00:00
 author: Régis

@@ -1,5 +1,6 @@
 ---
 id: 2978
+disqus_id: 2978 http://regis.decamps.info/blog/?p=2978
 title: 'Android SQLLiteOpenHelper n’aide pas vraiment'
 date: 2012-10-11T21:37:11+00:00
 author: Régis

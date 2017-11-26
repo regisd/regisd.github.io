@@ -1,5 +1,6 @@
 ---
 id: 1906
+disqus_id: 1906 http://regis.decamps.info/blog/?p=1906
 title: Voyage en Chine
 date: 2011-04-27T08:38:16+00:00
 author: Régis

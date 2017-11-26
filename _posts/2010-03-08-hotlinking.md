@@ -1,5 +1,6 @@
 ---
 id: 1156
+disqus_id: 1156 http://regis.decamps.info/blog/?p=1156
 title: hotlinking
 date: 2010-03-08T00:30:40+00:00
 author: Régis

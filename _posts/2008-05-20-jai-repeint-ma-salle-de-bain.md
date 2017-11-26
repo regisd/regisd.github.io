@@ -1,5 +1,6 @@
 ---
 id: 521
+disqus_id: 521 http://regis.decamps.info/blog/?p=521
 title: 'J’ai repeint ma salle de bain'
 date: 2008-05-20T20:13:54+00:00
 author: Régis

@@ -1,5 +1,6 @@
 ---
 id: 3337
+disqus_id: 3337 http://regis.decamps.info/blog/?p=3337
 title: 'Le porteur d’histoire'
 date: 2017-05-28T17:14:55+00:00
 author: Régis

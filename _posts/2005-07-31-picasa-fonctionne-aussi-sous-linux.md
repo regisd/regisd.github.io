@@ -1,5 +1,6 @@
 ---
 id: 27
+disqus_id: 27 http://regis.decamps.info/blog/?p=27
 title: Picasa fonctionne aussi sous Linux
 date: 2005-07-31T21:01:24+00:00
 author: Régis

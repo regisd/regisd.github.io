@@ -1,5 +1,6 @@
 ---
 id: 1782
+disqus_id: 1782 http://regis.decamps.info/blog/?p=1782
 title: Techcrunch passe à Facebook comments
 date: 2011-03-04T18:36:06+00:00
 author: Régis

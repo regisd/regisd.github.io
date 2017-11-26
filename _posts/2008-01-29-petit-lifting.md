@@ -1,5 +1,6 @@
 ---
 id: 479
+disqus_id: 479 http://regis.decamps.info/blog/?p=479
 title: Petit lifting
 date: 2008-01-29T00:42:03+00:00
 author: Régis

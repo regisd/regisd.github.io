@@ -1,5 +1,6 @@
 ---
 id: 140
+disqus_id: 140 http://regis.decamps.info/blog/?p=140
 title: 'Linux Torvald: J’encourage les gens à utiliser KDE'
 date: 2005-12-18T19:14:28+00:00
 author: Régis

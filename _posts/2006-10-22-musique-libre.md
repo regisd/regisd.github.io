@@ -1,5 +1,6 @@
 ---
 id: 354
+disqus_id: 354 http://regis.decamps.info/blog/?p=354
 title: Musique-libre
 date: 2006-10-22T11:49:40+00:00
 author: Régis

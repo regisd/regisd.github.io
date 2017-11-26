@@ -1,5 +1,6 @@
 ---
 id: 93
+disqus_id: 93 http://regis.decamps.info/blog/?p=93
 title: 'Les hommes politiques doivent arrêter un <em>mea culpa</em> non justifié'
 date: 2005-11-05T00:26:40+00:00
 author: Régis

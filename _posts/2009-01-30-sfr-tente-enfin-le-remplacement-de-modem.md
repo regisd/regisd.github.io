@@ -1,5 +1,6 @@
 ---
 id: 792
+disqus_id: 792 http://regis.decamps.info/blog/?p=792
 title: SFR tente enfin le remplacement de modem
 date: 2009-01-30T00:10:06+00:00
 author: Régis

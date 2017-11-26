@@ -1,5 +1,6 @@
 ---
 id: 2160
+disqus_id: 2160 http://regis.decamps.info/blog/?p=2160
 title: 'My life with Android: « it’s complicated »'
 date: 2011-08-16T07:25:53+00:00
 author: Régis

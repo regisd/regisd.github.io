@@ -1,5 +1,6 @@
 ---
 id: 1803
+disqus_id: 1803 http://regis.decamps.info/blog/?p=1803
 title: 'Bêta publique de l’application Incidents-Transports'
 date: 2011-03-08T23:55:02+00:00
 author: Régis

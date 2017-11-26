@@ -1,5 +1,6 @@
 ---
 id: 640
+disqus_id: 640 http://regis.decamps.info/blog/?p=640
 title: 'L’article le plus rapide du monde'
 date: 2008-12-02T19:45:17+00:00
 author: Régis

@@ -1,5 +1,6 @@
 ---
 id: 936
+disqus_id: 936 http://regis.decamps.info/blog/?p=936
 title: Rando roller
 date: 2009-09-06T16:38:30+00:00
 author: Régis

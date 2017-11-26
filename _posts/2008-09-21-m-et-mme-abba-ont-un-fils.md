@@ -1,5 +1,6 @@
 ---
 id: 564
+disqus_id: 564 http://regis.decamps.info/blog/?p=564
 title: M. et Mme Abba
 date: 2008-09-21T12:27:25+00:00
 author: Régis

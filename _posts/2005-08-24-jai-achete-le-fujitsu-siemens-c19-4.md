@@ -1,5 +1,6 @@
 ---
 id: 42
+disqus_id: 42 http://regis.decamps.info/blog/?p=42
 title: 'J’ai acheté le Fujitsu-Siemens C19-4'
 date: 2005-08-24T19:25:10+00:00
 author: Régis

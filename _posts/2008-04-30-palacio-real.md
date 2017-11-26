@@ -1,5 +1,6 @@
 ---
 id: 504
+disqus_id: 504 http://regis.decamps.info/blog/?p=504
 title: Palacio Real
 date: 2008-04-30T18:11:57+00:00
 author: Régis

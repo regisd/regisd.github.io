@@ -1,5 +1,6 @@
 ---
 id: 1482
+disqus_id: 1482 http://regis.decamps.info/blog/?p=1482
 title: Life streaming sur son wordpress
 date: 2010-11-03T22:18:05+00:00
 author: Régis

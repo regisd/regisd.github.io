@@ -1,5 +1,6 @@
 ---
 id: 2988
+disqus_id: 2988 http://regis.decamps.info/blog/?p=2988
 title: Denis Maréchal
 date: 2012-10-13T14:28:25+00:00
 author: Régis

@@ -1,5 +1,6 @@
 ---
 id: 339
+disqus_id: 339 http://regis.decamps.info/blog/?p=339
 title: 'L’héritage'
 date: 2006-09-26T19:45:54+00:00
 author: Régis

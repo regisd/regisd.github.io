@@ -1,5 +1,6 @@
 ---
 id: 3091
+disqus_id: 3091 http://regis.decamps.info/blog/?p=3091
 title: Utiliser Lutece malgré le bug 34880
 date: 2013-01-21T21:40:03+00:00
 author: Régis

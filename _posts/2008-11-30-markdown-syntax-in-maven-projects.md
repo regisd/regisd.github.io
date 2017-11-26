@@ -1,5 +1,6 @@
 ---
 id: 619
+disqus_id: 619 http://regis.decamps.info/blog/?p=619
 title: Markdown syntax in Maven projects?
 date: 2008-11-30T16:18:13+00:00
 author: Régis

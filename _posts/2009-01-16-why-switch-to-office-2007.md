@@ -1,5 +1,6 @@
 ---
 id: 790
+disqus_id: 790 http://regis.decamps.info/blog/?p=790
 title: Why switch to Office 2007?
 date: 2009-01-16T12:46:19+00:00
 author: Régis

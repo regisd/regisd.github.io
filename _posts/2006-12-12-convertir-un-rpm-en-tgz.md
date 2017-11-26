@@ -1,5 +1,6 @@
 ---
 id: 372
+disqus_id: 372 http://regis.decamps.info/blog/?p=372
 title: Convertir un RPM en tgz
 date: 2006-12-12T22:37:04+00:00
 author: Régis

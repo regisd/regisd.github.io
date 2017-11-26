@@ -1,5 +1,6 @@
 ---
 id: 1385
+disqus_id: 1385 http://regis.decamps.info/blog/?p=1385
 title: 'Solidays: demandez le programme'
 date: 2010-06-26T13:03:11+00:00
 author: Régis

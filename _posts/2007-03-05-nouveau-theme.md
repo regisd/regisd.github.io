@@ -1,5 +1,6 @@
 ---
 id: 391
+disqus_id: 391 http://regis.decamps.info/blog/?p=391
 title: Nouveau thème
 date: 2007-03-05T22:06:47+00:00
 author: Régis

@@ -1,5 +1,6 @@
 ---
 id: 774
+disqus_id: 774 http://regis.decamps.info/blog/?p=774
 title: M. et Mme DUZIEL ont 4 filles
 date: 2008-12-25T16:17:32+00:00
 author: Régis

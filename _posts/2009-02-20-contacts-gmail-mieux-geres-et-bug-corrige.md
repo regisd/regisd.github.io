@@ -1,5 +1,6 @@
 ---
 id: 825
+disqus_id: 825 http://regis.decamps.info/blog/?p=825
 title: Contacts Gmail mieux gérés et bug corrigé
 date: 2009-02-20T01:07:07+00:00
 author: Régis

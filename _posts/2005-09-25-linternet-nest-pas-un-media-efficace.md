@@ -1,5 +1,6 @@
 ---
 id: 56
+disqus_id: 56 http://regis.decamps.info/blog/?p=56
 title: 'L’internet n’est pas un média efficace'
 date: 2005-09-25T17:49:15+00:00
 author: Régis

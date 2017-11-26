@@ -1,5 +1,6 @@
 ---
 id: 178
+disqus_id: 178 http://regis.decamps.info/blog/?p=178
 title: Version 1.4 de Blogmark
 date: 2006-02-22T00:35:30+00:00
 author: Régis

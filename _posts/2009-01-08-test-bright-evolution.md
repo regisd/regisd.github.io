@@ -1,5 +1,6 @@
 ---
 id: 777
+disqus_id: 777 http://regis.decamps.info/blog/?p=777
 title: Test Bright Evolution
 date: 2009-01-08T14:40:27+00:00
 author: Régis

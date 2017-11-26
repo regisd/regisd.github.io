@@ -1,5 +1,6 @@
 ---
 id: 245
+disqus_id: 245 http://regis.decamps.info/blog/?p=245
 title: 'Dijjer : un réseau peer-to-peer simple à utiliser'
 date: 2006-04-09T13:57:06+00:00
 author: Régis

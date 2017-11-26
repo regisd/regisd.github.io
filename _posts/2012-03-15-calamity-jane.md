@@ -1,5 +1,6 @@
 ---
 id: 2714
+disqus_id: 2714 http://regis.decamps.info/blog/?p=2714
 title: Calamity Jane
 date: 2012-03-15T23:03:06+00:00
 author: Régis

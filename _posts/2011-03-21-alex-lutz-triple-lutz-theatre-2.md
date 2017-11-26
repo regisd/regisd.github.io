@@ -1,5 +1,6 @@
 ---
 id: 1952
+disqus_id: 1952 http://regis.decamps.info/blog/?p=1952
 title: 'Alex Lutz – Triple Lutz'
 date: 2011-03-21T18:27:48+00:00
 author: Syndication

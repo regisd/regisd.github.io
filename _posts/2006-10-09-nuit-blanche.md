@@ -1,5 +1,6 @@
 ---
 id: 347
+disqus_id: 347 http://regis.decamps.info/blog/?p=347
 title: Nuit blanche
 date: 2006-10-09T21:22:57+00:00
 author: Régis

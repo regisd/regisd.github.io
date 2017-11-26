@@ -1,5 +1,6 @@
 ---
 id: 1794
+disqus_id: 1794 http://regis.decamps.info/blog/?p=1794
 title: Six ans déjà
 date: 2011-06-19T10:45:40+00:00
 author: Régis

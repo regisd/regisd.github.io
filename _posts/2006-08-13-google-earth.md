@@ -1,5 +1,6 @@
 ---
 id: 308
+disqus_id: 308 http://regis.decamps.info/blog/?p=308
 title: Google earth
 date: 2006-08-13T13:04:28+00:00
 author: Régis

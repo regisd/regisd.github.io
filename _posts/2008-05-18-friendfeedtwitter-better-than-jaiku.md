@@ -1,5 +1,6 @@
 ---
 id: 520
+disqus_id: 520 http://regis.decamps.info/blog/?p=520
 title: friendfeed+twitter better than Jaiku
 date: 2008-05-18T14:53:31+00:00
 author: Régis

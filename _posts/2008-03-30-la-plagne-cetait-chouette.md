@@ -1,5 +1,6 @@
 ---
 id: 494
+disqus_id: 494 http://regis.decamps.info/blog/?p=494
 title: 'La Plagne, c’était chouette'
 date: 2008-03-30T11:00:57+00:00
 author: Régis

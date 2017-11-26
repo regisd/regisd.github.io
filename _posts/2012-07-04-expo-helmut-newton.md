@@ -1,5 +1,6 @@
 ---
 id: 2824
+disqus_id: 2824 http://regis.decamps.info/blog/?p=2824
 title: Expo Helmut Newton
 date: 2012-07-04T23:38:45+00:00
 author: Régis

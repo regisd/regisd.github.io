@@ -1,5 +1,6 @@
 ---
 id: 432
+disqus_id: 432 http://regis.decamps.info/blog/?p=432
 title: 'Vélib: le prix sera exponentiel'
 date: 2007-07-04T23:15:22+00:00
 author: Régis

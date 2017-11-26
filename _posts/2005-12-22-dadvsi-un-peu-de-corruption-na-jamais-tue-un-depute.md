@@ -1,5 +1,6 @@
 ---
 id: 144
+disqus_id: 144 http://regis.decamps.info/blog/?p=144
 title: 'DADVSI: un peu de corruption n’a jamais tué un député'
 date: 2005-12-22T22:12:09+00:00
 author: Régis

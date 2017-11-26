@@ -1,5 +1,6 @@
 ---
 id: 1846
+disqus_id: 1846 http://regis.decamps.info/blog/?p=1846
 title: Casteljaloux
 date: 2011-03-01T23:15:07+00:00
 author: Syndication

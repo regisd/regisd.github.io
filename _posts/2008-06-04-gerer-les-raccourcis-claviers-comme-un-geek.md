@@ -1,5 +1,6 @@
 ---
 id: 527
+disqus_id: 527 http://regis.decamps.info/blog/?p=527
 title: Gérer les raccourcis claviers (comme un geek)
 date: 2008-06-04T19:17:41+00:00
 author: Régis

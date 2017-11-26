@@ -1,5 +1,6 @@
 ---
 id: 196
+disqus_id: 196 http://regis.decamps.info/blog/?p=196
 title: 'Lestelechargements: Marc Lavoine'
 date: 2006-02-25T23:24:07+00:00
 author: Régis

@@ -1,5 +1,6 @@
 ---
 id: 2612
+disqus_id: 2612 http://regis.decamps.info/blog/?p=2612
 title: Ma femme me prend pour un sex-toy
 date: 2012-03-04T17:39:42+00:00
 author: Régis

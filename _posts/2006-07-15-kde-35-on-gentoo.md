@@ -1,5 +1,6 @@
 ---
 id: 287
+disqus_id: 287 http://regis.decamps.info/blog/?p=287
 title: Kde 3.5 on Gentoo
 date: 2006-07-15T01:20:54+00:00
 author: Régis

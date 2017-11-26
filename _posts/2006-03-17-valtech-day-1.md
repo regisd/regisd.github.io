@@ -1,5 +1,6 @@
 ---
 id: 224
+disqus_id: 224 http://regis.decamps.info/blog/?p=224
 title: Valtech day 1
 date: 2006-03-17T00:17:40+00:00
 author: Régis

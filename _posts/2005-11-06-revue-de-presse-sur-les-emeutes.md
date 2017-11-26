@@ -1,5 +1,6 @@
 ---
 id: 91
+disqus_id: 91 http://regis.decamps.info/blog/?p=91
 title: Revue de presse sur les émeutes
 date: 2005-11-06T19:48:35+00:00
 author: Régis

@@ -1,5 +1,6 @@
 ---
 id: 572
+disqus_id: 572 http://regis.decamps.info/blog/?p=572
 title: M. et Mme Pette
 date: 2008-09-18T13:02:54+00:00
 author: Régis

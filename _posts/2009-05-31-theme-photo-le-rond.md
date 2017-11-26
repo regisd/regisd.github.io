@@ -1,5 +1,6 @@
 ---
 id: 893
+disqus_id: 893 http://regis.decamps.info/blog/?p=893
 title: 'Thème photo: le rond'
 date: 2009-05-31T21:59:13+00:00
 author: Régis

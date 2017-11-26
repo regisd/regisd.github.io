@@ -1,5 +1,6 @@
 ---
 id: 486
+disqus_id: 486 http://regis.decamps.info/blog/?p=486
 title: WordPress mis à jour
 date: 2008-03-09T12:00:37+00:00
 author: Régis

@@ -1,5 +1,6 @@
 ---
 id: 508
+disqus_id: 508 http://regis.decamps.info/blog/?p=508
 title: Madrid night life
 date: 2008-05-03T01:43:31+00:00
 author: Régis

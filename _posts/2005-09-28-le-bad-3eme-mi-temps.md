@@ -1,5 +1,6 @@
 ---
 id: 69
+disqus_id: 69 http://regis.decamps.info/blog/?p=69
 title: 'Le bad: 3ème mi-temps'
 date: 2005-09-28T21:18:45+00:00
 author: Régis

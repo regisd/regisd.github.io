@@ -1,5 +1,6 @@
 ---
 id: 152
+disqus_id: 152 http://regis.decamps.info/blog/?p=152
 title: Extension Performancing pour bloggeurs
 date: 2006-01-08T14:30:16+00:00
 author: Régis

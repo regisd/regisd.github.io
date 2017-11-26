@@ -1,5 +1,6 @@
 ---
 id: 279
+disqus_id: 279 http://regis.decamps.info/blog/?p=279
 title: Fête de la musique
 date: 2006-06-20T19:57:49+00:00
 author: Régis

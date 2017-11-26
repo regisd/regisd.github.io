@@ -1,5 +1,6 @@
 ---
 id: 61
+disqus_id: 61 http://regis.decamps.info/blog/?p=61
 title: Yahoo! mail uses Mr Clean too
 date: 2005-09-15T00:21:34+00:00
 author: Régis

@@ -1,5 +1,6 @@
 ---
 id: 526
+disqus_id: 526 http://regis.decamps.info/blog/?p=526
 title: Afficher ou masquer le bureau
 date: 2008-06-03T23:02:04+00:00
 author: Régis

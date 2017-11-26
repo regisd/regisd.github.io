@@ -1,5 +1,6 @@
 ---
 id: 8
+disqus_id: 8 http://regis.decamps.info/blog/?p=8
 title: Fake or photo?
 date: 2005-06-23T20:28:02+00:00
 author: Régis

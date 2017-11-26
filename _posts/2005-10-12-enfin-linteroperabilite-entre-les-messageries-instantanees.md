@@ -1,5 +1,6 @@
 ---
 id: 82
+disqus_id: 82 http://regis.decamps.info/blog/?p=82
 title: 'Enfin l’interopérabilité entre les messageries instantanées'
 date: 2005-10-12T22:26:44+00:00
 author: Régis

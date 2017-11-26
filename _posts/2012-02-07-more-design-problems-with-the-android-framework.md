@@ -1,5 +1,6 @@
 ---
 id: 2520
+disqus_id: 2520 http://regis.decamps.info/blog/?p=2520
 title: More design problems with the Android framework
 date: 2012-02-07T00:05:00+00:00
 author: Régis

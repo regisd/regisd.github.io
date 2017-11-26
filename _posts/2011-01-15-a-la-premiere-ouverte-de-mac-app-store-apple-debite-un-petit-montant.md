@@ -1,5 +1,6 @@
 ---
 id: 1621
+disqus_id: 1621 http://regis.decamps.info/blog/?p=1621
 title: A la première ouverte de Mac App Store, Apple débite un petit montant
 date: 2011-01-15T09:40:52+00:00
 author: Régis

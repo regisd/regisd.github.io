@@ -1,5 +1,6 @@
 ---
 id: 972
+disqus_id: 972 http://regis.decamps.info/blog/?p=972
 title: MP550 support for linux
 date: 2009-12-02T13:44:16+00:00
 author: Régis

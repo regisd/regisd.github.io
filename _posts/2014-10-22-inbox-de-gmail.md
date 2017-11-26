@@ -1,5 +1,6 @@
 ---
 id: 3234
+disqus_id: 3234 http://regis.decamps.info/blog/?p=3234
 title: Inbox de Gmail
 date: 2014-10-22T19:05:10+00:00
 author: Régis

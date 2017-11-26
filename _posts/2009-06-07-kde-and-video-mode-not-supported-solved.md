@@ -1,5 +1,6 @@
 ---
 id: 900
+disqus_id: 900 http://regis.decamps.info/blog/?p=900
 title: 'KDE and video mode not supported [SOLVED]'
 date: 2009-06-07T19:08:44+00:00
 author: Régis

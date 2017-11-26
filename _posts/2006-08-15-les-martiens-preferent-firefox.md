@@ -1,5 +1,6 @@
 ---
 id: 310
+disqus_id: 310 http://regis.decamps.info/blog/?p=310
 title: Les martiens préfèrent firefox
 date: 2006-08-15T18:17:10+00:00
 author: Régis

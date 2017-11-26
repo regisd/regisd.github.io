@@ -1,5 +1,6 @@
 ---
 id: 846
+disqus_id: 846 http://regis.decamps.info/blog/?p=846
 title: Best practice for changing the value of a column in SharePoint
 date: 2009-03-31T22:56:09+00:00
 author: Régis

@@ -1,5 +1,6 @@
 ---
 id: 104
+disqus_id: 104 http://regis.decamps.info/blog/?p=104
 title: Spirales en concert
 date: 2005-11-16T20:29:19+00:00
 author: Régis

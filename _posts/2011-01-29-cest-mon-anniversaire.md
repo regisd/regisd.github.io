@@ -1,5 +1,6 @@
 ---
 id: 1698
+disqus_id: 1698 http://regis.decamps.info/blog/?p=1698
 title: 'C’est mon anniversaire'
 date: 2011-01-29T18:00:35+00:00
 author: Régis

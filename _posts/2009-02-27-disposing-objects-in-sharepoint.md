@@ -1,5 +1,6 @@
 ---
 id: 837
+disqus_id: 837 http://regis.decamps.info/blog/?p=837
 title: Disposing objects in Sharepoint
 date: 2009-02-27T08:41:32+00:00
 author: Régis

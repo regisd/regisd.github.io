@@ -1,5 +1,6 @@
 ---
 id: 47
+disqus_id: 47 http://regis.decamps.info/blog/?p=47
 title: 'BmAccess – Gestionnaire de favoris en ligne'
 date: 2005-09-05T21:27:49+00:00
 author: Régis

@@ -1,5 +1,6 @@
 ---
 id: 2243
+disqus_id: 2243 http://regis.decamps.info/blog/?p=2243
 title: Le service incidents-transports a été mis à jour
 date: 2011-11-25T00:51:17+00:00
 author: Régis

@@ -1,5 +1,6 @@
 ---
 id: 3083
+disqus_id: 3083 http://regis.decamps.info/blog/?p=3083
 title: 'Comme s’il en pleuvait'
 date: 2013-01-18T23:57:47+00:00
 author: Régis

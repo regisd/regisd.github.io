@@ -1,5 +1,6 @@
 ---
 id: 895
+disqus_id: 895 http://regis.decamps.info/blog/?p=895
 title: Retour de Barcelone
 date: 2009-05-30T23:00:14+00:00
 author: Régis

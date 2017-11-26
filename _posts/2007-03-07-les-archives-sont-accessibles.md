@@ -1,5 +1,6 @@
 ---
 id: 392
+disqus_id: 392 http://regis.decamps.info/blog/?p=392
 title: Les archives sont accessibles
 date: 2007-03-07T00:05:25+00:00
 author: Régis

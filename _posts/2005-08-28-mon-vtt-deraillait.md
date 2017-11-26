@@ -1,5 +1,6 @@
 ---
 id: 45
+disqus_id: 45 http://regis.decamps.info/blog/?p=45
 title: Mon VTT déraillait
 date: 2005-08-28T14:50:43+00:00
 author: Régis

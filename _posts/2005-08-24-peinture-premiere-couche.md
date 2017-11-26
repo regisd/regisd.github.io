@@ -1,5 +1,6 @@
 ---
 id: 41
+disqus_id: 41 http://regis.decamps.info/blog/?p=41
 title: 'Peinture: première couche'
 date: 2005-08-24T17:03:58+00:00
 author: Régis

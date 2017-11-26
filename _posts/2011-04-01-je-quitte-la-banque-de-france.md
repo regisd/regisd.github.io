@@ -1,5 +1,6 @@
 ---
 id: 1707
+disqus_id: 1707 http://regis.decamps.info/blog/?p=1707
 title: Je quitte la Banque de France
 date: 2011-04-01T08:00:54+00:00
 author: Régis

@@ -1,5 +1,6 @@
 ---
 id: 426
+disqus_id: 426 http://regis.decamps.info/blog/?p=426
 title: Résultat des élections présidentielles
 date: 2007-05-07T16:56:36+00:00
 author: Régis

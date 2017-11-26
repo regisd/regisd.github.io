@@ -1,5 +1,6 @@
 ---
 id: 531
+disqus_id: 531 http://regis.decamps.info/blog/?p=531
 title: 'Le médecin du travail m’a déclaré apte'
 date: 2008-01-04T10:30:49+00:00
 author: Régis

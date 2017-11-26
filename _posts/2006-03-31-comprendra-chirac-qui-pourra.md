@@ -1,5 +1,6 @@
 ---
 id: 242
+disqus_id: 242 http://regis.decamps.info/blog/?p=242
 title: Comprendra Chirac qui pourra
 date: 2006-03-31T21:37:50+00:00
 author: Régis

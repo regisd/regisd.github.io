@@ -1,5 +1,6 @@
 ---
 id: 401
+disqus_id: 401 http://regis.decamps.info/blog/?p=401
 title: Francfort
 date: 2007-04-06T11:32:39+00:00
 author: Régis

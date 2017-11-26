@@ -1,5 +1,6 @@
 ---
 id: 541
+disqus_id: 541 http://regis.decamps.info/blog/?p=541
 title: Vacances en Italie
 date: 2008-07-27T07:01:52+00:00
 author: Régis

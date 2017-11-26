@@ -1,5 +1,6 @@
 ---
 id: 461
+disqus_id: 461 http://regis.decamps.info/blog/?p=461
 title: 'Gmail par POP…; et aussi IMAP'
 date: 2007-10-24T14:16:38+00:00
 author: Régis

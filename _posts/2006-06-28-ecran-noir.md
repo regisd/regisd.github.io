@@ -1,5 +1,6 @@
 ---
 id: 281
+disqus_id: 281 http://regis.decamps.info/blog/?p=281
 title: Écran noir
 date: 2006-06-28T19:48:07+00:00
 author: Régis

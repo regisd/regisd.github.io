@@ -1,5 +1,6 @@
 ---
 id: 538
+disqus_id: 538 http://regis.decamps.info/blog/?p=538
 title: Spam getting in my inbox
 date: 2008-07-01T21:15:23+00:00
 author: Régis

@@ -1,5 +1,6 @@
 ---
 id: 1106
+disqus_id: 1106 http://regis.decamps.info/blog/?p=1106
 title: SharePoint is not designed for performance
 date: 2009-12-13T13:24:38+00:00
 author: Régis

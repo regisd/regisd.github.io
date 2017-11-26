@@ -1,5 +1,6 @@
 ---
 id: 719
+disqus_id: 719 http://regis.decamps.info/blog/?p=719
 title: M. et Mme Ittal
 date: 2008-12-10T17:23:15+00:00
 author: Régis

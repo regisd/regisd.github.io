@@ -1,5 +1,6 @@
 ---
 id: 118
+disqus_id: 118 http://regis.decamps.info/blog/?p=118
 title: Le même, en plus rapide!
 date: 2005-12-04T14:32:03+00:00
 author: Régis

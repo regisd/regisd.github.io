@@ -1,5 +1,6 @@
 ---
 id: 449
+disqus_id: 449 http://regis.decamps.info/blog/?p=449
 title: Eternity puzzle game
 date: 2007-08-08T20:40:41+00:00
 author: Régis

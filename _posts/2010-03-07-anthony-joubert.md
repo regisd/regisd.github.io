@@ -1,5 +1,6 @@
 ---
 id: 1155
+disqus_id: 1155 http://regis.decamps.info/blog/?p=1155
 title: Anthony Joubert
 date: 2010-03-07T00:54:36+00:00
 author: Régis

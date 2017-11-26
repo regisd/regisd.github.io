@@ -1,5 +1,6 @@
 ---
 id: 1190
+disqus_id: 1190 http://regis.decamps.info/blog/?p=1190
 title: Mes applications Android favorites
 date: 2010-05-19T12:24:10+00:00
 author: Régis

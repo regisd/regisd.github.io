@@ -1,5 +1,6 @@
 ---
 id: 682
+disqus_id: 682 http://regis.decamps.info/blog/?p=682
 title: 'Sunrise on Las Vegas’ strips'
 date: 2008-12-05T16:15:03+00:00
 author: Régis

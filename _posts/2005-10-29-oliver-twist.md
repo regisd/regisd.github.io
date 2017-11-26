@@ -1,5 +1,6 @@
 ---
 id: 87
+disqus_id: 87 http://regis.decamps.info/blog/?p=87
 title: Oliver Twist
 date: 2005-10-29T15:32:47+00:00
 author: Régis

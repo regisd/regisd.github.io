@@ -1,5 +1,6 @@
 ---
 id: 100
+disqus_id: 100 http://regis.decamps.info/blog/?p=100
 title: 'kuittance, c’est reparti'
 date: 2005-11-14T23:05:47+00:00
 author: Régis

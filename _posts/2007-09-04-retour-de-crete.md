@@ -1,5 +1,6 @@
 ---
 id: 451
+disqus_id: 451 http://regis.decamps.info/blog/?p=451
 title: Retour de Crête
 date: 2007-09-04T03:13:08+00:00
 author: Régis

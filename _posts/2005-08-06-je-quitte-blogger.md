@@ -1,5 +1,6 @@
 ---
 id: 31
+disqus_id: 31 http://regis.decamps.info/blog/?p=31
 title: Je quitte blogger.com
 date: 2005-08-06T00:53:37+00:00
 author: Régis

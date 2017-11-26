@@ -1,5 +1,6 @@
 ---
 id: 77
+disqus_id: 77 http://regis.decamps.info/blog/?p=77
 title: Expo BIG BANG
 date: 2005-10-10T23:26:11+00:00
 author: Régis

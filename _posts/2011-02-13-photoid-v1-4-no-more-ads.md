@@ -1,5 +1,6 @@
 ---
 id: 1703
+disqus_id: 1703 http://regis.decamps.info/blog/?p=1703
 title: 'PhotoID v1.4: no more ads'
 date: 2011-02-13T18:10:50+00:00
 author: Régis

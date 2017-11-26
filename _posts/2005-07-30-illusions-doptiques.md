@@ -1,5 +1,6 @@
 ---
 id: 26
+disqus_id: 26 http://regis.decamps.info/blog/?p=26
 title: 'Illusions d’optiques'
 date: 2005-07-30T01:10:00+00:00
 author: Régis

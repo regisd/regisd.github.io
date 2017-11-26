@@ -1,5 +1,6 @@
 ---
 id: 1680
+disqus_id: 1680 http://regis.decamps.info/blog/?p=1680
 title: Stop using Bing, it’s a limited version of Google
 date: 2011-02-02T12:37:45+00:00
 author: Régis

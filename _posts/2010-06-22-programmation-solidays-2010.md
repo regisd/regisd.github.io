@@ -1,5 +1,6 @@
 ---
 id: 1375
+disqus_id: 1375 http://regis.decamps.info/blog/?p=1375
 title: Programmation Solidays 2010
 date: 2010-06-22T19:34:00+00:00
 author: Régis

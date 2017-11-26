@@ -1,5 +1,6 @@
 ---
 id: 44
+disqus_id: 44 http://regis.decamps.info/blog/?p=44
 title: Free haut débit me met en demeure de payer 76 euros
 date: 2005-08-27T15:01:42+00:00
 author: Régis

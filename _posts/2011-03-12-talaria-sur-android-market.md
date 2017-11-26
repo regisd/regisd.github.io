@@ -1,5 +1,6 @@
 ---
 id: 1823
+disqus_id: 1823 http://regis.decamps.info/blog/?p=1823
 title: 'Talaria-0.99 sur l’Android Market'
 date: 2011-03-12T18:31:07+00:00
 author: Régis

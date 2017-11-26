@@ -1,5 +1,6 @@
 ---
 id: 507
+disqus_id: 507 http://regis.decamps.info/blog/?p=507
 title: Bar à tapas
 date: 2008-05-02T20:32:30+00:00
 author: Régis

@@ -1,5 +1,6 @@
 ---
 id: 2797
+disqus_id: 2797 http://regis.decamps.info/blog/?p=2797
 title: 'Solidays 2012: première journée'
 date: 2012-06-23T13:53:57+00:00
 author: Régis

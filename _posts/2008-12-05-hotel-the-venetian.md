@@ -1,5 +1,6 @@
 ---
 id: 674
+disqus_id: 674 http://regis.decamps.info/blog/?p=674
 title: Arrivée à Vegas
 date: 2008-12-05T08:48:41+00:00
 author: Régis

@@ -1,5 +1,6 @@
 ---
 id: 410
+disqus_id: 410 http://regis.decamps.info/blog/?p=410
 title: Mais pourquoi tant de haine?
 date: 2007-05-02T21:56:43+00:00
 author: Régis

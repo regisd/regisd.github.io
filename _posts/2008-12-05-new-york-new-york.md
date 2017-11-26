@@ -1,5 +1,6 @@
 ---
 id: 690
+disqus_id: 690 http://regis.decamps.info/blog/?p=690
 title: New York New York
 date: 2008-12-05T21:30:01+00:00
 author: Régis

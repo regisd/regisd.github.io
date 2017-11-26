@@ -1,5 +1,6 @@
 ---
 id: 517
+disqus_id: 517 http://regis.decamps.info/blog/?p=517
 title: WordPress upgrade
 date: 2008-05-13T00:05:59+00:00
 author: Régis

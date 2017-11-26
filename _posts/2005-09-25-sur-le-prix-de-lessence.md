@@ -1,5 +1,6 @@
 ---
 id: 65
+disqus_id: 65 http://regis.decamps.info/blog/?p=65
 title: 'Sur le prix de l’essence'
 date: 2005-09-25T18:30:22+00:00
 author: Régis

@@ -1,5 +1,6 @@
 ---
 id: 1446
+disqus_id: 1446 http://regis.decamps.info/blog/?p=1446
 title: Flac vs Apple Lossless
 date: 2010-10-15T18:54:43+00:00
 author: Régis

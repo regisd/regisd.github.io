@@ -1,5 +1,6 @@
 ---
 id: 1550
+disqus_id: 1550 http://regis.decamps.info/blog/?p=1550
 title: Mobile ready!
 date: 2010-12-11T17:09:15+00:00
 author: Régis

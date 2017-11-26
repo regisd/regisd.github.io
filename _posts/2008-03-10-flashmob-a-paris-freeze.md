@@ -1,5 +1,6 @@
 ---
 id: 488
+disqus_id: 488 http://regis.decamps.info/blog/?p=488
 title: 'Flashmob à Paris: Freeze!'
 date: 2008-03-10T19:23:41+00:00
 author: Régis

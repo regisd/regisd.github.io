@@ -1,5 +1,6 @@
 ---
 id: 311
+disqus_id: 311 http://regis.decamps.info/blog/?p=311
 title: Weighted categories
 date: 2006-08-15T21:48:59+00:00
 author: Régis

@@ -1,5 +1,6 @@
 ---
 id: 43
+disqus_id: 43 http://regis.decamps.info/blog/?p=43
 title: Je suis en vacances
 date: 2005-08-19T18:24:03+00:00
 author: Régis

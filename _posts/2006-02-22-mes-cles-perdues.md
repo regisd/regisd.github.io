@@ -1,5 +1,6 @@
 ---
 id: 182
+disqus_id: 182 http://regis.decamps.info/blog/?p=182
 title: Mes clés perdues
 date: 2006-02-22T22:30:57+00:00
 author: Régis

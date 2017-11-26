@@ -1,5 +1,6 @@
 ---
 id: 49
+disqus_id: 49 http://regis.decamps.info/blog/?p=49
 title: Un rasoir offert
 date: 2005-09-06T00:17:34+00:00
 author: Régis

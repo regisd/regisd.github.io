@@ -1,5 +1,6 @@
 ---
 id: 613
+disqus_id: 613 http://regis.decamps.info/blog/?p=613
 title: Bientôt à Las Vegas
 date: 2008-11-24T02:48:03+00:00
 author: Régis

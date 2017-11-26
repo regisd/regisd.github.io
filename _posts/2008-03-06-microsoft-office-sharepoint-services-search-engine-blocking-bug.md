@@ -1,5 +1,6 @@
 ---
 id: 485
+disqus_id: 485 http://regis.decamps.info/blog/?p=485
 title: 'Microsoft Office Sharepoint Services: Search Engine blocking bug'
 date: 2008-03-06T18:05:38+00:00
 author: Régis

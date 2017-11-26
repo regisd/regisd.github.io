@@ -1,5 +1,6 @@
 ---
 id: 1585
+disqus_id: 1585 http://regis.decamps.info/blog/?p=1585
 title: 'C# Bug in WebRequest'
 date: 2010-12-28T11:14:11+00:00
 author: Régis

@@ -1,5 +1,6 @@
 ---
 id: 484
+disqus_id: 484 http://regis.decamps.info/blog/?p=484
 title: Allpeers ferme ses portes
 date: 2008-03-04T20:04:03+00:00
 author: Régis

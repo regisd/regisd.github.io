@@ -1,5 +1,6 @@
 ---
 id: 274
+disqus_id: 274 http://regis.decamps.info/blog/?p=274
 title: Slashdot changera bientôt de présentation
 date: 2006-06-03T15:51:06+00:00
 author: Régis

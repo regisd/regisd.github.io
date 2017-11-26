@@ -1,5 +1,6 @@
 ---
 id: 217
+disqus_id: 217 http://regis.decamps.info/blog/?p=217
 title: 'Blogmark: quelles évolutions pour la v2.0?'
 date: 2006-03-12T20:12:34+00:00
 author: Régis

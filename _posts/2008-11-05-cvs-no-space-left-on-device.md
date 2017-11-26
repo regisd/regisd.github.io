@@ -1,5 +1,6 @@
 ---
 id: 602
+disqus_id: 602 http://regis.decamps.info/blog/?p=602
 title: 'cvs: no space left on device'
 date: 2008-11-05T17:23:40+00:00
 author: Régis

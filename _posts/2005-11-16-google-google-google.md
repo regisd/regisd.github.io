@@ -1,5 +1,6 @@
 ---
 id: 106
+disqus_id: 106 http://regis.decamps.info/blog/?p=106
 title: Google, Google, Google
 date: 2005-11-16T22:48:11+00:00
 author: Régis

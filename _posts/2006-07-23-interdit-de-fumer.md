@@ -1,5 +1,6 @@
 ---
 id: 297
+disqus_id: 297 http://regis.decamps.info/blog/?p=297
 title: Interdit de fumer
 date: 2006-07-23T18:33:27+00:00
 author: Régis

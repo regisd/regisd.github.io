@@ -1,5 +1,6 @@
 ---
 id: 1739
+disqus_id: 1739 http://regis.decamps.info/blog/?p=1739
 title: Les incidents du réseau RATP sur votre mobile!
 date: 2011-03-01T22:53:00+00:00
 author: Régis

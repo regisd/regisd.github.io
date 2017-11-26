@@ -1,5 +1,6 @@
 ---
 id: 1463
+disqus_id: 1463 http://regis.decamps.info/blog/?p=1463
 title: Extension WP « find me on »
 date: 2010-10-29T09:10:25+00:00
 author: Régis

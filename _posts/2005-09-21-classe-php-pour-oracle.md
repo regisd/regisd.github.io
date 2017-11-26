@@ -1,5 +1,6 @@
 ---
 id: 112
+disqus_id: 112 http://regis.decamps.info/blog/?p=112
 title: Classe PHP pour Oracle
 date: 2005-09-21T20:13:36+00:00
 author: Régis

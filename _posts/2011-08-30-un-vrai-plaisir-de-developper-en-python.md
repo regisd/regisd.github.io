@@ -1,5 +1,6 @@
 ---
 id: 2187
+disqus_id: 2187 http://regis.decamps.info/blog/?p=2187
 title: Un vrai plaisir de développer en Python
 date: 2011-08-30T22:44:00+00:00
 author: Régis

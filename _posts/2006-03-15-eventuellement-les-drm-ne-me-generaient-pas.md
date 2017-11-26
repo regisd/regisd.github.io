@@ -1,5 +1,6 @@
 ---
 id: 220
+disqus_id: 220 http://regis.decamps.info/blog/?p=220
 title: Eventuellement, les DRM ne me gêneraient pas
 date: 2006-03-15T00:41:11+00:00
 author: Régis

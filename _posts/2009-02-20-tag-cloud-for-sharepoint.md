@@ -1,5 +1,6 @@
 ---
 id: 821
+disqus_id: 821 http://regis.decamps.info/blog/?p=821
 title: Tag cloud for Sharepoint
 date: 2009-02-20T00:44:24+00:00
 author: Régis

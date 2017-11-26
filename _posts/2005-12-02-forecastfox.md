@@ -1,5 +1,6 @@
 ---
 id: 114
+disqus_id: 114 http://regis.decamps.info/blog/?p=114
 title: Forecastfox
 date: 2005-12-02T23:41:27+00:00
 author: Régis

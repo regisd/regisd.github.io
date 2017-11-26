@@ -1,5 +1,6 @@
 ---
 id: 357
+disqus_id: 357 http://regis.decamps.info/blog/?p=357
 title: La bulle Internet 2.0 par rapport à la bulle 1.0
 date: 2006-10-25T18:46:52+00:00
 author: Régis

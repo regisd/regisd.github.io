@@ -1,5 +1,6 @@
 ---
 id: 490
+disqus_id: 490 http://regis.decamps.info/blog/?p=490
 title: 'Bienvenue chez les Ch&#8217;tis'
 date: 2008-03-11T19:46:07+00:00
 author: Régis

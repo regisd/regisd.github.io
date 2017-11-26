@@ -1,5 +1,6 @@
 ---
 id: 273
+disqus_id: 273 http://regis.decamps.info/blog/?p=273
 title: Retour de vacances
 date: 2006-05-29T18:43:56+00:00
 author: Régis

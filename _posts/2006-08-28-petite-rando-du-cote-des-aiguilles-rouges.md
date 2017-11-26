@@ -1,5 +1,6 @@
 ---
 id: 317
+disqus_id: 317 http://regis.decamps.info/blog/?p=317
 title: Petite rando du côté des Aiguilles rouges
 date: 2006-08-28T17:56:17+00:00
 author: Régis

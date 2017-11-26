@@ -1,5 +1,6 @@
 ---
 id: 361
+disqus_id: 361 http://regis.decamps.info/blog/?p=361
 title: Webmasters, vérifiez votre travail
 date: 2006-10-30T19:34:24+00:00
 author: Régis

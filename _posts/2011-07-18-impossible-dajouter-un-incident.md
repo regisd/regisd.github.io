@@ -1,5 +1,6 @@
 ---
 id: 2133
+disqus_id: 2133 http://regis.decamps.info/blog/?p=2133
 title: 'Impossible d’ajouter un incident'
 date: 2011-07-18T21:58:49+00:00
 author: Régis

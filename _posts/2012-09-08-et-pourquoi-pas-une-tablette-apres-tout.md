@@ -1,5 +1,6 @@
 ---
 id: 2970
+disqus_id: 2970 http://regis.decamps.info/blog/?p=2970
 title: Et pourquoi pas une tablette après tout?
 date: 2012-09-08T16:32:52+00:00
 author: Régis

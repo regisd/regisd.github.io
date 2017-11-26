@@ -1,5 +1,6 @@
 ---
 id: 377
+disqus_id: 377 http://regis.decamps.info/blog/?p=377
 title: Dette et chômage
 date: 2006-12-20T15:51:55+00:00
 author: Régis

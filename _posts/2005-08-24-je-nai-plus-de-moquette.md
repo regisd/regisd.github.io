@@ -1,5 +1,6 @@
 ---
 id: 40
+disqus_id: 40 http://regis.decamps.info/blog/?p=40
 title: 'Je n’ai plus de moquette'
 date: 2005-08-24T14:51:15+00:00
 author: Régis

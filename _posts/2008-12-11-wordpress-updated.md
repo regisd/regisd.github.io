@@ -1,5 +1,6 @@
 ---
 id: 739
+disqus_id: 739 http://regis.decamps.info/blog/?p=739
 title: WordPress updated
 date: 2008-12-11T22:23:31+00:00
 author: Régis

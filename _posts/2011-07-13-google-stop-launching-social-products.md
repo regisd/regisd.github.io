@@ -1,5 +1,6 @@
 ---
 id: 2126
+disqus_id: 2126 http://regis.decamps.info/blog/?p=2126
 title: Google, stop launching social products
 date: 2011-07-13T19:47:32+00:00
 author: Régis

@@ -1,5 +1,6 @@
 ---
 id: 270
+disqus_id: 270 http://regis.decamps.info/blog/?p=270
 title: Cher dentiste
 date: 2006-05-09T16:10:19+00:00
 author: Régis

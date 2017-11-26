@@ -1,5 +1,6 @@
 ---
 id: 495
+disqus_id: 495 http://regis.decamps.info/blog/?p=495
 title: '13% des visiteurs subissent encore Internet Explorer'
 date: 2008-03-31T23:45:48+00:00
 author: Régis

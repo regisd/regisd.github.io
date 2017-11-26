@@ -1,5 +1,6 @@
 ---
 id: 315
+disqus_id: 315 http://regis.decamps.info/blog/?p=315
 title: 'Autoreverse : Electro douce'
 date: 2006-08-22T11:06:46+00:00
 author: Régis

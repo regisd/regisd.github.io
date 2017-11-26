@@ -1,5 +1,6 @@
 ---
 id: 188
+disqus_id: 188 http://regis.decamps.info/blog/?p=188
 title: Crumble pomme-banane
 date: 2005-09-17T21:26:02+00:00
 author: Régis

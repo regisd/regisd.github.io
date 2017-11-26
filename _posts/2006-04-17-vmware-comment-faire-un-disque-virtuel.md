@@ -1,5 +1,6 @@
 ---
 id: 256
+disqus_id: 256 http://regis.decamps.info/blog/?p=256
 title: 'VMware: comment faire un disque virtuel'
 date: 2006-04-17T15:47:53+00:00
 author: Régis

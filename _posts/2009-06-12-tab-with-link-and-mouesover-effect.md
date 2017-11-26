@@ -1,5 +1,6 @@
 ---
 id: 902
+disqus_id: 902 http://regis.decamps.info/blog/?p=902
 title: Tab with link and mouesover effect
 date: 2009-06-12T20:09:49+00:00
 author: Régis

@@ -1,5 +1,6 @@
 ---
 id: 216
+disqus_id: 216 http://regis.decamps.info/blog/?p=216
 title: 'Valtech Days : 16&#038;17 mars'
 date: 2006-03-12T19:37:15+00:00
 author: Régis

@@ -1,5 +1,6 @@
 ---
 id: 109
+disqus_id: 109 http://regis.decamps.info/blog/?p=109
 title: Makefile LaTeX
 date: 2005-06-19T19:43:48+00:00
 author: Régis

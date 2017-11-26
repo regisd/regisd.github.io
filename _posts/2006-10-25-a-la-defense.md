@@ -1,5 +1,6 @@
 ---
 id: 355
+disqus_id: 355 http://regis.decamps.info/blog/?p=355
 title: À la Défense
 date: 2006-10-25T17:48:57+00:00
 author: Régis

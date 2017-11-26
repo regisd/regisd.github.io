@@ -1,5 +1,6 @@
 ---
 id: 2729
+disqus_id: 2729 http://regis.decamps.info/blog/?p=2729
 title: 'J’ai (dé)testé Autolib’ pour vous'
 date: 2012-05-21T01:12:35+00:00
 author: Régis

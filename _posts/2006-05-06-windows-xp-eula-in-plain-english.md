@@ -1,5 +1,6 @@
 ---
 id: 267
+disqus_id: 267 http://regis.decamps.info/blog/?p=267
 title: Windows XP EULA in Plain English
 date: 2006-05-06T18:48:28+00:00
 author: Régis

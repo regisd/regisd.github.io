@@ -1,5 +1,6 @@
 ---
 id: 2321
+disqus_id: 2321 http://regis.decamps.info/blog/?p=2321
 title: 'Les articles de l’année 2011'
 date: 2011-12-31T16:17:14+00:00
 author: Régis

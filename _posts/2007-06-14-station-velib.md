@@ -1,5 +1,6 @@
 ---
 id: 425
+disqus_id: 425 http://regis.decamps.info/blog/?p=425
 title: Station Velib
 date: 2007-06-14T22:16:05+00:00
 author: Régis

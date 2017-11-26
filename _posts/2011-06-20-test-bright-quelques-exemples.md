@@ -1,5 +1,6 @@
 ---
 id: 2102
+disqus_id: 2102 http://regis.decamps.info/blog/?p=2102
 title: 'Test bright: quelques exemples'
 date: 2011-06-20T22:05:08+00:00
 author: Régis

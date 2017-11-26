@@ -1,5 +1,6 @@
 ---
 id: 1806
+disqus_id: 1806 http://regis.decamps.info/blog/?p=1806
 title: Incidents-Transports-0.10
 date: 2011-03-09T22:09:23+00:00
 author: Régis

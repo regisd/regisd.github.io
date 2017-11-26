@@ -1,5 +1,6 @@
 ---
 id: 6
+disqus_id: 6 http://regis.decamps.info/blog/?p=6
 title: Rendre visible le code foireux
 date: 2005-06-20T21:06:41+00:00
 author: Régis

@@ -1,5 +1,6 @@
 ---
 id: 491
+disqus_id: 491 http://regis.decamps.info/blog/?p=491
 title: La montagne, ça vous gagne
 date: 2008-03-22T08:04:13+00:00
 author: Régis

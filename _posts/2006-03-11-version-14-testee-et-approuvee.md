@@ -1,5 +1,6 @@
 ---
 id: 215
+disqus_id: 215 http://regis.decamps.info/blog/?p=215
 title: Version 1.4 testée et approuvée
 date: 2006-03-11T20:58:36+00:00
 author: Régis

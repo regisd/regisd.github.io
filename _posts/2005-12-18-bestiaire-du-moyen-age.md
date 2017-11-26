@@ -1,5 +1,6 @@
 ---
 id: 141
+disqus_id: 141 http://regis.decamps.info/blog/?p=141
 title: Bestiaire du Moyen Âge
 date: 2005-12-18T22:24:22+00:00
 author: Régis

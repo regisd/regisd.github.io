@@ -1,5 +1,6 @@
 ---
 id: 758
+disqus_id: 758 http://regis.decamps.info/blog/?p=758
 title: Sofinco rachète fianet
 date: 2008-12-15T21:28:46+00:00
 author: Régis

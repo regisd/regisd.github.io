@@ -1,5 +1,6 @@
 ---
 id: 544
+disqus_id: 544 http://regis.decamps.info/blog/?p=544
 title: Pause sur le pont nepalais
 date: 2008-07-22T19:02:17+00:00
 author: Régis

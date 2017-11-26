@@ -1,5 +1,6 @@
 ---
 id: 153
+disqus_id: 153 http://regis.decamps.info/blog/?p=153
 title: Greasemonkey
 date: 2006-01-12T20:04:07+00:00
 author: Régis

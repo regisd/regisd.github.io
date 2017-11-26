@@ -1,5 +1,6 @@
 ---
 id: 562
+disqus_id: 562 http://regis.decamps.info/blog/?p=562
 title: M. et Mme Terrieur
 date: 2008-09-14T12:25:12+00:00
 author: Régis

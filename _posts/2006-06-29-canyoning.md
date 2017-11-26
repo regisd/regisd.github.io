@@ -1,5 +1,6 @@
 ---
 id: 283
+disqus_id: 283 http://regis.decamps.info/blog/?p=283
 title: Canyoning
 date: 2006-06-29T20:04:09+00:00
 author: Régis

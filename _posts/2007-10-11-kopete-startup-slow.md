@@ -1,5 +1,6 @@
 ---
 id: 460
+disqus_id: 460 http://regis.decamps.info/blog/?p=460
 title: Kopete startup slow
 date: 2007-10-11T18:51:42+00:00
 author: Régis

@@ -1,5 +1,6 @@
 ---
 id: 150
+disqus_id: 150 http://regis.decamps.info/blog/?p=150
 title: Clip fait en Légo
 date: 2006-01-07T15:04:46+00:00
 author: Régis

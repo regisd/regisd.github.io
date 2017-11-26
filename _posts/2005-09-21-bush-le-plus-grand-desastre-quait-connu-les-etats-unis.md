@@ -1,5 +1,6 @@
 ---
 id: 66
+disqus_id: 66 http://regis.decamps.info/blog/?p=66
 title: 'Bush: le plus grand désastre qu’aient connu les Etats-Unis'
 date: 2005-09-21T23:30:02+00:00
 author: Régis

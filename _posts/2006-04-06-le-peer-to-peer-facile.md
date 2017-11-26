@@ -1,5 +1,6 @@
 ---
 id: 244
+disqus_id: 244 http://regis.decamps.info/blog/?p=244
 title: Le peer-to-peer facile avec AllPeers
 date: 2006-04-06T20:34:45+00:00
 author: Régis

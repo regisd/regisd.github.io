@@ -1,5 +1,6 @@
 ---
 id: 576
+disqus_id: 576 http://regis.decamps.info/blog/?p=576
 title: M. et Mme Oculère
 date: 2008-10-05T13:07:47+00:00
 author: Régis

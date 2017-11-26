@@ -1,5 +1,6 @@
 ---
 id: 246
+disqus_id: 246 http://regis.decamps.info/blog/?p=246
 title: Dijjer extension released
 date: 2006-04-09T16:46:59+00:00
 author: Régis

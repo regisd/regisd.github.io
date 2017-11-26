@@ -1,5 +1,6 @@
 ---
 id: 552
+disqus_id: 552 http://regis.decamps.info/blog/?p=552
 title: 'Hôtel de ville d’Avignon'
 date: 2008-08-29T16:14:36+00:00
 author: Régis

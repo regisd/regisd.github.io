@@ -1,5 +1,6 @@
 ---
 id: 183
+disqus_id: 183 http://regis.decamps.info/blog/?p=183
 title: Industrialisation des développements, vers une Software Factory
 date: 2006-02-22T22:37:19+00:00
 author: Régis

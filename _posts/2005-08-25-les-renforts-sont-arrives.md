@@ -1,5 +1,6 @@
 ---
 id: 48
+disqus_id: 48 http://regis.decamps.info/blog/?p=48
 title: Les renforts sont arrivés
 date: 2005-08-25T19:34:07+00:00
 author: Régis

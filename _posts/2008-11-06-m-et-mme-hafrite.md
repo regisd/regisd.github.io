@@ -1,5 +1,6 @@
 ---
 id: 604
+disqus_id: 604 http://regis.decamps.info/blog/?p=604
 title: M. et Mme Hafrite
 date: 2008-11-06T15:03:22+00:00
 author: Régis

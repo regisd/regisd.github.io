@@ -1,5 +1,6 @@
 ---
 id: 68
+disqus_id: 68 http://regis.decamps.info/blog/?p=68
 title: Le Massachussetts a retenu le format OpenOffice
 date: 2005-09-26T23:46:47+00:00
 author: Régis

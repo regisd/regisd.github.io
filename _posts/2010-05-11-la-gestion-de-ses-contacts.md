@@ -1,5 +1,6 @@
 ---
 id: 1184
+disqus_id: 1184 http://regis.decamps.info/blog/?p=1184
 title: La gestion de ses contacts
 date: 2010-05-11T19:25:19+00:00
 author: Régis

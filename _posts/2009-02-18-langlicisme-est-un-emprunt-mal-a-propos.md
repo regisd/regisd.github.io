@@ -1,5 +1,6 @@
 ---
 id: 818
+disqus_id: 818 http://regis.decamps.info/blog/?p=818
 title: 'L’anglicisme est un emprunt mal à propos'
 date: 2009-02-18T21:26:42+00:00
 author: Régis

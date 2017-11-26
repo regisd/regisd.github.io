@@ -1,5 +1,6 @@
 ---
 id: 134
+disqus_id: 134 http://regis.decamps.info/blog/?p=134
 title: del.icio.us
 date: 2005-12-12T20:58:59+00:00
 author: Régis

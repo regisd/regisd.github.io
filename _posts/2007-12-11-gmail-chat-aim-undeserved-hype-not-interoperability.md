@@ -1,5 +1,6 @@
 ---
 id: 466
+disqus_id: 466 http://regis.decamps.info/blog/?p=466
 title: Gmail + chat + AIM = undeserved hype, not interoperability
 date: 2007-12-11T21:48:28+00:00
 author: Régis
