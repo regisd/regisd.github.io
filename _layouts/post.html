@@ -1,6 +1,18 @@
 ---
 layout: default
 ---
+<div class="post-meta">
+  {% for category in page.categories %}
+    <i class="material-icons">folder</i>
+    <a>{{ category }}</a>
+  {% endfor %}
+  
+  {% for tag in page.tags %}
+    <i class="material-icons">label_outline</i>
+    <a>{{ tag }}</a>
+  {% endfor %} 
+</div>
+
 {{ content }}
 
 <div id="disqus_thread"></div>

@@ -27,12 +27,22 @@ a {
 }
 a:hover, a:focus {
   font-weight: normal;
+  cursor: pointer;
 }
 h1 a:hover, h1 a:focus {
   font-weight: bold;
 }
 .post-meta {
   color: $secondary-text-color;
+}
+.post-meta > * {
+  vertical-align: middle;
+}
+.post-meta > a {
+  color: $accent-color;
+}
+.post-meta > a:hover {
+  text-decoration: none;
 }
 #disqus_thread {
  min-height: 615px;
