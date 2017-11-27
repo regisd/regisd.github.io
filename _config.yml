@@ -1,6 +1,7 @@
 name: Rien de spécial
 title: Rien de spécial
 description: Le blog de Régis
+lang: fr-FR
 theme: jekyll-theme-slate
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile']
 permalink: "/blog/:year/:month/:title"
