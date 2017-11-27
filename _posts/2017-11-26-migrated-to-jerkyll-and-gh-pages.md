@@ -66,6 +66,7 @@ Dans la pratique:
   05c951878358d109597ac63a7042ed38aeb73079
 - Le thème slate n'est pas moche, mais assez pauvre.
   Je ne vois pas les catégories et les libellés, par example.
+  J'ai du les afficher moi-même , et même faire la page qui les liste.
 
 Une mauvaise compréhension de ma part:
 

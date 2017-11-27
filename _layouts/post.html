@@ -9,7 +9,7 @@ layout: default
   
   {% for tag in page.tags %}
     <i class="material-icons">label_outline</i>
-    <a>{{ tag }}</a>
+     <a href="{{site.baseurl}}/tags/#{{tag|slugize}}">{{ tag }}</a>
   {% endfor %} 
 </div>
 
