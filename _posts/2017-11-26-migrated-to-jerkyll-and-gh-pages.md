@@ -68,6 +68,17 @@ Dans la pratique:
   et non cette valeur `id`.
   J'ai du appliquer un autre coup de `sed` pour avoir ce `disqus_id`.
   05c951878358d109597ac63a7042ed38aeb73079
+- Le thème slate n'est pas moche, mais assez pauvre.
+  Je ne vois pas les catégories et les libellés, par example.
+  
+## Productivity tips
+
+1. Ne re-générer que les N derniers posts
+```
+bundle exec jekyll serve --limit_posts 10
+```
+
+## À suivre
 
 Finalement, la migration a mis quelques heures, et je suis sûr que certains posts
 ne s'affichent toujours pas correctement.
