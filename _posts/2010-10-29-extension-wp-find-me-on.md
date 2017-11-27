@@ -6,7 +6,7 @@ date: 2010-10-29T09:10:25+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=1463
-permalink: /2010/10/extension-wp-find-me-on/
+permalink: /blog/2010/10/extension-wp-find-me-on/
 tmac_last_id:
   - ""
 dsq_thread_id:

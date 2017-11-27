@@ -7,7 +7,7 @@ author: Régis
 excerpt: Je vais au concert de Placebo.
 layout: post
 guid: http://regis.decamps.info/blog/2006/10/placebo-a-paris-bercy/
-permalink: /2006/10/placebo-a-paris-bercy/
+permalink: /blog/2006/10/placebo-a-paris-bercy/
 tmac_last_id:
   - ""
 dsq_thread_id:

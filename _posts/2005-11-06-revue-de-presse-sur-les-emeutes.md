@@ -6,7 +6,7 @@ date: 2005-11-06T19:48:35+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=91
-permalink: /2005/11/revue-de-presse-sur-les-emeutes/
+permalink: /blog/2005/11/revue-de-presse-sur-les-emeutes/
 dsq_thread_id:
   - "189256354"
 tmac_last_id:

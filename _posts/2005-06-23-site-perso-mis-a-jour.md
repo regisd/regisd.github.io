@@ -7,7 +7,7 @@ author: Régis
 excerpt: "J'ai mis à jour mon site personnel. Son contenu sera plus dynamique grâce à mediawiki."
 layout: post
 guid: /?p=9
-permalink: /2005/06/site-perso-mis-a-jour/
+permalink: /blog/2005/06/site-perso-mis-a-jour/
 tmac_last_id:
   - ""
 dsq_thread_id:

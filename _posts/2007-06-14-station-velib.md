@@ -6,7 +6,7 @@ date: 2007-06-14T22:16:05+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2007/06/station-velib/
-permalink: /2007/06/station-velib/
+permalink: /blog/2007/06/station-velib/
 dsq_thread_id:
   - "189256904"
 tmac_last_id:

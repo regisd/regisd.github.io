@@ -6,7 +6,7 @@ date: 2008-12-09T20:57:47+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=675
-permalink: /2008/12/pour-vos-achats-en-ligne-evitez-les-sites-proteges-par-fia-net/
+permalink: /blog/2008/12/pour-vos-achats-en-ligne-evitez-les-sites-proteges-par-fia-net/
 tmac_last_id:
   - ""
 dsq_thread_id:

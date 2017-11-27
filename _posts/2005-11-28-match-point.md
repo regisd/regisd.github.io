@@ -7,7 +7,7 @@ author: Régis
 excerpt: "I don't care that he is good, I just hope him to be lucky."
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=115
-permalink: /2005/11/match-point/
+permalink: /blog/2005/11/match-point/
 tmac_last_id:
   - ""
 categories:

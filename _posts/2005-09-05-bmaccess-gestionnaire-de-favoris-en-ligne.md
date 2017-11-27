@@ -8,7 +8,7 @@ excerpt: |
   Aujourd'hui j'ai eu un petit chat avec l'auteur de <a href="http://www.bmaccess.net/">BmAccess</a>, un site de gestion de favoris en ligne. Nous avons commencé la discussion sur <a href="/wordpress/?p=30">l'extension firefox que j'avais écrite pour BlogMarks</a>. Et puis j'ai critiqué Blogmarks, et j'espère que ça l'inspirera pour BmAccess.
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=47
-permalink: /2005/09/bmaccess-gestionnaire-de-favoris-en-ligne/
+permalink: /blog/2005/09/bmaccess-gestionnaire-de-favoris-en-ligne/
 tmac_last_id:
   - ""
 dsq_thread_id:

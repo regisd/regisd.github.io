@@ -7,7 +7,7 @@ author: Régis
 excerpt: "Grâce à Google et son GoogleTalk, j'espère que l'on pourra bientôt communiquer d'un réseau vers l'autre."
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=82
-permalink: /2005/10/enfin-linteroperabilite-entre-les-messageries-instantanees/
+permalink: /blog/2005/10/enfin-linteroperabilite-entre-les-messageries-instantanees/
 tmac_last_id:
   - ""
 dsq_thread_id:

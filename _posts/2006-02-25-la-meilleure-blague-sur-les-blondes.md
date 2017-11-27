@@ -6,7 +6,7 @@ date: 2006-02-25T02:32:52+00:00
 author: Régis
 layout: post
 guid: http://blog.decamps.info/2006/02/la-meilleure-blague-sur-les-blondes/
-permalink: /2006/02/la-meilleure-blague-sur-les-blondes/
+permalink: /blog/2006/02/la-meilleure-blague-sur-les-blondes/
 tmac_last_id:
   - ""
 categories:

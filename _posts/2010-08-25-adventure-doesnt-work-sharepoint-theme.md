@@ -6,7 +6,7 @@ date: 2010-08-25T19:51:41+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=1397
-permalink: /2010/08/adventure-doesnt-work-sharepoint-theme/
+permalink: /blog/2010/08/adventure-doesnt-work-sharepoint-theme/
 dsq_thread_id:
   - "189257914"
 wordbooker_options:

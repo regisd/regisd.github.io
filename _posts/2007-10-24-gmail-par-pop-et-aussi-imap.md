@@ -6,7 +6,7 @@ date: 2007-10-24T14:16:38+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2007/10/gmail-par-pop-et-aussi-imap/
-permalink: /2007/10/gmail-par-pop-et-aussi-imap/
+permalink: /blog/2007/10/gmail-par-pop-et-aussi-imap/
 tmac_last_id:
   - ""
 categories:

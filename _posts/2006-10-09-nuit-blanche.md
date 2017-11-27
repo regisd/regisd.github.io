@@ -6,7 +6,7 @@ date: 2006-10-09T21:22:57+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2006/10/nuit-blanche/
-permalink: /2006/10/nuit-blanche/
+permalink: /blog/2006/10/nuit-blanche/
 tmac_last_id:
   - ""
 dsq_thread_id:

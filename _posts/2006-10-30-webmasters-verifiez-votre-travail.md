@@ -6,7 +6,7 @@ date: 2006-10-30T19:34:24+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2006/10/webmasters-verifiez-votre-travail/
-permalink: /2006/10/webmasters-verifiez-votre-travail/
+permalink: /blog/2006/10/webmasters-verifiez-votre-travail/
 tmac_last_id:
   - ""
 dsq_thread_id:

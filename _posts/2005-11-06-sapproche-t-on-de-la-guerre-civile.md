@@ -7,7 +7,7 @@ author: Régis
 excerpt: '"Paris riots" est le terme le plus recherché en ce moment sur <a href="http://www.technorati.com/">Technorati</a>. Les émeutes font visiblement une excellente publicité pour la France.'
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=90
-permalink: /2005/11/sapproche-t-on-de-la-guerre-civile/
+permalink: /blog/2005/11/sapproche-t-on-de-la-guerre-civile/
 dsq_thread_id:
   - "189256344"
 tmac_last_id:

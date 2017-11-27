@@ -6,7 +6,7 @@ date: 2008-03-21T19:35:29+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2008/03/promptement-cest-le-jour-meme/
-permalink: /2008/03/promptement-cest-le-jour-meme/
+permalink: /blog/2008/03/promptement-cest-le-jour-meme/
 tmac_last_id:
   - ""
 categories:

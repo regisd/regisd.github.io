@@ -7,7 +7,7 @@ author: Régis
 excerpt: Tout ça pour ça?
 layout: post
 guid: http://blog.decamps.info/2006/06/marie-antoinette-le-film/
-permalink: /2006/06/marie-antoinette-le-film/
+permalink: /blog/2006/06/marie-antoinette-le-film/
 tmac_last_id:
   - ""
 categories:

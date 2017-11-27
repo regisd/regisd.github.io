@@ -6,7 +6,7 @@ date: 2009-01-16T12:46:19+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=790
-permalink: /2009/01/why-switch-to-office-2007/
+permalink: /blog/2009/01/why-switch-to-office-2007/
 tmac_last_id:
   - ""
 dsq_thread_id:

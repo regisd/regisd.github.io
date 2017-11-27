@@ -6,7 +6,7 @@ date: 2013-04-02T23:06:11+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=3130
-permalink: /2013/04/expo-krach-boom-mue/
+permalink: /blog/2013/04/expo-krach-boom-mue/
 dsq_thread_id:
   - "1230298115"
 categories:

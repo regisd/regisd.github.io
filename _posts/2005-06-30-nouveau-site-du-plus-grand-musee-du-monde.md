@@ -6,7 +6,7 @@ date: 2005-06-30T23:04:54+00:00
 author: Régis
 layout: post
 guid: /?p=14
-permalink: /2005/06/nouveau-site-du-plus-grand-musee-du-monde/
+permalink: /blog/2005/06/nouveau-site-du-plus-grand-musee-du-monde/
 tmac_last_id:
   - ""
 dsq_thread_id:

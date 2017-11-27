@@ -7,7 +7,7 @@ author: Régis
 excerpt: "Avec Air France, quand on rate l'aller, on n'a pas le droit au retour..."
 layout: post
 guid: http://regis.decamps.info/blog/?p=1455
-permalink: /2010/10/air-france-pratique-la-politique-inique-du-no-show/
+permalink: /blog/2010/10/air-france-pratique-la-politique-inique-du-no-show/
 dsq_thread_id:
   - "189257923"
 wordbooker_options:

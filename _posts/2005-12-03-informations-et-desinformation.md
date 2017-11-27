@@ -7,7 +7,7 @@ author: Régis
 excerpt: "L'Armée américaine publie des nouvelles dans la presse irakienne"
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=116
-permalink: /2005/12/informations-et-desinformation/
+permalink: /blog/2005/12/informations-et-desinformation/
 tmac_last_id:
   - ""
 categories:

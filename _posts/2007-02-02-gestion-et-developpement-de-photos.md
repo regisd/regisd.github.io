@@ -6,7 +6,7 @@ date: 2007-02-02T18:40:40+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2007/02/gestion-et-developpement-de-photos/
-permalink: /2007/02/gestion-et-developpement-de-photos/
+permalink: /blog/2007/02/gestion-et-developpement-de-photos/
 tmac_last_id:
   - ""
 categories:

@@ -7,7 +7,7 @@ author: Régis
 excerpt: "OpenSignal mesure la vitesse de connection de milliers de téléphones. Quel est l'état de la téléphonie 4G en France par rapport aux autres pays du monde? Quels sont les meilleurs opérateurs français?"
 layout: post
 guid: http://regis.decamps.info/blog/?p=3307
-permalink: /2015/09/quels-sont-les-meilleurs-reseaux-4g-france/
+permalink: /blog/2015/09/quels-sont-les-meilleurs-reseaux-4g-france/
 dsq_thread_id:
   - "4166005760"
 categories:

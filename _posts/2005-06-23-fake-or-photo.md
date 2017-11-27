@@ -6,7 +6,7 @@ date: 2005-06-23T20:28:02+00:00
 author: Régis
 layout: post
 guid: /?p=8
-permalink: /2005/06/fake-or-photo/
+permalink: /blog/2005/06/fake-or-photo/
 tmac_last_id:
   - ""
 dsq_thread_id:

@@ -6,7 +6,7 @@ date: 2008-03-09T13:05:30+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2008/03/merci-jean-claude/
-permalink: /2008/03/merci-jean-claude/
+permalink: /blog/2008/03/merci-jean-claude/
 tmac_last_id:
   - ""
 categories:

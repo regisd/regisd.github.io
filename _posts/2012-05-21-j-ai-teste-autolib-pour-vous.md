@@ -6,7 +6,7 @@ date: 2012-05-21T01:12:35+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=2729
-permalink: /2012/05/j-ai-teste-autolib-pour-vous/
+permalink: /blog/2012/05/j-ai-teste-autolib-pour-vous/
 dsq_thread_id:
   - "698557912"
 categories:

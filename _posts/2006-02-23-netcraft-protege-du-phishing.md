@@ -6,7 +6,7 @@ date: 2006-02-23T20:56:59+00:00
 author: Régis
 layout: post
 guid: http://blog.decamps.info/2006/02/netcraft-protege-du-phishing/
-permalink: /2006/02/netcraft-protege-du-phishing/
+permalink: /blog/2006/02/netcraft-protege-du-phishing/
 tmac_last_id:
   - ""
 dsq_thread_id:

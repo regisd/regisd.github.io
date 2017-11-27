@@ -6,7 +6,7 @@ date: 2013-01-21T21:40:03+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=3091
-permalink: /2013/01/utiliser-lutece-malgre-le-bug-34880/
+permalink: /blog/2013/01/utiliser-lutece-malgre-le-bug-34880/
 al2fb_facebook_exclude:
   - "1"
 dsq_thread_id:

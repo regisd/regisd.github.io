@@ -6,7 +6,7 @@ date: 2007-06-07T17:40:31+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2007/06/premieres-impressions-sur-net/
-permalink: /2007/06/premieres-impressions-sur-net/
+permalink: /blog/2007/06/premieres-impressions-sur-net/
 tmac_last_id:
   - ""
 dsq_thread_id:

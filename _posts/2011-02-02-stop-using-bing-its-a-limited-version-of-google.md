@@ -7,7 +7,7 @@ author: Régis
 excerpt: And suddenly we grasp why Microsoft claims that Bing works better and better
 layout: post
 guid: http://regis.decamps.info/blog/?p=1680
-permalink: /2011/02/stop-using-bing-its-a-limited-version-of-google/
+permalink: /blog/2011/02/stop-using-bing-its-a-limited-version-of-google/
 wordbooker_options:
   - 'a:10:{s:18:"wordbook_noncename";s:10:"e5d0db3578";s:18:"wordbook_page_post";s:4:"-100";s:18:"wordbook_orandpage";s:1:"2";s:23:"wordbook_default_author";s:1:"1";s:23:"wordbook_extract_length";s:3:"120";s:19:"wordbook_actionlink";s:3:"300";s:26:"wordbooker_publish_default";s:2:"on";s:27:"wordbooker_publish_override";s:2:"on";s:18:"wordbook_attribute";s:21:"a écrit sur son blog";s:29:"wordbooker_status_update_text";s:33:"New blog post :  %title% - %link%";}'
 tmac_last_id:

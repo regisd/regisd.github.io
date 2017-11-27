@@ -7,7 +7,7 @@ author: Régis
 excerpt: Oney ne peut plus fournir de cash-back sur sa carte de paiement.
 layout: post
 guid: http://regis.decamps.info/blog/?p=2131
-permalink: /2011/05/la-carte-vsa-qui-rapporte-cest-fini/
+permalink: /blog/2011/05/la-carte-vsa-qui-rapporte-cest-fini/
 wordbooker_options:
   - 'a:9:{s:18:"wordbook_noncename";s:10:"28badcc941";s:18:"wordbook_page_post";s:4:"-100";s:18:"wordbook_orandpage";s:1:"2";s:23:"wordbook_default_author";s:1:"1";s:23:"wordbook_extract_length";s:3:"256";s:19:"wordbook_actionlink";s:3:"300";s:18:"wordbook_attribute";s:0:"";s:29:"wordbooker_status_update_text";s:33:"New blog post :  %title% - %link%";s:17:"wordbook_new_post";s:1:"1";}'
 tmac_last_id:

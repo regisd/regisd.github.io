@@ -6,7 +6,7 @@ date: 2008-01-04T00:30:26+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2008/01/bonne-annee/
-permalink: /2008/01/bonne-annee/
+permalink: /blog/2008/01/bonne-annee/
 dsq_thread_id:
   - "189257151"
 tmac_last_id:

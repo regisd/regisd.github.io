@@ -6,7 +6,7 @@ date: 2006-10-30T20:21:46+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2006/10/code-source/
-permalink: /2006/10/code-source/
+permalink: /blog/2006/10/code-source/
 tmac_last_id:
   - ""
 categories:

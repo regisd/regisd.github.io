@@ -6,7 +6,7 @@ date: 2005-11-30T01:19:02+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=108
-permalink: /2005/11/blogmark-sur-mozilla-update/
+permalink: /blog/2005/11/blogmark-sur-mozilla-update/
 tmac_last_id:
   - ""
 dsq_thread_id:

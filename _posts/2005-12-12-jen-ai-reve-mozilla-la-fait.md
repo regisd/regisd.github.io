@@ -7,7 +7,7 @@ author: Régis
 excerpt: Le Mozilla store ouvre en version internationale, avec des frais de ports revus à la baisse.
 layout: post
 guid: http://blog.decamps.info/2005/12/jen-ai-reve-mozilla-la-fait/
-permalink: /2005/12/jen-ai-reve-mozilla-la-fait/
+permalink: /blog/2005/12/jen-ai-reve-mozilla-la-fait/
 tmac_last_id:
   - ""
 dsq_thread_id:

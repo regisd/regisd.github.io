@@ -6,7 +6,7 @@ date: 2012-05-22T22:54:55+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=2755
-permalink: /2012/05/amour-sur-place-ou-a-emporter/
+permalink: /blog/2012/05/amour-sur-place-ou-a-emporter/
 dsq_thread_id:
   - "700169961"
 al2fb_facebook_image_id:

@@ -6,7 +6,7 @@ date: 2008-11-24T02:48:03+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=613
-permalink: /2008/11/bientot-a-las-vegas/
+permalink: /blog/2008/11/bientot-a-las-vegas/
 tmac_last_id:
   - ""
 dsq_thread_id:

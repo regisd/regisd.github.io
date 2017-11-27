@@ -6,7 +6,7 @@ date: 2008-04-20T23:38:41+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2008/04/a-bord-du-darjeeling-limited/
-permalink: /2008/04/a-bord-du-darjeeling-limited/
+permalink: /blog/2008/04/a-bord-du-darjeeling-limited/
 tmac_last_id:
   - ""
 categories:

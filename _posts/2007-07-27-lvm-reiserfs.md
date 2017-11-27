@@ -6,7 +6,7 @@ date: 2007-07-27T19:46:06+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2007/07/lvm-reiserfs/
-permalink: /2007/07/lvm-reiserfs/
+permalink: /blog/2007/07/lvm-reiserfs/
 tmac_last_id:
   - ""
 dsq_thread_id:

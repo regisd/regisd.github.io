@@ -6,7 +6,7 @@ date: 2012-06-01T17:32:07+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=2784
-permalink: /2012/06/world-of-goo/
+permalink: /blog/2012/06/world-of-goo/
 al2fb_facebook_link_id:
   - 1065233209_3575244654188
 al2fb_facebook_link_time:

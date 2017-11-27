@@ -6,7 +6,7 @@ date: 2012-02-21T14:33:56+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=2597
-permalink: /2012/02/envie-de-developpement-android/
+permalink: /blog/2012/02/envie-de-developpement-android/
 dsq_thread_id:
   - "584083524"
 categories:

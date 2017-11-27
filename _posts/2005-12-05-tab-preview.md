@@ -7,7 +7,7 @@ author: Régis
 excerpt: Quand on aime les onglets de firefox, on adore cette extension
 layout: post
 guid: http://blog.decamps.info/?p=126
-permalink: /2005/12/tab-preview/
+permalink: /blog/2005/12/tab-preview/
 tmac_last_id:
   - ""
 categories:

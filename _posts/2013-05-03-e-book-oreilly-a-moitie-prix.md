@@ -6,7 +6,7 @@ date: 2013-05-03T20:53:06+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=3144
-permalink: /2013/05/e-book-oreilly-a-moitie-prix/
+permalink: /blog/2013/05/e-book-oreilly-a-moitie-prix/
 fb_author_post_id:
   - "10200287965696196"
 dsq_thread_id:

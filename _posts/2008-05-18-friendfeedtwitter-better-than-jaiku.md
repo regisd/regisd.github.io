@@ -6,7 +6,7 @@ date: 2008-05-18T14:53:31+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=520
-permalink: /2008/05/friendfeedtwitter-better-than-jaiku/
+permalink: /blog/2008/05/friendfeedtwitter-better-than-jaiku/
 tmac_last_id:
   - ""
 dsq_thread_id:

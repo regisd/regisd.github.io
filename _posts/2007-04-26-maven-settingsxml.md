@@ -6,7 +6,7 @@ date: 2007-04-26T18:19:59+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2007/04/maven-settingsxml/
-permalink: /2007/04/maven-settingsxml/
+permalink: /blog/2007/04/maven-settingsxml/
 tmac_last_id:
   - ""
 dsq_thread_id:

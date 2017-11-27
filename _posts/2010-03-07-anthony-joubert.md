@@ -7,7 +7,7 @@ author: Régis
 excerpt: "Le spectavle d'Anthony Joubert est vraiment très bon!"
 layout: post
 guid: http://regis.decamps.info/blog/2010/03/anthony-joubert/
-permalink: /2010/03/anthony-joubert/
+permalink: /blog/2010/03/anthony-joubert/
 tmac_last_id:
   - ""
 dsq_thread_id:

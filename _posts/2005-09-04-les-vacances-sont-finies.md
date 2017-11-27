@@ -7,7 +7,7 @@ author: Régis
 excerpt: Voilà, après une semaine de travaux, une semaine de vacances.
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=50
-permalink: /2005/09/les-vacances-sont-finies/
+permalink: /blog/2005/09/les-vacances-sont-finies/
 tmac_last_id:
   - ""
 dsq_thread_id:

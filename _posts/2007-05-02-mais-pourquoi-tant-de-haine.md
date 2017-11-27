@@ -6,7 +6,7 @@ date: 2007-05-02T21:56:43+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2007/05/mais-pourquoi-tant-de-haine/
-permalink: /2007/05/mais-pourquoi-tant-de-haine/
+permalink: /blog/2007/05/mais-pourquoi-tant-de-haine/
 dsq_thread_id:
   - "189256827"
 tmac_last_id:

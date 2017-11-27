@@ -7,7 +7,7 @@ author: Régis
 excerpt: Mon extension doit-elle encore évoluer?
 layout: post
 guid: http://blog.decamps.info/2006/03/blogmark-quelles-evolutions-pour-la-20/
-permalink: /2006/03/blogmark-quelles-evolutions-pour-la-20/
+permalink: /blog/2006/03/blogmark-quelles-evolutions-pour-la-20/
 dsq_thread_id:
   - "189256526"
 tmac_last_id:

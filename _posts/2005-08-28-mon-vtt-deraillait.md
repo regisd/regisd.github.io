@@ -6,7 +6,7 @@ date: 2005-08-28T14:50:43+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=45
-permalink: /2005/08/mon-vtt-deraillait/
+permalink: /blog/2005/08/mon-vtt-deraillait/
 tmac_last_id:
   - ""
 dsq_thread_id:

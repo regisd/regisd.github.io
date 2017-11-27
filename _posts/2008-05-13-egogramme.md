@@ -6,7 +6,7 @@ date: 2008-05-13T11:37:56+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=518
-permalink: /2008/05/egogramme/
+permalink: /blog/2008/05/egogramme/
 dsq_thread_id:
   - "189257287"
 tmac_last_id:

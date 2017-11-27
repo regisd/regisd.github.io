@@ -7,7 +7,7 @@ author: Régis
 excerpt: "5% de réduction sur Alapage, ça vous dit? Et des réductions chez pixmania, La Redoute, Cdiscount? Et un cadeau de 5 euros  à l'ouverture du compte?"
 layout: post
 guid: /?p=32
-permalink: /2005/08/du-cash-back-sur-vos-achats/
+permalink: /blog/2005/08/du-cash-back-sur-vos-achats/
 tmac_last_id:
   - ""
 dsq_thread_id:

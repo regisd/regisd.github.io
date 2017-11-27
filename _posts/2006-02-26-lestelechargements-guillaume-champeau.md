@@ -7,7 +7,7 @@ author: Régis
 excerpt: Enfin un intervenant qui a une autre vision
 layout: post
 guid: http://blog.decamps.info/2006/02/lestelechargements-guillaume-champeau/
-permalink: /2006/02/lestelechargements-guillaume-champeau/
+permalink: /blog/2006/02/lestelechargements-guillaume-champeau/
 tmac_last_id:
   - ""
 dsq_thread_id:

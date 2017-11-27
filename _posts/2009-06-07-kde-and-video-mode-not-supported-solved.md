@@ -6,7 +6,7 @@ date: 2009-06-07T19:08:44+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=900
-permalink: /2009/06/kde-and-video-mode-not-supported-solved/
+permalink: /blog/2009/06/kde-and-video-mode-not-supported-solved/
 tmac_last_id:
   - ""
 dsq_thread_id:

@@ -7,7 +7,7 @@ author: Régis
 excerpt: 'Cette classe PHP permet de faire des requêtes Oracle avec une syntaxe proche des fonctions mysql_*'
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=112
-permalink: /2005/09/classe-php-pour-oracle/
+permalink: /blog/2005/09/classe-php-pour-oracle/
 tmac_last_id:
   - ""
 dsq_thread_id:

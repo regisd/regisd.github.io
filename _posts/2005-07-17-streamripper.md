@@ -7,7 +7,7 @@ author: Régis
 excerpt: "J'ai quelques années de retard, mais je me suis enfin lancé dans le rippage de station radio."
 layout: post
 guid: /?p=21
-permalink: /2005/07/streamripper/
+permalink: /blog/2005/07/streamripper/
 tmac_last_id:
   - ""
 dsq_thread_id:

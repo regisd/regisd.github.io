@@ -7,7 +7,7 @@ author: Régis
 excerpt: "Voilà enfin les vacances d'été."
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=43
-permalink: /2005/08/je-suis-en-vacances/
+permalink: /blog/2005/08/je-suis-en-vacances/
 tmac_last_id:
   - ""
 dsq_thread_id:

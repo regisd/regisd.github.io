@@ -7,7 +7,7 @@ author: Régis
 excerpt: "La Cour des Comptes critique l'Autorité de Contrôle Prudentiel."
 layout: post
 guid: http://regis.decamps.info/blog/?p=2245
-permalink: /2011/11/la-cour-des-comptes-est-critique-vis-a-vis-de-lacp/
+permalink: /blog/2011/11/la-cour-des-comptes-est-critique-vis-a-vis-de-lacp/
 tmac_last_id:
   - "162978331128631296"
 dsq_thread_id:

@@ -6,7 +6,7 @@ date: 2006-12-12T22:37:04+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2006/12/convertir-un-rpm-en-tgz/
-permalink: /2006/12/convertir-un-rpm-en-tgz/
+permalink: /blog/2006/12/convertir-un-rpm-en-tgz/
 tmac_last_id:
   - ""
 dsq_thread_id:

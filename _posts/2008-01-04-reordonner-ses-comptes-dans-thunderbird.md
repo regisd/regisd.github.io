@@ -6,7 +6,7 @@ date: 2008-01-04T00:34:11+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2008/01/reordonner-ses-comptes-dans-thunderbirds/
-permalink: /2008/01/reordonner-ses-comptes-dans-thunderbird/
+permalink: /blog/2008/01/reordonner-ses-comptes-dans-thunderbird/
 tmac_last_id:
   - ""
 dsq_thread_id:

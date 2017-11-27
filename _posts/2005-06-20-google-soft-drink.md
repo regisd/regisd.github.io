@@ -6,7 +6,7 @@ date: 2005-06-20T20:24:48+00:00
 author: Régis
 layout: post
 guid: /?p=4
-permalink: /2005/06/google-soft-drink/
+permalink: /blog/2005/06/google-soft-drink/
 tmac_last_id:
   - ""
 categories:

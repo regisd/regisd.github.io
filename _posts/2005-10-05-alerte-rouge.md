@@ -7,7 +7,7 @@ author: Régis
 excerpt: "Ce soir, je voulais aller à une séance d'essai du kung-fu, au club de la Banque de France. Peine perdue."
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=72
-permalink: /2005/10/alerte-rouge/
+permalink: /blog/2005/10/alerte-rouge/
 tmac_last_id:
   - ""
 categories:

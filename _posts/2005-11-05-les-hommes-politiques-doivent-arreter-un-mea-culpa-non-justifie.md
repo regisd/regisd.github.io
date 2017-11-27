@@ -6,7 +6,7 @@ date: 2005-11-05T00:26:40+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=93
-permalink: /2005/11/les-hommes-politiques-doivent-arreter-un-mea-culpa-non-justifie/
+permalink: /blog/2005/11/les-hommes-politiques-doivent-arreter-un-mea-culpa-non-justifie/
 tmac_last_id:
   - ""
 categories:

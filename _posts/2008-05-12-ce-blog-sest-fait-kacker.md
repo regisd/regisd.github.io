@@ -6,7 +6,7 @@ date: 2008-05-12T23:41:08+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2008/05/ce-blog-sest-fait-kacker/
-permalink: /2008/05/ce-blog-sest-fait-kacker/
+permalink: /blog/2008/05/ce-blog-sest-fait-kacker/
 tmac_last_id:
   - ""
 dsq_thread_id:

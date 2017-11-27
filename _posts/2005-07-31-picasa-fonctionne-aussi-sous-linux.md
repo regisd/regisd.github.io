@@ -8,7 +8,7 @@ excerpt: |
   Un collègue m'a beaucoup venté les mérites de <a href="http://picasa.google.com/index.html">Picasa</a>, le logiciel de gestion d'albums photos de Google. Et comme je voulais justement réorganiser mes photos, je l'ai essayé. J'ai constaté avec surprise qu'il fonctionnait sous linux.
 layout: post
 guid: /?p=27
-permalink: /2005/07/picasa-fonctionne-aussi-sous-linux/
+permalink: /blog/2005/07/picasa-fonctionne-aussi-sous-linux/
 dsq_thread_id:
   - "189256223"
 tmac_last_id:

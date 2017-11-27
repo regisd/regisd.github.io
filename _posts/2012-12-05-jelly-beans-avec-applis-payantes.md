@@ -6,7 +6,7 @@ date: 2012-12-05T09:29:29+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=3047
-permalink: /2012/12/jelly-beans-avec-applis-payantes/
+permalink: /blog/2012/12/jelly-beans-avec-applis-payantes/
 al2fb_facebook_link_id:
   - 1065233209_4340131895891
 al2fb_facebook_link_time:

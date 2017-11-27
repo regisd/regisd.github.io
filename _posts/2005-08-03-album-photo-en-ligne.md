@@ -6,7 +6,7 @@ date: 2005-08-03T00:34:22+00:00
 author: Régis
 layout: post
 guid: /?p=29
-permalink: /2005/08/album-photo-en-ligne/
+permalink: /blog/2005/08/album-photo-en-ligne/
 tmac_last_id:
   - ""
 dsq_thread_id:

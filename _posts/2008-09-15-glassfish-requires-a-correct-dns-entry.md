@@ -6,7 +6,7 @@ date: 2008-09-15T18:48:31+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=587
-permalink: /2008/09/glassfish-requires-a-correct-dns-entry/
+permalink: /blog/2008/09/glassfish-requires-a-correct-dns-entry/
 dsq_thread_id:
   - "189257570"
 tmac_last_id:

@@ -6,7 +6,7 @@ date: 2005-11-13T21:39:17+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=98
-permalink: /2005/11/cest-si-facile-de-se-moquer/
+permalink: /blog/2005/11/cest-si-facile-de-se-moquer/
 dsq_thread_id:
   - "189256369"
 tmac_last_id:

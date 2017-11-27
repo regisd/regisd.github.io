@@ -6,7 +6,7 @@ date: 2006-12-12T22:45:30+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2006/12/stephane-guillon/
-permalink: /2006/12/stephane-guillon/
+permalink: /blog/2006/12/stephane-guillon/
 dsq_thread_id:
   - "189256742"
 tmac_last_id:

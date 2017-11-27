@@ -6,7 +6,7 @@ date: 2009-07-12T14:20:27+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=916
-permalink: /2009/07/comportement-du-clic-sous-kde/
+permalink: /blog/2009/07/comportement-du-clic-sous-kde/
 tmac_last_id:
   - ""
 dsq_thread_id:

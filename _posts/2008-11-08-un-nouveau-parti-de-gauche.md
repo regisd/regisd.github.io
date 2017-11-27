@@ -6,7 +6,7 @@ date: 2008-11-08T14:45:25+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=607
-permalink: /2008/11/un-nouveau-parti-de-gauche/
+permalink: /blog/2008/11/un-nouveau-parti-de-gauche/
 tmac_last_id:
   - ""
 categories:

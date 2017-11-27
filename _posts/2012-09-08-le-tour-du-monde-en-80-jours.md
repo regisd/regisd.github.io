@@ -6,7 +6,7 @@ date: 2012-09-08T01:19:02+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=2965
-permalink: /2012/09/le-tour-du-monde-en-80-jours/
+permalink: /blog/2012/09/le-tour-du-monde-en-80-jours/
 al2fb_facebook_link_id:
   - 1065233209_3970645938973
 al2fb_facebook_link_time:

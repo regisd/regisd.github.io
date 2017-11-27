@@ -7,7 +7,7 @@ author: Régis
 excerpt: "La moquette était neuve, mais moche et de piètre qualité. Elle va donc laisser sa place à un parquet. Première étape: l'enlever!"
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=40
-permalink: /2005/08/je-nai-plus-de-moquette/
+permalink: /blog/2005/08/je-nai-plus-de-moquette/
 tmac_last_id:
   - ""
 dsq_thread_id:

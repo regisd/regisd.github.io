@@ -6,7 +6,7 @@ date: 2005-06-20T21:06:41+00:00
 author: Régis
 layout: post
 guid: /?p=6
-permalink: /2005/06/rendre-visible-le-code-foireux/
+permalink: /blog/2005/06/rendre-visible-le-code-foireux/
 tmac_last_id:
   - ""
 dsq_thread_id:

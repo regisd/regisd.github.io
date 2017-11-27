@@ -7,7 +7,7 @@ author: Régis
 excerpt: Les traces laissées dans les champs ne laissent aucun doute.
 layout: post
 guid: http://regis.decamps.info/blog/2006/08/les-martiens-preferent-firefox/
-permalink: /2006/08/les-martiens-preferent-firefox/
+permalink: /blog/2006/08/les-martiens-preferent-firefox/
 tmac_last_id:
   - ""
 dsq_thread_id:

@@ -6,7 +6,7 @@ date: 2012-02-07T00:05:00+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=2520
-permalink: /2012/02/more-design-problems-with-the-android-framework/
+permalink: /blog/2012/02/more-design-problems-with-the-android-framework/
 dsq_thread_id:
   - "566867604"
 categories:

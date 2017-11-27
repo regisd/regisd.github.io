@@ -7,7 +7,7 @@ author: Régis
 excerpt: Yahoo! will update their mail service, using a rich application look and feel.
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=61
-permalink: /2005/09/yahoo-mail-uses-mr-clean-too/
+permalink: /blog/2005/09/yahoo-mail-uses-mr-clean-too/
 dsq_thread_id:
   - "189256317"
 tmac_last_id:

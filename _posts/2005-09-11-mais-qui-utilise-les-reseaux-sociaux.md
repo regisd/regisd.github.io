@@ -6,7 +6,7 @@ date: 2005-09-11T13:44:42+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=57
-permalink: /2005/09/mais-qui-utilise-les-reseaux-sociaux/
+permalink: /blog/2005/09/mais-qui-utilise-les-reseaux-sociaux/
 dsq_thread_id:
   - "189256272"
 tmac_last_id:

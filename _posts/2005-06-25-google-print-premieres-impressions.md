@@ -7,7 +7,7 @@ author: Régis
 excerpt: "Les inquiétudes de Jean-Noël Jeanneney (directeur de la BNF) s'avèrent assez justes."
 layout: post
 guid: /?p=10
-permalink: /2005/06/google-print-premieres-impressions/
+permalink: /blog/2005/06/google-print-premieres-impressions/
 dsq_thread_id:
   - "189256180"
 tmac_last_id:

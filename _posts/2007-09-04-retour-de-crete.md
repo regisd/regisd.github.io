@@ -7,7 +7,7 @@ author: Régis
 excerpt: "J'ai la semaine dernière en vancances en Crête."
 layout: post
 guid: http://regis.decamps.info/blog/2007/09/retour-de-crete/
-permalink: /2007/09/retour-de-crete/
+permalink: /blog/2007/09/retour-de-crete/
 dsq_thread_id:
   - "189257040"
 tmac_last_id:

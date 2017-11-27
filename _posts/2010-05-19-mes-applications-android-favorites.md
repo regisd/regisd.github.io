@@ -6,7 +6,7 @@ date: 2010-05-19T12:24:10+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=1190
-permalink: /2010/05/mes-applications-android-favorites/
+permalink: /blog/2010/05/mes-applications-android-favorites/
 dsq_thread_id:
   - "189257897"
 tmac_last_id:

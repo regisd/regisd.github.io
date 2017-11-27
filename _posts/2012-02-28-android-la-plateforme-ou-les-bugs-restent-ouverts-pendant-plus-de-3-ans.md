@@ -6,7 +6,7 @@ date: 2012-02-28T21:42:45+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=2608
-permalink: /2012/02/android-la-plateforme-ou-les-bugs-restent-ouverts-pendant-plus-de-3-ans/
+permalink: /blog/2012/02/android-la-plateforme-ou-les-bugs-restent-ouverts-pendant-plus-de-3-ans/
 dsq_thread_id:
   - "592687832"
 categories:

@@ -7,7 +7,7 @@ author: Régis
 excerpt: Une extension pour bloggueur!
 layout: post
 guid: http://blog.decamps.info/2006/01/extension-performancing-pour-bloggeurs/
-permalink: /2006/01/extension-performancing-pour-bloggeurs/
+permalink: /blog/2006/01/extension-performancing-pour-bloggeurs/
 tmac_last_id:
   - ""
 categories:

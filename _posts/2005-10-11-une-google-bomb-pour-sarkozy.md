@@ -7,7 +7,7 @@ author: Régis
 excerpt: "Ca devient n'importe quoi. Nicolas Sarkozy va recevoir une <em>google bomb</em> à cause de son prétendu spam."
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=80
-permalink: /2005/10/une-google-bomb-pour-sarkozy/
+permalink: /blog/2005/10/une-google-bomb-pour-sarkozy/
 tmac_last_id:
   - ""
 dsq_thread_id:

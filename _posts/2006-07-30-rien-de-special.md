@@ -6,7 +6,7 @@ date: 2006-07-30T20:45:29+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2006/08/rien-de-special/
-permalink: /2006/07/rien-de-special/
+permalink: /blog/2006/07/rien-de-special/
 tmac_last_id:
   - ""
 dsq_thread_id:

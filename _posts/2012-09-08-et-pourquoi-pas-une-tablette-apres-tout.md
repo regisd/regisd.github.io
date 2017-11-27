@@ -9,7 +9,7 @@ excerpt: |
   Eventuellement, pour lire un peu? Je compare donc le prix du roman que je lis actuellement. Grosse surprise!
 layout: post
 guid: http://regis.decamps.info/blog/?p=2970
-permalink: /2012/09/et-pourquoi-pas-une-tablette-apres-tout/
+permalink: /blog/2012/09/et-pourquoi-pas-une-tablette-apres-tout/
 al2fb_facebook_link_id:
   - 1065233209_3972475784718
 al2fb_facebook_link_time:

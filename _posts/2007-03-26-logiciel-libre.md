@@ -6,7 +6,7 @@ date: 2007-03-26T20:53:34+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2007/03/398/
-permalink: /2007/03/logiciel-libre/
+permalink: /blog/2007/03/logiciel-libre/
 tmac_last_id:
   - ""
 dsq_thread_id:

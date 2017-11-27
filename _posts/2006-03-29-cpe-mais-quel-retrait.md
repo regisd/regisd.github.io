@@ -7,7 +7,7 @@ author: Régis
 excerpt: On ne peut pas retirer une loi qui a été démocratiquement votée!
 layout: post
 guid: http://blog.decamps.info/2006/03/cpe-mais-quel-retrait/
-permalink: /2006/03/cpe-mais-quel-retrait/
+permalink: /blog/2006/03/cpe-mais-quel-retrait/
 tmac_last_id:
   - ""
 categories:

@@ -6,7 +6,7 @@ date: 2008-03-09T12:00:37+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2008/03/wordpress-mis-a-jour/
-permalink: /2008/03/wordpress-mis-a-jour/
+permalink: /blog/2008/03/wordpress-mis-a-jour/
 tmac_last_id:
   - ""
 categories:

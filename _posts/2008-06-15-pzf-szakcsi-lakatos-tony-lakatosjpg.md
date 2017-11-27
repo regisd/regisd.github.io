@@ -6,7 +6,7 @@ date: 2008-06-15T20:06:17+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2008/07/pzf-szakcsi-lakatos-tony-lakatosjpg/
-permalink: /2008/06/pzf-szakcsi-lakatos-tony-lakatosjpg/
+permalink: /blog/2008/06/pzf-szakcsi-lakatos-tony-lakatosjpg/
 tmac_last_id:
   - ""
 dsq_thread_id:

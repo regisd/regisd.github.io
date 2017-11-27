@@ -6,7 +6,7 @@ date: 2006-02-22T00:55:25+00:00
 author: Régis
 layout: post
 guid: http://blog.decamps.info/2006/02/gestion-de-configuration/
-permalink: /2006/02/gestion-de-configuration/
+permalink: /blog/2006/02/gestion-de-configuration/
 tmac_last_id:
   - ""
 categories:

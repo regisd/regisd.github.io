@@ -7,7 +7,7 @@ author: Régis
 excerpt: Que faire quand une application Android crashe? Vous pouvez aider le développeur!
 layout: post
 guid: http://regis.decamps.info/blog/?p=2298
-permalink: /2012/01/que-faire-si-lapplication-crashe/
+permalink: /blog/2012/01/que-faire-si-lapplication-crashe/
 tmac_last_id:
   - "162978314863120385"
 dsq_thread_id:
