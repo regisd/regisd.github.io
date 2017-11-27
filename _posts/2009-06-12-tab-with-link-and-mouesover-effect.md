@@ -7,7 +7,7 @@ author: Régis
 excerpt: How to design a Tab where content change on mouseover and where titles are links.
 layout: post
 guid: http://regis.decamps.info/blog/?p=902
-permalink: /blog/2009/06/tab-with-link-and-mouesover-effect/
+permalink: /2009/06/tab-with-link-and-mouesover-effect/
 tmac_last_id:
   - ""
 dsq_thread_id:

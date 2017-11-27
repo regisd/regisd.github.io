@@ -6,7 +6,7 @@ date: 2008-05-30T18:12:08+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=525
-permalink: /blog/2008/05/a-quoi-sert-fia-net-exactement/
+permalink: /2008/05/a-quoi-sert-fia-net-exactement/
 dsq_thread_id:
   - "189257323"
 tmac_last_id:

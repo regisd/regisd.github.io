@@ -7,7 +7,7 @@ author: Régis
 excerpt: "Avec la DADVSI, une loi liberticide est sur le point d'être passée."
 layout: post
 guid: http://blog.decamps.info/?p=143
-permalink: /blog/2005/12/ecouter-de-la-musique-nest-pourtant-pas-un-crime/
+permalink: /2005/12/ecouter-de-la-musique-nest-pourtant-pas-un-crime/
 tmac_last_id:
   - ""
 dsq_thread_id:

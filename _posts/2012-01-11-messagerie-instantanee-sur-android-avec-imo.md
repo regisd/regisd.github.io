@@ -7,7 +7,7 @@ author: Régis
 excerpt: Pour la messagerie instantanée, je recommande imo.im
 layout: post
 guid: http://regis.decamps.info/blog/?p=2406
-permalink: /blog/2012/01/messagerie-instantanee-sur-android-avec-imo/
+permalink: /2012/01/messagerie-instantanee-sur-android-avec-imo/
 tmac_last_id:
   - "162978312002600962"
 dsq_thread_id:

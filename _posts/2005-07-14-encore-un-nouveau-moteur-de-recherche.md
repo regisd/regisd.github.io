@@ -7,7 +7,7 @@ author: Régis
 excerpt: '<a href="http://beta.exalead.fr/search">Exalead</a> est un nouveau moteur de recherche. '
 layout: post
 guid: /?p=19
-permalink: /blog/2005/07/encore-un-nouveau-moteur-de-recherche/
+permalink: /2005/07/encore-un-nouveau-moteur-de-recherche/
 tmac_last_id:
   - ""
 categories:

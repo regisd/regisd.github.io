@@ -6,7 +6,7 @@ date: 2009-09-06T16:38:30+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=936
-permalink: /blog/2009/09/rando-roller/
+permalink: /2009/09/rando-roller/
 dsq_thread_id:
   - "189257807"
 tmac_last_id:

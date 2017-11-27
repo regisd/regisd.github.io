@@ -7,7 +7,7 @@ author: Régis
 excerpt: Mon petit compte-rendu de cette première journée des Valtech Days, séminaires de veille technologique.
 layout: post
 guid: http://blog.decamps.info/?p=224
-permalink: /blog/2006/03/valtech-day-1/
+permalink: /2006/03/valtech-day-1/
 tmac_last_id:
   - ""
 dsq_thread_id:

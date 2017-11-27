@@ -6,7 +6,7 @@ date: 2006-08-22T11:06:46+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2006/08/autoreverse/
-permalink: /blog/2006/08/autoreverse/
+permalink: /2006/08/autoreverse/
 tmac_last_id:
   - ""
 dsq_thread_id:

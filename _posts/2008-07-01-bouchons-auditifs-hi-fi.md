@@ -6,7 +6,7 @@ date: 2008-07-01T19:31:40+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=532
-permalink: /blog/2008/07/bouchons-auditifs-hi-fi/
+permalink: /2008/07/bouchons-auditifs-hi-fi/
 dsq_thread_id:
   - "189257399"
 tmac_last_id:

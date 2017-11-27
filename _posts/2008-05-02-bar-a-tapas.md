@@ -6,7 +6,7 @@ date: 2008-05-02T20:32:30+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2008/05/bar-a-tapas/
-permalink: /blog/2008/05/bar-a-tapas/
+permalink: /2008/05/bar-a-tapas/
 tmac_last_id:
   - ""
 dsq_thread_id:

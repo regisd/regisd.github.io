@@ -6,7 +6,7 @@ date: 2010-05-04T12:12:41+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=1642
-permalink: /blog/2010/05/permettre-le-clic-droit-pour-google-chrome/
+permalink: /2010/05/permettre-le-clic-droit-pour-google-chrome/
 tmac_last_id:
   - ""
 dsq_thread_id:

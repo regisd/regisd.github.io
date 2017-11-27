@@ -7,7 +7,7 @@ author: Régis
 excerpt: Ce soir, je passe ma première ceinture.
 layout: post
 guid: http://regis.decamps.info/blog/2007/05/tete-a-claque-capitaine-kung-fu/
-permalink: /blog/2007/05/tete-a-claque-capitaine-kung-fu/
+permalink: /2007/05/tete-a-claque-capitaine-kung-fu/
 dsq_thread_id:
   - "189256854"
 tmac_last_id:

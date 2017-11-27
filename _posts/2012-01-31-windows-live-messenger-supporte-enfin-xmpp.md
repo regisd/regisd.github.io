@@ -6,7 +6,7 @@ date: 2012-01-31T18:56:03+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=2472
-permalink: /blog/2012/01/windows-live-messenger-supporte-enfin-xmpp/
+permalink: /2012/01/windows-live-messenger-supporte-enfin-xmpp/
 dsq_thread_id:
   - "559282301"
 categories:

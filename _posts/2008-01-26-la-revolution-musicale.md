@@ -6,7 +6,7 @@ date: 2008-01-26T14:26:09+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2008/01/la-revolution-musicale/
-permalink: /blog/2008/01/la-revolution-musicale/
+permalink: /2008/01/la-revolution-musicale/
 dsq_thread_id:
   - "189257199"
 tmac_last_id:

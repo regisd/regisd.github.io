@@ -6,7 +6,7 @@ date: 2012-02-04T01:19:05+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=2506
-permalink: /blog/2012/02/les-liaisons-dangereuses/
+permalink: /2012/02/les-liaisons-dangereuses/
 dsq_thread_id:
   - "563644848"
 categories:

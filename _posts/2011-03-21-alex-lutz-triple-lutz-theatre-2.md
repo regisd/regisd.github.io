@@ -7,7 +7,7 @@ author: Syndication
 excerpt: J'ai adoré ce one-man-show.
 layout: post
 guid: http://regis.decamps.info/blog/?guid=0d3824f9b589136e93d9b8ae15354a75
-permalink: /blog/2011/03/alex-lutz-triple-lutz-theatre-2/
+permalink: /2011/03/alex-lutz-triple-lutz-theatre-2/
 categories:
   - Théâtre
 tags:

@@ -6,7 +6,7 @@ date: 2011-12-07T23:30:14+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=2957
-permalink: /blog/2011/12/bonjour-ivresse/
+permalink: /2011/12/bonjour-ivresse/
 al2fb_facebook_link_id:
   - 1065233209_3947949051565
 al2fb_facebook_link_time:

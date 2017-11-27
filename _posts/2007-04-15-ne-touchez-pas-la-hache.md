@@ -6,7 +6,7 @@ date: 2007-04-15T15:40:34+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2007/04/ne-touchez-pas-la-hache/
-permalink: /blog/2007/04/ne-touchez-pas-la-hache/
+permalink: /2007/04/ne-touchez-pas-la-hache/
 tmac_last_id:
   - ""
 categories:

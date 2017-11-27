@@ -8,7 +8,7 @@ excerpt: |
   <a href="http://googlepress.blogspot.ch/2004/04/google-gets-message-launches-gmail.html" title="Announce the Gmail, le 1er Avril 2004.">Il y a 10 ans, Gmail</a> révolutionnait les webmails. Aujourd'hui, <a href="http://googleblog.blogspot.com/2014/10/an-inbox-that-works-for-you.html">Inbox by Gmail</a> est un nouveau pavé jeté dans la marre.
 layout: post
 guid: http://regis.decamps.info/blog/?p=3234
-permalink: /blog/2014/10/inbox-de-gmail/
+permalink: /2014/10/inbox-de-gmail/
 dsq_thread_id:
   - "3144886432"
 categories:

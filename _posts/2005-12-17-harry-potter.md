@@ -7,7 +7,7 @@ author: Régis
 excerpt: "Je ne sais pas si le film est fidèle au roman, mais j'ai trouvé le scénario bien confus."
 layout: post
 guid: http://blog.decamps.info/2005/12/harry-potter/
-permalink: /blog/2005/12/harry-potter/
+permalink: /2005/12/harry-potter/
 tmac_last_id:
   - ""
 categories:

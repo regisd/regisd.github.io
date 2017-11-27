@@ -7,7 +7,7 @@ author: Régis
 excerpt: Les programmes sont présentés avec google maps!
 layout: post
 guid: http://regis.decamps.info/blog/2006/06/fete-de-la-musique-2/
-permalink: /blog/2006/06/fete-de-la-musique-2/
+permalink: /2006/06/fete-de-la-musique-2/
 tmac_last_id:
   - ""
 categories:

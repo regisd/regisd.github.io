@@ -6,7 +6,7 @@ date: 2012-07-04T23:38:45+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=2824
-permalink: /blog/2012/07/expo-helmut-newton/
+permalink: /2012/07/expo-helmut-newton/
 al2fb_facebook_link_id:
   - 1065233209_3712111395771
 al2fb_facebook_link_time:

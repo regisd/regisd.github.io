@@ -7,7 +7,7 @@ author: Régis
 excerpt: "Ce soir, j'ai écrit ma première extension pour Firefox ;-) Elle est tellement simple, que j'ai du mal à comprendre pourquoi j'ai mis trois heures à la faire..."
 layout: post
 guid: /?p=30
-permalink: /blog/2005/08/blogmark-ma-premiere-extension-pour-firefox/
+permalink: /2005/08/blogmark-ma-premiere-extension-pour-firefox/
 dsq_thread_id:
   - "189256229"
 tmac_last_id:

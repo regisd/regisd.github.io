@@ -6,7 +6,7 @@ date: 2012-11-28T08:15:32+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=3032
-permalink: /blog/2012/11/is-sharepoint-as-feature-poor-as-it-used-to-be/
+permalink: /2012/11/is-sharepoint-as-feature-poor-as-it-used-to-be/
 al2fb_facebook_exclude:
   - ""
 al2fb_facebook_exclude_video:

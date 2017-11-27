@@ -6,7 +6,7 @@ date: 2014-05-31T22:20:16+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=3195
-permalink: /blog/2014/05/la-maitresse-en-maillots-de-bain/
+permalink: /2014/05/la-maitresse-en-maillots-de-bain/
 dsq_thread_id:
   - "2785758702"
 categories:

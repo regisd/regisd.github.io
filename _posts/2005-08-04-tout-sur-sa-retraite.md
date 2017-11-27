@@ -6,7 +6,7 @@ date: 2005-08-04T15:18:10+00:00
 author: Régis
 layout: post
 guid: /?p=20
-permalink: /blog/2005/08/tout-sur-sa-retraite/
+permalink: /2005/08/tout-sur-sa-retraite/
 tmac_last_id:
   - ""
 dsq_thread_id:

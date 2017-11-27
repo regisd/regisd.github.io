@@ -6,7 +6,7 @@ date: 2005-11-30T22:02:36+00:00
 author: Régis
 layout: post
 guid: http://blog.decamps.info/?p=181
-permalink: /blog/2005/11/jai-perdu-mes-cles/
+permalink: /2005/11/jai-perdu-mes-cles/
 tmac_last_id:
   - ""
 dsq_thread_id:

@@ -6,7 +6,7 @@ date: 2008-11-27T23:47:03+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=635
-permalink: /blog/2008/11/maven-jflex-plugin-in-central-repository/
+permalink: /2008/11/maven-jflex-plugin-in-central-repository/
 tmac_last_id:
   - ""
 dsq_thread_id:

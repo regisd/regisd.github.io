@@ -6,7 +6,7 @@ date: 2006-06-04T17:43:14+00:00
 author: Régis
 layout: post
 guid: http://blog.decamps.info/2006/06/encore-du-cash-back/
-permalink: /blog/2006/06/encore-du-cash-back/
+permalink: /2006/06/encore-du-cash-back/
 tmac_last_id:
   - ""
 dsq_thread_id:

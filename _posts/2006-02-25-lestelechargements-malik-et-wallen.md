@@ -7,7 +7,7 @@ author: Régis
 excerpt: "Il faut comprendre qu'il y a une industrie derrière."
 layout: post
 guid: http://blog.decamps.info/2006/02/lestelechargements-malik-et-wallen/
-permalink: /blog/2006/02/lestelechargements-malik-et-wallen/
+permalink: /2006/02/lestelechargements-malik-et-wallen/
 tmac_last_id:
   - ""
 dsq_thread_id:

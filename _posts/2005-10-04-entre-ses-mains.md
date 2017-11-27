@@ -7,7 +7,7 @@ author: Régis
 excerpt: Anne Fontaine réussit un très bon film.
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=71
-permalink: /blog/2005/10/entre-ses-mains/
+permalink: /2005/10/entre-ses-mains/
 tmac_last_id:
   - ""
 categories:

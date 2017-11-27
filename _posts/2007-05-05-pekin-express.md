@@ -6,7 +6,7 @@ date: 2007-05-05T14:31:55+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2007/05/pekin-express/
-permalink: /blog/2007/05/pekin-express/
+permalink: /2007/05/pekin-express/
 tmac_last_id:
   - ""
 categories:

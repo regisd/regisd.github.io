@@ -6,7 +6,7 @@ date: 2008-05-20T20:13:54+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=521
-permalink: /blog/2008/05/jai-repeint-ma-salle-de-bain/
+permalink: /2008/05/jai-repeint-ma-salle-de-bain/
 dsq_thread_id:
   - "189257296"
 tmac_last_id:

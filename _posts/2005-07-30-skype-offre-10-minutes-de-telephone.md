@@ -6,7 +6,7 @@ date: 2005-07-30T14:08:56+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=46
-permalink: /blog/2005/07/skype-offre-10-minutes-de-telephone/
+permalink: /2005/07/skype-offre-10-minutes-de-telephone/
 tmac_last_id:
   - ""
 dsq_thread_id:

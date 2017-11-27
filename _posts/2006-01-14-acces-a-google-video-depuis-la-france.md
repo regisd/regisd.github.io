@@ -6,7 +6,7 @@ date: 2006-01-14T14:08:13+00:00
 author: Régis
 layout: post
 guid: http://blog.decamps.info/2006/01/acces-a-google-video-depuis-la-france/
-permalink: /blog/2006/01/acces-a-google-video-depuis-la-france/
+permalink: /2006/01/acces-a-google-video-depuis-la-france/
 tmac_last_id:
   - ""
 categories:

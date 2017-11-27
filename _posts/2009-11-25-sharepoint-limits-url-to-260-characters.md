@@ -6,7 +6,7 @@ date: 2009-11-25T19:37:56+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=946
-permalink: /blog/2009/11/sharepoint-limits-url-to-260-characters/
+permalink: /2009/11/sharepoint-limits-url-to-260-characters/
 tmac_last_id:
   - ""
 dsq_thread_id:

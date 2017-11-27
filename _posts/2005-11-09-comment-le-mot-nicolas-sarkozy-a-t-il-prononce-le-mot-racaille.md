@@ -7,7 +7,7 @@ author: Régis
 excerpt: "S'il est toujours très intéressant de lire la presse étrangère, il est passionnant de savoir ce que les médias ne disent pas."
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=94
-permalink: /blog/2005/11/comment-le-mot-nicolas-sarkozy-a-t-il-prononce-le-mot-racaille/
+permalink: /2005/11/comment-le-mot-nicolas-sarkozy-a-t-il-prononce-le-mot-racaille/
 enclosure:
   - |
     http://www.france5.fr/images/emissions/007548/10/0075481005.ram

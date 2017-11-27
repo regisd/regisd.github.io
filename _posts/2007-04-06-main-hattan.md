@@ -6,7 +6,7 @@ date: 2007-04-06T11:32:39+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2007/04/main-hattan/
-permalink: /blog/2007/04/main-hattan/
+permalink: /2007/04/main-hattan/
 tmac_last_id:
   - ""
 categories:

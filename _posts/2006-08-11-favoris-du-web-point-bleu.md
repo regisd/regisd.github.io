@@ -8,7 +8,7 @@ excerpt: |
   Blue dot est un nouveau service de "social bookmarking". Bien fait, si vous n'avez pas adopté de service de ce type, je vous le recommande. Et si vous en avez marre de del.icio.us, essayez-donc celui-là!
 layout: post
 guid: http://regis.decamps.info/blog/2006/08/favoris-du-web-point-bleu/
-permalink: /blog/2006/08/favoris-du-web-point-bleu/
+permalink: /2006/08/favoris-du-web-point-bleu/
 tmac_last_id:
   - ""
 dsq_thread_id:

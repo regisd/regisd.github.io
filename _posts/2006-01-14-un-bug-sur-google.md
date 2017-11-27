@@ -6,7 +6,7 @@ date: 2006-01-14T19:36:58+00:00
 author: Régis
 layout: post
 guid: http://blog.decamps.info/2006/01/un-bug-sur-google/
-permalink: /blog/2006/01/un-bug-sur-google/
+permalink: /2006/01/un-bug-sur-google/
 tmac_last_id:
   - ""
 categories:

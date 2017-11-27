@@ -6,7 +6,7 @@ date: 2005-12-03T16:48:29+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=117
-permalink: /blog/2005/12/customizegoogle/
+permalink: /2005/12/customizegoogle/
 tmac_last_id:
   - ""
 categories:

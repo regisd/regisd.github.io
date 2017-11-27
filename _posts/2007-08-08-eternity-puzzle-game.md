@@ -6,7 +6,7 @@ date: 2007-08-08T20:40:41+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2007/08/eternity-puzzle-game/
-permalink: /blog/2007/08/eternity-puzzle-game/
+permalink: /2007/08/eternity-puzzle-game/
 dsq_thread_id:
   - "189257020"
 tmac_last_id:

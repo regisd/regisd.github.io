@@ -6,7 +6,7 @@ date: 2005-06-22T20:03:14+00:00
 author: Régis
 layout: post
 guid: /?p=7
-permalink: /blog/2005/06/fete-de-la-musique/
+permalink: /2005/06/fete-de-la-musique/
 tmac_last_id:
   - ""
 dsq_thread_id:

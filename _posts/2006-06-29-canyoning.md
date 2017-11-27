@@ -6,7 +6,7 @@ date: 2006-06-29T20:04:09+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2006/06/canyoning/
-permalink: /blog/2006/06/canyoning/
+permalink: /2006/06/canyoning/
 tmac_last_id:
   - ""
 dsq_thread_id:

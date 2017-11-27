@@ -8,7 +8,7 @@ excerpt: |
   J'ai (enfin) testé la <a href="http://www.novell.com/products/linuxprofessional/">Suse 9.3</a>.
 layout: post
 guid: /?p=22
-permalink: /blog/2005/07/suse-linux-vraiment-belle/
+permalink: /2005/07/suse-linux-vraiment-belle/
 tmac_last_id:
   - ""
 dsq_thread_id:

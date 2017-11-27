@@ -6,7 +6,7 @@ date: 2006-04-06T20:34:45+00:00
 author: Régis
 layout: post
 guid: http://blog.decamps.info/2006/04/le-peer-to-peer-facile/
-permalink: /blog/2006/04/le-peer-to-peer-facile/
+permalink: /2006/04/le-peer-to-peer-facile/
 dsq_thread_id:
   - "189256605"
 tmac_last_id:

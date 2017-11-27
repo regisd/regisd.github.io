@@ -6,7 +6,7 @@ date: 2008-10-11T13:09:37+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=578
-permalink: /blog/2008/10/m-et-mme-touye-ont-une-fille/
+permalink: /2008/10/m-et-mme-touye-ont-une-fille/
 dsq_thread_id:
   - "189257562"
 tmac_last_id:

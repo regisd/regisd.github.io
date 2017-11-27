@@ -6,7 +6,7 @@ date: 2009-02-20T00:44:24+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=821
-permalink: /blog/2009/02/tag-cloud-for-sharepoint/
+permalink: /2009/02/tag-cloud-for-sharepoint/
 tmac_last_id:
   - ""
 dsq_thread_id:

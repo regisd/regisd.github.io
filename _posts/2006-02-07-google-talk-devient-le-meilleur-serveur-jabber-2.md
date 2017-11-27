@@ -6,7 +6,7 @@ date: 2006-02-07T23:38:45+00:00
 author: Régis
 layout: post
 guid: http://blog.decamps.info/2006/02/google-talk-devient-le-meilleur-serveur-jabber-2/
-permalink: /blog/2006/02/google-talk-devient-le-meilleur-serveur-jabber-2/
+permalink: /2006/02/google-talk-devient-le-meilleur-serveur-jabber-2/
 dsq_thread_id:
   - "189256446"
 tmac_last_id:

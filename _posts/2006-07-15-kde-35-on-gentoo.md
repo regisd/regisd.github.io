@@ -6,7 +6,7 @@ date: 2006-07-15T01:20:54+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2006/07/kde-35-on-gentoo/
-permalink: /blog/2006/07/kde-35-on-gentoo/
+permalink: /2006/07/kde-35-on-gentoo/
 tmac_last_id:
   - ""
 dsq_thread_id:

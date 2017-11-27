@@ -6,7 +6,7 @@ date: 2007-04-04T21:36:54+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2007/04/mp4-on-my-samsung-d840/
-permalink: /blog/2007/04/mp4-on-my-samsung-d840/
+permalink: /2007/04/mp4-on-my-samsung-d840/
 tmac_last_id:
   - ""
 categories:

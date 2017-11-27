@@ -6,7 +6,7 @@ date: 2007-12-13T00:05:29+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2007/12/install-java-applications-on-samsung-sgh-d840/
-permalink: /blog/2007/12/install-java-applications-on-samsung-sgh-d840/
+permalink: /2007/12/install-java-applications-on-samsung-sgh-d840/
 dsq_thread_id:
   - "189257118"
 tmac_last_id:

@@ -4,7 +4,7 @@ layout: default
 <div class="post-meta">
   {% for category in page.categories %}
     <i class="material-icons">folder</i>
-    <a>{{ category }}</a>
+    <a href="{{site.baseurl}}/category/{{category}}">{{ category }}</a>
   {% endfor %}
   
   {% for tag in page.tags %}

@@ -6,7 +6,7 @@ date: 2008-12-05T16:15:03+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2008/12/sunrise-on-las-vegas-strips/
-permalink: /blog/2008/12/sunrise-on-las-vegas-strips/
+permalink: /2008/12/sunrise-on-las-vegas-strips/
 tmac_last_id:
   - ""
 dsq_thread_id:

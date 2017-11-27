@@ -6,7 +6,7 @@ date: 2007-12-11T21:48:28+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2007/12/gmail-chat-aim-undeserved-hype-not-interoperability/
-permalink: /blog/2007/12/gmail-chat-aim-undeserved-hype-not-interoperability/
+permalink: /2007/12/gmail-chat-aim-undeserved-hype-not-interoperability/
 tmac_last_id:
   - ""
 dsq_thread_id:

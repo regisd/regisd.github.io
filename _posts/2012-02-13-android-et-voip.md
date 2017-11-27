@@ -6,7 +6,7 @@ date: 2012-02-13T23:10:48+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=2556
-permalink: /blog/2012/02/android-et-voip/
+permalink: /2012/02/android-et-voip/
 dsq_thread_id:
   - "575000441"
 categories:

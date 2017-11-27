@@ -7,7 +7,7 @@ author: Régis
 excerpt: Ce commence comme un polar et finit comme un bon film.
 layout: post
 guid: http://blog.decamps.info/?p=128
-permalink: /blog/2005/12/le-petit-lieutenant/
+permalink: /2005/12/le-petit-lieutenant/
 tmac_last_id:
   - ""
 categories:

@@ -7,7 +7,7 @@ author: Régis
 excerpt: ou comment téléphoner (presque) gratuitement depuis son mobile
 layout: post
 guid: http://regis.decamps.info/blog/?p=1366
-permalink: /blog/2010/05/neuftalk-et-sip/
+permalink: /2010/05/neuftalk-et-sip/
 dsq_thread_id:
   - "189257906"
 tmac_last_id:

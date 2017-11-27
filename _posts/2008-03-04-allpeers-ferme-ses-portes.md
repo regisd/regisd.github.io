@@ -6,7 +6,7 @@ date: 2008-03-04T20:04:03+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2008/03/allpeers-ferme-ses-portes/
-permalink: /blog/2008/03/allpeers-ferme-ses-portes/
+permalink: /2008/03/allpeers-ferme-ses-portes/
 tmac_last_id:
   - ""
 categories:

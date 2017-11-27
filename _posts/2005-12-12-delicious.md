@@ -7,7 +7,7 @@ author: Régis
 excerpt: "Puisqu'on parle beaucoup de del.icio.us en ce moment, je rappelle qu'il existe une extension pour Firefox."
 layout: post
 guid: http://blog.decamps.info/2005/12/delicious/
-permalink: /blog/2005/12/delicious/
+permalink: /2005/12/delicious/
 tmac_last_id:
   - ""
 dsq_thread_id:

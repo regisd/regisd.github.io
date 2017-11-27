@@ -6,7 +6,7 @@ date: 2012-10-13T14:28:25+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=2988
-permalink: /blog/2012/10/denis-marechal/
+permalink: /2012/10/denis-marechal/
 al2fb_facebook_link_id:
   - 1065233209_4113312665552
 al2fb_facebook_link_time:

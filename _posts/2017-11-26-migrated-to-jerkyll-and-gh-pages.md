@@ -45,10 +45,6 @@ Dans la pratique:
     Markdown. Je n'ai pas envie de monter `&rpos;` aux visiteurs.
     Je les ai remplacées par le caractère Unicode.
     ce0858753d05380c7f028a7510151a8a442b571f
-  - le plugin a loupé le fait que mon blog était hébergé avec des URL prefixées de
-    `/blog`.
-    J'ai du mettre à jour les permalinks.
-    75487593bc77772cf8dae67bd18b5778bc1f1232
 - quand j'ai changé le thème par défaut
   - j'ai eu des erreurs
     "layout post required by ….md does not exist".
@@ -70,7 +66,23 @@ Dans la pratique:
   05c951878358d109597ac63a7042ed38aeb73079
 - Le thème slate n'est pas moche, mais assez pauvre.
   Je ne vois pas les catégories et les libellés, par example.
+
+Une mauvaise compréhension de ma part:
+
+- le plugin a ignoré le fait que mon blog était hébergé avec des URL prefixées de
+  `/blog`.
+  J'ai du mis à jour les permalinks. 75487593bc77772cf8dae67bd18b5778bc1f1232
+  En fait, il suffisait de définir la `baseurl` dans `_config.yml`.
+  ```
+  http://example.github.io/something/2017/12/13/blog-post
+  [        url           ][ baseur ][   page path       ]
+  ```
+  Pour ce post:
   
+  - url = http://regis.decamps.info (ou https://regisd.github.io)
+  - baseurl = /blog
+  - pagepath = /2017/11/migrated-to-jekyll-and-gh-pages.md
+      
 ## Productivity tips
 
 1. Ne re-générer que les N derniers posts

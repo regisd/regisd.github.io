@@ -6,7 +6,7 @@ date: 2012-01-18T18:54:54+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=2410
-permalink: /blog/2012/01/last-fm-scrobbler-pour-android/
+permalink: /2012/01/last-fm-scrobbler-pour-android/
 tmac_last_id:
   - "162978312002600962"
 dsq_thread_id:

@@ -7,7 +7,7 @@ author: Régis
 excerpt: Je suis allé voir hier soir Les frères Grimm
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=81
-permalink: /blog/2005/10/les-freres-grimm-oliver-twist-et-les-noces-funebres/
+permalink: /2005/10/les-freres-grimm-oliver-twist-et-les-noces-funebres/
 tmac_last_id:
   - ""
 dsq_thread_id:

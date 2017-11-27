@@ -6,7 +6,7 @@ date: 2005-08-06T17:17:29+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=33
-permalink: /blog/2005/08/kde-image-database/
+permalink: /2005/08/kde-image-database/
 tmac_last_id:
   - ""
 categories:

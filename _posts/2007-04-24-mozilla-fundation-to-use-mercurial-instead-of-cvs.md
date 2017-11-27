@@ -6,7 +6,7 @@ date: 2007-04-24T12:31:59+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2007/04/mozilla-fundation-to-use-mercurial-instead-of-cvs/
-permalink: /blog/2007/04/mozilla-fundation-to-use-mercurial-instead-of-cvs/
+permalink: /2007/04/mozilla-fundation-to-use-mercurial-instead-of-cvs/
 tmac_last_id:
   - ""
 dsq_thread_id:

@@ -6,7 +6,7 @@ date: 2008-05-01T13:14:58+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2008/05/parque-del-retiro/
-permalink: /blog/2008/05/parque-del-retiro/
+permalink: /2008/05/parque-del-retiro/
 tmac_last_id:
   - ""
 dsq_thread_id:

@@ -6,7 +6,7 @@ date: 2010-09-24T16:50:34+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=1407
-permalink: /blog/2010/09/installed-ie8-lets-choose-an-accelerator-now/
+permalink: /2010/09/installed-ie8-lets-choose-an-accelerator-now/
 tmac_last_id:
   - ""
 categories:

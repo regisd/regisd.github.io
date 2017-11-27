@@ -6,7 +6,7 @@ date: 2007-01-02T23:34:30+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2007/01/bilan-dun-an-de-blog/
-permalink: /blog/2007/01/bilan-dun-an-de-blog/
+permalink: /2007/01/bilan-dun-an-de-blog/
 tmac_last_id:
   - ""
 categories:

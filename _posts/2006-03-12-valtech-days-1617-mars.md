@@ -7,7 +7,7 @@ author: Régis
 excerpt: "J'irai au séminaire de veille technologique"
 layout: post
 guid: http://blog.decamps.info/2006/03/valtech-days-1617-mars/
-permalink: /blog/2006/03/valtech-days-1617-mars/
+permalink: /2006/03/valtech-days-1617-mars/
 tmac_last_id:
   - ""
 dsq_thread_id:

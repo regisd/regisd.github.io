@@ -6,7 +6,7 @@ date: 2008-08-07T12:45:31+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=546
-permalink: /blog/2008/08/eclipse-jvm-terminated/
+permalink: /2008/08/eclipse-jvm-terminated/
 dsq_thread_id:
   - "189257434"
 tmac_last_id:

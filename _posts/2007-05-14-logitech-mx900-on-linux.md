@@ -9,7 +9,7 @@ excerpt: |
   How to make it work on Gentoo linux?
 layout: post
 guid: http://regis.decamps.info/blog/2007/05/logitech-mx900-on-linux/
-permalink: /blog/2007/05/logitech-mx900-on-linux/
+permalink: /2007/05/logitech-mx900-on-linux/
 dsq_thread_id:
   - "189256840"
 tmac_last_id:

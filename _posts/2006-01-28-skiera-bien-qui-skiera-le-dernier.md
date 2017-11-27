@@ -7,7 +7,7 @@ author: Régis
 excerpt: Je pars une semaine à Tignes.
 layout: post
 guid: http://blog.decamps.info/2006/01/skiera-bien-qui-skiera-le-dernier/
-permalink: /blog/2006/01/skiera-bien-qui-skiera-le-dernier/
+permalink: /2006/01/skiera-bien-qui-skiera-le-dernier/
 tmac_last_id:
   - ""
 dsq_thread_id:

@@ -6,7 +6,7 @@ date: 2016-08-22T19:55:04+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=3330
-permalink: /blog/2016/08/quoi-de-neuf-dans-android-nougat/
+permalink: /2016/08/quoi-de-neuf-dans-android-nougat/
 dsq_thread_id:
   - "5414638366"
 categories:

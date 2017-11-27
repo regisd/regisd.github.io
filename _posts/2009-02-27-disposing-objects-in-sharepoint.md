@@ -7,7 +7,7 @@ author: Régis
 excerpt: Sharepoint is a good development platform. Like in the good old days of C, you need to free objects from memory :-p
 layout: post
 guid: http://regis.decamps.info/blog/?p=837
-permalink: /blog/2009/02/disposing-objects-in-sharepoint/
+permalink: /2009/02/disposing-objects-in-sharepoint/
 dsq_thread_id:
   - "189257741"
 tmac_last_id:

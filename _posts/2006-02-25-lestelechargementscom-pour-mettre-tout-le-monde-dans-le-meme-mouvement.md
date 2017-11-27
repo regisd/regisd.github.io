@@ -8,7 +8,7 @@ excerpt: |
   Le site d' "information" sur la loi DADVSI a ouvert. Mes première impressions
 layout: post
 guid: http://blog.decamps.info/2006/02/lestelechargementscom-pour-mettre-tout-le-monde-dans-le-meme-mouvement/
-permalink: /blog/2006/02/lestelechargementscom-pour-mettre-tout-le-monde-dans-le-meme-mouvement/
+permalink: /2006/02/lestelechargementscom-pour-mettre-tout-le-monde-dans-le-meme-mouvement/
 tmac_last_id:
   - ""
 categories:

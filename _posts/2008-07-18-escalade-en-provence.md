@@ -6,7 +6,7 @@ date: 2008-07-18T20:01:49+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=540
-permalink: /blog/2008/07/escalade-en-provence/
+permalink: /2008/07/escalade-en-provence/
 tmac_last_id:
   - ""
 categories:

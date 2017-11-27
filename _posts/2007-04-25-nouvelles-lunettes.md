@@ -7,7 +7,7 @@ author: Régis
 excerpt: "Avec le beau temps revenu, j'étais gêné de ne plus retrouver mes lunettes de soleil. Après plusieurs mois de recherche vaine, je décide finalement de passer chez l'opticien..."
 layout: post
 guid: http://regis.decamps.info/blog/2007/04/nouvelles-lunettes/
-permalink: /blog/2007/04/nouvelles-lunettes/
+permalink: /2007/04/nouvelles-lunettes/
 tmac_last_id:
   - ""
 dsq_thread_id:

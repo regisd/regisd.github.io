@@ -7,7 +7,7 @@ author: Régis
 excerpt: Merci à Fabrice pour la pose du parquet
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=48
-permalink: /blog/2005/08/les-renforts-sont-arrives/
+permalink: /2005/08/les-renforts-sont-arrives/
 tmac_last_id:
   - ""
 dsq_thread_id:

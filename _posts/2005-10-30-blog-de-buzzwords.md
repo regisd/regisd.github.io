@@ -6,7 +6,7 @@ date: 2005-10-30T13:06:28+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=89
-permalink: /blog/2005/10/blog-de-buzzwords/
+permalink: /2005/10/blog-de-buzzwords/
 dsq_thread_id:
   - "189256332"
 tmac_last_id:

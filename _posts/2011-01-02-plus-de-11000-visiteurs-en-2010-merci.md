@@ -6,7 +6,7 @@ date: 2011-01-02T16:20:17+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=1609
-permalink: /blog/2011/01/plus-de-11000-visiteurs-en-2010-merci/
+permalink: /2011/01/plus-de-11000-visiteurs-en-2010-merci/
 tmac_last_id:
   - ""
 dsq_thread_id:

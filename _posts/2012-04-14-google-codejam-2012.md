@@ -6,7 +6,7 @@ date: 2012-04-14T17:33:55+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=2721
-permalink: /blog/2012/04/google-codejam-2012/
+permalink: /2012/04/google-codejam-2012/
 dsq_thread_id:
   - "649262274"
 categories:

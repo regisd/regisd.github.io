@@ -7,7 +7,7 @@ author: Régis
 excerpt: Si vous êtes frustré par les "erreurs réseau" de Talaria, téléchargez vite Lutece qui règle définitivement ces problèmes.
 layout: post
 guid: http://regis.decamps.info/blog/?p=2994
-permalink: /blog/2012/10/talaria-devient-lutece/
+permalink: /2012/10/talaria-devient-lutece/
 al2fb_facebook_link_id:
   - 1065233209_4158921805752
 al2fb_facebook_link_time:

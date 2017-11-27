@@ -7,7 +7,7 @@ author: Régis
 excerpt: "Discours du Ministre de La Culture lors de l'inauguration de lestelechargements.com"
 layout: post
 guid: http://blog.decamps.info/2006/02/discours-du-ministre-de-la-culture/
-permalink: /blog/2006/02/discours-du-ministre-de-la-culture/
+permalink: /2006/02/discours-du-ministre-de-la-culture/
 tmac_last_id:
   - ""
 categories:

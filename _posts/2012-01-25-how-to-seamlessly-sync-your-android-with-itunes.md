@@ -6,7 +6,7 @@ date: 2012-01-25T19:08:32+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=2442
-permalink: /blog/2012/01/how-to-seamlessly-sync-your-android-with-itunes/
+permalink: /2012/01/how-to-seamlessly-sync-your-android-with-itunes/
 tmac_last_id:
   - "162978306457747456"
 dsq_thread_id:

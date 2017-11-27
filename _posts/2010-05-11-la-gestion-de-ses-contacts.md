@@ -6,7 +6,7 @@ date: 2010-05-11T19:25:19+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=1184
-permalink: /blog/2010/05/la-gestion-de-ses-contacts/
+permalink: /2010/05/la-gestion-de-ses-contacts/
 tmac_last_id:
   - ""
 dsq_thread_id:

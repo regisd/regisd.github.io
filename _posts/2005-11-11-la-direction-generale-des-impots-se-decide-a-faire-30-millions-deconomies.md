@@ -7,7 +7,7 @@ author: Régis
 excerpt: "La direction générale des impôts abandonne MS Office pour OpenOffice. Bilan: près de 30 millions d'économies pour ne pas avoir à renouveler les licenses."
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=96
-permalink: /blog/2005/11/la-direction-generale-des-impots-se-decide-a-faire-30-millions-deconomies/
+permalink: /2005/11/la-direction-generale-des-impots-se-decide-a-faire-30-millions-deconomies/
 tmac_last_id:
   - ""
 categories:

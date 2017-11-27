@@ -7,7 +7,7 @@ author: Régis
 excerpt: "L'affiche de Solidays est assez sexy"
 layout: post
 guid: http://regis.decamps.info/blog/?p=1375
-permalink: /blog/2010/06/programmation-solidays-2010/
+permalink: /2010/06/programmation-solidays-2010/
 tmac_last_id:
   - ""
 dsq_thread_id:

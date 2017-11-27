@@ -6,7 +6,7 @@ date: 2008-06-20T00:23:46+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=529
-permalink: /blog/2008/06/jardin-ephemere/
+permalink: /2008/06/jardin-ephemere/
 dsq_thread_id:
   - "189257365"
 tmac_last_id:

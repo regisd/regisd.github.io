@@ -6,7 +6,7 @@ date: 2009-02-27T13:09:27+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=1112
-permalink: /blog/2009/02/elle-est-pas-belle-ma-vie/
+permalink: /2009/02/elle-est-pas-belle-ma-vie/
 tmac_last_id:
   - ""
 dsq_thread_id:

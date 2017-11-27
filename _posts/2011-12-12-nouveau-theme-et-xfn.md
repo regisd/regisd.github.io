@@ -6,7 +6,7 @@ date: 2011-12-12T21:51:33+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=2274
-permalink: /blog/2011/12/nouveau-theme-et-xfn/
+permalink: /2011/12/nouveau-theme-et-xfn/
 tmac_last_id:
   - "162978320298934272"
 dsq_thread_id:

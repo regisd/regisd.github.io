@@ -6,7 +6,7 @@ date: 2008-12-10T18:58:43+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=721
-permalink: /blog/2008/12/regarder-la-television-avec-sa-neuf-box/
+permalink: /2008/12/regarder-la-television-avec-sa-neuf-box/
 enclosure:
   - |
     http://televisionsurpc.neuf.fr/televisionsurpc.m3u

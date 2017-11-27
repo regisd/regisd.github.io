@@ -6,7 +6,7 @@ date: 2006-04-16T10:33:55+00:00
 author: Régis
 layout: post
 guid: http://blog.decamps.info/2006/04/dijjerthis-011-available-on-addonsmozillaorg/
-permalink: /blog/2006/04/dijjerthis-011-available-on-addonsmozillaorg/
+permalink: /2006/04/dijjerthis-011-available-on-addonsmozillaorg/
 tmac_last_id:
   - ""
 dsq_thread_id:

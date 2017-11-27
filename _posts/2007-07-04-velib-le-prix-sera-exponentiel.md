@@ -6,7 +6,7 @@ date: 2007-07-04T23:15:22+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2007/07/velib-le-prix-sera-exponentiel/
-permalink: /blog/2007/07/velib-le-prix-sera-exponentiel/
+permalink: /2007/07/velib-le-prix-sera-exponentiel/
 dsq_thread_id:
   - "189256960"
 tmac_last_id:

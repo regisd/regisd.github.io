@@ -6,7 +6,7 @@ date: 2008-04-30T18:21:15+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2008/05/madrid-ville-vivante/
-permalink: /blog/2008/04/madrid-ville-vivante/
+permalink: /2008/04/madrid-ville-vivante/
 tmac_last_id:
   - ""
 dsq_thread_id:

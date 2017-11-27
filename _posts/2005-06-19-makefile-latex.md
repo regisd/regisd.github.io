@@ -7,7 +7,7 @@ author: Régis
 excerpt: "J'ai retrouvé mon Makefile qui permet de produire rapidement des documents écrits en LaTeX."
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=109
-permalink: /blog/2005/06/makefile-latex/
+permalink: /2005/06/makefile-latex/
 tmac_last_id:
   - ""
 dsq_thread_id:

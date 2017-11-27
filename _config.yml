@@ -1,9 +1,11 @@
 name: Rien de spécial
 title: Rien de spécial
 description: Le blog de Régis
+#url: http://regis.decamps.info
+baseurl: /blog
 lang: fr-FR
 theme: jekyll-theme-slate
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile']
-permalink: "/blog/:year/:month/:title"
+permalink: "/:year/:month/:title"
 disqus_id: "/blog/:year/:month/:title"
 google_analytics: 78978-1

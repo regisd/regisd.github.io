@@ -6,7 +6,7 @@ date: 2011-12-06T20:26:44+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=2434
-permalink: /blog/2011/12/reconnaissance-de-musique-sur-android/
+permalink: /2011/12/reconnaissance-de-musique-sur-android/
 tmac_last_id:
   - "162978323029442560"
 dsq_thread_id:

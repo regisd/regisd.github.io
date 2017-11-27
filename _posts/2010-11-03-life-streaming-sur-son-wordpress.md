@@ -6,7 +6,7 @@ date: 2010-11-03T22:18:05+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=1482
-permalink: /blog/2010/11/life-streaming-sur-son-wordpress/
+permalink: /2010/11/life-streaming-sur-son-wordpress/
 tmac_last_id:
   - ""
 dsq_thread_id:

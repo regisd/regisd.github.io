@@ -7,7 +7,7 @@ author: Régis
 excerpt: "J'ai mis du temps à faire fonctionner CVS pserver sur Fedora."
 layout: post
 guid: http://regis.decamps.info/blog/2006/06/cvs-sur-redhat/
-permalink: /blog/2006/06/cvs-sur-redhat/
+permalink: /2006/06/cvs-sur-redhat/
 tmac_last_id:
   - ""
 dsq_thread_id:

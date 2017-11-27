@@ -6,7 +6,7 @@ date: 2007-01-10T00:15:46+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2007/01/apple-devoile-iphone/
-permalink: /blog/2007/01/apple-devoile-iphone/
+permalink: /2007/01/apple-devoile-iphone/
 tmac_last_id:
   - ""
 categories:

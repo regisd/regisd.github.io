@@ -6,7 +6,7 @@ date: 2008-01-29T00:11:09+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2008/01/la-fleche-dor/
-permalink: /blog/2008/01/la-fleche-dor/
+permalink: /2008/01/la-fleche-dor/
 dsq_thread_id:
   - "189257206"
 tmac_last_id:

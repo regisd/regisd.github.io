@@ -7,7 +7,7 @@ author: Régis
 excerpt: "Jacques Chirac promulgue la loi sur l'égalité des chances mais demande que le CPE ne soit pas appliqué"
 layout: post
 guid: http://blog.decamps.info/2006/03/comprendra-chirac-qui-pourra/
-permalink: /blog/2006/03/comprendra-chirac-qui-pourra/
+permalink: /2006/03/comprendra-chirac-qui-pourra/
 tmac_last_id:
   - ""
 dsq_thread_id:

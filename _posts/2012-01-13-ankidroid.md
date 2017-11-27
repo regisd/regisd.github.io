@@ -6,7 +6,7 @@ date: 2012-01-13T20:05:07+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=2408
-permalink: /blog/2012/01/ankidroid/
+permalink: /2012/01/ankidroid/
 tmac_last_id:
   - "162978312002600962"
 dsq_thread_id:

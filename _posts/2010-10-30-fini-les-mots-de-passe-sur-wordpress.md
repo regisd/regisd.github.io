@@ -7,7 +7,7 @@ author: Régis
 excerpt: "Avec JanRain, la connexion sur un blog worpress ne nécessite pas de se souvenir d'un énième mot de passe."
 layout: post
 guid: http://regis.decamps.info/blog/?p=1466
-permalink: /blog/2010/10/fini-les-mots-de-passe-sur-wordpress/
+permalink: /2010/10/fini-les-mots-de-passe-sur-wordpress/
 tmac_last_id:
   - ""
 dsq_thread_id:

@@ -6,7 +6,7 @@ date: 2008-12-15T22:16:48+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=762
-permalink: /blog/2008/12/comment-parser-et-formatter-une-date-en-java/
+permalink: /2008/12/comment-parser-et-formatter-une-date-en-java/
 dsq_thread_id:
   - "189257672"
 tmac_last_id:

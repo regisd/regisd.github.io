@@ -6,7 +6,7 @@ date: 2007-08-03T11:42:50+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2007/08/blogmark-sur-ohloh/
-permalink: /blog/2007/08/blogmark-sur-ohloh/
+permalink: /2007/08/blogmark-sur-ohloh/
 tmac_last_id:
   - ""
 categories:

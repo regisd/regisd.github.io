@@ -6,7 +6,7 @@ date: 2012-06-23T13:53:57+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=2797
-permalink: /blog/2012/06/solidays-2012-premiere-journee/
+permalink: /2012/06/solidays-2012-premiere-journee/
 al2fb_facebook_image_id:
   - "2799"
 al2fb_facebook_link_id:

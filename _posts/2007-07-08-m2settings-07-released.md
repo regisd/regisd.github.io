@@ -7,7 +7,7 @@ author: Régis
 excerpt: "J'ai apporté quelques modifications dans mon utilitaire pour éditier le fichier settings.xml de Maven et en profite pour sortir une nouvelle version."
 layout: post
 guid: http://regis.decamps.info/blog/2007/07/m2settings-07-released/
-permalink: /blog/2007/07/m2settings-07-released/
+permalink: /2007/07/m2settings-07-released/
 tmac_last_id:
   - ""
 dsq_thread_id:

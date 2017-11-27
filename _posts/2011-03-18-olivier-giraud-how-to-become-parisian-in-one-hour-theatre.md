@@ -8,7 +8,7 @@ excerpt: |
   A voir avec des amis étrangers.
   Ma note : 3 / 5
 layout: post
-permalink: /blog/2011/03/olivier-giraud-how-to-become-parisian-in-one-hour-theatre/
+permalink: /2011/03/olivier-giraud-how-to-become-parisian-in-one-hour-theatre/
 syndication_source:
   - 'Webcity : wakaseoo - Ses nouveaux avis'
 syndication_source_uri:

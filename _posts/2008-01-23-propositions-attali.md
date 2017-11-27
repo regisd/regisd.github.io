@@ -6,7 +6,7 @@ date: 2008-01-23T20:49:48+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2008/01/propositions-attali/
-permalink: /blog/2008/01/propositions-attali/
+permalink: /2008/01/propositions-attali/
 dsq_thread_id:
   - "189257178"
 tmac_last_id:

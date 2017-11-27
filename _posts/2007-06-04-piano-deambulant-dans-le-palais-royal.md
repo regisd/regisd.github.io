@@ -6,7 +6,7 @@ date: 2007-06-04T13:53:49+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2007/06/piano-deambulant-dans-le-palais-royal/
-permalink: /blog/2007/06/piano-deambulant-dans-le-palais-royal/
+permalink: /2007/06/piano-deambulant-dans-le-palais-royal/
 dsq_thread_id:
   - "189256894"
 tmac_last_id:

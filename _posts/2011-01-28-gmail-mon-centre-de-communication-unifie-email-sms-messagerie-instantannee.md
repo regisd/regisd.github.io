@@ -6,7 +6,7 @@ date: 2011-01-28T21:30:27+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=1658
-permalink: /blog/2011/01/gmail-mon-centre-de-communication-unifie-email-sms-messagerie-instantannee/
+permalink: /2011/01/gmail-mon-centre-de-communication-unifie-email-sms-messagerie-instantannee/
 tmac_last_id:
   - ""
 dsq_thread_id:

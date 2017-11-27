@@ -6,7 +6,7 @@ date: 2009-04-13T22:21:05+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=856
-permalink: /blog/2009/04/images-hdr/
+permalink: /2009/04/images-hdr/
 dsq_thread_id:
   - "189257767"
 tmac_last_id:

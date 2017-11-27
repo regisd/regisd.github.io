@@ -6,7 +6,7 @@ date: 2006-04-17T15:47:53+00:00
 author: Régis
 layout: post
 guid: http://blog.decamps.info/?p=256
-permalink: /blog/2006/04/vmware-comment-faire-un-disque-virtuel/
+permalink: /2006/04/vmware-comment-faire-un-disque-virtuel/
 tmac_last_id:
   - ""
 dsq_thread_id:

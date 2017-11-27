@@ -7,7 +7,7 @@ author: Régis
 excerpt: "Post technique pour dire que j'aime fichetrement Maven, ce system qui est à Java ce que les gestionnaires de packages sont au distributions linux."
 layout: post
 guid: http://regis.decamps.info/blog/2006/10/castor-lelement-root-a-une-majuscule/
-permalink: /blog/2006/10/maven-est-formidable/
+permalink: /2006/10/maven-est-formidable/
 tmac_last_id:
   - ""
 dsq_thread_id:

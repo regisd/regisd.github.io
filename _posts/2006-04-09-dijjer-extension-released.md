@@ -7,7 +7,7 @@ author: Régis
 excerpt: My latest extension for firefox
 layout: post
 guid: http://blog.decamps.info/2006/04/dijjer-extension-released/
-permalink: /blog/2006/04/dijjer-extension-released/
+permalink: /2006/04/dijjer-extension-released/
 dsq_thread_id:
   - "189256618"
 tmac_last_id:

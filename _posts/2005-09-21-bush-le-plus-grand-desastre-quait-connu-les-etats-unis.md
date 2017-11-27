@@ -7,7 +7,7 @@ author: Régis
 excerpt: "D'où l'importance de mettre des guillemets."
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=66
-permalink: /blog/2005/09/bush-le-plus-grand-desastre-quait-connu-les-etats-unis/
+permalink: /2005/09/bush-le-plus-grand-desastre-quait-connu-les-etats-unis/
 tmac_last_id:
   - ""
 categories:

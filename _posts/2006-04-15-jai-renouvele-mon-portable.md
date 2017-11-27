@@ -7,7 +7,7 @@ author: Régis
 excerpt: Je me suis acheté un Sagem SG346i
 layout: post
 guid: http://blog.decamps.info/2006/04/jai-renouvele-mon-portable/
-permalink: /blog/2006/04/jai-renouvele-mon-portable/
+permalink: /2006/04/jai-renouvele-mon-portable/
 tmac_last_id:
   - ""
 dsq_thread_id:

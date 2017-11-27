@@ -7,7 +7,7 @@ author: Régis
 excerpt: "<em>Le filmeur</em>, journal intime et filmé d'Alain Cavalier. Ca ne passe que dans 2 salles parisiennes (mk2 Beaubourg et St-André-des-Arts) et ce n'est pas un hasard."
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=78
-permalink: /blog/2005/09/le-filmeur-a-ne-pas-voir/
+permalink: /2005/09/le-filmeur-a-ne-pas-voir/
 tmac_last_id:
   - ""
 categories:

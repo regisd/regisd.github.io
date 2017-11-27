@@ -6,7 +6,7 @@ date: 2012-12-15T22:11:46+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=3059
-permalink: /blog/2012/12/le-grand-bac/
+permalink: /2012/12/le-grand-bac/
 al2fb_facebook_link_id:
   - 1065233209_4388365541702
 al2fb_facebook_link_time:

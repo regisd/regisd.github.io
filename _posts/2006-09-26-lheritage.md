@@ -6,7 +6,7 @@ date: 2006-09-26T19:45:54+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2006/09/lheritage/
-permalink: /blog/2006/09/lheritage/
+permalink: /2006/09/lheritage/
 tmac_last_id:
   - ""
 categories:

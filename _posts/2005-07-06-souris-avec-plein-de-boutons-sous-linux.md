@@ -7,7 +7,7 @@ author: Régis
 excerpt: Je me suis acheté une souris avec plusieurs boutons, et ce fut très simple à faire foncionner sous linux.
 layout: post
 guid: /?p=15
-permalink: /blog/2005/07/souris-avec-plein-de-boutons-sous-linux/
+permalink: /2005/07/souris-avec-plein-de-boutons-sous-linux/
 tmac_last_id:
   - ""
 dsq_thread_id:

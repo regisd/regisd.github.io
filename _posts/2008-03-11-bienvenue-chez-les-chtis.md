@@ -7,7 +7,7 @@ author: Régis
 excerpt: Un chti peu décevant.
 layout: post
 guid: http://regis.decamps.info/blog/2008/03/bienvenue-chez-les-chtis/
-permalink: /blog/2008/03/bienvenue-chez-les-chtis/
+permalink: /2008/03/bienvenue-chez-les-chtis/
 dsq_thread_id:
   - "189257241"
 tmac_last_id:

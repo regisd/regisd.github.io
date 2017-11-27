@@ -7,7 +7,7 @@ author: Régis
 excerpt: 'Je me rendrai au <a href="http://www.dotnetguru.org/modules.php?op=modload&name=IncludePage&file=agenda">symposium  dotNetGuru</a> du 24 octobre.'
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=54
-permalink: /blog/2005/09/jirai-au-symposium-dotnetguru/
+permalink: /2005/09/jirai-au-symposium-dotnetguru/
 tmac_last_id:
   - ""
 dsq_thread_id:

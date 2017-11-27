@@ -6,7 +6,7 @@ date: 2008-12-15T21:28:46+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=758
-permalink: /blog/2008/12/sofinco-rachete-fianet/
+permalink: /2008/12/sofinco-rachete-fianet/
 dsq_thread_id:
   - "189257663"
 tmac_last_id:

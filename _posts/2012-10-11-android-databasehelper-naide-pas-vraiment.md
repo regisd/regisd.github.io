@@ -6,7 +6,7 @@ date: 2012-10-11T21:37:11+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=2978
-permalink: /blog/2012/10/android-databasehelper-naide-pas-vraiment/
+permalink: /2012/10/android-databasehelper-naide-pas-vraiment/
 al2fb_facebook_link_id:
   - 1065233209_4106220368249
 al2fb_facebook_link_time:

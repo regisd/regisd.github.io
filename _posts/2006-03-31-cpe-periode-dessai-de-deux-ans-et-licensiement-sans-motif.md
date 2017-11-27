@@ -7,7 +7,7 @@ author: Régis
 excerpt: "Aujourd'hui j'ai fait le tour de la blogosphère et on y lit des âneries"
 layout: post
 guid: http://blog.decamps.info/2006/03/cpe-periode-dessai-de-deux-ans-et-licensiement-sans-motif/
-permalink: /blog/2006/03/cpe-periode-dessai-de-deux-ans-et-licensiement-sans-motif/
+permalink: /2006/03/cpe-periode-dessai-de-deux-ans-et-licensiement-sans-motif/
 dsq_thread_id:
   - "189256587"
 tmac_last_id:

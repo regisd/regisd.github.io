@@ -6,7 +6,7 @@ date: 2008-04-01T21:20:59+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2008/04/liso-approve-loffice-open-xml/
-permalink: /blog/2008/04/liso-approve-loffice-open-xml/
+permalink: /2008/04/liso-approve-loffice-open-xml/
 tmac_last_id:
   - ""
 dsq_thread_id:

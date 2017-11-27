@@ -6,7 +6,7 @@ date: 2006-02-26T21:09:01+00:00
 author: Régis
 layout: post
 guid: http://blog.decamps.info/2006/02/nouvelle-presentation/
-permalink: /blog/2006/02/nouvelle-presentation/
+permalink: /2006/02/nouvelle-presentation/
 tmac_last_id:
   - ""
 dsq_thread_id:

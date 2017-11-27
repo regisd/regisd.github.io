@@ -6,7 +6,7 @@ date: 2006-08-28T17:56:17+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2006/08/petite-rando-du-cote-des-aiguilles-rouges/
-permalink: /blog/2006/08/petite-rando-du-cote-des-aiguilles-rouges/
+permalink: /2006/08/petite-rando-du-cote-des-aiguilles-rouges/
 tmac_last_id:
   - ""
 dsq_thread_id:

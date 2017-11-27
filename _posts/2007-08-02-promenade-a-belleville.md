@@ -6,7 +6,7 @@ date: 2007-08-02T16:48:00+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2007/08/promenade-a-belleville/
-permalink: /blog/2007/08/promenade-a-belleville/
+permalink: /2007/08/promenade-a-belleville/
 dsq_thread_id:
   - "189256996"
 tmac_last_id:

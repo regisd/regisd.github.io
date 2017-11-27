@@ -6,7 +6,7 @@ date: 2008-11-06T15:03:22+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=604
-permalink: /blog/2008/11/m-et-mme-hafrite/
+permalink: /2008/11/m-et-mme-hafrite/
 dsq_thread_id:
   - "189257611"
 tmac_last_id:

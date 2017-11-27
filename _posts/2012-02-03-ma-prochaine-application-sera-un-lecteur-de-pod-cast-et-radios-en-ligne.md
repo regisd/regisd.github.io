@@ -6,7 +6,7 @@ date: 2012-02-03T01:12:10+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=2483
-permalink: /blog/2012/02/ma-prochaine-application-sera-un-lecteur-de-pod-cast-et-radios-en-ligne/
+permalink: /2012/02/ma-prochaine-application-sera-un-lecteur-de-pod-cast-et-radios-en-ligne/
 dsq_thread_id:
   - "562312037"
 categories:

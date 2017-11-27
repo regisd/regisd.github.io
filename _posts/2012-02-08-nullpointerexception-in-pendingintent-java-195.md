@@ -6,7 +6,7 @@ date: 2012-02-08T00:24:13+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=2529
-permalink: /blog/2012/02/nullpointerexception-in-pendingintent-java-195/
+permalink: /2012/02/nullpointerexception-in-pendingintent-java-195/
 dsq_thread_id:
   - "568158891"
 categories:

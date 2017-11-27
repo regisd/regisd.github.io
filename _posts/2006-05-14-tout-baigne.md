@@ -7,7 +7,7 @@ author: Régis
 excerpt: Une excellent pièce de théatre à voir au Théatre du temple.
 layout: post
 guid: http://blog.decamps.info/2006/05/tout-baigne/
-permalink: /blog/2006/05/tout-baigne/
+permalink: /2006/05/tout-baigne/
 tmac_last_id:
   - ""
 dsq_thread_id:

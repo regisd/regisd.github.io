@@ -6,7 +6,7 @@ date: 2009-05-30T23:00:14+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=895
-permalink: /blog/2009/05/retour-de-barcelone/
+permalink: /2009/05/retour-de-barcelone/
 tmac_last_id:
   - ""
 dsq_thread_id:

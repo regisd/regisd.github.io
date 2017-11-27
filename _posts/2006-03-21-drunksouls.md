@@ -7,7 +7,7 @@ author: Régis
 excerpt: Jamendo, pour découvrir de la vraie musique.
 layout: post
 guid: http://blog.decamps.info/?p=232
-permalink: /blog/2006/03/drunksouls/
+permalink: /2006/03/drunksouls/
 dsq_thread_id:
   - "189256551"
 tmac_last_id:

@@ -6,7 +6,7 @@ date: 2008-06-23T22:03:04+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2008/06/week-end-a-la-montagne/
-permalink: /blog/2008/06/week-end-a-la-montagne/
+permalink: /2008/06/week-end-a-la-montagne/
 dsq_thread_id:
   - "189257383"
 tmac_last_id:

@@ -6,7 +6,7 @@ date: 2012-06-27T23:17:46+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=2810
-permalink: /blog/2012/06/berengere-krief/
+permalink: /2012/06/berengere-krief/
 al2fb_facebook_image_id:
   - "2812"
 al2fb_facebook_link_id:

@@ -6,7 +6,7 @@ date: 2006-03-30T23:48:03+00:00
 author: Régis
 layout: post
 guid: http://blog.decamps.info/2006/03/cpe-un-retrait-possible/
-permalink: /blog/2006/03/cpe-un-retrait-possible/
+permalink: /2006/03/cpe-un-retrait-possible/
 dsq_thread_id:
   - "189256577"
 tmac_last_id:

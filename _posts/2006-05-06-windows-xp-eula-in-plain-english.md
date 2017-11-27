@@ -6,7 +6,7 @@ date: 2006-05-06T18:48:28+00:00
 author: Régis
 layout: post
 guid: http://blog.decamps.info/2006/05/windows-xp-eula-in-plain-english/
-permalink: /blog/2006/05/windows-xp-eula-in-plain-english/
+permalink: /2006/05/windows-xp-eula-in-plain-english/
 tmac_last_id:
   - ""
 categories:

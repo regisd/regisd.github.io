@@ -7,7 +7,7 @@ author: Régis
 excerpt: "Lors d'un forum du PS, Ségolène Royale donne son opinion sur le travail des profs au collège. Il y avait une caméra clandestine dans la sallle..."
 layout: post
 guid: http://regis.decamps.info/blog/2006/11/la-video-bombe-de-segolene/
-permalink: /blog/2006/11/la-video-bombe-de-segolene/
+permalink: /2006/11/la-video-bombe-de-segolene/
 tmac_last_id:
   - ""
 dsq_thread_id:

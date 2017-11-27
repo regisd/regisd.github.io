@@ -6,7 +6,7 @@ date: 2008-01-22T22:32:33+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2008/01/larchitecture/
-permalink: /blog/2008/01/larchitecture/
+permalink: /2008/01/larchitecture/
 dsq_thread_id:
   - "189257165"
 tmac_last_id:

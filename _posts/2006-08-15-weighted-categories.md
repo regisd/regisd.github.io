@@ -7,7 +7,7 @@ author: Régis
 excerpt: I have installed the weighted categories plugin for wordpress.
 layout: post
 guid: http://regis.decamps.info/blog/2006/08/weighted-categories/
-permalink: /blog/2006/08/weighted-categories/
+permalink: /2006/08/weighted-categories/
 tmac_last_id:
   - ""
 dsq_thread_id:

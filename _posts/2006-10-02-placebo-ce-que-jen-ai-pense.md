@@ -6,7 +6,7 @@ date: 2006-10-02T20:28:34+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2006/10/placebo-ce-que-jen-ai-pense/
-permalink: /blog/2006/10/placebo-ce-que-jen-ai-pense/
+permalink: /2006/10/placebo-ce-que-jen-ai-pense/
 tmac_last_id:
   - ""
 dsq_thread_id:

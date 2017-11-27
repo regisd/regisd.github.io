@@ -6,7 +6,7 @@ date: 2009-08-29T18:19:32+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=930
-permalink: /blog/2009/08/questions-and-critics-on-sharepoint/
+permalink: /2009/08/questions-and-critics-on-sharepoint/
 tmac_last_id:
   - ""
 dsq_thread_id:

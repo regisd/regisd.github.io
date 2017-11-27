@@ -6,7 +6,7 @@ date: 2012-11-18T13:26:06+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=3018
-permalink: /blog/2012/11/google-music-vs-amazon-vs-itunes-vs-spotif/
+permalink: /2012/11/google-music-vs-amazon-vs-itunes-vs-spotif/
 al2fb_facebook_link_id:
   - 1065233209_4267899810134
 al2fb_facebook_link_time:

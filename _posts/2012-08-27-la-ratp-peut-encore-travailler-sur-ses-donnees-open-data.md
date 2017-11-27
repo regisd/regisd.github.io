@@ -6,7 +6,7 @@ date: 2012-08-27T20:52:47+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=2881
-permalink: /blog/2012/08/la-ratp-peut-encore-travailler-sur-ses-donnees-open-data/
+permalink: /2012/08/la-ratp-peut-encore-travailler-sur-ses-donnees-open-data/
 al2fb_facebook_link_id:
   - 1065233209_3920348121559
 al2fb_facebook_link_time:

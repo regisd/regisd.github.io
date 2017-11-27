@@ -6,7 +6,7 @@ date: 2008-09-21T14:59:24+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2008/09/spectacle-pyrothechnique-a-la-villette/
-permalink: /blog/2008/09/spectacle-pyrothechnique-a-la-villette/
+permalink: /2008/09/spectacle-pyrothechnique-a-la-villette/
 tmac_last_id:
   - ""
 categories:

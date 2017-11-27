@@ -6,7 +6,7 @@ date: 2010-04-02T11:26:39+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=1172
-permalink: /blog/2010/04/openid-delegation-sur-compte-google/
+permalink: /2010/04/openid-delegation-sur-compte-google/
 dsq_thread_id:
   - "189257879"
 tmac_last_id:

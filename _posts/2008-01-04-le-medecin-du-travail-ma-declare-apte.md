@@ -6,7 +6,7 @@ date: 2008-01-04T10:30:49+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=531
-permalink: /blog/2008/01/le-medecin-du-travail-ma-declare-apte/
+permalink: /2008/01/le-medecin-du-travail-ma-declare-apte/
 tmac_last_id:
   - ""
 dsq_thread_id:

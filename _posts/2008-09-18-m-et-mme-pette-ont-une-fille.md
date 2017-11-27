@@ -6,7 +6,7 @@ date: 2008-09-18T13:02:54+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=572
-permalink: /blog/2008/09/m-et-mme-pette-ont-une-fille/
+permalink: /2008/09/m-et-mme-pette-ont-une-fille/
 tmac_last_id:
   - ""
 dsq_thread_id:

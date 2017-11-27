@@ -6,7 +6,7 @@ date: 2007-04-20T23:46:37+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2007/04/les-candidats-et-le-logiciel-libre/
-permalink: /blog/2007/04/les-candidats-et-le-logiciel-libre/
+permalink: /2007/04/les-candidats-et-le-logiciel-libre/
 tmac_last_id:
   - ""
 categories:

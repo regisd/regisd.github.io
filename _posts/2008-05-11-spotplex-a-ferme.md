@@ -6,7 +6,7 @@ date: 2008-05-11T18:37:36+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2008/05/spotplex-a-ferme/
-permalink: /blog/2008/05/spotplex-a-ferme/
+permalink: /2008/05/spotplex-a-ferme/
 tmac_last_id:
   - ""
 dsq_thread_id:

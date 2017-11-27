@@ -6,7 +6,7 @@ date: 2007-12-02T19:43:07+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2007/12/exigeons-un-referendum-pour-le-nouveau-traite-europeen/
-permalink: /blog/2007/12/exigeons-un-referendum-pour-le-nouveau-traite-europeen/
+permalink: /2007/12/exigeons-un-referendum-pour-le-nouveau-traite-europeen/
 dsq_thread_id:
   - "189257107"
 tmac_last_id:

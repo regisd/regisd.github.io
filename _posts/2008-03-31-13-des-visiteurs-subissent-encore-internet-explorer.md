@@ -6,7 +6,7 @@ date: 2008-03-31T23:45:48+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2008/03/13-des-visiteurs-subissent-encore-internet-explorer/
-permalink: /blog/2008/03/13-des-visiteurs-subissent-encore-internet-explorer/
+permalink: /2008/03/13-des-visiteurs-subissent-encore-internet-explorer/
 dsq_thread_id:
   - "189257260"
 tmac_last_id:

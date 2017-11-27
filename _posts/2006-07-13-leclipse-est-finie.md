@@ -6,7 +6,7 @@ date: 2006-07-13T21:48:37+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2006/07/leclipse-est-finie/
-permalink: /blog/2006/07/leclipse-est-finie/
+permalink: /2006/07/leclipse-est-finie/
 tmac_last_id:
   - ""
 dsq_thread_id:

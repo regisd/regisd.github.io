@@ -6,7 +6,7 @@ date: 2006-06-29T17:03:33+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2006/06/et-un-et-deux-et-trois-zero/
-permalink: /blog/2006/06/et-un-et-deux-et-trois-zero/
+permalink: /2006/06/et-un-et-deux-et-trois-zero/
 tmac_last_id:
   - ""
 categories:

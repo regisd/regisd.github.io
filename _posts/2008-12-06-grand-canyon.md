@@ -6,7 +6,7 @@ date: 2008-12-06T19:42:10+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2008/12/grand-canyon/
-permalink: /blog/2008/12/grand-canyon/
+permalink: /2008/12/grand-canyon/
 tmac_last_id:
   - ""
 dsq_thread_id:

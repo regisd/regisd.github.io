@@ -6,7 +6,7 @@ date: 2005-08-01T02:34:42+00:00
 author: Régis
 layout: post
 guid: /?p=28
-permalink: /blog/2005/08/cest-fou-ce-quon-peut-faire-avec-du-xhtml-et-du-css/
+permalink: /2005/08/cest-fou-ce-quon-peut-faire-avec-du-xhtml-et-du-css/
 tmac_last_id:
   - ""
 dsq_thread_id:

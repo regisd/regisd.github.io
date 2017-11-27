@@ -6,7 +6,7 @@ date: 2006-06-03T18:14:09+00:00
 author: Régis
 layout: post
 guid: http://blog.decamps.info/2006/06/valtech-tv-home/
-permalink: /blog/2006/06/valtech-tv-home/
+permalink: /2006/06/valtech-tv-home/
 tmac_last_id:
   - ""
 categories:

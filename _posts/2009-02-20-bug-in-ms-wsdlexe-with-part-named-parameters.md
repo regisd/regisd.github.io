@@ -6,7 +6,7 @@ date: 2009-02-20T15:22:45+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=830
-permalink: /blog/2009/02/bug-in-ms-wsdlexe-with-part-named-parameters/
+permalink: /2009/02/bug-in-ms-wsdlexe-with-part-named-parameters/
 tmac_last_id:
   - ""
 dsq_thread_id:

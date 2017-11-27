@@ -6,7 +6,7 @@ date: 2009-12-04T21:29:32+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=1098
-permalink: /blog/2009/12/atom-to-xhtml-with-xslt-for-friendfeed-stream/
+permalink: /2009/12/atom-to-xhtml-with-xslt-for-friendfeed-stream/
 tmac_last_id:
   - ""
 dsq_thread_id:

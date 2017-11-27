@@ -6,7 +6,7 @@ date: 2006-10-16T21:18:02+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2006/10/castor-de-a-a-z/
-permalink: /blog/2006/10/castor-de-a-a-z/
+permalink: /2006/10/castor-de-a-a-z/
 dsq_thread_id:
   - "189256698"
 tmac_last_id:

@@ -6,7 +6,7 @@ date: 2009-01-30T00:10:06+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=792
-permalink: /blog/2009/01/sfr-tente-enfin-le-remplacement-de-modem/
+permalink: /2009/01/sfr-tente-enfin-le-remplacement-de-modem/
 dsq_thread_id:
   - "189257707"
 tmac_last_id:

@@ -6,7 +6,7 @@ date: 2007-07-01T21:52:36+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2007/07/retour-de-limage/
-permalink: /blog/2007/07/retour-de-limage/
+permalink: /2007/07/retour-de-limage/
 dsq_thread_id:
   - "189256927"
 tmac_last_id:

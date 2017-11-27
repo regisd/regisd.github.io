@@ -6,7 +6,7 @@ date: 2009-11-27T19:09:32+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=956
-permalink: /blog/2009/11/google-chrome-sync-bookmarks-but/
+permalink: /2009/11/google-chrome-sync-bookmarks-but/
 dsq_thread_id:
   - "189257841"
 tmac_last_id:

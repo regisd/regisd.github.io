@@ -6,7 +6,7 @@ date: 2011-03-01T23:26:09+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=1744
-permalink: /blog/2011/03/ajout-dincident/
+permalink: /2011/03/ajout-dincident/
 wordbooker_options:
   - 'a:9:{s:18:"wordbook_noncename";s:10:"bfbaf41648";s:18:"wordbook_page_post";s:4:"-100";s:18:"wordbook_orandpage";s:1:"2";s:23:"wordbook_default_author";s:1:"1";s:23:"wordbook_extract_length";s:3:"256";s:19:"wordbook_actionlink";s:3:"300";s:26:"wordbooker_publish_default";s:2:"on";s:18:"wordbook_attribute";s:36:"En train de développer une appli...";s:29:"wordbooker_status_update_text";s:33:"New blog post :  %title% - %link%";}'
 tmac_last_id:

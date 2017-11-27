@@ -7,7 +7,7 @@ author: Régis
 excerpt: "Aujourd'hui, j'ai posé la première couche de peinture."
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=41
-permalink: /blog/2005/08/peinture-premiere-couche/
+permalink: /2005/08/peinture-premiere-couche/
 tmac_last_id:
   - ""
 dsq_thread_id:

@@ -6,7 +6,7 @@ date: 2008-08-05T19:45:22+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=545
-permalink: /blog/2008/08/nettoyage-de-refrigerateur/
+permalink: /2008/08/nettoyage-de-refrigerateur/
 tmac_last_id:
   - ""
 dsq_thread_id:

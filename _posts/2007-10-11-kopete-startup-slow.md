@@ -6,7 +6,7 @@ date: 2007-10-11T18:51:42+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2007/10/kopete-startup-slow/
-permalink: /blog/2007/10/kopete-startup-slow/
+permalink: /2007/10/kopete-startup-slow/
 dsq_thread_id:
   - "189257059"
 tmac_last_id:

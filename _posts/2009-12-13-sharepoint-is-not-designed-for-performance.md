@@ -6,7 +6,7 @@ date: 2009-12-13T13:24:38+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=1106
-permalink: /blog/2009/12/sharepoint-is-not-designed-for-performance/
+permalink: /2009/12/sharepoint-is-not-designed-for-performance/
 tmac_last_id:
   - ""
 dsq_thread_id:

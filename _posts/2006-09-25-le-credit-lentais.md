@@ -6,7 +6,7 @@ date: 2006-09-25T21:01:24+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2006/09/le-credit-lentais/
-permalink: /blog/2006/09/le-credit-lentais/
+permalink: /2006/09/le-credit-lentais/
 tmac_last_id:
   - ""
 categories:

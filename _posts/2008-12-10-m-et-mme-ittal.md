@@ -6,7 +6,7 @@ date: 2008-12-10T17:23:15+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=719
-permalink: /blog/2008/12/m-et-mme-ittal/
+permalink: /2008/12/m-et-mme-ittal/
 tmac_last_id:
   - ""
 dsq_thread_id:

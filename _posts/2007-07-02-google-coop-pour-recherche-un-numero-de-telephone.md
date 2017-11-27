@@ -6,7 +6,7 @@ date: 2007-07-02T20:19:35+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2007/07/google-coop-pour-recherche-un-numero-de-telephone/
-permalink: /blog/2007/07/google-coop-pour-recherche-un-numero-de-telephone/
+permalink: /2007/07/google-coop-pour-recherche-un-numero-de-telephone/
 dsq_thread_id:
   - "189256939"
 tmac_last_id:

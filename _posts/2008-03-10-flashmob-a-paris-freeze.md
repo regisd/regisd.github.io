@@ -6,7 +6,7 @@ date: 2008-03-10T19:23:41+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2008/03/flashmob-a-paris-freeze/
-permalink: /blog/2008/03/flashmob-a-paris-freeze/
+permalink: /2008/03/flashmob-a-paris-freeze/
 dsq_thread_id:
   - "189257234"
 tmac_last_id:

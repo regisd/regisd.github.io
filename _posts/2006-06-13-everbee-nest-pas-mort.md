@@ -6,7 +6,7 @@ date: 2006-06-13T20:14:41+00:00
 author: Régis
 layout: post
 guid: http://blog.decamps.info/2006/06/everbee-nest-pas-mort/
-permalink: /blog/2006/06/everbee-nest-pas-mort/
+permalink: /2006/06/everbee-nest-pas-mort/
 tmac_last_id:
   - ""
 dsq_thread_id:

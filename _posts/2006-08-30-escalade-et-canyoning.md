@@ -6,7 +6,7 @@ date: 2006-08-30T18:27:43+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2006/09/escalade-et-canyoning/
-permalink: /blog/2006/08/escalade-et-canyoning/
+permalink: /2006/08/escalade-et-canyoning/
 tmac_last_id:
   - ""
 dsq_thread_id:

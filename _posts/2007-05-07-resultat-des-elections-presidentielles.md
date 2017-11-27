@@ -6,7 +6,7 @@ date: 2007-05-07T16:56:36+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2007/05/resultat-des-elections-presidentielles/
-permalink: /blog/2007/05/resultat-des-elections-presidentielles/
+permalink: /2007/05/resultat-des-elections-presidentielles/
 tmac_last_id:
   - ""
 dsq_thread_id:

@@ -7,7 +7,7 @@ author: Régis
 excerpt: 'Le succès de <a href="http://fr.wikipedia.org/">Wikipédia</a> montre à quel point un wiki peut être efficace pour agréger des connaissances.'
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=64
-permalink: /blog/2005/09/un-wiki-ca-peut-marcher-sauf-si/
+permalink: /2005/09/un-wiki-ca-peut-marcher-sauf-si/
 tmac_last_id:
   - ""
 dsq_thread_id:

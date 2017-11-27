@@ -7,7 +7,7 @@ author: Régis
 excerpt: " le japonais s'apprend très facilement avec cette nouvelle méthode."
 layout: post
 guid: /?p=11
-permalink: /blog/2005/06/nouvelle-methode-de-japonais/
+permalink: /2005/06/nouvelle-methode-de-japonais/
 tmac_last_id:
   - ""
 dsq_thread_id:

@@ -8,7 +8,7 @@ excerpt: |
   Si on ne pouvait installer qu'une extension pour firefox, ce serait sans doute <a href="http://greasemonkey.mozdev.org/">Greasemonkey</a>.
 layout: post
 guid: http://blog.decamps.info/2006/01/greasemonkey/
-permalink: /blog/2006/01/greasemonkey/
+permalink: /2006/01/greasemonkey/
 tmac_last_id:
   - ""
 categories:

@@ -7,7 +7,7 @@ author: Régis
 excerpt: Une adaptation plutôt réussie.
 layout: post
 guid: /?p=24
-permalink: /blog/2005/07/charlie-et-la-chocolaterie/
+permalink: /2005/07/charlie-et-la-chocolaterie/
 tmac_last_id:
   - ""
 categories:

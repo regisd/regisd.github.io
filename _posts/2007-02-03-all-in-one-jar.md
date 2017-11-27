@@ -6,7 +6,7 @@ date: 2007-02-03T19:54:56+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2007/02/all-in-one-jar/
-permalink: /blog/2007/02/all-in-one-jar/
+permalink: /2007/02/all-in-one-jar/
 dsq_thread_id:
   - "189256786"
 tmac_last_id:

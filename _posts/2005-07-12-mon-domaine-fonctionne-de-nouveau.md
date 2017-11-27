@@ -6,7 +6,7 @@ date: 2005-07-12T22:44:29+00:00
 author: Régis
 layout: post
 guid: /?p=18
-permalink: /blog/2005/07/mon-domaine-fonctionne-de-nouveau/
+permalink: /2005/07/mon-domaine-fonctionne-de-nouveau/
 tmac_last_id:
   - ""
 dsq_thread_id:

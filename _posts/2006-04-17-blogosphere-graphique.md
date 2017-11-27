@@ -6,7 +6,7 @@ date: 2006-04-17T15:15:56+00:00
 author: Régis
 layout: post
 guid: http://blog.decamps.info/?p=253
-permalink: /blog/2006/04/blogosphere-graphique/
+permalink: /2006/04/blogosphere-graphique/
 tmac_last_id:
   - ""
 dsq_thread_id:

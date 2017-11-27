@@ -6,7 +6,7 @@ date: 2013-01-18T23:57:47+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=3083
-permalink: /blog/2013/01/comme-sil-en-pleuvait/
+permalink: /2013/01/comme-sil-en-pleuvait/
 al2fb_facebook_link_id:
   - 1065233209_4571619162928
 al2fb_facebook_link_time:

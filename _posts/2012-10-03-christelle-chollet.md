@@ -6,7 +6,7 @@ date: 2012-10-03T23:28:30+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=3003
-permalink: /blog/2012/10/christelle-chollet/
+permalink: /2012/10/christelle-chollet/
 al2fb_facebook_link_id:
   - 1065233209_4252541426184
 al2fb_facebook_link_time:

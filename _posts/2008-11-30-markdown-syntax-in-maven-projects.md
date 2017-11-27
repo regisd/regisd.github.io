@@ -6,7 +6,7 @@ date: 2008-11-30T16:18:13+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=619
-permalink: /blog/2008/11/markdown-syntax-in-maven-projects/
+permalink: /2008/11/markdown-syntax-in-maven-projects/
 tmac_last_id:
   - ""
 dsq_thread_id:

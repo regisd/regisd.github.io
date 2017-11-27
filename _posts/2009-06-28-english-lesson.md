@@ -6,7 +6,7 @@ date: 2009-06-28T19:00:27+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=938
-permalink: /blog/2009/06/english-lesson/
+permalink: /2009/06/english-lesson/
 tmac_last_id:
   - ""
 dsq_thread_id:

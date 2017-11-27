@@ -6,7 +6,7 @@ date: 2008-12-05T20:23:26+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2008/12/visite-des-casinos-de-vegas/
-permalink: /blog/2008/12/visite-des-casinos-de-vegas/
+permalink: /2008/12/visite-des-casinos-de-vegas/
 tmac_last_id:
   - ""
 dsq_thread_id:

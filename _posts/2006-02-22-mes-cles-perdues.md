@@ -7,7 +7,7 @@ author: Régis
 excerpt: "J'ai encore perdu mes clés."
 layout: post
 guid: http://blog.decamps.info/?p=182
-permalink: /blog/2006/02/mes-cles-perdues/
+permalink: /2006/02/mes-cles-perdues/
 dsq_thread_id:
   - "189256497"
 tmac_last_id:

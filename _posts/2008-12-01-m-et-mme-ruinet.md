@@ -6,7 +6,7 @@ date: 2008-12-01T08:30:54+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=633
-permalink: /blog/2008/12/m-et-mme-ruinet/
+permalink: /2008/12/m-et-mme-ruinet/
 tmac_last_id:
   - ""
 dsq_thread_id:

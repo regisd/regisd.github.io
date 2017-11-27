@@ -7,7 +7,7 @@ author: Régis
 excerpt: Une autre plateforme de musisque libre.
 layout: post
 guid: http://regis.decamps.info/blog/2006/10/musique-libre/
-permalink: /blog/2006/10/musique-libre/
+permalink: /2006/10/musique-libre/
 tmac_last_id:
   - ""
 categories:

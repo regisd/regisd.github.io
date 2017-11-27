@@ -7,7 +7,7 @@ author: Régis
 excerpt: "J'ai été voir deux films bien récemment: <em>Jarhead</em> et <em>Lord of war</em>."
 layout: post
 guid: http://blog.decamps.info/?p=158
-permalink: /blog/2006/01/apocalypse-now-2-fois/
+permalink: /2006/01/apocalypse-now-2-fois/
 dsq_thread_id:
   - "189256437"
 tmac_last_id:

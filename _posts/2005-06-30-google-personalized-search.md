@@ -6,7 +6,7 @@ date: 2005-06-30T02:22:34+00:00
 author: Régis
 layout: post
 guid: /?p=13
-permalink: /blog/2005/06/google-personalized-search/
+permalink: /2005/06/google-personalized-search/
 tmac_last_id:
   - ""
 dsq_thread_id:

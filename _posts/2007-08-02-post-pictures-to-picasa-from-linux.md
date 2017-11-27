@@ -6,7 +6,7 @@ date: 2007-08-02T17:06:08+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2007/08/post-pictures-to-picasa-from-linux/
-permalink: /blog/2007/08/post-pictures-to-picasa-from-linux/
+permalink: /2007/08/post-pictures-to-picasa-from-linux/
 tmac_last_id:
   - ""
 categories:

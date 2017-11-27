@@ -6,7 +6,7 @@ date: 2009-01-09T17:31:07+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=782
-permalink: /blog/2009/01/how-to-count-days-of-events-in-a-calendar-in-sharepoint/
+permalink: /2009/01/how-to-count-days-of-events-in-a-calendar-in-sharepoint/
 tmac_last_id:
   - ""
 dsq_thread_id:

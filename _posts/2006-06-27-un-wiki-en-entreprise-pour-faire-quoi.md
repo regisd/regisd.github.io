@@ -7,7 +7,7 @@ author: Régis
 excerpt: "Ce soir, mon chef est passé dans mon bureau avec l'envie soudaine de mettre en place un wiki. "
 layout: post
 guid: http://regis.decamps.info/blog/2006/06/un-wiki-en-entreprise-pour-faire-quoi/
-permalink: /blog/2006/06/un-wiki-en-entreprise-pour-faire-quoi/
+permalink: /2006/06/un-wiki-en-entreprise-pour-faire-quoi/
 tmac_last_id:
   - ""
 dsq_thread_id:

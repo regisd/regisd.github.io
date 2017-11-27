@@ -6,7 +6,7 @@ date: 2008-06-04T19:17:41+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=527
-permalink: /blog/2008/06/gerer-les-raccourcis-claviers-comme-un-geek/
+permalink: /2008/06/gerer-les-raccourcis-claviers-comme-un-geek/
 tmac_last_id:
   - ""
 dsq_thread_id:

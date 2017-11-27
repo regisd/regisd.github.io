@@ -6,7 +6,7 @@ date: 2009-05-14T21:35:48+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=885
-permalink: /blog/2009/05/grosse-frayeur-ce-soir/
+permalink: /2009/05/grosse-frayeur-ce-soir/
 dsq_thread_id:
   - "189257797"
 tmac_last_id:

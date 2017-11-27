@@ -6,7 +6,7 @@ date: 2005-09-06T00:17:34+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=49
-permalink: /blog/2005/09/un-rasoir-offert/
+permalink: /2005/09/un-rasoir-offert/
 tmac_last_id:
   - ""
 categories:

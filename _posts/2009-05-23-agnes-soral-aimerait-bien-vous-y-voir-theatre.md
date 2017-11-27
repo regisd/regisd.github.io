@@ -6,7 +6,7 @@ date: 2009-05-23T01:10:57+00:00
 author: Syndication
 excerpt: Excellent divertissement pour adultes
 layout: post
-permalink: /blog/2009/05/agnes-soral-aimerait-bien-vous-y-voir-theatre/
+permalink: /2009/05/agnes-soral-aimerait-bien-vous-y-voir-theatre/
 categories:
   - Théâtre
 tags:

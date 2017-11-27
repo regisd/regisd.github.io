@@ -6,7 +6,7 @@ date: 2006-09-25T20:48:14+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2006/09/la-voip-tout-le-monde-en-parle-mais/
-permalink: /blog/2006/09/la-voip-tout-le-monde-en-parle-mais/
+permalink: /2006/09/la-voip-tout-le-monde-en-parle-mais/
 tmac_last_id:
   - ""
 dsq_thread_id:

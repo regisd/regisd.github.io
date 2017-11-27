@@ -6,7 +6,7 @@ date: 2008-05-12T13:42:32+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2008/05/le-grand-alibi/
-permalink: /blog/2008/05/le-grand-alibi/
+permalink: /2008/05/le-grand-alibi/
 tmac_last_id:
   - ""
 dsq_thread_id:

@@ -7,7 +7,7 @@ author: Régis
 excerpt: La vidéo de Marc Lavoine sur le site lestelechargements.com
 layout: post
 guid: http://blog.decamps.info/2006/02/lestelechargements-marc-lavoine/
-permalink: /blog/2006/02/lestelechargements-marc-lavoine/
+permalink: /2006/02/lestelechargements-marc-lavoine/
 tmac_last_id:
   - ""
 dsq_thread_id:

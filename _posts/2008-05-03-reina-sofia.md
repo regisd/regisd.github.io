@@ -6,7 +6,7 @@ date: 2008-05-03T17:47:19+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2008/05/reina-sofia/
-permalink: /blog/2008/05/reina-sofia/
+permalink: /2008/05/reina-sofia/
 tmac_last_id:
   - ""
 dsq_thread_id:

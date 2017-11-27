@@ -8,7 +8,7 @@ excerpt: |
   Trois <a href="http://www.echalk.co.uk/amusements/OpticalIllusions/colourPerception/colourPerception.html">illusions d'optique sur les couleurs</a> très impressionnantes.
 layout: post
 guid: /?p=26
-permalink: /blog/2005/07/illusions-doptiques/
+permalink: /2005/07/illusions-doptiques/
 tmac_last_id:
   - ""
 dsq_thread_id:

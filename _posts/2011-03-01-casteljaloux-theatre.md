@@ -6,7 +6,7 @@ date: 2011-03-01T23:15:07+00:00
 author: Syndication
 excerpt: Une mise en scène très réussie, mais des longueurs 4/5
 layout: post
-permalink: /blog/2011/03/casteljaloux-theatre/
+permalink: /2011/03/casteljaloux-theatre/
 syndication_source:
   - 'Webcity : wakaseoo - Ses nouveaux avis'
 syndication_source_uri:

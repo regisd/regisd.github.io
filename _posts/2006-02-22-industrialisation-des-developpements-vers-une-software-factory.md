@@ -6,7 +6,7 @@ date: 2006-02-22T22:37:19+00:00
 author: Régis
 layout: post
 guid: http://blog.decamps.info/2006/02/industrialisation-des-developpements-vers-une-software-factory/
-permalink: /blog/2006/02/industrialisation-des-developpements-vers-une-software-factory/
+permalink: /2006/02/industrialisation-des-developpements-vers-une-software-factory/
 tmac_last_id:
   - ""
 dsq_thread_id:

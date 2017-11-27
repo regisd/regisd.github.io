@@ -6,7 +6,7 @@ date: 2009-02-20T01:07:07+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=825
-permalink: /blog/2009/02/contacts-gmail-mieux-geres-et-bug-corrige/
+permalink: /2009/02/contacts-gmail-mieux-geres-et-bug-corrige/
 tmac_last_id:
   - ""
 dsq_thread_id:

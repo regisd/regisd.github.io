@@ -6,7 +6,7 @@ date: 2013-02-27T22:34:38+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=3124
-permalink: /blog/2013/02/les-colocs/
+permalink: /2013/02/les-colocs/
 al2fb_facebook_link_id:
   - 1065233209_4890876264156
 al2fb_facebook_link_time:

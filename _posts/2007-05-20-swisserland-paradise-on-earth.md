@@ -6,7 +6,7 @@ date: 2007-05-20T22:21:54+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2007/05/swisserland-paradise-on-earth/
-permalink: /blog/2007/05/swisserland-paradise-on-earth/
+permalink: /2007/05/swisserland-paradise-on-earth/
 dsq_thread_id:
   - "189256879"
 tmac_last_id:

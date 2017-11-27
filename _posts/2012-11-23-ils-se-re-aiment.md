@@ -6,7 +6,7 @@ date: 2012-11-23T23:33:05+00:00
 author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=3036
-permalink: /blog/2012/11/ils-se-re-aiment/
+permalink: /2012/11/ils-se-re-aiment/
 al2fb_facebook_link_id:
   - 1065233209_4313413867957
 al2fb_facebook_link_time:

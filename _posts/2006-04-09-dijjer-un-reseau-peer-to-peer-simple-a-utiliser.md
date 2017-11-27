@@ -6,7 +6,7 @@ date: 2006-04-09T13:57:06+00:00
 author: Régis
 layout: post
 guid: http://blog.decamps.info/2006/04/dijjer-un-reseau-peer-to-peer-simple-a-utiliser/
-permalink: /blog/2006/04/dijjer-un-reseau-peer-to-peer-simple-a-utiliser/
+permalink: /2006/04/dijjer-un-reseau-peer-to-peer-simple-a-utiliser/
 tmac_last_id:
   - ""
 dsq_thread_id:
