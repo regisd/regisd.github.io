@@ -29,6 +29,9 @@ a:hover, a:focus {
   font-weight: normal;
   cursor: pointer;
 }
+.header-text {
+  color: $primary-color-text;
+}
 h1 a:hover, h1 a:focus {
   font-weight: bold;
 }
