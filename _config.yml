@@ -6,6 +6,6 @@ theme: jekyll-theme-slate
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile']
 permalink: "/blog/:year/:month/:title"
 disqus_id: "/blog/:year/:month/:title"
-google_analytics: 78978-1
+google_analytics: UA-78978-1
 paginate: 5
 paginate_path: "/blog/page/:num/"
