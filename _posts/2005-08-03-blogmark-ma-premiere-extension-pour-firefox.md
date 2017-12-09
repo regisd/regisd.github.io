@@ -10,15 +10,15 @@ guid: /?p=30
 permalink: /blog/2005/08/blogmark-ma-premiere-extension-pour-firefox/
 dsq_thread_id:
   - "189256229"
-tmac_last_id:
-  - ""
+
 categories:
-  - Informatique
-  - Programmation
-  - Sites web
+  - Projet
 tags:
   - Blogmark
   - Firefox
+  - Extension
+  - Webapp
+  - Web
 ---
 [BlogMarks.net](http://www.blogmarks.net/) est un blog de favoris (soit la super contraction de _web log of bookmarks_. Chacun poste des liens vers les sites qu’il aime bien. Cela permet de voir quels sont les sites les plus populaires, et aussi de parcourir les dernières recommandations pour partir à l’aventure. En résumé, c’est un clone de [del.icio.us](http://del.icio.us/), en plus joli, et avec une communauté française beaucoup plus présente.
 

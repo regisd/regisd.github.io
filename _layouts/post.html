@@ -4,12 +4,12 @@ layout: default
 <div class="post-meta">
   {% for category in page.categories %}
     <i class="material-icons">folder</i>
-    <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{ category }}</a>
+    <a href="{{site.baseurl}}/categories#{{category|slugize}}">{{ category }}</a>
   {% endfor %}
   
   {% for tag in page.tags %}
     <i class="material-icons">label_outline</i>
-     <a href="{{site.baseurl}}/tags/#{{tag|slugize}}">{{ tag }}</a>
+     <a href="{{site.baseurl}}/tags#{{tag|slugize}}">{{ tag }}</a>
   {% endfor %} 
 </div>
 

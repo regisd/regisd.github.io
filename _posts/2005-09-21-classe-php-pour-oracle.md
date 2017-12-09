@@ -8,15 +8,15 @@ excerpt: 'Cette classe PHP permet de faire des requêtes Oracle avec une syntaxe
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=112
 permalink: /blog/2005/09/classe-php-pour-oracle/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "641606534"
 categories:
   - Programmation
+tags:
+  - PHP
 ---
 Objectif
-  
 ======
   
 J’ai écrit cette classe lorsque j’avais besoin d’utiliser une base de données Oracle dans un petit projet PHP à l'\[Université de Manchester\] (http://cs.man.ac.uk/). L’objectif était triple:

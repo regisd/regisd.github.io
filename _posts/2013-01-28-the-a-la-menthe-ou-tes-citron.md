@@ -18,10 +18,10 @@ al2fb_facebook_link_picture:
 dsq_thread_id:
   - "1051534106"
 categories:
-  - Théâtre
+  - Sorties
 tags:
-  - Comédie
-  - Théâtre de boulevard
+  - Théâtre
+  - Humour
 ---
 [<img src="/blog/wp-content/uploads/2013/01/thé-à-la-menthe-252x350.jpg" alt="affiche" width="252" height="350" class="alignright size-medium wp-image-3111" srcset="/blog/wp-content/uploads/2013/01/thé-à-la-menthe-252x350.jpg 252w, /blog/wp-content/uploads/2013/01/thé-à-la-menthe-737x1024.jpg 737w, /blog/wp-content/uploads/2013/01/thé-à-la-menthe-216x300.jpg 216w, /blog/wp-content/uploads/2013/01/thé-à-la-menthe.jpg 1238w" sizes="(max-width: 252px) 100vw, 252px" />](/blog/wp-content/uploads/2013/01/thé-à-la-menthe.jpg){.fancybox}
   

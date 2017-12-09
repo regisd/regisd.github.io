@@ -9,11 +9,10 @@ guid: http://regis.decamps.info/blog/2007/02/la-vie-des-autres/
 permalink: /blog/2007/02/la-vie-des-autres/
 dsq_thread_id:
   - "189256795"
-tmac_last_id:
-  - ""
-categories:
+catégories:
+  - Art
+tags:
   - Cinéma
-  - Général
 ---
 Pour faire court: j’ai beaucoup aimé.
 

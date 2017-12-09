@@ -14,8 +14,7 @@ wordbooker_thumb:
   - ""
 wordbooker_extract:
   - "J'ai fait mon pot de départ il y a quelques jours, et j'ai promis de donner la recette de mon punch à tous ceux qui l'ont aimé :-)"
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "563999236"
 categories:

@@ -12,11 +12,11 @@ dsq_thread_id:
   - "189257923"
 wordbooker_options:
   - 'a:8:{s:18:"wordbook_noncename";s:10:"6021c2d072";s:18:"wordbook_page_post";s:4:"-100";s:18:"wordbook_orandpage";s:1:"2";s:23:"wordbook_default_author";s:1:"1";s:23:"wordbook_extract_length";s:3:"256";s:19:"wordbook_actionlink";s:3:"300";s:18:"wordbook_attribute";s:0:"";s:29:"wordbooker_status_update_text";s:33:"New blog post :  %title% - %link%";}'
-tmac_last_id:
-  - ""
+
 categories:
   - Droit
   - Shopping
+tags:
   - Vacances
 ---
 Afin de [courir le marathon de Toulouse](http://www.lemarathondugrandtoulouse.fr/) ([en relais](http://runkeeper.com/user/regisdecamps/activity/18916007), je vous rassure), j’avais pris un vol aller-retour Paris-Toulouse avec Air France. Mais à cause des embouteillages, j’ai râté mon vol aller (dans le jargon, j’ai fait un _no show_). Billet non échangeable, non remboursable. Je perds mon vol.

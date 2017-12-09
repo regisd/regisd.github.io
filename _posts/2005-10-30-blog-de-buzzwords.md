@@ -9,9 +9,11 @@ guid: http://regis.decamps.free.fr/wordpress/?p=89
 permalink: /blog/2005/10/blog-de-buzzwords/
 dsq_thread_id:
   - "189256332"
-tmac_last_id:
-  - ""
+
 categories:
-  - Sites web
+  - Misc
+tags:
+  - Français
+  - Web
 ---
 Joël Perrino lance un [blog pour débusquer les _buzzwords_](http://blogs.zdnet.fr/index.php/category/buzzwords/). Espérons que cela soit aussi amusant que le [dicomoche](http://www.dicomoche.net/)

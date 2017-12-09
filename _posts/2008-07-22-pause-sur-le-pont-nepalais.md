@@ -9,12 +9,12 @@ guid: http://regis.decamps.info/blog/2008/08/pause-sur-le-pont-nepalais/
 permalink: /blog/2008/07/pause-sur-le-pont-nepalais/
 dsq_thread_id:
   - "189257424"
-tmac_last_id:
-  - ""
+
 categories:
-  - Photo
-  - Vacances
+  - Perso
 tags:
+  - Vacances
+  - Photo
   - Montagne
   - Sport
 ---

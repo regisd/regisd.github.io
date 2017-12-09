@@ -7,12 +7,13 @@ author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=1599
 permalink: /blog/2011/01/saving-battery-on-smartphones/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "726913926"
 categories:
   - English
+  - High-tech
+tags:
   - Mobile
 ---
 If you have a smartphone, you are probably disappointed by the battery life. My HTC Legend can run for not more than one day.

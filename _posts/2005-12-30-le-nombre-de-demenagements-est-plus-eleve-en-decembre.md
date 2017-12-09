@@ -8,12 +8,10 @@ excerpt: "Selon une étude personnelle, le nombre de déménagements est plus é
 layout: post
 guid: http://blog.decamps.info/2005/12/le-nombre-de-demenagements-est-plus-eleve-en-decembre/
 permalink: /blog/2005/12/le-nombre-de-demenagements-est-plus-eleve-en-decembre/
-tmac_last_id:
-  - ""
 dsq_thread_id:
   - "1429341608"
 categories:
-  - Général
+  - Edito
 ---
 En lisant \[le Blog de Frantico\](http://www.zanorg.com/frantico/index.php?max=5) (excellent d’ailleurs, merci à \[Seb\](http://www.multiseb.com) pour le lien) je me suis souvenu qu’il fallait que j’aille à la mairie avant le 31 décembre pour leur indiquer que j’avais changé d’adresse. J’ai donc bravé la tempête et ai traversé tout le XX<sup>e</sup> arrondissement pour annoncer que j’habite maintenant Panam afin de pouvoir voter près de chez moi.
 

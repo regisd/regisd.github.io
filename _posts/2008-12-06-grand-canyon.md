@@ -7,17 +7,14 @@ author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2008/12/grand-canyon/
 permalink: /blog/2008/12/grand-canyon/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "595308443"
 categories:
-  - Photo
-  - Vacances
+  - Perso
 tags:
-  - Grand Canyon
-  - Las Vegas
-  - Voyage
+  - Vacances
+  - USA
 ---
 Nous avons réservé ce samedi à une excursion en avion au Grand Canyon.
   

@@ -8,13 +8,13 @@ excerpt: Un jeune humoriste vraiment talentueux, à voir au Temple
 layout: post
 guid: http://regis.decamps.info/blog/?p=1129
 permalink: /blog/2009/12/baptiste-se-tape-laffiche/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "189257860"
 categories:
-  - Théâtre
+  - Sorties
 tags:
+  - Théâtre
   - Humour
   - One-man show
 ---

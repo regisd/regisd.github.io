@@ -7,9 +7,10 @@ author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2006/12/sur-le-port-damsterdam/
 permalink: /blog/2006/12/sur-le-port-damsterdam/
-tmac_last_id:
-  - ""
+
 categories:
+  - Perso
+tags:
   - Vacances
 ---
 J’ai prévu de passer quelque jours à Amsterdam.

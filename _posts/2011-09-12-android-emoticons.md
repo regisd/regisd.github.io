@@ -18,7 +18,6 @@ categories:
   - Programmation
 tags:
   - Android
-  - Emoticon
   - Instant messaging
 ---
 The supported emoticons (aka emoji) in the text/SMS/MMS application is listed in [R.id.default\_smiley\_lists](https://github.com/android/platform_packages_apps_mms/blob/0ccc488a98ad71c69da449afbd4492751ba12006/res/values/arrays.xml).

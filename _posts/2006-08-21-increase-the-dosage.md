@@ -7,11 +7,12 @@ author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2006/08/increase-the-dosage/
 permalink: /blog/2006/08/increase-the-dosage/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "1076733601"
 categories:
+  - Art
+tags:
   - Musique
 ---
 J’ai déjà découvert de très bons trucs sur Jamendo, mais [Increase the Dosage](http://www.jamendo.com/fr/album/2225/) est une véritable perle. L’album nous vient de [Revolution Void](http://www.revolutionvoid.com/), le projet du pianiste jazz [Jonah Dempcy](http://www.blogger.com/profile/13854286).

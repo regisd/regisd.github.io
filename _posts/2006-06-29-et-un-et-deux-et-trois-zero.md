@@ -7,10 +7,11 @@ author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2006/06/et-un-et-deux-et-trois-zero/
 permalink: /blog/2006/06/et-un-et-deux-et-trois-zero/
-tmac_last_id:
-  - ""
+
 categories:
-  - Général
+  - Actu
+tags:
+  - Cinéma
 ---
 La fête du cinéma aurait pu attirer du monde. Il y a avait plusieurs bons films à l’affiche. Et il a fait moche dimanche.
   

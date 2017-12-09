@@ -10,17 +10,13 @@ guid: http://regis.decamps.info/blog/?p=1852
 permalink: /blog/2011/03/la-ratp-soppose-a-une-communication-coherente/
 wordbooker_options:
   - 'a:8:{s:18:"wordbook_noncename";s:10:"7d3619850d";s:18:"wordbook_page_post";s:4:"-100";s:18:"wordbook_orandpage";s:1:"2";s:23:"wordbook_default_author";s:1:"1";s:23:"wordbook_extract_length";s:3:"256";s:19:"wordbook_actionlink";s:3:"300";s:18:"wordbook_attribute";s:0:"";s:29:"wordbooker_status_update_text";s:33:"New blog post :  %title% - %link%";}'
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "555134939"
 categories:
-  - Applications
+  - Projet
   - Droit
-  - Général
 tags:
-  - Propriété intellectuelle
-  - Talaria
 ---
 Le site de la RATP indique dans ses [mentions légales](http://www.ratp.fr/fr/ratp/r_23855/mentions-legales/), rubrique « propriété intellectuelle »:
 

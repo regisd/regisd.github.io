@@ -17,11 +17,10 @@ tmac_last_id:
 dsq_thread_id:
   - "558986211"
 categories:
-  - Actualités
+  - Actu
 tags:
   - Paris
   - RER
-  - Talaria
   - Train
 ---
 Le [MI 09](http://fr.wikipedia.org/wiki/MI_09) est un « matériel d’interconnexion » (RATP 1500V & SNCF 25000V) destiné à fonctionné sur la ligne de [RER A](http://fr.wikipedia.org/wiki/Ligne_A_du_RER_d%27%C3%8Ele-de-France).<figure id="attachment_2148" style="width: 150px" class="wp-caption alignleft">

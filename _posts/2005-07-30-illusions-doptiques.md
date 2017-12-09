@@ -9,12 +9,12 @@ excerpt: |
 layout: post
 guid: /?p=26
 permalink: /blog/2005/07/illusions-doptiques/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "2959889754"
 categories:
-  - Général
+  - Misc
+tags:
   - Photo
 ---
 Trois [illusions d’optique sur les couleurs](http://www.echalk.co.uk/amusements/OpticalIllusions/colourPerception/colourPerception.html) très impressionnantes.

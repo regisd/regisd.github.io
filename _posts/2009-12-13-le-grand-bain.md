@@ -7,13 +7,13 @@ author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=1110
 permalink: /blog/2009/12/le-grand-bain/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "603901252"
 categories:
-  - Théâtre
+  - Sorties
 tags:
+  - Théâtre
   - Théâtre de boulevard
 ---
 Le texte manque d’intérêt. Dans la première partie, le démarrage est long ; heureusement les acteurs sont bons et sauvent la pièce. 

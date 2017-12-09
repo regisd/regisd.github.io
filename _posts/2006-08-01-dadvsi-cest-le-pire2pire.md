@@ -7,8 +7,7 @@ author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2006/08/dadvsi-cest-le-pire2pire/
 permalink: /blog/2006/08/dadvsi-cest-le-pire2pire/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "189256639"
 authorsure_include_css:
@@ -16,7 +15,6 @@ authorsure_include_css:
 categories:
   - Droit
 tags:
-  - DADVSI
   - Musique
 ---
 Le Conseil Constitutionnel a profité de mes vacances pour rendre sa décision sur le recours déposé par le parti socialiste. Le résultat est sans doute à l’opposé de l’effet escompté. Il y a 4 articles censurés.

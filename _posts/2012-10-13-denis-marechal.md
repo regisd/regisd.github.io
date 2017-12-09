@@ -16,8 +16,9 @@ al2fb_facebook_link_picture:
 dsq_thread_id:
   - "883448255"
 categories:
-  - Théâtre
+  - Sorties
 tags:
+  - Théâtre
   - One-man show
 ---
 **Rating:** ![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "4/5") 

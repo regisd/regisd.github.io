@@ -25,11 +25,11 @@ syndication_item_hash:
   - 8c5f7d43c1b5c43658c80458e890988e
 wordbooker_options:
   - 'a:11:{s:18:"wordbook_noncename";s:10:"b30c341519";s:18:"wordbook_page_post";s:4:"-100";s:18:"wordbook_orandpage";s:1:"2";s:23:"wordbook_default_author";s:1:"1";s:23:"wordbook_extract_length";s:3:"256";s:19:"wordbook_actionlink";s:3:"300";s:26:"wordbooker_publish_default";s:2:"on";s:27:"wordbooker_publish_override";s:2:"on";s:20:"wordbook_use_excerpt";s:2:"on";s:18:"wordbook_attribute";s:0:"";s:29:"wordbooker_status_update_text";s:33:"New blog post :  %title% - %link%";}'
-tmac_last_id:
-  - ""
+
 categories:
-  - Théâtre
+  - Sorties
 tags:
+  - Théâtre
   - One-man show
   - Paris
 ---

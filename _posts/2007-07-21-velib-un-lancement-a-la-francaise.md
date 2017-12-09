@@ -9,13 +9,11 @@ guid: http://regis.decamps.info/blog/2007/07/velib-un-lancement-a-la-francaise/
 permalink: /blog/2007/07/velib-un-lancement-a-la-francaise/
 dsq_thread_id:
   - "189256983"
-tmac_last_id:
-  - ""
+
 categories:
-  - Photo
+  - Edito
 tags:
   - Paris
-  - Vélib
 ---
 J’avais envoyé ma [demande d’abonnement en avance](http://regis.decamps.info/blog/2007/06/station-velib/), histoire d’être dans les premiers à profiter du service.
 

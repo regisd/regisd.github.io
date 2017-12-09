@@ -7,15 +7,14 @@ author: Régis
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=33
 permalink: /blog/2005/08/kde-image-database/
-tmac_last_id:
-  - ""
+
 categories:
+  - High-tech
+tags:
   - Linux
   - Logiciel
   - Photo
-tags:
   - KDE
-  - Moteur de recherche
 ---
 Ca y est, j’ai trouvé mon bonheur pour classer mes photos sous linux. Le logiciel s’appelle [KImDaBa](http://ktown.kde.org/kimdaba/) pour KDE Image Database.
 

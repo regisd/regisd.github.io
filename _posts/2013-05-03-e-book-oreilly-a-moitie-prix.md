@@ -12,7 +12,9 @@ fb_author_post_id:
 dsq_thread_id:
   - "1258761461"
 categories:
-  - Général
+  - Shopping
+tags:
+  - Livre
 ---
 O’Reilly est un éditeur réputé pour ses ouvrages de qualité. La version e-book est moins chère que la version papier, et peut être téléchargée dans plusieurs format (ePub, PDF, etc.). Et ces e-books sont **sans DRM**.
 

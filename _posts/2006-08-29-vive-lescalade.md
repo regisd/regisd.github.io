@@ -7,15 +7,14 @@ author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2006/08/vive-lescalade/
 permalink: /blog/2006/08/vive-lescalade/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "812467820"
 categories:
+  - Perso
+tags:
   - Sport
   - Vacances
-tags:
-  - Escalade
 ---
 Après mon stage de canyoning [à Rodellar, j’avais vraiment envie d’essayer l’escalade](http://regis.decamps.info/blog/2006/07/retour-de-rodellar/). Hé bien, voilà, c’est fait.
   

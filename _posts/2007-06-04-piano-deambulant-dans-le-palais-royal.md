@@ -9,11 +9,9 @@ guid: http://regis.decamps.info/blog/2007/06/piano-deambulant-dans-le-palais-roy
 permalink: /blog/2007/06/piano-deambulant-dans-le-palais-royal/
 dsq_thread_id:
   - "189256894"
-tmac_last_id:
-  - ""
+
 categories:
   - Art
-  - Photo
 tags:
   - Insolite
 ---
@@ -24,5 +22,3 @@ tags:
 Je passe tous les jours par le Palais Royal pour aller déjeuner, et il y a souvent des oeuvres qui sont exposées en plein air. Mais c’est rare de voir de la musique jouée sur un piano qui circule dans tout le jardin.
 
 En plus d’être bon musicien, le pianiste était bon acteur et faisait des regards mielleux aux jeunes filles assises après s’être approché d’elles.
-  
-<br clear="all" />

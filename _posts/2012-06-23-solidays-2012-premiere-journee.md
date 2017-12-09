@@ -18,10 +18,12 @@ al2fb_facebook_link_picture:
 dsq_thread_id:
   - "737659272"
 categories:
-  - Musique
+  - Sorties
 tags:
+  - Musique
   - Concert
   - Festival
+  - Application
 ---
 Je n’étais pas sûr d’avoir envie de retourner encore une fois à Solidays cette année, mais la programmation m’a fait changer d’avis.
 

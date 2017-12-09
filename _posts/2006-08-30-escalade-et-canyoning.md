@@ -7,16 +7,14 @@ author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2006/09/escalade-et-canyoning/
 permalink: /blog/2006/08/escalade-et-canyoning/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "562729894"
 categories:
+  - Perso
+tags:
   - Sport
   - Vacances
-tags:
-  - Canyoning
-  - Escalade
 ---
 Aujourd’hui, on a prévu de faire un petit parcours en canyon. Il commence par un grand rappel, on est donc retourné sur le mur école pour améliorer notre technique de moulinette.
 

@@ -7,15 +7,14 @@ author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2007/12/gmail-chat-aim-undeserved-hype-not-interoperability/
 permalink: /blog/2007/12/gmail-chat-aim-undeserved-hype-not-interoperability/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "650271357"
 categories:
   - English
-  - Informatique
+  - High-tech
 tags:
-  - Gmail
+  - Email
   - Instant messaging
 ---
 The Google team has blogged that [Gmail + chat + AIM = crazy delicious](http://gmailblog.blogspot.com/2007/12/gmail-chat-aim-crazy-delicious.html) and wrote some blabla about interoperability.

@@ -7,14 +7,12 @@ author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2007/10/gmail-par-pop-et-aussi-imap/
 permalink: /blog/2007/10/gmail-par-pop-et-aussi-imap/
-tmac_last_id:
-  - ""
+
 categories:
-  - Informatique
-  - Sites web
+  - High-tech
 tags:
+  - Web
   - Email
-  - Gmail
   - Google
 ---
 L’une des fonctionnalités les plus attendues sur [Gmail est la possibilité de se connecter en IMAP](http://mail.google.com/support/bin/answer.py?ctx=gmail&answer=75725). Ce sera bientôt possible (et ça l’est déjà pour certains). Les avantages sont tellement nombreux que j’en oublierais si je les citais. 

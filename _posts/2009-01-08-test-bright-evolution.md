@@ -12,9 +12,9 @@ dsq_thread_id:
   - "189257683"
 wordbooker_options:
   - 'a:8:{s:18:"wordbook_noncename";s:10:"9114f1cb7f";s:18:"wordbook_page_post";s:4:"-100";s:18:"wordbook_orandpage";s:1:"2";s:23:"wordbook_default_author";s:1:"1";s:23:"wordbook_extract_length";s:3:"256";s:19:"wordbook_actionlink";s:3:"300";s:18:"wordbook_attribute";s:0:"";s:29:"wordbooker_status_update_text";s:33:"New blog post :  %title% - %link%";}'
-tmac_last_id:
-  - ""
+
 categories:
+  - Misc
   - Perso
 tags:
   - Anglais
@@ -23,9 +23,6 @@ tags:
 **Edit 20 juin 2011**: [Exemples des types de questions posées](http://regis.decamps.info/blog/2011/06/test-bright-quelques-exemples/).
 
 J’ai passé le test Bright ; je m’en tire avec un score correct mais non exception de 4.1 sur 5.
-  
-<!--more-->
-
 
   
 Le _Bright Evolution test_ est un concurrent du TOEIC. Il consiste en 80 questions écrites telles que « _**(**He has worked**|**He worked**|**He has been working**|**He works**)** all day yesterday_ » ; et 60 questions orales (de compréhension.

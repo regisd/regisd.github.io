@@ -7,14 +7,12 @@ author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=607
 permalink: /blog/2008/11/un-nouveau-parti-de-gauche/
-tmac_last_id:
-  - ""
+
 categories:
-  - Actualités
-  - Politique
+  - Edito
 tags:
-  - Crise financière
-  - Parti socialiste
+  - Politique
+  - Économie
 ---
 Jean-Luc Mélenchon (député de l’Essonne) et Marc Dolez (dépué du Nord) refusent les orientations que prend le Parti Socialiste. Ils estiment que la gauche doit s’opposer au traité de Lisbonne et doit remettre en cause le libéralisme. Ils quittent donc le PS pour former [pour la république sociale](http://www.casuffitcommeca.fr/).
 

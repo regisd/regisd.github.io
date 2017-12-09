@@ -8,12 +8,12 @@ excerpt: "La radio personnalisée qu'offre Last.fm est géniale"
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=73
 permalink: /blog/2005/10/lastfm-la-meilleure-des-radios/
-tmac_last_id:
-  - ""
+
 categories:
-  - Informatique
+  - High-tech
+tags:
   - Musique
-  - Sites web
+  - Web
 ---
 Après quelques temps d’entraînement, Last.fm (anciennement audioscrobbler) connaît [mes goûts musicaux](http://www.last.fm/user/wakaseoo/). Et il est maintenant en mesure de m’offrir une [radio personnalisée](http://www.last.fm/radio/).
 

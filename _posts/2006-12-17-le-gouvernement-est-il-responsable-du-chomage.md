@@ -7,13 +7,14 @@ author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2006/12/le-gouvernement-est-il-responsable-du-chomage/
 permalink: /blog/2006/12/le-gouvernement-est-il-responsable-du-chomage/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "189256751"
 categories:
-  - Général
+  - Edito
+tags:
   - Politique
+  - Économie
 ---
 Je me suis souvent demandé si l’action gouvernementale pouvait changer le taux de chômage. La réponse est évidemment oui (le gouvernement choisit le taux d’imposition, décide de la mise ne place de politique d’aide à l&#8217;emploi, etc.). Mais en même temps, la réponse est évidemment non (le gouvernement ne peut rien à un choc pétrolier, aux attentats, à l’économie des pays partenaires, etc.).
 
@@ -29,3 +30,12 @@ Moi, je n’en trouve pas. J’imagine donc qu’il faudrait tracer d’autres c
   * la différence entre la croissance du chômage français et la croissance du chômage européen
   * les PIB et PNB
   * la dette
+
+
+Malheureusement les données ne sont disponibles que tous les 5 ans sur le site de l’INSEE.
+
+[<img id="image376" src="/blog/wp-content/uploads/2006/12/capture15_chomage+dette.thumbnail.png" alt="Chomage et dette publique en France" />](/blog/wp-content/uploads/2006/12/capture15_chomage+dette.png "Chomage et dette publique en France"){.imagelink}
+
+Cette fois, je vois une corrélation assez forte. Globalement, la dette augmente autant que le chômage quand le chômage augmente, et la dette stagne quand le chômage diminue.
+
+Il faut vraiment que j’ajoute le PNB ou le PIB européen pour qu’on puisse avoir une référence de comparaison.

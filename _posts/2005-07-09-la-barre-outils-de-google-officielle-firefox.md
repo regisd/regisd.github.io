@@ -7,16 +7,16 @@ author: Régis
 layout: post
 guid: /?p=17
 permalink: /blog/2005/07/la-barre-outils-de-google-officielle-firefox/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "704287098"
 categories:
-  - Informatique
-  - Sites web
+  - High-tech
 tags:
   - Firefox
   - Google
   - Moteur de recherche
+  - Web
+  - Extension
 ---
 youpi! Google sort officiellement sa [barre d’outils pour Firefox](http://toolbar.google.com/firefox/index.html). Cependant, je trouve son [clône](http://googlebar.mozdev.org/) meilleur pour le moment.

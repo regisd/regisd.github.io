@@ -9,12 +9,12 @@ guid: http://blog.decamps.info/2006/04/le-peer-to-peer-facile/
 permalink: /blog/2006/04/le-peer-to-peer-facile/
 dsq_thread_id:
   - "189256605"
-tmac_last_id:
-  - ""
+
 categories:
-  - Extensions
-  - Informatique
+  - High-tech
 tags:
+  - Extension
+  - Firefox
   - Peer-to-peer
 ---
 J’ai reçu aujourd’hui mon accès à la version [bêta de AllPeers](http://www.allpeers.com/blog/2006/04/05/i-want-my-beta/). [AllPeers](http://www.allpeers.com/index_f.htm) est un nouveau système de peer-to-peer.

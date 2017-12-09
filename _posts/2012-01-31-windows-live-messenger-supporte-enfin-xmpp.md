@@ -10,14 +10,11 @@ permalink: /blog/2012/01/windows-live-messenger-supporte-enfin-xmpp/
 dsq_thread_id:
   - "559282301"
 categories:
-  - Brève
-  - Informatique
+  - High-tech
 tags:
   - Instant messaging
-  - Jabber
   - Microsoft
-  - OAuth
-  - Standard
+  - Libre
 ---
 J’étais passé à côté de cette excellente nouvelle: Microsoft a (enfin) ouvert <strike>msn</strike> [Windows Live Messenger avec le protocole XMPP](http://windowsteamblog.com/windows_live/b/windowslive/archive/2011/12/14/anyone-can-build-a-windows-live-messenger-client-with-open-standards-access-via-xmpp.aspx)<sup><a href="#footnote_0_2472" id="identifier_0_2472" class="footnote-link footnote-identifier-link" title="Extensible Messaging and Presence Protocol">1</a></sup>.
 

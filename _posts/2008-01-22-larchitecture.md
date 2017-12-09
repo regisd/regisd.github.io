@@ -9,10 +9,12 @@ guid: http://regis.decamps.info/blog/2008/01/larchitecture/
 permalink: /blog/2008/01/larchitecture/
 dsq_thread_id:
   - "189257165"
-tmac_last_id:
-  - ""
+
 categories:
-  - Informatique
+  - High-tech
+tags:
+  - Citation
+  - Architecture
 ---
 En faisant le ménage dans mon bureau, je suis tombé sur une plaquette d’[Octo](http://www.octo.fr/) qui offre une jolie citation du Corbusier:
 

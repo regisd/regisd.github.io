@@ -9,13 +9,11 @@ guid: http://regis.decamps.info/blog/2007/12/joyeux-noel/
 permalink: /blog/2007/12/joyeux-noel/
 dsq_thread_id:
   - "189257130"
-tmac_last_id:
-  - ""
 categories:
-  - Général
+  - Misc
 ---
 Je vous souhaite à tous un très joyeux Noël.
 
-[![Joyeux Noël](/blog/wp-content/uploads/2007/12/img_0865.JPG)](/blog/wp-content/uploads/2007/12/img_0865.JPG "Joyeux Noël")
+![Joyeux Noël](/blog/wp-content/uploads/2007/12/img_0865.JPG)
 
 La photo est d’une des vitrines du Printemps Haussman.

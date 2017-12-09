@@ -10,11 +10,10 @@ permalink: /blog/2012/02/envie-de-developpement-android/
 dsq_thread_id:
   - "584083524"
 categories:
-  - Mobile
   - Programmation
 tags:
+  - Mobile
   - Android
-  - REST
   - web-service
 ---
 Un ami me demande

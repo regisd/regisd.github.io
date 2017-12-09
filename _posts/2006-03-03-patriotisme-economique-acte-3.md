@@ -7,12 +7,12 @@ author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2006/03/patriotisme-economique-acte-3/
 permalink: /blog/2006/03/patriotisme-economique-acte-3/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "874797934"
 categories:
-  - Actualités
+  - Edito
+tags:
   - Politique
 ---
 Danone, Arcelor, la série continue avec Suez. Devant l’offensive

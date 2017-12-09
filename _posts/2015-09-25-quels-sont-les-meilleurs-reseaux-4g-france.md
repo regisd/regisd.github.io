@@ -11,7 +11,9 @@ permalink: /blog/2015/09/quels-sont-les-meilleurs-reseaux-4g-france/
 dsq_thread_id:
   - "4166005760"
 categories:
-  - Général
+  - High-tech
+tags:
+  - Mobile
 ---
 OpenSignal mesure la vitesse de connection de milliers de téléphones, et vient de publier son [rapport trimestriel sur l’état de la 4G](http://opensignal.com/reports/2015/09/state-of-lte-q3-2015/) (LTE).
   

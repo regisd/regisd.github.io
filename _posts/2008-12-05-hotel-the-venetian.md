@@ -7,16 +7,14 @@ author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2008/12/hotel-the-venetian/
 permalink: /blog/2008/12/hotel-the-venetian/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "824065012"
 categories:
-  - Vacances
+  - Perso
 tags:
-  - Las Vegas
+  - Vacances
   - USA
-  - Voyage
 ---
 <div style="float: left; text-align: center; margin-right: 15px; margin-bottom: 15px;">
   <a href="http://www.flickr.com/photos/wakaseoo/3096080290/" title="photo sharing"><img src="http://farm4.static.flickr.com/3002/3096080290_997a4e71b1_t.jpg" alt="Hotel The Venetian" /></a><br /> <span style="font-size: 0.8em; margin-top: 0px;"><br /> <a href="http://www.flickr.com/photos/wakaseoo/3096080290/">Hotel The Venetian</a>,<br /> originally uploaded by <a href="http://www.flickr.com/people/wakaseoo/">wakaseoo</a>.<br /> </span>

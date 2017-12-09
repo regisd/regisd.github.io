@@ -7,13 +7,11 @@ author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2006/04/citation-du-jour/
 permalink: /blog/2006/04/citation-du-jour/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "671379942"
 categories:
-  - Brève
-  - Politique
+  - Misc
 tags:
   - Citation
   - Humour

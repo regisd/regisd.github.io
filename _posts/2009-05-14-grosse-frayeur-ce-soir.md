@@ -9,14 +9,11 @@ guid: http://regis.decamps.info/blog/?p=885
 permalink: /blog/2009/05/grosse-frayeur-ce-soir/
 dsq_thread_id:
   - "189257797"
-tmac_last_id:
-  - ""
+
 categories:
-  - Linux
+  - High-tech
 tags:
   - Linux
-  - LVM
-  - RAID
 ---
 Ce soir, mon ordinateur ne démarre pas. Un système de fichiers n’a pas pu être monté à cause d’incohérences. Manque de bol, il s’agit de `/home`. Mais je suis encore confiant.
 

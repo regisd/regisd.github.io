@@ -12,11 +12,9 @@ permalink: /blog/2014/11/android-lollipop/
 dsq_thread_id:
   - "3150546482"
 categories:
-  - Informatique
+  - High-tech
 tags:
   - Android
-  - Lollipop
-  - WebView
 ---
 Ce qui distingue [Lollipop](http://www.android.com/versions/lollipop-5-0/), c’est d’abord sa nouvelle interface graphique. Avec des animations discrètes, l’interface paraît très naturelle et fluide.
 

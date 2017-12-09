@@ -9,12 +9,11 @@ guid: http://regis.decamps.info/blog/2006/12/petite-page-de-verite-sur-la-banque
 permalink: /blog/2006/12/petite-page-de-verite-sur-la-banque-de-france/
 dsq_thread_id:
   - "189256757"
-tmac_last_id:
-  - ""
+
 categories:
-  - Actualités
+  - Edito
 tags:
-  - Banque de France
+  - Boulot
 ---
 Challenge, Capital, Le nouvel Obs, etc. Beaucoup de magazines peu sérieux font leur une sur les « privilèges » des agents de la Banque de France.
 

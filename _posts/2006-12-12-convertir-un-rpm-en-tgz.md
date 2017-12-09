@@ -7,14 +7,14 @@ author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2006/12/convertir-un-rpm-en-tgz/
 permalink: /blog/2006/12/convertir-un-rpm-en-tgz/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "693537644"
 categories:
-  - Linux
+  - High-tech
 tags:
   - HOWTO
+  - Linux
 ---
 À mon travail, j’ai un compte Unix sur un serveur AIX sur lequel il n’y a pas tout ce que je veux…; Du coup j’ai envie d’en ajouter un peu…;
 

@@ -8,9 +8,10 @@ excerpt: Tout ça pour ça?
 layout: post
 guid: http://blog.decamps.info/2006/06/marie-antoinette-le-film/
 permalink: /blog/2006/06/marie-antoinette-le-film/
-tmac_last_id:
-  - ""
-categories:
+
+catégories:
+  -Art
+tags:
   - Cinéma
 ---
 Avec tout le bruit qui a entouré la sortie de Marie-Antoinette de Sofia Coppola, je m’attendais à un film à la hauteur de Virgin Suicides. Eh ben non.

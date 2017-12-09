@@ -7,15 +7,14 @@ author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=900
 permalink: /blog/2009/06/kde-and-video-mode-not-supported-solved/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "596795371"
 categories:
-  - Linux
+  - High-tech
 tags:
   - KDE
-  - Vidéo
+  - Linux
 ---
 Today, in KDE, I have started a windows application throuh wine. The applicaiton tried to change the video mode, and my screen turned blank with « Video mode not supported ». This means that the resolution or refresh rate are not supported by the screen. 
 

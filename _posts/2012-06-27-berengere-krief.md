@@ -18,9 +18,9 @@ al2fb_facebook_link_picture:
 dsq_thread_id:
   - "743397686"
 categories:
-  - Théâtre
+  - Sorties
 tags:
-  - Paris
+  - Théâtre
 ---
 Le spectacle de [Bérengère Krief](http://www.berengerekrief.com/) (la fille de [bref](http://www.canalplus.fr/c-divertissement/pid3848-c-bref.html)) est vraiment très drôle.
 

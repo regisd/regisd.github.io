@@ -8,13 +8,11 @@ excerpt: On ne peut pas retirer une loi qui a été démocratiquement votée!
 layout: post
 guid: http://blog.decamps.info/2006/03/cpe-mais-quel-retrait/
 permalink: /blog/2006/03/cpe-mais-quel-retrait/
-tmac_last_id:
-  - ""
+
 categories:
-  - Actualités
-  - Politique
+  - Edito
 tags:
-  - CPE
+  - Politique
 ---
 La bande de petit contre (comme le titrait 20 Minutes) et les syndicats ont été encore plus nombreux à « \[réclamer le retrait du CPE\](http://www.cfdt.fr/cfdt\_action/agenda/articles/evenement\_0069.htm) hier. 
 

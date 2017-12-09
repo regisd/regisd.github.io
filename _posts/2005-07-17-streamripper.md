@@ -8,11 +8,12 @@ excerpt: "J'ai quelques années de retard, mais je me suis enfin lancé dans le 
 layout: post
 guid: /?p=21
 permalink: /blog/2005/07/streamripper/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - ""
 categories:
+  - High-tech
+tags:  
   - Linux
   - Logiciel
   - Musique

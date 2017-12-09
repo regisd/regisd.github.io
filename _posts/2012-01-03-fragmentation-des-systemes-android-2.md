@@ -14,8 +14,9 @@ wordbooker_thumb:
 dsq_thread_id:
   - "565724697"
 categories:
-  - Mobile
+  - High-tech
 tags:
+  - Mobile
   - Android
 ---
 Une petite [mise à jour des chiffres sur la fragmentation](http://regis.decamps.info/blog/2011/03/fragmentation-des-systemes-android/ "Derniers chiffres de mars 2011") de la plateforme Android.<figure id="attachment_2357" style="width: 350px" class="wp-caption alignnone">

@@ -8,11 +8,11 @@ excerpt: "J'ai mis à jour mon extension pour firefox."
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=101
 permalink: /blog/2005/11/blogmarks-passe-en-version-10/
-tmac_last_id:
-  - ""
+
 categories:
-  - Extensions
+  - Projet
 tags:
+  - Extension
   - Blogmark
 ---
 J’ai mis à jour Blogmark, ma petite extension pour firefox. Celle-ci ajoute une entrée « Blogmark » dans le menu contextuel de la page dans Mozilla firefox. 

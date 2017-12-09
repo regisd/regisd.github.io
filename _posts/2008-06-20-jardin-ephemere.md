@@ -9,13 +9,10 @@ guid: http://regis.decamps.info/blog/?p=529
 permalink: /blog/2008/06/jardin-ephemere/
 dsq_thread_id:
   - "189257365"
-tmac_last_id:
-  - ""
+
 categories:
-  - Actualités
-  - Photo
+  - Actu
 tags:
-  - Jardin
   - Paris
 ---
 Le parvis de l’Hôtel de Ville est revêtu d’un jardin éphémaire. 3000m² n’est pas une très grande surface, mais je trouve cette verdure fort appréciable.

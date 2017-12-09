@@ -7,14 +7,14 @@ author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=916
 permalink: /blog/2009/07/comportement-du-clic-sous-kde/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "594966135"
 categories:
-  - Linux
+  - High-tech
 tags:
   - KDE
+  - HOWTO
 ---
 KDE accepte 2 modes de fonctionnement de la souris :
 

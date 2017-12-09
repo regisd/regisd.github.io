@@ -13,10 +13,11 @@ tmac_last_id:
 dsq_thread_id:
   - "557936512"
 categories:
-  - Mobile
+  - High-tech
 tags:
+  - Mobile
   - Android
-  - Talaria
+  - Best practice
 ---
 Quand il y a un bug grave dans une application Android, elle crashe. Le téléphone propose alors d’envoyer un rapport de bug. Est-ce utile? Que faut-il indiquer en commentaire?
   

@@ -16,6 +16,8 @@ al2fb_facebook_link_picture:
 dsq_thread_id:
   - "1033822667"
 categories:
+  - Sorties
+tags:
   - Théâtre
 ---
 <a class="fancybox" rel="fancybox-1" href="/blog/wp-content/uploads/2013/01/Comme-sil-en-pleuvait.jpeg" title="Comme s'il en pleuvait"><img src="/blog/wp-content/uploads/2013/01/Comme-sil-en-pleuvait-274x350.jpeg" alt="Affiche" width="274" height="350" class="alignleft size-medium wp-image-3084" srcset="/blog/wp-content/uploads/2013/01/Comme-sil-en-pleuvait-274x350.jpeg 274w, /blog/wp-content/uploads/2013/01/Comme-sil-en-pleuvait-235x300.jpeg 235w, /blog/wp-content/uploads/2013/01/Comme-sil-en-pleuvait.jpeg 627w" sizes="(max-width: 274px) 100vw, 274px" /></a>

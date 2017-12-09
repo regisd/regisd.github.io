@@ -16,11 +16,9 @@ al2fb_facebook_link_picture:
 dsq_thread_id:
   - "1116917727"
 categories:
-  - Théâtre
+  - Sorties
 tags:
-  - Classique
-  - Comédie
-  - Danse
+  - Théâtre
 ---
 [<img src="/blog/wp-content/uploads/2013/03/songe_nuit_été-261x350.jpeg" alt="affiche du spectacle avec Lorant Deutsch" width="261" height="350" class="alignright size-medium wp-image-3117" srcset="/blog/wp-content/uploads/2013/03/songe_nuit_été-261x350.jpeg 261w, /blog/wp-content/uploads/2013/03/songe_nuit_été-224x300.jpeg 224w, /blog/wp-content/uploads/2013/03/songe_nuit_été.jpeg 448w" sizes="(max-width: 261px) 100vw, 261px" />](/blog/wp-content/uploads/2013/03/songe_nuit_été.jpeg){.fancybox}
 

@@ -9,12 +9,11 @@ guid: http://regis.decamps.info/blog/2007/07/velib-le-prix-sera-exponentiel/
 permalink: /blog/2007/07/velib-le-prix-sera-exponentiel/
 dsq_thread_id:
   - "189256960"
-tmac_last_id:
-  - ""
+
 categories:
-  - Général
+  - Misc
 tags:
-  - Vélib
+  - Paris
 ---
 Après l’abonnement de 29€ par an pour uriliser Vélib (les touristes trouveront un abonnement à 1€ la journée), il faut payer pour utiliser Vélib.
 

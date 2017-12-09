@@ -18,11 +18,10 @@ al2fb_facebook_link_picture:
 dsq_thread_id:
   - "1011446248"
 categories:
-  - Théâtre
+  - Sorties
 tags:
-  - Comédie
+  - Théâtre
   - Humour
-  - Théâtre de boulevard
 ---
 <img src="/blog/wp-content/uploads/2013/01/vz-d7cb7c37-6732-4d9d-85b9-e49d229826c4.jpeg" alt="Affiche de 5 Minutes de plaisir... 30 ans d&#039;emmerdes" width="180" height="246" class="alignleft size-full wp-image-3068" />
 

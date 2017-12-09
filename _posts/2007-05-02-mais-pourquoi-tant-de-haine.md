@@ -9,11 +9,10 @@ guid: http://regis.decamps.info/blog/2007/05/mais-pourquoi-tant-de-haine/
 permalink: /blog/2007/05/mais-pourquoi-tant-de-haine/
 dsq_thread_id:
   - "189256827"
-tmac_last_id:
-  - ""
+
 categories:
-  - Actualités
-  - Général
+  - Edito
+tags:
   - Politique
 ---
 Ségolène Royal et Nicolas Sarkozy ont « débatu » ce soir. 

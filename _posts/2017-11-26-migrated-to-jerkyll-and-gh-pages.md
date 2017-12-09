@@ -2,8 +2,9 @@
 title: Blog migré sur Github pages avec Jekyll
 date: 2017-11-26T17:12:00+01:00
 categories:
-  - Général
-layout: post
+  - Misc
+tags:
+  - Blog
 ---
 
 L'informatique semble être un éternel mouvement pendulaire. Dans les années 90, les sites

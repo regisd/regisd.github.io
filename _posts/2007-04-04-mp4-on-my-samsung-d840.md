@@ -7,10 +7,13 @@ author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2007/04/mp4-on-my-samsung-d840/
 permalink: /blog/2007/04/mp4-on-my-samsung-d840/
-tmac_last_id:
-  - ""
+
 categories:
   - English
+  - High-tech
+tags:
+  - Mobile
+  - HOWTO
   - Linux
 ---
 With some trial and error, I finally found how to encode videos to play on my Samsung D840.

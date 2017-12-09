@@ -7,14 +7,13 @@ author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2006/09/aiguille-du-midi/
 permalink: /blog/2006/09/aiguille-du-midi/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "1076737043"
 categories:
-  - Photo
-  - Vacances
+  - Perso
 tags:
+  - Vacances
   - Montagne
 ---
 Avec le beau temps qu’il a fait ces derniers jours, et puisqu’on ne quitte Chamonix qu’à 15h, on décide de visiter l’[Aiguille du midi](http://www.compagniedumontblanc.fr/fr/aiguille/aiguille_site.htm).

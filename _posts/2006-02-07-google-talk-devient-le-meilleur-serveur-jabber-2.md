@@ -9,14 +9,13 @@ guid: http://blog.decamps.info/2006/02/google-talk-devient-le-meilleur-serveur-j
 permalink: /blog/2006/02/google-talk-devient-le-meilleur-serveur-jabber-2/
 dsq_thread_id:
   - "189256446"
-tmac_last_id:
-  - ""
+
 categories:
-  - Informatique
+  - High-tech
 tags:
-  - Astuce
+  - Libre
   - Instant messaging
-  - Moteur de recherche
+  - Google
 ---
 Google Talk a rejoint le réseau [Jabber](http://www.jabber.org/). Et dans la foulée, il devient un de meilleurs serveur Jabber, puisque les [conversations peuvent maintenant être archivées](http://googletalk.blogspot.com/2006/02/save-chat-and-more.html)! Il suffit d’activer l’option dans son compte GMail.
 

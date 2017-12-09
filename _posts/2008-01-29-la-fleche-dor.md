@@ -9,11 +9,11 @@ guid: http://regis.decamps.info/blog/2008/01/la-fleche-dor/
 permalink: /blog/2008/01/la-fleche-dor/
 dsq_thread_id:
   - "189257206"
-tmac_last_id:
-  - ""
+
 categories:
-  - Musique
+  - Sorties
 tags:
+  - Musique
   - Concert
   - Paris
 ---

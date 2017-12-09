@@ -10,10 +10,12 @@ guid: http://regis.decamps.free.fr/wordpress/?p=56
 permalink: /blog/2005/09/linternet-nest-pas-un-media-efficace/
 dsq_thread_id:
   - "189256260"
-tmac_last_id:
-  - ""
+
 categories:
+  - Misc
+tags:
   - Politique
+  - Web
 ---
 Patrick Devedjan avait ouvert son blog en juin. Il avait lu les bons conseils de « Blogguer pour les Nuls » et postait une brève par jour. Malheureusement, il a vite perdu son rythme: seulement 2 posts par mois pendant les vacances. Et la rentrée l’a achevé « _Naïvement, j’ai pensé pouvoir tout faire, notamment le blog, et ce n’est pas possible_« . 
 

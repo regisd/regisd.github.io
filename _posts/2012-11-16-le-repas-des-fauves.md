@@ -16,11 +16,9 @@ al2fb_facebook_link_time:
 dsq_thread_id:
   - "932364551"
 categories:
-  - Théâtre
+  - Sorties
 tags:
-  - amitité
-  - nazi
-  - occupation
+  - Théâtre
 ---
 Alors que des amis se retrouvent pour un anniversaire, la Gestapo surgit et réclame deux personnes pour venger l’assassinat de soldats qui vient d’avoir lieu au pied de l’immeuble. Dans un sadisme absolu, en apprenant qu’il s’agit d’une fête d’anniversaire, l’officier SS laisse les convives désigner eux-mêmes ces deux otages.
   

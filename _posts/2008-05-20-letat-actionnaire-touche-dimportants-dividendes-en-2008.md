@@ -9,10 +9,9 @@ guid: http://regis.decamps.info/blog/?p=523
 permalink: /blog/2008/05/letat-actionnaire-touche-dimportants-dividendes-en-2008/
 dsq_thread_id:
   - "189257306"
-tmac_last_id:
-  - ""
+
 categories:
-  - Actualités
+  - Actu
 tags:
   - Économie
 ---

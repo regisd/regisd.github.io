@@ -8,6 +8,8 @@ excerpt: Je pense que cette pièce sera vite oubliée. Le scénario sans grand i
 layout: post
 permalink: /blog/2009/05/petits-mensonges-entre-amis-theatre/
 categories:
+  - Sorties
+tags:
   - Théâtre
 ---
 Je pense que cette pièce sera vite oubliée. Le scénario sans grand intérêt ne tire son énergie que par des changements de scène fréquents. Quelques jeux de mots dans le texte, mais rien d’hilarant, et bizarrement très peu de comique de situation.

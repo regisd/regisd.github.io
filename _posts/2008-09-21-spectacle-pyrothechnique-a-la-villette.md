@@ -7,14 +7,12 @@ author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2008/09/spectacle-pyrothechnique-a-la-villette/
 permalink: /blog/2008/09/spectacle-pyrothechnique-a-la-villette/
-tmac_last_id:
-  - ""
+
 categories:
+  - Sorties
   - Art
-  - Photo
 tags:
   - Paris
-  - Pyrotechnique
   - Spectacle
 ---
 <div style="float: left; text-align: center; margin-right: 15px; margin-bottom: 15px;">
@@ -22,5 +20,3 @@ tags:
 </div>
 
 J’ai beaucoup aimé le spectacle « Des paysages » du [Groupe F, hier soir, à la villette](http://www.villette.com/pops/groupe_f.html).
-  
-<br clear="all" />

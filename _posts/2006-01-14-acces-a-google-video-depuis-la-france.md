@@ -7,12 +7,11 @@ author: Régis
 layout: post
 guid: http://blog.decamps.info/2006/01/acces-a-google-video-depuis-la-france/
 permalink: /blog/2006/01/acces-a-google-video-depuis-la-france/
-tmac_last_id:
-  - ""
+
 categories:
-  - Extensions
-  - Sites web
+  - High-tech
 tags:
+  - Extension
   - Firefox
 ---
 Normalement \[Google Video\](http://video.blog.com) n’est pas accessible depuis la France. (Je dis _normalement_ parce que je peux l’utiliser sans problème et sans bidouille).

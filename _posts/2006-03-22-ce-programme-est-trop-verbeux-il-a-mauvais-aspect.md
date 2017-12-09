@@ -8,13 +8,11 @@ excerpt: "Aujourd'hui j'aurais pû être sauvé par l'AOP."
 layout: post
 guid: http://blog.decamps.info/?p=230
 permalink: /blog/2006/03/ce-programme-est-trop-verbeux-il-a-mauvais-aspect/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "578842514"
 categories:
-  - Boulot
-  - Informatique
+  - Programmation
 tags:
   - Java
 ---

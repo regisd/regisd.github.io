@@ -7,12 +7,12 @@ author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=946
 permalink: /blog/2009/11/sharepoint-limits-url-to-260-characters/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "567344442"
 categories:
-  - Informatique
+  - High-tech
+  - English
 tags:
   - Bug
   - Microsoft
@@ -27,13 +27,8 @@ If a directory or file is created, and the total length exceed this, you get a v
 The RFC 2616 which defines HTTP/1.1 even says this should be an error 414:
 
 > The HTTP protocol does not place any a priori limit on the length of
-     
 > a URI. Servers MUST be able to handle the URI of any resource they
-     
 > serve, and SHOULD be able to handle URIs of unbounded length if they
-     
 > provide GET-based forms that could generate such URIs. A server
-     
 > SHOULD return 414 (Request-URI Too Long) status if a URI is longer
-     
 > than the server can handle

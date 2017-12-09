@@ -8,20 +8,18 @@ excerpt: "Ca devient n'importe quoi. Nicolas Sarkozy va recevoir une <em>google 
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=80
 permalink: /blog/2005/10/une-google-bomb-pour-sarkozy/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "709252807"
 categories:
-  - Informatique
-  - Politique
+  - Actu
 tags:
   - Email
-  - Spam
+  - Politique
 ---
 Depuis quelques temps, je n’entends plus parler que du SarkoSpam.
 
-Si &lsquo;jai bien compris, on a d’un côté des zozos qui ont du temps à perdre et qui sont prêts à recevoir des miles, des supermiles voire même des [Maximiles](http://www.maximiles.com) pour le perdre en lisant des courriers électroniques publicitaires (Maximiles paye quand même 10M par e-mail lu; après seulement 227 pourriels, on peut tout de même recevoir un DVD de _Unleashed_)
+Si j'ai bien compris, on a d’un côté des zozos qui ont du temps à perdre et qui sont prêts à recevoir des miles, des supermiles voire même des [Maximiles](http://www.maximiles.com) pour le perdre en lisant des courriers électroniques publicitaires (Maximiles paye quand même 10M par e-mail lu; après seulement 227 pourriels, on peut tout de même recevoir un DVD de _Unleashed_)
 
 De l’autre côté, on a un [homme politique qui pense beaucoup à sa carrière et énormément aux présidentielles de 2007](http://sarkozyblog.free.fr/) quand il se rase devant son miroir (oh mon beau miroir, suis-je plus fort des hommes politiques d’aujourd’hui?). Et le jeune poseur de radars veut rajeunir l’image de son parti, l’UMP (qui, rappelons-le, était le sigle d’Union pour la majorité présidentielle, c’est à dire un nom débile pour un objectif très clair mais est devenu le signe d’Union pour un Mouvement Populaire c’est à dire une nom en contresens de la politique que le mouvement veut mener). Et pour ramenir l’image de son parti, Sarkozy décide d’envoyer une pub à tous les zozos d’avant pour les inviter à rejoindre l’UMP.
 

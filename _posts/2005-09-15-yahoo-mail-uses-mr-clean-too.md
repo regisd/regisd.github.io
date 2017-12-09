@@ -10,10 +10,13 @@ guid: http://regis.decamps.free.fr/wordpress/?p=61
 permalink: /blog/2005/09/yahoo-mail-uses-mr-clean-too/
 dsq_thread_id:
   - "189256317"
-tmac_last_id:
-  - ""
+
 categories:
-  - Informatique
+  - High-tech
+  - English
+tags:
+  - Email
+  - Webapp
 ---
 I’ve just read a [review of the new Yahoo! mail service](http://yahoo.weblogsinc.com/entry/1234000380058717/), beta.
 

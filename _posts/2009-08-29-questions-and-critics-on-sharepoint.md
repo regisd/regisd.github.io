@@ -7,12 +7,11 @@ author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=930
 permalink: /blog/2009/08/questions-and-critics-on-sharepoint/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "919259575"
 categories:
-  - Informatique
+  - High-tech
 tags:
   - Bug
   - Microsoft

@@ -7,12 +7,11 @@ author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2008/12/countdown-for-pedestrians/
 permalink: /blog/2008/12/countdown-for-pedestrians/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "687837683"
 categories:
-  - Photo
+  - Misc
 tags:
   - Insolite
   - USA
@@ -23,4 +22,4 @@ tags:
 
 Aux Etats-Unis, on sait combien de temps il reste pour traverser un passage clouté. Arrivé à 0, le feu passe au vert pour les oitures.
   
-<br clear="all" />
+

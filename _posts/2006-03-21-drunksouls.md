@@ -10,12 +10,12 @@ guid: http://blog.decamps.info/?p=232
 permalink: /blog/2006/03/drunksouls/
 dsq_thread_id:
   - "189256551"
-tmac_last_id:
-  - ""
+
 categories:
-  - Musique
+  - Art
 tags:
-  - DADVSI
+  - Musique
+  - Libre
 ---
 Je suis en train d’écouter [Drunksouls](http://www.drunksouls.com/galerie/galerieflash/index.php), que j’ai [découvert sur Jamendo](http://www.jamendo.com/fr/artist/drunksouls/) complètement par hasard. Le hasard peut faire vraiment de bonnes surprises parfois: je dois dire que j’aime beaucoup ce groupe funk-rock marseillais.
 

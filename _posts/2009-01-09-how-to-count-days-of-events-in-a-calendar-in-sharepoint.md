@@ -7,13 +7,12 @@ author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=782
 permalink: /blog/2009/01/how-to-count-days-of-events-in-a-calendar-in-sharepoint/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "714477685"
 categories:
+  - Programmation
   - English
-  - Informatique
 tags:
   - SharePoint
 ---

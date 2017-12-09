@@ -9,10 +9,10 @@ guid: http://regis.decamps.free.fr/wordpress/?p=98
 permalink: /blog/2005/11/cest-si-facile-de-se-moquer/
 dsq_thread_id:
   - "189256369"
-tmac_last_id:
-  - ""
+
 categories:
-  - Actualités
+  - Edito
+tags:
   - Politique
 ---
 J’ai été un peu prompt à me moquer des journalistes de CNN qui placent [un peu à côté plusieurs villes de France](http://img177.imageshack.us/img177/818/cnn3as.jpg). Je dois d’abord corriger, il n’y a pas besoin de regarder les médias étrangers. La copie d’écran vient en fait de France 2. 

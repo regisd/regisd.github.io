@@ -9,11 +9,10 @@ guid: http://regis.decamps.info/blog/?p=828
 permalink: /blog/2009/02/not-easy-to-review-and-publish-drafts-in-sharepoint/
 dsq_thread_id:
   - "189257733"
-tmac_last_id:
-  - ""
+
 categories:
   - English
-  - Informatique
+  - High-tech
 tags:
   - SharePoint
 ---

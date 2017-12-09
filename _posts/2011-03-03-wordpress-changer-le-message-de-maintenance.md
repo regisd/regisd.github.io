@@ -17,13 +17,11 @@ wordbooker_extract:
     Indisponibilité temporaire pour cause de maintenance. Veuillez revenir dans un instant
     
     En fait, il est possible de mettre ce que l'on souhaite. Il suff ...
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "560162129"
 categories:
-  - Général
-  - Informatique
+  - Programmation
 tags:
   - Wordpress
 ---

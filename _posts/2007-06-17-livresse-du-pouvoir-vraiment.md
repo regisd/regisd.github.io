@@ -9,13 +9,12 @@ guid: http://regis.decamps.info/blog/2007/06/livresse-du-pouvoir-vraiment/
 permalink: /blog/2007/06/livresse-du-pouvoir-vraiment/
 dsq_thread_id:
   - "189256922"
-tmac_last_id:
-  - ""
+
 categories:
-  - Actualités
-  - Politique
+  - Edito
 tags:
   - Humour
+  - Politique
 ---
 Comment en pas avoir vu ce reportage de la télévision belge, introduit ainsi par Eric Boever, le journaliste de La Deux:
 

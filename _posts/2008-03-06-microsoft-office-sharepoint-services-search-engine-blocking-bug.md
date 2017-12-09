@@ -8,13 +8,12 @@ excerpt: "SharePoint change la casse des URL, rendant l'indexation impossible. L
 layout: post
 guid: http://regis.decamps.info/blog/2008/03/microsoft-office-sharepoint-services-search-engine-blocking-bug/
 permalink: /blog/2008/03/microsoft-office-sharepoint-services-search-engine-blocking-bug/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "591983130"
 categories:
   - English
-  - Informatique
+  - High-tech
 tags:
   - Bug
   - Microsoft

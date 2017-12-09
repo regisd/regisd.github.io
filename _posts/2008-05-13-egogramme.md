@@ -9,10 +9,9 @@ guid: http://regis.decamps.info/blog/?p=518
 permalink: /blog/2008/05/egogramme/
 dsq_thread_id:
   - "189257287"
-tmac_last_id:
-  - ""
+
 categories:
-  - Perso
+  - Misc
 tags:
   - Test
 ---
@@ -25,7 +24,3 @@ Avec un certain nombre de questions comportementales, le test de l’égogrgamme
   * L’**enfant adapté rebelle** a un profil de « syndicaliste ». Il élève la voix, coupe la parole, et parfois grossier et emploi des expressions telles que « j’ai le droit » ou « je ne veux pas ». Il contrebalance le parent normatif. Mais il est source d’agitation.
   * L’**enfant spontané** a un profil d’ « artiste ». Il est spontané, naturel, s’amuse. Il emploi un langage simple, peut facilement couper la parole, utiliser des honomatopées, dis ce qu’il « aime ».Il est source d’énergie et de bonheur. En revanche, il est inadapté au travail d’entreprise.
   * L’**enfant rêveur** a un profil de « chercheur ». Il peut facilemetn rêver, regarder par la fenêtre. Il a des idées, c’est un créatif. En revanche, il communique peu.
-
-J’ai passé le test de l’égogramme corrigé. Et voici mon résultat :
-  
-[<img src="/blog/wp-content/uploads/2008/05/egogramme-300x100.png" alt="Résultats de mon égogramme" title="egogramme" width="300" height="100" class="alignnone size-medium wp-image-519" srcset="/blog/wp-content/uploads/2008/05/egogramme-300x100.png 300w, /blog/wp-content/uploads/2008/05/egogramme.png 600w" sizes="(max-width: 300px) 100vw, 300px" />](/blog/wp-content/uploads/2008/05/egogramme.png)

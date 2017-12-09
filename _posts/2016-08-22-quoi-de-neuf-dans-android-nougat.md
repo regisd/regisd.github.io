@@ -10,9 +10,9 @@ permalink: /blog/2016/08/quoi-de-neuf-dans-android-nougat/
 dsq_thread_id:
   - "5414638366"
 categories:
-  - Informatique
-  - Mobile
+  - High-tech
 tags:
+  - Mobile
   - Android
 ---
 Les mises-à-jour d’Android s’enchainent, et [Android Nougat](https://www.android.com/versions/nougat-7-0/) est maintenant sorti sur les Nexus 5X, 6, 6P, et Pixel C, et Android One General Mobile. Comme annoncé lors du [Google I/O](http://regis.decamps.info/blog/2016/05/google-io-2016/), on trouve:

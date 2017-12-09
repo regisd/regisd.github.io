@@ -8,15 +8,12 @@ excerpt: "La direction générale des impôts abandonne MS Office pour OpenOffic
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=96
 permalink: /blog/2005/11/la-direction-generale-des-impots-se-decide-a-faire-30-millions-deconomies/
-tmac_last_id:
-  - ""
+
 categories:
-  - Actualités
+  - Actu
 tags:
-  - Économie
   - Libre
-  - Office
-  - Standard
+  - Miscrosoft
 ---
 La direction générale des impôts ne va pas passer à Microsoft Office XP. Elle va remplacer sa version actuelle par Open Office. 
 

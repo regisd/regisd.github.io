@@ -7,16 +7,14 @@ author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2006/08/la-mer-de-glace/
 permalink: /blog/2006/08/la-mer-de-glace/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "555526308"
 categories:
-  - Photo
-  - Vacances
+  - Perso
 tags:
   - Montagne
-  - Randonnée
+  - Vacances
 ---
 En montant vers la Mer de Glace, j’ai reconnu le [petit train](http://http://www.compagniedumontblanc.fr/fr/montenvers/montenvers_train.htm) que j’avais pris avec mes parents quand j’avais 5 ans.
 

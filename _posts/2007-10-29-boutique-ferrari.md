@@ -9,13 +9,12 @@ guid: http://regis.decamps.info/blog/2007/10/boutique-ferrari/
 permalink: /blog/2007/10/boutique-ferrari/
 dsq_thread_id:
   - "189257075"
-tmac_last_id:
-  - ""
+
 categories:
-  - Brève
-  - Général
+  - Misc
+tagss:
   - Photo
-  - Shopping
+  - Paris
 ---
 <div style="float: right; margin-left: 10px; margin-bottom: 10px;">
   <a href="http://www.flickr.com/photos/wakaseoo/1801073374/" title="photo sharing"><img src="http://farm3.static.flickr.com/2197/1801073374_0d1c6be525_m.jpg" alt="" style="border: solid 2px #000000;" /></a><br /> <br /> <span style="font-size: 0.9em; margin-top: 0px;"><br /> <a href="http://www.flickr.com/photos/wakaseoo/1801073374/">Ferrari Accessoires et Merchandising</a><br /> <br /> Originally uploaded by <a href="http://www.flickr.com/people/wakaseoo/">wakaseoo</a><br /> </span>

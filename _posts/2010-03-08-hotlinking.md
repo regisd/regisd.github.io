@@ -7,14 +7,13 @@ author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=1156
 permalink: /blog/2010/03/hotlinking/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "189257871"
 categories:
-  - Général
+  - Programmation
 tags:
-  - Apache
+  - HTML
 ---
 Depuis quelques jours, mon site est vicitime d’_image hotlinking_. Résultat: depuis le début du mois, j’ai consommé plus de 35Go de bande passante, et OVH, mon hébergeur, m’envoie des emails pour me prévenir que mon blog risque d’être suspendu :-/
 

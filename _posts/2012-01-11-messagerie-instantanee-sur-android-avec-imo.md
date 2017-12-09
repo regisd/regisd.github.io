@@ -13,8 +13,9 @@ tmac_last_id:
 dsq_thread_id:
   - "555135181"
 categories:
-  - Applications
+  - High-tech
 tags:
+  - Application
   - Android
   - Instant messaging
 ---

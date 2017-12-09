@@ -7,15 +7,14 @@ author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2008/12/visite-des-casinos-de-vegas/
 permalink: /blog/2008/12/visite-des-casinos-de-vegas/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "599813718"
 categories:
-  - Photo
-  - Vacances
+  - Perso
 tags:
-  - Las Vegas
+  - Vacances
+  - USA
 ---
 <div style="float: left; text-align: center; margin-right: 15px; margin-bottom: 15px;">
   <a href="http://www.flickr.com/photos/wakaseoo/3095324377/" title="photo sharing"><img src="http://farm4.static.flickr.com/3100/3095324377_df3c0bf6fd_t.jpg" alt="Luxor resort and casino" /></a><br /> <span style="font-size: 0.8em; margin-top: 0px;"><br /> <a href="http://www.flickr.com/photos/wakaseoo/3095324377/">Luxor resort and casino</a>,<br /> originally uploaded by <a href="http://www.flickr.com/people/wakaseoo/">wakaseoo</a>.<br /> </span>

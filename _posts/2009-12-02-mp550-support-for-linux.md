@@ -7,18 +7,15 @@ author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=972
 permalink: /blog/2009/12/mp550-support-for-linux/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "557940178"
 categories:
   - English
-  - Informatique
+  - High-tech
 tags:
   - HOWTO
-  - Imprimante
   - Linux
-  - Scanner
 ---
 On many forums, I’ve read my brand new Canon Pixma MP550 would not be supported under Linux.
 

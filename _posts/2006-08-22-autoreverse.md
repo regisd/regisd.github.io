@@ -7,11 +7,12 @@ author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2006/08/autoreverse/
 permalink: /blog/2006/08/autoreverse/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "567451406"
 categories:
+  - Art
+tags:
   - Musique
 ---
 <div class='jamendo_blogpost'>

@@ -13,12 +13,11 @@ guid: http://regis.decamps.info/blog/2008/01/referencement-de-site-web/
 permalink: /blog/2008/01/referencement-de-site-web/
 dsq_thread_id:
   - "189257216"
-tmac_last_id:
-  - ""
+
 categories:
-  - Informatique
-  - Sites web
+  - High-tech
 tags:
+  - Web
   - Moteur de recherche
 ---
 Le référencement est un ensemble de techniques qui aident à placer son site dans les premiers résultats des moteurs de recherche.

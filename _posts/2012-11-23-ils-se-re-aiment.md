@@ -16,8 +16,9 @@ al2fb_facebook_link_picture:
 dsq_thread_id:
   - "949712456"
 categories:
-  - Théâtre
+  - Sorties
 tags:
+  - Théâtre
   - Humour
 ---
 Pierre Palmade et Michèle Laroque ont triomphé dans _Ils s’aiment_ et _Ils se sont aimés_ (en 1996 et 2002 respectivement). Cette année, ils remontent sur scène dans _Ils se re-aiment_. 

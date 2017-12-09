@@ -9,9 +9,10 @@ guid: http://regis.decamps.info/blog/?p=856
 permalink: /blog/2009/04/images-hdr/
 dsq_thread_id:
   - "189257767"
-tmac_last_id:
-  - ""
+
 categories:
+  - Art
+tags:
   - Photo
 ---
 J’ai découvert il y a quelque temps que mon appareil photo faisait du bracketing auto, ce qui ouvre la possibilité de photos HDRI.

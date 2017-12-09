@@ -16,9 +16,11 @@ al2fb_facebook_link_picture:
 dsq_thread_id:
   - "933164563"
 categories:
-  - Applications
+  - High-tech
+tags:
+  - Application
+  - Web
   - Musique
-  - Sites web
 ---
 C’est par Google Play que je viens d’apprendre que [Google Music](http://music.google.com/) est disponible en France (depuis mardi, je suis très en retard!)
 

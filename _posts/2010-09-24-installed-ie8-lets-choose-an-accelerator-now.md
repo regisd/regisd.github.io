@@ -7,10 +7,10 @@ author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=1407
 permalink: /blog/2010/09/installed-ie8-lets-choose-an-accelerator-now/
-tmac_last_id:
-  - ""
+
 categories:
   - English
+  - High-tech
 tags:
   - Bug
   - Microsoft

@@ -8,17 +8,15 @@ excerpt: How to design a Tab where content change on mouseover and where titles 
 layout: post
 guid: http://regis.decamps.info/blog/?p=902
 permalink: /blog/2009/06/tab-with-link-and-mouesover-effect/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "559495551"
 categories:
   - English
-  - Informatique
+  - Programmation
 tags:
   - HTML
   - JavaScript
-  - JQuery
 ---
 I like the user experience offered by [01net](http://www.01net.com/). There is a contextual text which changes when the mouse goes over titles positionned in tabs, and the tabs titles are links to a more detailed page.
 

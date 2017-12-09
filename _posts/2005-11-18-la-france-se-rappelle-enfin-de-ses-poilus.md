@@ -8,10 +8,9 @@ excerpt: "J'ai toujours trouvé choquant que la guerre la plus meurtrière en Fr
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=107
 permalink: /blog/2005/11/la-france-se-rappelle-enfin-de-ses-poilus/
-tmac_last_id:
-  - ""
+
 categories:
-  - Actualités
+  - Edito
 ---
 J’ai toujours trouvé choquant que la Première Guerre Mondiale soit ainsi tombée dans l’oubli en France. En Angleterre, tout le monde porte par exemple une marguerite le premier novembre en mémoire à la bataille de Verdun.
 

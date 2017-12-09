@@ -10,6 +10,8 @@ permalink: /blog/2014/05/la-maitresse-en-maillots-de-bain/
 dsq_thread_id:
   - "2785758702"
 categories:
+  - Sorties
+tags:
   - Théâtre
 ---
 Le contexte de cette pièce est original: une école maternelle.

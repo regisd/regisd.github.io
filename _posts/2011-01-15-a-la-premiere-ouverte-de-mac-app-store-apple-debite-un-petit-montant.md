@@ -7,17 +7,14 @@ author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=1621
 permalink: /blog/2011/01/a-la-premiere-ouverte-de-mac-app-store-apple-debite-un-petit-montant/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "560727287"
 categories:
   - Shopping
 tags:
-  - App Store
   - Apple
   - Banque
-  - Mac OS X
 ---
 Comme tout les utilisateurs de Mac OS X, j’ai ouvert Mac App Store pour voir à quoi il ressemblait.
 

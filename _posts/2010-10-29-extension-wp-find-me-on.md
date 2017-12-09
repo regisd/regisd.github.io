@@ -7,14 +7,14 @@ author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=1463
 permalink: /blog/2010/10/extension-wp-find-me-on/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "589857153"
 categories:
-  - Extensions
+  - Misc
 tags:
   - Wordpress
+  - Extension
 ---
 Hier, une collègue me demandait quels étaient les plugins sympas pour WordPress. Après tout, cela peut intéresser d’autres bloggers. Je vais donc faire une petite série d’articles pour indiquer ceux que j’utilise.
 

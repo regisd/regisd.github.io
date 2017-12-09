@@ -7,15 +7,14 @@ author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2006/08/decu-par-roy-hargrove-mais-submerge-par-no-jazz/
 permalink: /blog/2006/08/decu-par-roy-hargrove-mais-submerge-par-no-jazz/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "771392276"
 categories:
-  - Musique
+  - Art
 tags:
+  - Musique
   - Concert
-  - Jazz
 ---
 J’étais allé au Parc Floral pour écouter Roy Hargrove factor avec des copains, mais finalement j’ai été déçu par leur prestation (Sébastien est même persuadé que ce n’était pas le guitariste habituel).
 

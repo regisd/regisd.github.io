@@ -7,17 +7,17 @@ author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=953
 permalink: /blog/2009/11/extension-blogmarks-net-for-google-chrome/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "765293673"
 categories:
   - English
-  - Extensions
+  - Programmation
 tags:
   - Blogmark
   - Chrome
   - Google
+  - Extension
 ---
 Do you remember my little firefox extension for firefox to interact with Blogmarks.net?
 

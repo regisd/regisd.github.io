@@ -7,13 +7,13 @@ author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2007/08/post-pictures-to-picasa-from-linux/
 permalink: /blog/2007/08/post-pictures-to-picasa-from-linux/
-tmac_last_id:
-  - ""
+
 categories:
   - English
-  - Extensions
-  - Photo
+  - High-tech
 tags:
+  - Photo
+  - Extension
   - Google
   - Linux
 ---

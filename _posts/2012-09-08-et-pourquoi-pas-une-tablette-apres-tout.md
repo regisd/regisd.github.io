@@ -19,11 +19,9 @@ al2fb_facebook_link_picture:
 dsq_thread_id:
   - "835794736"
 categories:
-  - Brève
   - Shopping
 tags:
   - Apple
-  - FNAC
 ---
 C’est rare de trouver des promotions sur les produits Apple, alors je signale que la FNAC fait jusqu’à demain une promotion de rentrée: 10€ offerts sur la carte FNAC pour 100€ d’achats.
   

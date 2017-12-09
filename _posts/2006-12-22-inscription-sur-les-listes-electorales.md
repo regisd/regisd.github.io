@@ -7,10 +7,10 @@ author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2006/12/inscription-sur-les-listes-electorales/
 permalink: /blog/2006/12/inscription-sur-les-listes-electorales/
-tmac_last_id:
-  - ""
+
 categories:
   - Perso
+tags:
   - Politique
 ---
 Je suis allé m’inscrire sur les listes électorales de Paris. Je ne l’avais pas fait depuis mon déménagement. Ce sera plus pratique pour aller voter!

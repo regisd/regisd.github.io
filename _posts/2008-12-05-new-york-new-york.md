@@ -7,17 +7,14 @@ author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2008/12/new-york-new-york/
 permalink: /blog/2008/12/new-york-new-york/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "564518077"
 categories:
-  - Photo
-  - Vacances
+  - Perso
 tags:
-  - Las Vegas
+  - Vacances
   - USA
-  - Voyage
 ---
 <div style="float: left; text-align: center; margin-right: 15px; margin-bottom: 15px;">
   <a href="http://www.flickr.com/photos/wakaseoo/3096159182/" title="photo sharing"><img src="http://farm4.static.flickr.com/3067/3096159182_ced7c577fd_t.jpg" alt="New York New York" /></a><br /> <span style="font-size: 0.8em; margin-top: 0px;"><br /> <a href="http://www.flickr.com/photos/wakaseoo/3096159182/">New York New York</a>,<br /> originally uploaded by <a href="http://www.flickr.com/people/wakaseoo/">wakaseoo</a>.<br /> </span>

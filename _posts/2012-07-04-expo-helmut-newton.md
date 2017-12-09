@@ -46,9 +46,10 @@ dsq_thread_id:
 al2fb_facebook_exclude:
   - "1"
 categories:
-  - Exposition
-  - Photo
+  - Sorties
 tags:
+  - Expo
+  - Photo
   - Paris
 ---
 > Certains photographes font de l’art. Pas moi. Si mes photos sont exposées dans des galeries ou des musées, tant mieux. Mais ce n’est pas pour cela que je les ai réalisées. Je ne suis qu’un sbire.

@@ -9,13 +9,12 @@ guid: http://regis.decamps.info/blog/2008/03/13-des-visiteurs-subissent-encore-i
 permalink: /blog/2008/03/13-des-visiteurs-subissent-encore-internet-explorer/
 dsq_thread_id:
   - "189257260"
-tmac_last_id:
-  - ""
+
 categories:
-  - Extensions
-  - Sites web
+  - Programmation
 tags:
-  - Navigateur
+  - HTML
+  - Blog
 ---
 Aujourd’hui, j’ai navigué sur mon blog depuis le travail, et ce blog était véritablement affreusement mal présenté…; comme ceci:
   

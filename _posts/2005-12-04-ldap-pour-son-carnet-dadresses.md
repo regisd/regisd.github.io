@@ -7,14 +7,14 @@ author: Régis
 layout: post
 guid: http://blog.decamps.info/?p=121
 permalink: /blog/2005/12/ldap-pour-son-carnet-dadresses/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "615777773"
 categories:
-  - Extensions
-  - Informatique
-  - Sites web
+  - High-tech
+tags:
+  - Extension
+  - Web
 ---
 Séb vient d’ouvrir son blog et s’interroge sur \[la façon de gérer son carnet d’adresse avec LDAP\](http://blog.multiseb.com/?p=2).
 

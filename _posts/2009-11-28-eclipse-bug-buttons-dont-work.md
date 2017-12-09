@@ -10,13 +10,12 @@ excerpt: |
 layout: post
 guid: http://regis.decamps.info/blog/?p=968
 permalink: /blog/2009/11/eclipse-bug-buttons-dont-work/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "608328680"
 categories:
   - English
-  - Informatique
+  - Programmation
 tags:
   - Bug
   - Eclipse

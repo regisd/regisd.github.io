@@ -12,9 +12,7 @@ tmac_last_id:
 dsq_thread_id:
   - "561595031"
 categories:
-  - Actualités
-  - Général
-  - Sites web
+  - High-tech
 tags:
   - Google
 ---

@@ -9,12 +9,9 @@ guid: http://regis.decamps.info/blog/?p=602
 permalink: /blog/2008/11/cvs-no-space-left-on-device/
 dsq_thread_id:
   - "189257598"
-tmac_last_id:
-  - ""
+
 categories:
-  - Brève
-  - English
-  - Informatique
+  - Programmation
 tags:
   - SCM
 ---

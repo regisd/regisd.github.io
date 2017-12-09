@@ -7,15 +7,14 @@ author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2006/10/nuit-blanche/
 permalink: /blog/2006/10/nuit-blanche/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "563941473"
 categories:
   - Art
+  - Sorties
   - Perso
 tags:
-  - Nuit blanche
   - Paris
 ---
 J’ai commencé cette édition de la Nuit Blanche par le cartier de la Goutte d’Or. Il y avait beaucoup de choses, plus ou moins intéressantes.

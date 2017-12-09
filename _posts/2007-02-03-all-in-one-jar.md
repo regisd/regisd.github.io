@@ -9,13 +9,13 @@ guid: http://regis.decamps.info/blog/2007/02/all-in-one-jar/
 permalink: /blog/2007/02/all-in-one-jar/
 dsq_thread_id:
   - "189256786"
-tmac_last_id:
-  - ""
+
 categories:
   - English
   - Programmation
 tags:
   - Java
+  - Build system
 ---
 The more I use Maven, the more I think it simplifies the developer’s life and the packaging task.
 

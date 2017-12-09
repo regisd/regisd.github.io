@@ -9,10 +9,9 @@ guid: http://regis.decamps.info/blog/?p=818
 permalink: /blog/2009/02/langlicisme-est-un-emprunt-mal-a-propos/
 dsq_thread_id:
   - "189257725"
-tmac_last_id:
-  - ""
+
 categories:
-  - Général
+  - Edito
 tags:
   - Anglais
 ---

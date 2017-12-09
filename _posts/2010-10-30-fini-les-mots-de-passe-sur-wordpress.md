@@ -8,14 +8,13 @@ excerpt: "Avec JanRain, la connexion sur un blog worpress ne nécessite pas de s
 layout: post
 guid: http://regis.decamps.info/blog/?p=1466
 permalink: /blog/2010/10/fini-les-mots-de-passe-sur-wordpress/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "555134877"
 categories:
-  - Extensions
+  - Misc
 tags:
-  - OpenID
+  - Extension
   - Wordpress
 ---
 Souvent dans les forums ou les blogs, je suis prêt à poster une réponse ou un commentaire, mais quand vient le moment de le faire.

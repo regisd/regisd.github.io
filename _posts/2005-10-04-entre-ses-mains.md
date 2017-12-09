@@ -8,9 +8,10 @@ excerpt: Anne Fontaine réussit un très bon film.
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=71
 permalink: /blog/2005/10/entre-ses-mains/
-tmac_last_id:
-  - ""
+
 categories:
+  - Art
+tags:
   - Cinéma
 ---
 Claire (Isabelle Carré) travaille dans une assurance. Elle a un sourire réconfortant et des lunettes rondes qui rappellent l’harmonie de sa vie familiale. Pourtant, elle est prête à sortir des sentiers battus. Un jour, Claire rencontre Laurent (Benoît Poelvoorde), vétérinaire qui a eu un dégât des eaux. Laurent ne manque pas un prétexte pour revoir Laure. Il ne cache pas qu’il est un séducteur, ou plutôt un prédateur, il chasse les femmes. Claire se laisse séduire, éprouve un grand plaisir un tromper son mari et s’écarter de la simplicité de son foyer. 

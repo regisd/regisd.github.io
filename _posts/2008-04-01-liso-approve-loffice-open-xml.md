@@ -7,19 +7,14 @@ author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2008/04/liso-approve-loffice-open-xml/
 permalink: /blog/2008/04/liso-approve-loffice-open-xml/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "663651771"
 categories:
-  - Actualités
-  - Brève
-  - Informatique
+  - High-tech
 tags:
-  - Format
   - Microsoft
-  - Office
-  - Standard
+  - Libre
 ---
 Dans des [conditions très étranges](http://x86bar.wordpress.com/2008/03/31/l-ooxml-passera-contents-ou-pas-contents/), malgré ses [défauts certains](http://regis.decamps.info/blog/2007/09/liso-desapprouve-le-format-ooxml/), malgré l’opposition de [quelques poids lourds](http://x86bar.wordpress.com/2008/03/31/l-ooxml-passera-contents-ou-pas-contents/), malgré le 1er avril ; le format Microsoft OOXML a été accepté comme standard par l’ISO aujourd’hui, enfin avec réserves.
 

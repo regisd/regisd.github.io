@@ -9,10 +9,9 @@ guid: http://regis.decamps.info/blog/2007/12/exigeons-un-referendum-pour-le-nouv
 permalink: /blog/2007/12/exigeons-un-referendum-pour-le-nouveau-traite-europeen/
 dsq_thread_id:
   - "189257107"
-tmac_last_id:
-  - ""
 categories:
-  - Actualités
+  - Edito
+tags:
   - Politique
 ---
 J’ai assisté cet après midi à un meeting commun de [Nicolas Dupont-Aignan](http://www.nda2007.fr/blog/) (président de [**Debout la République**](http://debout-la-republique.fr/)) et [J-P Chevênement](http://www.chevenement.fr/) (président de Mouvement de la **République et du Citoyen**). Les invités étaient Marie-Noëlle Lienemann (député européenne **Parti-socialiste**), Pierre Lefranc (ancien chef du cabinet du Général de Gaulle), [Etienne Chouard](http://etienne.chouard.free.fr/Europe/) (professeur d’économie gestion), [Anne-Marie Le Pourhiet](http://droit-public.univ-rennes1.fr/amlepourhiet.htm) (professeur de droit public), Jens-Peter Bonde (porte-parole du parti danois « Mouvement de juin », président du groupe Indépendance et démocratie au Parlement européen) 

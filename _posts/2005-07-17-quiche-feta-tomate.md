@@ -7,8 +7,7 @@ author: Régis
 layout: post
 guid: http://blog.decamps.info/2005/07/quiche-feta-tomate/
 permalink: /blog/2005/07/quiche-feta-tomate/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "561881870"
 categories:

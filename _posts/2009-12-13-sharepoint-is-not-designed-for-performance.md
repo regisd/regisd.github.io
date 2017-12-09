@@ -7,13 +7,13 @@ author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=1106
 permalink: /blog/2009/12/sharepoint-is-not-designed-for-performance/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "616589226"
 categories:
   - English
-  - Informatique
+  - Programmation
+  - Edito
 tags:
   - SharePoint
 ---

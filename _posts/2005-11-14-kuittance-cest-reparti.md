@@ -8,10 +8,9 @@ excerpt: "J'ai décidé de (re)prendre le développement de kuittance"
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=100
 permalink: /blog/2005/11/kuittance-cest-reparti/
-tmac_last_id:
-  - ""
+
 categories:
-  - Informatique
+  - Projet
 ---
 Par pur hasard, [Sourceforge](http://sourceforge.net) revoit sa présentation quelques jours après que je décide de relancer [kuittance](http://sourceforge.net/projects/kuittance).
 

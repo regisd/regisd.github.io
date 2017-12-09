@@ -8,14 +8,13 @@ excerpt: "Ce soir, mon chef est passé dans mon bureau avec l'envie soudaine de 
 layout: post
 guid: http://regis.decamps.info/blog/2006/06/un-wiki-en-entreprise-pour-faire-quoi/
 permalink: /blog/2006/06/un-wiki-en-entreprise-pour-faire-quoi/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "579520889"
 categories:
+  - High-tech
+tags:
   - Boulot
-  - Général
-  - Informatique
 ---
 Mon chef me propose de mette en place un wiki dans mon service: mais pour quel usage, [pourquoi](http://pointwiki.viabloga.com/news/5.shtml), et quelle communauté construire dessus?
 

@@ -7,13 +7,12 @@ author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2006/07/souvenirs-du-sierra-de-guara/
 permalink: /blog/2006/07/souvenirs-du-sierra-de-guara/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "555680651"
 categories:
-  - Général
-  - Photo
+  - Perso
+tags:
   - Vacances
 ---
 Voilà quelques que j’ai prises en Espagne.

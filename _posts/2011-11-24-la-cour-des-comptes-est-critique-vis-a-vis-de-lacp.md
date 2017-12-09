@@ -13,10 +13,9 @@ tmac_last_id:
 dsq_thread_id:
   - "555134977"
 categories:
-  - Actualités
-  - Politique
+  - Actu
 tags:
-  - ACP
+  - Politique
   - Banque
 ---
 Le président de la 1ère chambre de la Cour des Comptes, auditionné par l’Assemblée Générale, donne son rapport de l’évaluation de l’Autorité de Contrôle Prudentiel.

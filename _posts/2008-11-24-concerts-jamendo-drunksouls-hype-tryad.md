@@ -9,11 +9,11 @@ guid: http://regis.decamps.info/blog/?p=611
 permalink: /blog/2008/11/concerts-jamendo-drunksouls-hype-tryad/
 dsq_thread_id:
   - "189257625"
-tmac_last_id:
-  - ""
+
 categories:
-  - Musique
+  - Sorties
 tags:
+  - Musique
   - Concert
   - Libre
 ---

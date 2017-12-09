@@ -8,11 +8,13 @@ excerpt: "Le nouvel iPod d'Apple coûte 249$ aux États-Unis, 249€ en Europe..
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=59
 permalink: /blog/2005/09/lipod-nano-plus-cher-ici-quailleurs/
-tmac_last_id:
-  - ""
+
 categories:
-  - Politique
+  - Actu
   - Shopping
+tags:
+  - Politique
+  - Europe
 ---
 Le nouvel iPod d’Apple, le nano est commercialisé 249$ aux États-Unis. Cela fait environ 200€ Mais si l’on ajoute la TVA et un prix plus élevé en Europe où la vie est plus chère, on comprend que l’iPod nano soit commercialisé 249€ en Europe.
 

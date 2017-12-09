@@ -10,14 +10,14 @@ guid: http://regis.decamps.info/blog/?p=1366
 permalink: /blog/2010/05/neuftalk-et-sip/
 dsq_thread_id:
   - "189257906"
-tmac_last_id:
-  - ""
+
 categories:
-  - Mobile
-  - Shopping
+  - High-tech
 tags:
-  - Adsl
+  - Mobile
+  - FAI
   - Android
+  - VoIP
 ---
 À quoi ça sert: à téléphoner depuis son mobile au même prix que depuis sa ligne fixe 🙂
 

@@ -15,9 +15,9 @@ authorsure_include_css:
   - ""
 categories:
   - Art
-  - Exposition
+  - Sorties
 tags:
-  - Art contemporain
+  - Expo
   - Paris
 ---
 Je n’ai pas tellement été convaincu par cette [exposition DYNAMO](http://www.grandpalais.fr/fr/evenement/dynamo "DYNAMO au Grand Palais"), au Grand Palais.

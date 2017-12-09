@@ -7,16 +7,14 @@ author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=1658
 permalink: /blog/2011/01/gmail-mon-centre-de-communication-unifie-email-sms-messagerie-instantannee/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "557578388"
 categories:
-  - Mobile
+  - High-tech
 tags:
   - Android
   - Email
-  - Gmail
   - Google
   - HOWTO
 ---

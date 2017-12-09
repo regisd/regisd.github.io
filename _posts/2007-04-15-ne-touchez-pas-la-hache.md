@@ -7,9 +7,10 @@ author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2007/04/ne-touchez-pas-la-hache/
 permalink: /blog/2007/04/ne-touchez-pas-la-hache/
-tmac_last_id:
-  - ""
-categories:
+
+catégories:
+  - Art
+tags:
   - Cinéma
 ---
 Mais qui a-t-il donc à voir au cinéma en ce moment?

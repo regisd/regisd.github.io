@@ -11,14 +11,13 @@ excerpt: |
 layout: post
 guid: /?p=31
 permalink: /blog/2005/08/je-quitte-blogger/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "564989212"
 categories:
-  - Informatique
-  - Perso
-  - Sites web
+  - Misc
+tags:
+  - Blog
 ---
 Il fallait bien que je crée mon blog un jour ou l’autre. Et lorsque je l’ai fait, je l’ai ouvert chez blogger. J’ai été attiré par le « blog this » de la barre d’outils de Google.
 

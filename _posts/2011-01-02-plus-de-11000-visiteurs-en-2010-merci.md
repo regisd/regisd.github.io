@@ -7,12 +7,11 @@ author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=1609
 permalink: /blog/2011/01/plus-de-11000-visiteurs-en-2010-merci/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "837613464"
 categories:
-  - Général
+  - Misc
 ---
 L’an dernier il y a eu plus de 11 000 visiteurs sur _Rien de Spécial_.<figure id="attachment_1610" style="width: 350px" class="wp-caption alignnone">
 

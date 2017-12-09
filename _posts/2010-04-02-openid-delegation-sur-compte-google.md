@@ -9,14 +9,9 @@ guid: http://regis.decamps.info/blog/?p=1172
 permalink: /blog/2010/04/openid-delegation-sur-compte-google/
 dsq_thread_id:
   - "189257879"
-tmac_last_id:
-  - ""
+
 categories:
-  - Général
-  - Informatique
-  - Sites web
-tags:
-  - OpenID
+  - High-tech
 ---
 De plus en plus de [sites acceptent une authentification par OpenID](https://www.myopenid.com/directory).
 

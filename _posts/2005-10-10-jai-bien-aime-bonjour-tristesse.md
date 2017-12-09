@@ -7,14 +7,13 @@ author: Régis
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=76
 permalink: /blog/2005/10/jai-bien-aime-bonjour-tristesse/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "564987143"
 categories:
   - Art
 tags:
-  - Lecture
+  - Livre
 ---
 Ca y est, j’ai terminé _Bonjour Tristesse_. J’aurais pu lire le roman de Françoise Sagan beaucoup plus rapidement, car il est très court.
 

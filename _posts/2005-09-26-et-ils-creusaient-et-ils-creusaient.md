@@ -7,15 +7,15 @@ author: Régis
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=67
 permalink: /blog/2005/09/et-ils-creusaient-et-ils-creusaient/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "575236052"
 categories:
-  - Sites web
+  - Misc
 tags:
   - Google
   - Humour
+  - Web
 ---
 J’ai un petit problème Shadock. Si l’on prend quelques Sahdock et qu’on leur demande de creuser dans le sol, verticalement, très très profondément (quitte à leur offrir du [Google Gulp](http://www.google.com/googlegulp/) pour qu’ils n’aient pas trop chaud quand ils franchiront le noyau terrestre) à quel endroit (diamètralement opposé) ressortiront-ils?
 

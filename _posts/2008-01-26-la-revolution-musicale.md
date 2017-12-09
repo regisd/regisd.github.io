@@ -9,12 +9,11 @@ guid: http://regis.decamps.info/blog/2008/01/la-revolution-musicale/
 permalink: /blog/2008/01/la-revolution-musicale/
 dsq_thread_id:
   - "189257199"
-tmac_last_id:
-  - ""
+
 categories:
+  - Edito
+tags:
   - Musique
-  - Shopping
-  - Sites web
 ---
 Même si je suis toujours séduit par [Jamendo](http://jamendo.com/) ou d’autres sites de musique libre, il faut se rendre à la réalité: un artiste ne peut pas vivre que d’amour et d’eau fraîche, et de quelques rares dons. Mais je pense toujours que le modèle économique des maisons de disque est obsolète.
 

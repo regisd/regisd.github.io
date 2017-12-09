@@ -7,16 +7,13 @@ author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2007/05/2-ans-de-gmail/
 permalink: /blog/2007/05/2-ans-de-gmail/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "564526193"
 categories:
-  - Informatique
-  - Sites web
+  - High-tech
 tags:
   - Email
-  - Gmail
   - Google
 ---
 Et voilà, cela fait très exactement 2 ans que j’utilise Gmail, le seul webmail à m’avoir convaincu à vrai dire.

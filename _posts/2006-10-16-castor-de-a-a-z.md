@@ -9,10 +9,12 @@ guid: http://regis.decamps.info/blog/2006/10/castor-de-a-a-z/
 permalink: /blog/2006/10/castor-de-a-a-z/
 dsq_thread_id:
   - "189256698"
-tmac_last_id:
-  - ""
+
 categories:
-  - Informatique
+  - Programmation
+tags:
+  - XML
+  - Java
 ---
 #### Génération des beans
 

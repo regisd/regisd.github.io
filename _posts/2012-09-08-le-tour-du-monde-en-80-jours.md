@@ -16,9 +16,9 @@ al2fb_facebook_link_picture:
 dsq_thread_id:
   - "835155569"
 categories:
-  - Théâtre
+  - Sorties
 tags:
-  - Café de la gare
+  - Théâtre
   - Paris
 ---
 [<img src="/blog/wp-content/uploads/2012/09/Le-tour-du-monde-en-80-jours-234x350.jpg" alt="Affiche du spectacle" title="Le tour du monde en 80 jours" width="234" height="350" class="alignleft size-medium wp-image-2966" srcset="/blog/wp-content/uploads/2012/09/Le-tour-du-monde-en-80-jours-234x350.jpg 234w, /blog/wp-content/uploads/2012/09/Le-tour-du-monde-en-80-jours-200x300.jpg 200w, /blog/wp-content/uploads/2012/09/Le-tour-du-monde-en-80-jours.jpg 514w" sizes="(max-width: 234px) 100vw, 234px" />](/blog/wp-content/uploads/2012/09/Le-tour-du-monde-en-80-jours.jpg)

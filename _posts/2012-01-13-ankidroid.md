@@ -12,10 +12,11 @@ tmac_last_id:
 dsq_thread_id:
   - "556145100"
 categories:
-  - Applications
-  - Sites web
+  - High-tech
 tags:
+  - Application
   - Android
+  - Web
 ---
 On a tous des choses à apprendre, que ce soient du vocabulaire étranger, des textes de Droit, ou autres. Toutes les études ont montré que la technique de [répétition espacée](http://fr.wikipedia.org/wiki/R%C3%A9p%C3%A9tition_espac%C3%A9e) est très efficace pour apprendre. Cependant, cette technique d’apprentissage n’est pas forcément évidente à mettre en œuvre, avec des paquets de cartes — on parle alors de _flashcards_.
 

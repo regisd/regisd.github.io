@@ -19,9 +19,7 @@ categories:
   - Art
 tags:
   - Paris
-  - Son et lumière
   - Spectacle
-  - Versailles
 ---
 C’est [Groupe F](http://www.groupef.com/) qui a illuminé les [Feux Royaux au Château de Versailles](http://www.chateauversailles-spectacles.fr/fr/spectacles/2012/feux-dartifice-royaux).
 

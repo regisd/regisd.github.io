@@ -9,10 +9,9 @@ guid: http://regis.decamps.info/blog/2007/11/tu-travailles-trop-avec-un-ordinate
 permalink: /blog/2007/11/tu-travailles-trop-avec-un-ordinateur-quand/
 dsq_thread_id:
   - "189257092"
-tmac_last_id:
-  - ""
+
 categories:
-  - Général
+  - Misc
 tags:
   - Humour
 ---

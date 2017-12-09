@@ -7,12 +7,12 @@ author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2007/02/gestion-et-developpement-de-photos/
 permalink: /blog/2007/02/gestion-et-developpement-de-photos/
-tmac_last_id:
-  - ""
+
 categories:
-  - Informatique
+  - High-tech
+tags:
   - Photo
-  - Sites web
+  - Webapp
 ---
 Je cherche depuis quelques temps un site de partage de photos. Peut-être pouvez-vous m’éclairer?
 

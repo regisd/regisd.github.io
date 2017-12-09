@@ -7,15 +7,15 @@ author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=1642
 permalink: /blog/2010/05/permettre-le-clic-droit-pour-google-chrome/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "557009671"
 categories:
-  - Extensions
+  - Projet
 tags:
-  - AllowRightClick
+  - Extension
   - Chrome
+  - Google
 ---
 Je trouve super pénible que des sites empêchent le clic droit (menu contextuel) sur la page.
 

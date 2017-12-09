@@ -11,15 +11,13 @@ excerpt: |
 layout: post
 guid: http://regis.decamps.info/blog/?p=924
 permalink: /blog/2009/08/google-chrome-on-linux-supports-flash/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "674913303"
 categories:
-  - Extensions
-  - Linux
+  - High-tech
 tags:
-  - Chrome
+  - Linux
   - Google
 ---
 Google chrome has been a major news in the web browser space. I couldn’t help but to test it. It’s incredibly lightweight and fast, and brings a fair amount of innovations. I have been using it more and more since the latest version of firefox 3.5, which has disappointed me a lot &#8212; firefox is slow to start, and I’m pretty sure there are many holes for memory leaks. 

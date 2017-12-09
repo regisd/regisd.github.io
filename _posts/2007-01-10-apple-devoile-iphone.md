@@ -7,13 +7,13 @@ author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2007/01/apple-devoile-iphone/
 permalink: /blog/2007/01/apple-devoile-iphone/
-tmac_last_id:
-  - ""
+
 categories:
-  - Mobile
+  - High-tech
 tags:
   - Apple
-  - iPhone
+  - Mobile
+  
 ---
 La rumeur grondait depuis un moment et je n’attendais rien de plus qu’un téléphone de dernière génération, similaire au w810i de Sony.
 

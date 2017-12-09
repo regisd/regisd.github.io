@@ -9,13 +9,11 @@ guid: http://regis.decamps.info/blog/?p=1492
 permalink: /blog/2010/11/michel-houellebecq-et-wikipedia/
 dsq_thread_id:
   - "189257935"
-tmac_last_id:
-  - ""
+
 categories:
-  - Art
   - Droit
 tags:
-  - littérature
+  - Livre
 ---
 _La Carte et le territoire_ de Michel Houellebecq a remporté le [prix Goncourt 2010](http://www.academie-goncourt.fr/?rubrique=1229172131).
 

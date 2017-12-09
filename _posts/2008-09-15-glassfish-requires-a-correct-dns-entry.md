@@ -9,25 +9,19 @@ guid: http://regis.decamps.info/blog/?p=587
 permalink: /blog/2008/09/glassfish-requires-a-correct-dns-entry/
 dsq_thread_id:
   - "189257570"
-tmac_last_id:
-  - ""
+
 categories:
-  - English
-  - Informatique
+  - Programmation
 tags:
   - Java
 ---
 In order to start correctly, Glassfish requires that the server has a recorded entry in the DNS.
   
-<!--more-->
-
-
-  
 Otherwise, you end up with the following error
   
-`<br />
+```
 [#|2008-09-15T16:25:30.135+0000|WARNING|sun-appserver9.1|javax.enterprise.system.util|_ThreadID=10;_ThreadName=main;_RequestID=ddeffeec-f4a1-4853-81b1-16717c6c9317;|Unknown host exception - Setting host to localhost|#]</p>
-<p>[#|2008-09-15T16:25:52.191+0000|WARNING|sun-appserver9.1|javax.enterprise.resource.corba.ee._INITIALIZING_.rpc.presentation|_ThreadID=10;_ThreadName=main;_RequestID=ddeffeec-f4a1-4853-81b1-16717c6c9317;|"IOP00710208: (INTERNAL) Unable to determine local hostname from InetAddress.getLocalHost().getHostName()"<br />
+[#|2008-09-15T16:25:52.191+0000|WARNING|sun-appserver9.1|javax.enterprise.resource.corba.ee._INITIALIZING_.rpc.presentation|_ThreadID=10;_ThreadName=main;_RequestID=ddeffeec-f4a1-4853-81b1-16717c6c9317;|"IOP00710208: (INTERNAL) Unable to determine local hostname from InetAddress.getLocalHost().getHostName()"<br />
 org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 208  completed: No<br />
         at com.sun.corba.ee.impl.logging.ORBUtilSystemException.getLocalHostFailed(ORBUtilSystemException.java:4921)<br />
         at com.sun.corba.ee.impl.logging.ORBUtilSystemException.getLocalHostFailed(ORBUtilSystemException.java:4939)<br />
@@ -61,10 +55,11 @@ Caused by: java.net.UnknownHostException: pc2118bb: pc2118bb<br />
         at java.net.InetAddress.getLocalHost(InetAddress.java:1353)<br />
         at com.sun.corba.ee.impl.orb.ORBImpl.getLocalHostName(ORBImpl.java:1783)<br />
         ... 25 more<br />
-|#]<br />
+|#]
 [#|2008-09-15T16:25:52.199+0000|SEVERE|sun-appserver9.1|javax.enterprise.system.core|_ThreadID=10;_ThreadName=main;java.lang.RuntimeException: org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 208  completed: No;_RequestID=ddeffeec-f4a1-4853-81b1-16717c6c9317;|CORE5081: Exception while creating ORB: [java.lang.RuntimeException: org.omg.CORBA.INTERNAL:   vmcid: SUN  minor code: 208  completed: No]|#]</p>
-<p>[#|2008-09-15T16:25:52.200+0000|SEVERE|sun-appserver9.1|javax.enterprise.system.core|_ThreadID=10;_ThreadName=main;java.lang.RuntimeException: Unable to create ORB;_RequestID=ddeffeec-f4a1-4853-81b1-16717c6c9317;|CORE5082: Exception running j2ee services: [java.lang.RuntimeException: Unable to create ORB]|#]<br />
+[#|2008-09-15T16:25:52.200+0000|SEVERE|sun-appserver9.1|javax.enterprise.system.core|_ThreadID=10;_ThreadName=main;java.lang.RuntimeException: Unable to create ORB;_RequestID=ddeffeec-f4a1-4853-81b1-16717c6c9317;|CORE5082: Exception running j2ee services: [java.lang.RuntimeException: Unable to create ORB]|#]<br />
 [#|2008-09-15T16:25:52.210+0000|SEVERE|sun-appserver9.1|javax.enterprise.system.core|_ThreadID=10;_ThreadName=main;_RequestID=ddeffeec-f4a1-4853-81b1-16717c6c9317;|Server Startup failed. Exiting...|#]</p>
-<p>[#|2008-09-15T16:25:52.211+0000|INFO|sun-appserver9.1|javax.enterprise.system.core|_ThreadID=10;_ThreadName=main;|Server shutdown in progress...|#]</p>
-<p>[#|2008-09-15T16:25:52.211+0000|INFO|sun-appserver9.1|javax.enterprise.system.container.web|_ThreadID=10;_ThreadName=main;|WEB0303: Stopping Sun-Java-System/Application-Server.|#]</p>
-<p>`
+[#|2008-09-15T16:25:52.211+0000|INFO|sun-appserver9.1|javax.enterprise.system.core|_ThreadID=10;_ThreadName=main;|Server shutdown in progress...|#]</p>
+[#|2008-09-15T16:25:52.211+0000|INFO|sun-appserver9.1|javax.enterprise.system.container.web|_ThreadID=10;_ThreadName=main;|WEB0303: Stopping Sun-Java-System/Application-Server.|#]</p>
+
+```

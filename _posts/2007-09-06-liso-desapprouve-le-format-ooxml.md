@@ -7,13 +7,12 @@ author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2007/09/liso-desapprouve-le-format-ooxml/
 permalink: /blog/2007/09/liso-desapprouve-le-format-ooxml/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "1371551931"
 categories:
-  - Actualités
-  - Informatique
+  - Actu
+  - High-tech
 tags:
   - Format
   - Microsoft

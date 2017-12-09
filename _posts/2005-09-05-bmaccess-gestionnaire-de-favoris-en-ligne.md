@@ -9,12 +9,14 @@ excerpt: |
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=47
 permalink: /blog/2005/09/bmaccess-gestionnaire-de-favoris-en-ligne/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "1129366332"
 categories:
-  - Sites web
+  - High-tech
+tags:
+  - Web
+  - Webapp
 ---
 Opimon qui a créé un site de gestion de favori en ligne . En fait c’est un joli clone de [Blogmarks](http://www.blogmarks.net) pour lequel j’avais écris une extension que j’avais reprise d’une extension pour Blogthis. Il voulait savoir s’il pouvait reprendre l’extension, mais comme elle est sous GPL, la réponse a été rapide.
 

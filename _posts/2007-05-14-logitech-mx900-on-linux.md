@@ -12,10 +12,12 @@ guid: http://regis.decamps.info/blog/2007/05/logitech-mx900-on-linux/
 permalink: /blog/2007/05/logitech-mx900-on-linux/
 dsq_thread_id:
   - "189256840"
-tmac_last_id:
-  - ""
+
 categories:
+  - English
+tags:
   - Linux
+  - HOWTO
 ---
 I just bought a new mouse. It is a nice Logitech MX900: very comfortable, and wireless (since the wire was the point of failure from my previous mouse). I was wondering whether it would work fine under Linux. Actually, it works better than expected.
   

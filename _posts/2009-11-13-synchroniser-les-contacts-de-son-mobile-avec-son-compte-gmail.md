@@ -10,12 +10,12 @@ guid: http://regis.decamps.info/blog/?p=941
 permalink: /blog/2009/11/synchroniser-les-contacts-de-son-mobile-avec-son-compte-gmail/
 dsq_thread_id:
   - "189257821"
-tmac_last_id:
-  - ""
+
 categories:
-  - Mobile
+  - High-tech
 tags:
-  - Gmail
+  - Mobile
+  - Email
   - Google
 ---
 J’ai perdu mon Nokia xpress music à l’Oktoberfest,. Cela se comprend, les pintes sont des Maß…; J’ai fini par en récupérer un neuf auprès de Bouygues (un petit truc, forcément 🙁 ). mais je ne voulais absolument pas re-saisir tous mes contacts. 

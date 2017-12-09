@@ -9,11 +9,10 @@ guid: http://regis.decamps.info/blog/2006/11/shell-programming-echo-a-variable/
 permalink: /blog/2006/11/shell-programming-echo-a-variable/
 dsq_thread_id:
   - "189256718"
-tmac_last_id:
-  - ""
+
 categories:
   - English
-  - Informatique
+  - Programmation
 tags:
   - Shell
 ---

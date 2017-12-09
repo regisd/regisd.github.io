@@ -10,9 +10,7 @@ permalink: /blog/2012/02/ma-prochaine-application-sera-un-lecteur-de-pod-cast-et
 dsq_thread_id:
   - "562312037"
 categories:
-  - Applications
-  - Musique
-  - Programmation
+  - Projet
 tags:
   - Android
   - Radio

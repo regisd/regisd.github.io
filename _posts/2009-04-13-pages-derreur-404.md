@@ -12,8 +12,10 @@ dsq_thread_id:
 tmac_last_id:
   - "162975716936392704"
 categories:
-  - Informatique
-  - Sites web
+  - High-tech
+tags:
+  - Web
+  - HTML
 ---
 Un site web peut fournir une page d’erreur 404 personnalisée, et certaines sont vraiment sympas:
 

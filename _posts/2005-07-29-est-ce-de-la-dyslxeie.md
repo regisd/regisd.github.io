@@ -8,13 +8,13 @@ excerpt: "Les gens comprennent parfaitement quand l'ordre des lettres est chang�
 layout: post
 guid: /?p=25
 permalink: /blog/2005/07/est-ce-de-la-dyslxeie/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "3015590320"
 categories:
-  - Général
+  - Misc
 tags:
   - Humour
 ---
-Des cherhceurs de l’unvieristé de Livperool ont motnré que l’on pouviat chnager l’ordre des letrtes des mtos et lasiser le tetxe pafraietmnet lisbile. Il sufift de cosnrever la prmeière et la drenèire ltetre. Les gens ne fnot jamias aettniton à ce qu’il y a au mileiu.
+Des cherhceurs de l’unvieristé de Livperool ont motnré que l’on pouviat chnager l’ordre des letrtes des mtos et lasiser le tetxe pafraietmnet lisbile.
+Il sufift de cosnrever la prmeière et la drenèire ltetre. Les gens ne fnot jamias aettniton à ce qu’il y a au mileiu.

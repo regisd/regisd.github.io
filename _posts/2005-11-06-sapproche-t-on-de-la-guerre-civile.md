@@ -10,10 +10,11 @@ guid: http://regis.decamps.free.fr/wordpress/?p=90
 permalink: /blog/2005/11/sapproche-t-on-de-la-guerre-civile/
 dsq_thread_id:
   - "189256344"
-tmac_last_id:
-  - ""
+
 categories:
-  - Actualités
+  - Edito
+tags:
+  - Politique
 ---
 Le fait de ne pas avoir la télé m’évite un certain tapage médiatique qui use souvent d’alarmisme pour faire de l’audience (grippe avaire, récemment). Mais ce qui se passe dans le banlieues en ce moment me paraît extrêmement grave. D’abord que des troubles de l’ordre puisse apparaître parce que deux imbéciles vont se cacher dans un transformateur électrique (et meurent électrocutés, évidemment) est préoccupant. Mais que ces troubles tournent en émeute et durent plus d’une semaine est inquiétant. Alors quand le phénomène fait tâche d’huile dans toute la France, j’avoue ma grande inquiétude.
 

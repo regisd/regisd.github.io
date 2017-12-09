@@ -8,13 +8,13 @@ excerpt: "Les cyclistes manquent d'originalité dans leur look. Ils ont toujours
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=37
 permalink: /blog/2005/08/pourquoi-les-cyclistes-sont-ils-noirs/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "1371636135"
 categories:
-  - Photo
+  - Misc
 tags:
+  - Photo
   - Humour
 ---
 Il y a une raison assez nette pour laquelle les [cyclistes portent des pantalons noirs](http://www.alivewithlove.com/cyclists.html).

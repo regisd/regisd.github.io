@@ -10,8 +10,9 @@ permalink: /blog/2013/04/expo-krach-boom-mue/
 dsq_thread_id:
   - "1230298115"
 categories:
-  - Exposition
+  - Sorties
 tags:
+  - Expo
   - Économie
 ---
 [<img src="/blog/wp-content/uploads/2013/04/Expo_economie_2013-02f0e.jpg" alt="Affiche de l&#039;exposition Krach, Boom, Mue" width="246" height="340" class="alignright size-full wp-image-3131" srcset="/blog/wp-content/uploads/2013/04/Expo_economie_2013-02f0e.jpg 246w, /blog/wp-content/uploads/2013/04/Expo_economie_2013-02f0e-217x300.jpg 217w" sizes="(max-width: 246px) 100vw, 246px" />](/blog/wp-content/uploads/2013/04/Expo_economie_2013-02f0e.jpg)

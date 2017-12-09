@@ -16,11 +16,11 @@ al2fb_facebook_link_picture:
 dsq_thread_id:
   - "731049958"
 categories:
-  - Applications
+  - High-tech
 tags:
+  - Application
   - Android
   - Instant messaging
-  - iPhone
 ---
 [Google talk](http://www.google.com/talk/intl/fr/), [Skype](http://www.skype.com/), [Facebook messenger](http://www.facebook.com/apps/application.php?id=256002347743983 "Application mobile de Facebook"), [Yahoo! messenger](http://mobile.yahoo.com/messenger), [Microsoft Live messenger](https://play.google.com/store/apps/details?id=miyowa.android.microsoft.wlm "Android MS Windows Live Messenger"). On retrouve sur mobile tous les réseaux de messagerie instantannée, mais il existe aussi des applications réservées aux _smartphone_: [Whatsapp](http://www.whatsapp.com/), [kik](http://kik.com/), [Kakao](http://www.kakao.com/talk), Go! messenger, [Samsung chat ON](https://web.samsungchaton.com/ "Samsung ChatON"), [Line](http://line.naver.jp/en/) et bien sûr [Apple iMessage](http://www.apple.com/fr/ipodtouch/built-in-apps/messages.html).
 

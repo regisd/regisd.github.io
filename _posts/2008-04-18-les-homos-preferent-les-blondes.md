@@ -9,19 +9,17 @@ guid: http://regis.decamps.info/blog/2008/04/les-homos-preferent-les-blondes/
 permalink: /blog/2008/04/les-homos-preferent-les-blondes/
 dsq_thread_id:
   - "189257271"
-tmac_last_id:
-  - ""
+
 categories:
-  - Art
-  - Théâtre
+  - Sorties
 tags:
   - Gay
   - Humour
+  - Théâtre
 ---
 **Rating:** ![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "5/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "5/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "5/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "5/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "5/5") 
 
 
-  
 Deux homos qui s’aiment, un troisième solitaire qui fait allusions à ses plans culs, leur amie blonde, et un hétéro qui tombe amoureux de la blonde qui préfère les homos. 
 
 [<img src="/blog/wp-content/uploads/2008/04/les-homos-preferent-les-blondes-216x350.jpg" alt="Affiche Les homos préfèrent les blondes" title="Les homos préfèrent les blondes" width="216" height="350" class="alignleft size-medium wp-image-1151" srcset="/blog/wp-content/uploads/2008/04/les-homos-preferent-les-blondes-216x350.jpg 216w, /blog/wp-content/uploads/2008/04/les-homos-preferent-les-blondes.jpg 540w" sizes="(max-width: 216px) 100vw, 216px" />](/blog/wp-content/uploads/2008/04/les-homos-preferent-les-blondes.jpg)

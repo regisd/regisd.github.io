@@ -9,17 +9,15 @@ excerpt: |
 layout: post
 guid: http://blog.decamps.info/2005/12/dadvsi-un-peu-de-corruption-na-jamais-tue-un-depute/
 permalink: /blog/2005/12/dadvsi-un-peu-de-corruption-na-jamais-tue-un-depute/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "2017654234"
 categories:
-  - Art
   - Droit
+  - Edito
+tags:
   - Musique
   - Politique
-tags:
-  - DADVSI
 ---
 \_\_Pub à l’Assemblée\_\_
   

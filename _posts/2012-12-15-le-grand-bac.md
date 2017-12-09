@@ -16,7 +16,9 @@ al2fb_facebook_link_picture:
 dsq_thread_id:
   - "976489798"
 categories:
-  - Applications
+  - Projet
+tags:
+  - Application
 ---
 Trouver un nom de pays qui commence par A? Une couleur par R? Une série TV par Q?
 

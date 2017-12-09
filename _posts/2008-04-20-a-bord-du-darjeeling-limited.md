@@ -7,9 +7,10 @@ author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2008/04/a-bord-du-darjeeling-limited/
 permalink: /blog/2008/04/a-bord-du-darjeeling-limited/
-tmac_last_id:
-  - ""
-categories:
+
+catégories:
+  -Art
+tags:
   - Cinéma
 ---
 Trois frères qui ne se sont pas vus depuis le décès de leur père entamment un voyage en Inde pour retisser les liens entre eux. Cette quête spirituelle ne se passe pas exactement comme prévu.

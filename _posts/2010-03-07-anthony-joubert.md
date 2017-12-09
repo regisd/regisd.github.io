@@ -8,13 +8,13 @@ excerpt: "Le spectavle d'Anthony Joubert est vraiment très bon!"
 layout: post
 guid: http://regis.decamps.info/blog/2010/03/anthony-joubert/
 permalink: /blog/2010/03/anthony-joubert/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "603900474"
 categories:
-  - Théâtre
+  - Sorties
 tags:
+  - Théâtre
   - One-man show
 ---
 Je ne regarde pas la télé, et ne connaissais donc pas le gagnant d’incroyable Talent 2008: Anthony Joubert.

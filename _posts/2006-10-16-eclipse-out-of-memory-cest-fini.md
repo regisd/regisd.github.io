@@ -9,10 +9,9 @@ guid: http://regis.decamps.info/blog/2006/10/eclipse-out-of-memory-cest-fini/
 permalink: /blog/2006/10/eclipse-out-of-memory-cest-fini/
 dsq_thread_id:
   - "189256708"
-tmac_last_id:
-  - ""
+
 categories:
-  - Informatique
+  - Programmation
 tags:
   - Bug
   - Eclipse

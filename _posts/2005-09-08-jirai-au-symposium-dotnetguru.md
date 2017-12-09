@@ -8,15 +8,14 @@ excerpt: 'Je me rendrai au <a href="http://www.dotnetguru.org/modules.php?op=mod
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=54
 permalink: /blog/2005/09/jirai-au-symposium-dotnetguru/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "861420047"
 categories:
-  - Actualités
-  - Informatique
+  - High-tech
+  - Actu
 tags:
-  - .net
+  - Dotnet
 ---
 J’ai connu le site [DotNetGuru.org](http://www.dotnetguru.org/) après avoir suivi une formation ValTech donnée par Thomas Gil, qui en est précisément un des co-fondateurs. Thomas est très sympathique (comme tous les Thomas que je connais d’ailleurs) et m’a beaucoup impressionné par son expertise technique. À peine plus âgé que moi, ses connaissances sont véritablement à des années lumières.
 

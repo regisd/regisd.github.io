@@ -7,12 +7,14 @@ author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2006/08/la-tele-sous-linux-cest-de-la-bombe/
 permalink: /blog/2006/08/la-tele-sous-linux-cest-de-la-bombe/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "677831650"
 categories:
+  - High-tech
+tags:
   - Linux
+  - TV
 ---
 Vue la mauvaise qualité de l’image et le peu de chaînes, je me doutais que [j’étais resté en analogique lors de ma première tentative](http://regis.decamps.info/blog/2006/08/la-tele-sous-linux-premiers-pas/).
 

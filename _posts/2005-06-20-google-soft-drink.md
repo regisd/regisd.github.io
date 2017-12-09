@@ -7,11 +7,9 @@ author: Régis
 layout: post
 guid: /?p=4
 permalink: /blog/2005/06/google-soft-drink/
-tmac_last_id:
-  - ""
+
 categories:
-  - Général
-  - Informatique
+  - High-tech
 tags:
   - Google
   - Humour

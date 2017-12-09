@@ -7,14 +7,12 @@ author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2006/12/framasoft-na-pas-ete-sage/
 permalink: /blog/2006/12/framasoft-na-pas-ete-sage/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "687675236"
 categories:
-  - Informatique
+  - High-tech
 tags:
-  - DADVSI
   - Libre
 ---
 Framasoft est un annuaire de logiciels libres. En particulier, ils présentent l’extension Sage pour firefox qui permet de lire un flux RSS. Ils ont reçu une lettre des services juridiques de Sage (l’éditeur de logiciel comptable) qui leur demander de cesser l’utilisation frauduleuse d’une marque déposée…; C’est incroyable quand même!

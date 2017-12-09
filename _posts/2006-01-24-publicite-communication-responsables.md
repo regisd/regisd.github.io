@@ -8,10 +8,11 @@ excerpt: Un site réalisé en flash et qui illustre parfaitement web 2.0
 layout: post
 guid: http://blog.decamps.info/?p=159
 permalink: /blog/2006/01/publicite-communication-responsables/
-tmac_last_id:
-  - ""
+
 categories:
-  - Sites web
+  - Edito
+tags:
+  - Web
 ---
 Le projet [Publicité & Communication Responsables](http://www.communicationresponsable.com/) réunit des entreprises qui veulent augmenter leur responsabilité en tant qu’annonceur.
 

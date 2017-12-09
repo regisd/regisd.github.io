@@ -7,16 +7,13 @@ author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=545
 permalink: /blog/2008/08/nettoyage-de-refrigerateur/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "563999541"
 categories:
-  - Brève
-  - Recette
+  - Misc
 tags:
   - Best practice
-  - Entretien
   - Santé
 ---
 J’ai dégivré et nettoyé mon réfrigérateur. Si je suis le [guide de prendresoin.fr](http://www.prendresoin.fr/numero_01/p18.pdf), je devrais faire ça beaucoup plus souvent…;

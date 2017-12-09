@@ -9,13 +9,12 @@ guid: http://regis.decamps.info/blog/?p=813
 permalink: /blog/2009/02/managed-extensibility-framework/
 dsq_thread_id:
   - "189257713"
-tmac_last_id:
-  - ""
+
 categories:
   - English
   - Programmation
 tags:
-  - .net
+  - Dotnet
   - Microsoft
 ---
 I went yesterday to the MS Techdays and the most interesting talk I listen to was about MEF.

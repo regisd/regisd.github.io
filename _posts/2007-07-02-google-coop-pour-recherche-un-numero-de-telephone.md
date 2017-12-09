@@ -9,12 +9,9 @@ guid: http://regis.decamps.info/blog/2007/07/google-coop-pour-recherche-un-numer
 permalink: /blog/2007/07/google-coop-pour-recherche-un-numero-de-telephone/
 dsq_thread_id:
   - "189256939"
-tmac_last_id:
-  - ""
+
 categories:
-  - Général
-  - Informatique
-  - Sites web
+  - High-tech
 tags:
   - Moteur de recherche
 ---

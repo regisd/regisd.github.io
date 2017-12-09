@@ -16,8 +16,7 @@ wordbooker_extract:
     Ce soir, j'ai essayé de faire les perles coco de Huiying.
     
     Il faut quelques efforts pour trouver les ingrédients (notamment la farine de riz gluant, introuvable chez "Paris Shop", mais que j'ai trouvé dans une autre boutique de Belleville). J'ai même ...
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "563993918"
 categories:

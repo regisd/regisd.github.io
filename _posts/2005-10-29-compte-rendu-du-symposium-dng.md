@@ -11,17 +11,14 @@ excerpt: |
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=86
 permalink: /blog/2005/10/compte-rendu-du-symposium-dng/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "620334801"
 categories:
-  - Actualités
-  - Informatique
-  - Programmation
+  - Perso
 tags:
-  - .net
-  - 'C#'
+  - Dotnet
+  - Java
 ---
 J’étais arrivé en avance, je n’ai donc pas manqué le début de la première conférence, malgré les petits problèmes logisitiques (vestiaire débordé et sécurité élevée due à la présence de l’homme le plus riche du monde). Pour commencer, donc, Jean-Louis Bénard ([Brainsonic](http://www.brainsonic.com/)) et Eric Groise ([Amazon](http://www.amazon.fr/)) ont parlé d’industrialisation logicielle et ont présenté [Visual-Studio-Team-quelque-chose](http://lab.msdn.microsoft.com/teamsystem/) comme un superbe outils qui répond à toutes les problématiques du développement logiciel : référentiel commun, respect de la méthode de travail (libre mais qui doit être formalisée), architecture (SOA). Cependant, j’ai des doutes sur quelques points. Par exemple, la notion de référentiel commun (qui n’est pas franchement une nouveauté) apporte-t-elle quelque chose? Certes, le manager peut voir le nombdre de bugs ouverts, mais il ne va sans doute pas s’intéresser à leur détails ; on ne gagne rien par rapport aux réunions d’équipe (à la différence des modules SAP qui s’appellent les uns les autres de façon virale).
 

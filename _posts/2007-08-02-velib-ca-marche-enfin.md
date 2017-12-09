@@ -9,10 +9,9 @@ guid: http://regis.decamps.info/blog/2007/08/velib-ca-marche-enfin/
 permalink: /blog/2007/08/velib-ca-marche-enfin/
 dsq_thread_id:
   - "189257008"
-tmac_last_id:
-  - ""
+
 categories:
-  - Actualités
+  - Actu
 tags:
   - Insolite
   - Vélib

@@ -17,12 +17,10 @@ tmac_last_id:
 dsq_thread_id:
   - "1133079306"
 categories:
-  - Actualités
+  - Misc
 tags:
-  - Anniversaire
-  - Métro
   - Paris
-  - Talaria
+
 ---
 Le saviez-vous? La [ligne 1](http://www.ratp.fr/fr/ratp/c_14897/ligne-1-portrait-d-une-ligne-capitale/) fête aujourd’hui ses 111 ans. Construite par Fulgence Bienvenüe pour _l’exposition universelle_ et desservir les épreuves des Jeux olympiques d’été de 1900, elle n’offrait à son ouverture que 8 stations, de porte Dauphine à porte de Vincennes.
 

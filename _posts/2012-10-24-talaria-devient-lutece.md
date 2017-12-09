@@ -17,11 +17,9 @@ al2fb_facebook_link_picture:
 dsq_thread_id:
   - "897891400"
 categories:
-  - Applications
-  - Général
-  - Programmation
+  - Projet
 tags:
-  - Talaria
+  - Application
 ---
 Après 18 mois d’existence et plus de 13 000 téléchargements, il est temps pour Talaria de faire face aux aléas des connexions réseau. Les déconnexions sont fréquentes sur mobile, et particulièrement dans le métro!
 

@@ -14,9 +14,9 @@ tmac_last_id:
 dsq_thread_id:
   - "555134868"
 categories:
-  - Informatique
+  - High-tech
 tags:
-  - Internet
+  - Web
 ---
 Il y a de plus en plus d’internautes, et donc de moins en moins d’IP disponibles. La meilleure solution au problème est de créer de nouvelles IP. C’est en substance ce que permet l’IPv6 (par rapport à l’IPv4 utilisé aujourd’hui).
 

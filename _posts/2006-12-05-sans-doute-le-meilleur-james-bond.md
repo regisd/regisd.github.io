@@ -8,9 +8,10 @@ excerpt: Casino est une vraie réussite
 layout: post
 guid: http://regis.decamps.info/blog/2006/12/sans-doute-le-meilleur-james-bond/
 permalink: /blog/2006/12/sans-doute-le-meilleur-james-bond/
-tmac_last_id:
-  - ""
-categories:
+
+catégories:
+  -Art
+tags:
   - Cinéma
 ---
 Ce James Bond a été une très agréable surprise.

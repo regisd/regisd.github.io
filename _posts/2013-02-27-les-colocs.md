@@ -16,9 +16,9 @@ al2fb_facebook_link_picture:
 dsq_thread_id:
   - "1116935965"
 categories:
-  - Théâtre
+  - Sorties
 tags:
-  - Comédie
+  - Théâtre
   - Gay
 ---
 [<img src="/blog/wp-content/uploads/2013/03/Les-colocs-254x350.jpeg" alt="Affiche du spectacle" width="254" height="350" class="alignright size-medium wp-image-3125" srcset="/blog/wp-content/uploads/2013/03/Les-colocs-254x350.jpeg 254w, /blog/wp-content/uploads/2013/03/Les-colocs-217x300.jpeg 217w, /blog/wp-content/uploads/2013/03/Les-colocs.jpeg 363w" sizes="(max-width: 254px) 100vw, 254px" />](/blog/wp-content/uploads/2013/03/Les-colocs.jpeg){.fancybox}

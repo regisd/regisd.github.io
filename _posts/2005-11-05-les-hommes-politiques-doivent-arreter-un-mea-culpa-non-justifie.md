@@ -7,13 +7,13 @@ author: Régis
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=93
 permalink: /blog/2005/11/les-hommes-politiques-doivent-arreter-un-mea-culpa-non-justifie/
-tmac_last_id:
-  - ""
+
 categories:
-  - Actualités
+  - Edito
+tags:
   - Politique
 ---
-Sur le [blog de iJulien Dray](http://iledefrance.skyblog.com/index.html), le porte parole du PS écrit:
+Sur le [blog de Julien Dray](http://iledefrance.skyblog.com/index.html), le porte parole du PS écrit:
 
 > La situation des balieues est dramatique. Il y a d’abord eu la mort de 2 jeunes à Clichy-sous-bois, et puis celle du jeune père de famille qui prenait des photos.
 

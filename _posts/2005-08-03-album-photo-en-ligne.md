@@ -7,17 +7,15 @@ author: Régis
 layout: post
 guid: /?p=29
 permalink: /blog/2005/08/album-photo-en-ligne/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "1371638043"
 categories:
-  - Informatique
-  - Photo
-  - Sites web
+  - High-tech
 tags:
+  - Photo
   - Google
-  - RAID
+  - Web
 ---
 Je cherche en ce moment une solution fiable et pérenne pour stocker mes photos. En effet, je me rends compte que RAID ou pas, si je fais n’importe quoi avec mes partitions, je perds bien mes données (et de toute façon un ordianteur personel, ça ne peut pas être totalement fiable ni correctement sauvegarder).
 

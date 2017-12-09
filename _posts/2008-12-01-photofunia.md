@@ -9,13 +9,12 @@ guid: http://regis.decamps.info/blog/?p=625
 permalink: /blog/2008/12/photofunia/
 dsq_thread_id:
   - "189257635"
-tmac_last_id:
-  - ""
 categories:
   - Art
   - English
+tags:
   - Photo
-  - Sites web
+  - Webapp
 ---
 [Photofunia](http://www.photofunia.com/) is pretty impressive!
 

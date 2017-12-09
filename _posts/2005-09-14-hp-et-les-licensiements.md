@@ -10,9 +10,10 @@ guid: http://regis.decamps.free.fr/wordpress/?p=60
 permalink: /blog/2005/09/hp-et-les-licensiements/
 dsq_thread_id:
   - "189256298"
-tmac_last_id:
-  - ""
+
 categories:
+  - Actu
+tags:
   - Politique
 ---
 HP a annoncé le licenciement de 1240 personnes. Wall Street applaudit.

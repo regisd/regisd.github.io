@@ -8,10 +8,11 @@ excerpt: http://blog.decamps.info/a un nouvel hébergeur. Pensez à mettre à jo
 layout: post
 guid: http://blog.decamps.info/2005/12//
 permalink: /blog/2005/12/le-meme-en-plus-rapide/
-tmac_last_id:
-  - ""
+
 categories:
-  - Général
+  - Misc
+tags:
+  - Web
 ---
 J’ai quitté free.fr, sa gratuité et sa lenteur. Je suis maintenant hébergé chez \[OVH\](http://www.ovh.com/). 
 

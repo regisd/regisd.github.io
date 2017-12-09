@@ -9,11 +9,11 @@ guid: http://regis.decamps.info/blog/2006/12/stephane-guillon/
 permalink: /blog/2006/12/stephane-guillon/
 dsq_thread_id:
   - "189256742"
-tmac_last_id:
-  - ""
+
 categories:
-  - Théâtre
+  - Sorties
 tags:
+  - Théâtre
   - Humour
   - One-man show
 ---

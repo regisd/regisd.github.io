@@ -7,13 +7,14 @@ author: Régis
 layout: post
 guid: http://blog.decamps.info/?p=253
 permalink: /blog/2006/04/blogosphere-graphique/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "578027342"
 categories:
-  - Informatique
+  - High-tech
+tags:
   - Politique
+  - Blog
 ---
 Un graphe est un ensemble de nœuds et d’arcs (un arc étant une connexion entre deux nœuds). Les graphes sont très adaptés pour:
 

@@ -7,17 +7,15 @@ author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2008/05/couchsurfing/
 permalink: /blog/2008/05/couchsurfing/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "1283539795"
 categories:
-  - Général
-  - Sites web
-  - Vacances
+  - Misc
 tags:
-  - Community
+  - Web
   - Social
+  - Vacances
 ---
 J’ai beaucoup aimé Madrid, mais l’hôtel que j’ai choisi n’était pas du meilleur rapport qualité-prix.
 

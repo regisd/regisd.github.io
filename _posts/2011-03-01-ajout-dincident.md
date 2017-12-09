@@ -9,14 +9,13 @@ guid: http://regis.decamps.info/blog/?p=1744
 permalink: /blog/2011/03/ajout-dincident/
 wordbooker_options:
   - 'a:9:{s:18:"wordbook_noncename";s:10:"bfbaf41648";s:18:"wordbook_page_post";s:4:"-100";s:18:"wordbook_orandpage";s:1:"2";s:23:"wordbook_default_author";s:1:"1";s:23:"wordbook_extract_length";s:3:"256";s:19:"wordbook_actionlink";s:3:"300";s:26:"wordbooker_publish_default";s:2:"on";s:18:"wordbook_attribute";s:36:"En train de développer une appli...";s:29:"wordbooker_status_update_text";s:33:"New blog post :  %title% - %link%";}'
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "555134963"
 categories:
-  - Mobile
+  - Projet
 tags:
-  - Talaria
+  - Mobile
 ---
 J’ai passé 2h30 à compléter mon application Android pour <http://incidents-transports.com> (qui [a changé de nom aujourd’hui](http://twitter.com/#!/ogirardot/status/42668466376933376))
 
@@ -57,7 +56,7 @@ Et pour finir, j’ai ajouté une méthode <tt>post(Incident incident)</tt> sur 
 
 Dans la journée, Olivier Girardot, m’a donné l’API pour poster. Il m’a fait peur parce que l’ajout d’un incident ne peut se faire qu’en JSON. Mais miracle, Android gère très simplement le JSON. 
 
-[code]
+```
 	  
 public static void post(Incident newIncident) throws JSONException {
 		  
@@ -97,4 +96,4 @@ e.printStackTrace();
 	  
 }
   
-[/code]</string>
+```

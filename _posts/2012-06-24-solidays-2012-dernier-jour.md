@@ -16,8 +16,11 @@ al2fb_facebook_link_picture:
 dsq_thread_id:
   - "743385807"
 categories:
-  - Musique
+  - Art
 tags:
+  - Sorties
+tags:
+  - Musique
   - Concert
   - Festival
 ---

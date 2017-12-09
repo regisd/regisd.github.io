@@ -10,14 +10,13 @@ guid: /?p=10
 permalink: /blog/2005/06/google-print-premieres-impressions/
 dsq_thread_id:
   - "189256180"
-tmac_last_id:
-  - ""
+
 categories:
-  - Général
-  - Informatique
+  - High-tech
 tags:
   - Google
   - Moteur de recherche
+  - Livre
 ---
 Cela fait plusieurs jours que [Google Print](http://print.google.com/) est disponible (en version beta), mais je n’ai vraiment eu le temps de ne le regarder qu’aujourd’hui. 
 

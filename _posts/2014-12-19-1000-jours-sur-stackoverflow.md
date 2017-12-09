@@ -10,8 +10,7 @@ permalink: /blog/2014/12/1000-jours-sur-stackoverflow/
 dsq_thread_id:
   - "3342653492"
 categories:
-  - Brève
-  - Général
+  - Misc
   - Perso
 ---
 <figure id="attachment_3285" style="width: 350px" class="wp-caption alignnone">[<img src="/blog/wp-content/uploads/2014/12/Screen-Shot-2014-12-19-at-23.19.39-350x196.png" alt="J&#039;ai visité Stackoverflow 1000 fois." width="350" height="196" class="size-medium wp-image-3285" srcset="/blog/wp-content/uploads/2014/12/Screen-Shot-2014-12-19-at-23.19.39-350x196.png 350w, /blog/wp-content/uploads/2014/12/Screen-Shot-2014-12-19-at-23.19.39.png 461w" sizes="(max-width: 350px) 100vw, 350px" />](/blog/wp-content/uploads/2014/12/Screen-Shot-2014-12-19-at-23.19.39.png)<figcaption class="wp-caption-text">J’ai visité Stackoverflow 1000 fois.</figcaption></figure>

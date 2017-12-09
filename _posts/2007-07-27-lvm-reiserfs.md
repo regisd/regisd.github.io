@@ -7,16 +7,15 @@ author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2007/07/lvm-reiserfs/
 permalink: /blog/2007/07/lvm-reiserfs/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "753839011"
 categories:
-  - Linux
+  - High-tech
 tags:
-  - LVM
+  - Linux
 ---
-`<br />
+```
 regis ~ % df                                                                                           [kro64]<br />
 Filesystem            Size  Used Avail Use% Mounted on<br />
 /dev/mapper/system1-mdv--root<br />
@@ -33,7 +32,7 @@ Filesystem            Size  Used Avail Use% Mounted on<br />
                       7,9G  6,2G  1,8G  79% /usr<br />
 /dev/mapper/system-local<br />
                       3,8G  3,8G   14M 100% /usr/local<br />
-` 
+``` 
 
 Oooops! It’s not the first time that I perform this task, but it’s always so good to see LVM and Reiserfs in action:
   
@@ -47,9 +46,9 @@ resize_reiserfs: On-line resizing finished successfully.<br />
 
 _Et voilà_!
   
-`<br />
+```
 [root@kro64 ~]# df /usr/local/<br />
 Filesystem            Size  Used Avail Use% Mounted on<br />
 /dev/mapper/system-local<br />
                       4,8G  3,8G  1,1G  79% /usr/local<br />
-`
+```

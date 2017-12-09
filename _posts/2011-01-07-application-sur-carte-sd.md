@@ -7,14 +7,13 @@ author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=1596
 permalink: /blog/2011/01/application-sur-carte-sd/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "648949368"
 categories:
-  - Informatique
-  - Mobile
+  - High-tech
 tags:
+  - Mobile
   - Android
 ---
 S’il y a bien un point sur lequel l’iPhone OS dépasse Android, c’est la gestion de la mémoire pour les applications.

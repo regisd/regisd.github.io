@@ -10,11 +10,9 @@ guid: http://regis.decamps.free.fr/wordpress/?p=106
 permalink: /blog/2005/11/google-google-google/
 dsq_thread_id:
   - "189256397"
-tmac_last_id:
-  - ""
+
 categories:
-  - Informatique
-  - Sites web
+  - High-tech
 tags:
   - Google
 ---

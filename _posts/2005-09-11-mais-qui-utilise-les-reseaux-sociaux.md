@@ -9,12 +9,12 @@ guid: http://regis.decamps.free.fr/wordpress/?p=57
 permalink: /blog/2005/09/mais-qui-utilise-les-reseaux-sociaux/
 dsq_thread_id:
   - "189256272"
-tmac_last_id:
-  - ""
+
 categories:
-  - Sites web
+  - High-tech
 tags:
   - Social
+  - Webapp
 ---
 Il n’y a pas très longtemps, j’avais l’idée de permettre à tous les contacts de mon carnet d’adresse de voir mes autres contacts. Et si des coordonnées sont mises à jour, cela le serait dans tous les carnets d’adresses qui connaissent le contact.
 

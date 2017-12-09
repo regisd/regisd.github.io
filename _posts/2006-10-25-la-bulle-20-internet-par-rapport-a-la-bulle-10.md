@@ -7,12 +7,11 @@ author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2006/10/la-bulle-20-internet-par-rapport-a-la-bulle-10/
 permalink: /blog/2006/10/la-bulle-20-internet-par-rapport-a-la-bulle-10/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "758097713"
 categories:
-  - Informatique
+  - Misc
 tags:
   - Humour
 ---

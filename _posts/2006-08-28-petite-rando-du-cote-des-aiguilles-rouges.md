@@ -7,14 +7,14 @@ author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2006/08/petite-rando-du-cote-des-aiguilles-rouges/
 permalink: /blog/2006/08/petite-rando-du-cote-des-aiguilles-rouges/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "755546608"
 categories:
+  - Perso
+tags:
   - Sport
   - Vacances
-tags:
   - Randonnée
 ---
 Mon stage [Chamonix multisport](http://www.ucpa-vacances.com/programme.aspx?programme=SFACHAD10) a commencé par une petite rando dans le secteur des aiguilles rouges, en passant sur le col du Brévent pou rarriver au Lac du Brévent.

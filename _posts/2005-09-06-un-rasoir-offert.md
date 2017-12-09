@@ -7,8 +7,7 @@ author: Régis
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=49
 permalink: /blog/2005/09/un-rasoir-offert/
-tmac_last_id:
-  - ""
+
 categories:
   - Shopping
 ---

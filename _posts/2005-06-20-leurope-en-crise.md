@@ -8,12 +8,13 @@ excerpt: "Après le rejet de la constitution européenne, plus aucun pays n'est 
 layout: post
 guid: /?p=5
 permalink: /blog/2005/06/leurope-en-crise/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "1394762877"
 categories:
-  - Général
+  - Actu
+tags:
+  - Europe  
 ---
 Les négociations sur le budget européen s’[annonçaient tendues:](http://www.lemonde.fr/web/article/0,1-0@2-631760,36-654775@51-628820,0.html) les principaux contributeurs au budget européen (l’Allemagne, les Pays-Bas, le Royaume-Uni et la France) voulaient limiter ce budget à 1% du PIB. Difficile puisque:
 

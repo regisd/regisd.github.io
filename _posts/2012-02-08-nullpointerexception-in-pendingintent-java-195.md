@@ -14,6 +14,7 @@ categories:
 tags:
   - Android
   - Bug
+  - Java
 ---
 Mobile development is difficult for a number of reasons. But Android framework does not help…; This is my complaint of today (read more in the series [Android bugs](http://regis.decamps.info/blog/tag/android+bug))
   

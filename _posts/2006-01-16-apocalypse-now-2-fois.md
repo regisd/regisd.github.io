@@ -10,9 +10,10 @@ guid: http://blog.decamps.info/?p=158
 permalink: /blog/2006/01/apocalypse-now-2-fois/
 dsq_thread_id:
   - "189256437"
-tmac_last_id:
-  - ""
-categories:
+
+catégories:
+  -Art
+tags:
   - Cinéma
 ---
 J’ai été voir deux films bien récemment.

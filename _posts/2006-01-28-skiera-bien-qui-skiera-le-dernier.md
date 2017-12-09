@@ -8,14 +8,13 @@ excerpt: Je pars une semaine à Tignes.
 layout: post
 guid: http://blog.decamps.info/2006/01/skiera-bien-qui-skiera-le-dernier/
 permalink: /blog/2006/01/skiera-bien-qui-skiera-le-dernier/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "698150066"
 categories:
-  - Vacances
+  - Perso
 tags:
-  - Montagne
+  - Vacances
   - Ski
 ---
 Je pars demain à [Tignes](http://www.tignes.net). Donc, pendant une semaine, pas d’activité sur mon blog. C’est en montagne que ça se passera. Mais promis, je vous ramenerai des photos 😉

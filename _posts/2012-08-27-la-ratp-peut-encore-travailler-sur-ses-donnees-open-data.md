@@ -16,13 +16,11 @@ al2fb_facebook_link_picture:
 dsq_thread_id:
   - "820689756"
 categories:
-  - Actualités
-  - Général
-  - Informatique
+  - Actu
+  - High-tech
 tags:
   - Libre
   - Métro
-  - Open Data
   - Paris
 ---
 Comme beaucoup, je me suis réjouis de voir que la [RATP rejoignait enfin le mouvement Open Data](http://www.ratp.fr/fr/ratp/r_70350/open-data/). Mais j’ai vite déchanté en voyant la faible qualité de celles-ci…;

@@ -7,12 +7,13 @@ author: Régis
 layout: post
 guid: /?p=20
 permalink: /blog/2005/08/tout-sur-sa-retraite/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "564989383"
 categories:
-  - Sites web
+  - Actu
+tags:
+  - Web
 ---
 Qui a dit que les administrations ne savaient pas se moderniser?
 

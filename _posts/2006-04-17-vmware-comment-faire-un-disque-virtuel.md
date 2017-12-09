@@ -7,12 +7,11 @@ author: Régis
 layout: post
 guid: http://blog.decamps.info/?p=256
 permalink: /blog/2006/04/vmware-comment-faire-un-disque-virtuel/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "768688911"
 categories:
-  - Général
+  - High-tech
 ---
 En fait, c’est très simple: il suffit d’utiliser [Qemu](http://fabrice.bellard.free.fr/qemu/ "QEMU is a generic and open source processor emulator which achieves a good emulation speed by using dynamic translation.").
 

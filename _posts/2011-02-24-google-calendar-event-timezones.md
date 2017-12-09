@@ -9,20 +9,16 @@ guid: http://regis.decamps.info/blog/?p=1711
 permalink: /blog/2011/02/google-calendar-event-timezones/
 wordbooker_options:
   - 'a:8:{s:18:"wordbook_noncename";s:10:"7472524695";s:18:"wordbook_page_post";s:4:"-100";s:18:"wordbook_orandpage";s:1:"2";s:23:"wordbook_default_author";s:1:"1";s:23:"wordbook_extract_length";s:3:"256";s:19:"wordbook_actionlink";s:3:"300";s:18:"wordbook_attribute";s:0:"";s:29:"wordbooker_status_update_text";s:33:"New blog post :  %title% - %link%";}'
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "555134958"
 categories:
   - English
-  - Informatique
+  - High-tech
 tags:
   - Bug
   - Google
-  - Google calendar
 ---
-Hello,
-
 I was ecstatic when I saw that [Google calendar supports event time zones](http://gmailblog.blogspot.com/2010/12/event-time-zones-in-google-calendar.html). This is a very nice promise for implementing travel events.
 
 However, I have a strange behaviour: there is a one-hour offset between what I set and what is recorded.

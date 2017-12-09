@@ -7,14 +7,11 @@ author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2008/03/je-suis-un-ami-de-la-terre/
 permalink: /blog/2008/03/je-suis-un-ami-de-la-terre/
-tmac_last_id:
-  - ""
+
 categories:
-  - Brève
-  - Perso
-  - Politique
-  - Sites web
+  - Misc
 tags:
   - Environnement
+  - Politique
 ---
 Ce soir, je suis devenu membre des [Amis de la Terre](http://www.amisdelaterre.org/).

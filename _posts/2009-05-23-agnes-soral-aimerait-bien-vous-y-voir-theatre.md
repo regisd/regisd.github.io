@@ -8,8 +8,9 @@ excerpt: Excellent divertissement pour adultes
 layout: post
 permalink: /blog/2009/05/agnes-soral-aimerait-bien-vous-y-voir-theatre/
 categories:
-  - Théâtre
+  - Sorties
 tags:
+  - Théâtre
   - Humour
   - One-man show
 ---

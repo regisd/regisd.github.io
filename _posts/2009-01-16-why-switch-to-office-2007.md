@@ -7,16 +7,13 @@ author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=790
 permalink: /blog/2009/01/why-switch-to-office-2007/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "591094812"
 categories:
-  - English
-  - Informatique
+  - High-tech
 tags:
   - Microsoft
-  - Office
 ---
 Microsoft Office 2007 has some advantages over the previous release
 

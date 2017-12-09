@@ -7,10 +7,10 @@ author: Régis
 layout: post
 guid: http://blog.decamps.info/2006/06/valtech-tv-home/
 permalink: /blog/2006/06/valtech-tv-home/
-tmac_last_id:
-  - ""
+
 categories:
-  - Informatique
-  - Sites web
+  - High-tech
+tags:
+  - Web
 ---
 Valtech a lancé le site [Valtech TV](http://www.valtech-tv.com/) dans lequel on retrouvera avec plaisir les conférences des [Valtech days](http://blog.decamps.info/2006/03/valtech-day-1/)

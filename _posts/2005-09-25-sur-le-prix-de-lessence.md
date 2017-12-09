@@ -8,11 +8,11 @@ excerpt: "La dernière fois que j'avais emprunté le diesel de mes parents, le g
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=65
 permalink: /blog/2005/09/sur-le-prix-de-lessence/
-tmac_last_id:
-  - ""
+
 categories:
-  - Politique
+  - Edito
 tags:
+  - Politique
   - Environnement
 ---
 Les journaux disent que les Français trouvent l’essence trop chère. Il est alors facile de crier à l’arnaque étatique et de pester contre le montant trop élevé de la TIPP. Et le gouvernement renvoie la patate chaude aux compagnies pétrolières qui n’auraient pas un comportement citoyen &#8212; de toute façon, il est bien connu qu’en France, les entreprises n’ont pas le droit de gagner d’argent.

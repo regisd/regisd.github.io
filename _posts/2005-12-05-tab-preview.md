@@ -8,11 +8,11 @@ excerpt: Quand on aime les onglets de firefox, on adore cette extension
 layout: post
 guid: http://blog.decamps.info/?p=126
 permalink: /blog/2005/12/tab-preview/
-tmac_last_id:
-  - ""
+
 categories:
-  - Extensions
+  - High-tech
 tags:
+  - Extension
   - Firefox
 ---
 Je fais partie de ceux qui aime la navigation par onglets de \[firefox\](http://www.getfirefox.com/) (ou d'\[opera\](http://www.opera.com) d’ailleurs). Et cette extension transforme un truc très pratique, en un truc génial.

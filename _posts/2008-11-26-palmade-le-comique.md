@@ -7,13 +7,13 @@ author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=615
 permalink: /blog/2008/11/palmade-le-comique/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "603901594"
 categories:
-  - Théâtre
+  - Sorties
 tags:
+  - Théâtre
   - Humour
 ---
 Pierre Palmade fait _le comique_ au théâtre fontaine. Son dernier spectacle porte bien son nom, puisqu’il s’agit ni plus ni moins que d’une autobiographuie des 3 dernières années de l’humoriste. Années pas très glorieuses, mais Palmade en a fait le thème central de la pièce, peut-être pour se libérer ou se donner bonnes conscience

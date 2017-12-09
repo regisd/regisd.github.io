@@ -10,8 +10,9 @@ permalink: /blog/2014/05/desperate-housemen/
 dsq_thread_id:
   - "2785743280"
 categories:
-  - Théâtre
+  - Sorties
 tags:
+  - Théâtre
   - One-man show
 ---
 Le format de cette pièce est assez proche d’un triple one-man show.

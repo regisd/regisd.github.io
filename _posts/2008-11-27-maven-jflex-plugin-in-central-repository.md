@@ -7,17 +7,15 @@ author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=635
 permalink: /blog/2008/11/maven-jflex-plugin-in-central-repository/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "653614940"
 categories:
-  - Brève
-  - English
-  - Informatique
+  - Programmation
 tags:
   - Java
-  - Jflex
-  - Maven
+  - Build system
+  - Extension
 ---
-I’m happy to tell you that my [maven-jflex-plugin](http://jflex.sourceforge.net/maven-jflex-plugin/) is now [in the Maven central repository](http://repo2.maven.org/maven2/de/jflex/maven-jflex-plugin/).
+I’m happy to tell you that my [maven-jflex-plugin](http://jflex.sourceforge.net/maven-jflex-plugin/)
+is now [in the Maven central repository](http://repo2.maven.org/maven2/de/jflex/maven-jflex-plugin/).

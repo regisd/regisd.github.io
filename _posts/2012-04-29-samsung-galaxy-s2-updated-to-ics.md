@@ -11,8 +11,9 @@ dsq_thread_id:
   - "668130446"
 categories:
   - English
-  - Mobile
+  - High-tech
 tags:
+  - Mobile
   - Android
 ---
 I have just updated my Samsung Galaxy SII to Android 4 (aka Ice cream sandwich).

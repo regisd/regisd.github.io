@@ -10,9 +10,10 @@ guid: http://blog.decamps.info/2006/02/lhonneur-du-dragon-tom-yum-goong/
 permalink: /blog/2006/02/lhonneur-du-dragon-tom-yum-goong/
 dsq_thread_id:
   - "189256454"
-tmac_last_id:
-  - ""
-categories:
+
+catégories:
+  -Art
+tags:
   - Cinéma
 ---
 Je ne recommande pas du tout _L’Honneur du dragon Tom-Yum-Goong_.

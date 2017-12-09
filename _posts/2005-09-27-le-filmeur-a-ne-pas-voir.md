@@ -8,9 +8,10 @@ excerpt: "<em>Le filmeur</em>, journal intime et filmé d'Alain Cavalier. Ca ne 
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=78
 permalink: /blog/2005/09/le-filmeur-a-ne-pas-voir/
-tmac_last_id:
-  - ""
+
 categories:
+  - Art
+tags:
   - Cinéma
 ---
 La plupart des gens qui n’ont rien de spécial à dire ouvrent un blog, et c’est chiant à lire. Alain Cavalier étant cinéaste, il a fait un film, mais c’est tout aussi chiant à regarder.

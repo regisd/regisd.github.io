@@ -9,12 +9,13 @@ excerpt: |
 layout: post
 guid: /?p=22
 permalink: /blog/2005/07/suse-linux-vraiment-belle/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "1374339565"
 categories:
-  - Informatique
+  - High-tech
+tags:  
+  - OS
   - Linux
 ---
 Je n’avais jamais utilisé Suse auparavant, et je suis assez impressionné. Elle est très, très, simple à installer (rien à voir avec une [gentoo](http://www.gentoo.org)), tout marche du premier coup (de la clé USB à la carte son), Yast vaut largement l’urpmi de [Mandriva](http://www.Mandriva.com) tout en donnant l’impression d’être plus fini (je dirais même _fignolé_).

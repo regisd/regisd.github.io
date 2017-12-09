@@ -9,15 +9,13 @@ guid: http://regis.decamps.info/blog/2007/10/kopete-startup-slow/
 permalink: /blog/2007/10/kopete-startup-slow/
 dsq_thread_id:
   - "189257059"
-tmac_last_id:
-  - ""
+
 categories:
-  - Brève
   - English
-  - Informatique
-  - Linux
-  - Logiciel
+  - High-tech
 tags:
+  - Logiciel
+  - Linux
   - Bug
 ---
 [Kopete](http://kopete.kde.org/) is a great multi-protocol instant messenger. Some modules can also be plugged, which allows additional functionalities such as splel cheking, message history, statistics, etc.

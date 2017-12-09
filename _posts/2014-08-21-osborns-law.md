@@ -10,8 +10,8 @@ permalink: /blog/2014/08/osborns-law/
 dsq_thread_id:
   - "2958761415"
 categories:
-  - Brève
   - English
+  - Programmation
 tags:
   - Citation
 ---

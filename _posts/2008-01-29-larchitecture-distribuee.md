@@ -7,14 +7,14 @@ author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2008/01/larchitecture-distribuee/
 permalink: /blog/2008/01/larchitecture-distribuee/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "623862822"
 categories:
-  - Informatique
+  - High-tech
 tags:
   - Architecture
+  - Scalability
 ---
 Pour réussir une architecture distribuée, je retiens les 3 principes de conception suivants:
 

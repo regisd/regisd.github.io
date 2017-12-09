@@ -8,16 +8,15 @@ excerpt: "Post technique pour dire que j'aime fichetrement Maven, ce system qui 
 layout: post
 guid: http://regis.decamps.info/blog/2006/10/castor-lelement-root-a-une-majuscule/
 permalink: /blog/2006/10/maven-est-formidable/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "653614970"
 categories:
-  - Boulot
-  - Informatique
+  - Programmation
 tags:
   - HOWTO
-  - Maven
+  - Build
+  - Java
 ---
 #### Maven, le gentoo-portage pour Java
 

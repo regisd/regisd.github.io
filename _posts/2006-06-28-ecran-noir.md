@@ -8,10 +8,8 @@ excerpt: "Je n'ai plus d'écran."
 layout: post
 guid: http://regis.decamps.info/blog/2006/06/ecran-noir/
 permalink: /blog/2006/06/ecran-noir/
-tmac_last_id:
-  - ""
+
 categories:
-  - Général
   - Shopping
 ---
 Depuis dimanche, mon écran reste noir, ou plutôt il n’affiche l’image qu’une seconde. Et puis plus rien, l’écran n’est pas en veille, simplement, il reste noir. Ce qui est assez curieux, c’est que l’image apparaît une seconde de plus quand je change de mode graphique (ce qui me fait faire une partie de flipper Ctrl+F1 – Ctrl+F7). Et après plusieurs tentatives, l’image reste et l’écran fonctionne tout à fait normalement. Jusqu’à ce que je l’éteigne…;

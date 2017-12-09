@@ -9,10 +9,11 @@ guid: http://regis.decamps.info/blog/2007/07/retour-de-limage/
 permalink: /blog/2007/07/retour-de-limage/
 dsq_thread_id:
   - "189256927"
-tmac_last_id:
-  - ""
+
 categories:
-  - Actualités
+  - Edito
+tags:
+  - TV
 ---
 Je regarde peu la télévision, alors j’ai été déçu de voir la disparition de mon émission préférée. En effet, France 5 va mettre fin à [Arrêt sur Image](http://www.france5.fr/asi/). 
 

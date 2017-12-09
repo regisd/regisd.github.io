@@ -8,16 +8,14 @@ excerpt: "Grâce à Google et son GoogleTalk, j'espère que l'on pourra bientôt
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=82
 permalink: /blog/2005/10/enfin-linteroperabilite-entre-les-messageries-instantanees/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "819192236"
 categories:
-  - Informatique
+  - High-tech
 tags:
-  - Format
+  - Libre
   - Instant messaging
-  - Standard
 ---
 Google s’est lancé récemment sur le marché des messageries instantanées. Et dans sa philosophie du « _don’t do evil_« , le premier moteur de recherche a choisi de s’appuyer sur un protocole ouvert, en l’occurence XMMP, utilisé sur le réseau Jabber.
 

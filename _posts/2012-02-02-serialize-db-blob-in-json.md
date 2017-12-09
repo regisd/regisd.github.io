@@ -13,9 +13,7 @@ categories:
   - English
   - Programmation
 tags:
-  - google-app-engine
   - JavaScript
-  - JSON
   - Python
 ---
 For a couple of days, I’ve been playing with google-app-engine. In order to build a JSON-based RESTful service, Google suggests a [utility method to transform an object into JSON](http://code.google.com/p/google-app-engine-samples/source/browse/trunk/geochat/json.py?r=55).

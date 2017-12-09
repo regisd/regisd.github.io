@@ -18,15 +18,14 @@ wordbooker_extract:
     
     
     Pour cela, il ...
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "568012203"
 categories:
   - Programmation
 tags:
   - Android
-  - Talaria
+
 ---
 [L’API de incidents-transports](http://www.incidents-transports.com/dev/) a évolué et indique maintenant l’identifiant de la ligne sur lequel l’incident a eu lieu. Je tire parti de cette nouvelle information, en affichant le pictogramme de la ligne concernée dans la liste. <figure id="attachment_1789" style="width: 233px" class="wp-caption alignnone">
 

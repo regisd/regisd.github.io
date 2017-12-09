@@ -7,10 +7,11 @@ author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=1390
 permalink: /blog/2010/08/broken-htc-legend/
-tmac_last_id:
-  - ""
+
 categories:
   - English
+  - High-tech
+tags:
   - Mobile
 ---
 [Gizmodo](http://gizmodo.com/5488019/htc-legend-review-frankly-it-feels-expensive) was a true Oracle when they wrote:

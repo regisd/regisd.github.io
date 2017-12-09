@@ -7,12 +7,12 @@ author: Régis
 layout: post
 guid: http://blog.decamps.info/2006/02/google-bomb-contre-lestelechargementscom/
 permalink: /blog/2006/02/google-bomb-contre-lestelechargementscom/
-tmac_last_id:
-  - ""
+
 categories:
-  - Politique
+  - Edito
 tags:
-  - DADVSI
+  - Libre
+  - Musique
 ---
 Vu <strike>la propagande</strike> le débat que l’on trouve sur le site gouvernemental, je propose 2 google bombs.
 

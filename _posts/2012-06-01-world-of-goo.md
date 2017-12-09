@@ -16,9 +16,9 @@ al2fb_facebook_link_picture:
 dsq_thread_id:
   - "710912223"
 categories:
-  - Applications
   - Jeu
 tags:
+  - Application
   - Android
 ---
 Ce matin, j’ai acheté [World of goo pour Android](https://play.google.com/store/apps/details?id=com.twodboy.worldofgoofull "World of goo sur Google play").

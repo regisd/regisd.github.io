@@ -8,13 +8,13 @@ excerpt: "Le gouverneur de la Banque: <em>Le directeur de l'immobilier des servi
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=74
 permalink: /blog/2005/06/il-ny-a-pas-tant-davantages-que-ca/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "559906401"
 categories:
+  - Edito
+tags:
   - Boulot
-  - Général
 ---
 En entrant à la Banque de France, je pensais que le faible salaire serait compensé par des avantages en nature. _Le Point_ a fait un dossier spécial sur les logements de fonction des entreprises publiques. Apparemment le directeur de l’immobilier en a trouvé un tout à fait satisfaisant. Je n’ai pas lu le dossier du _Point_ mais voici la réponse du gouverneur:
 

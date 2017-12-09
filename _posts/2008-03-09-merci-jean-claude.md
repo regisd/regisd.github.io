@@ -7,9 +7,10 @@ author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2008/03/merci-jean-claude/
 permalink: /blog/2008/03/merci-jean-claude/
-tmac_last_id:
-  - ""
+
 categories:
+  - Sorties
+tags:
   - Théâtre
 ---
 **Rating:** ![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "2/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "2/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "2/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "2/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "2/5") 

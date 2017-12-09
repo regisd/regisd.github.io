@@ -8,8 +8,7 @@ excerpt: 'Je voulais lire <em>Le Capital</em> de Marx. Je laisse tomber.'
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=105
 permalink: /blog/2005/11/jabandonne-le-capital/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "1721605160"
 categories:

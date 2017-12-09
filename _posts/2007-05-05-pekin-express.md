@@ -7,10 +7,11 @@ author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2007/05/pekin-express/
 permalink: /blog/2007/05/pekin-express/
-tmac_last_id:
-  - ""
+
 categories:
-  - Général
+  - Edito
+tags:
+  - TV
 ---
 J’avais entendu parler de cette émission de M6, où des Français doivent suivre un périple, avec seulement 1€ par jour.
 

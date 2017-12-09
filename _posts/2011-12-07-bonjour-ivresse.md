@@ -16,12 +16,12 @@ al2fb_facebook_link_picture:
 dsq_thread_id:
   - "828054387"
 categories:
-  - Théâtre
+  - Sorties
 tags:
+  - Théâtre
   - Gay
   - Humour
   - Paris
-  - Théâtre de boulevard
 ---
 [<img src="/blog/wp-content/uploads/2012/09/affiche_bonjour_ivresse.jpeg" alt="Affiche Bonjour Ivresse" title="affiche_bonjour_ivresse" width="180" height="249" class="alignleft size-full wp-image-2958" />](/blog/wp-content/uploads/2012/09/affiche_bonjour_ivresse.jpeg){.fancybox}
   

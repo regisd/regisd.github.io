@@ -7,10 +7,11 @@ author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2007/07/envoie-de-fichiers-sur-mobile/
 permalink: /blog/2007/07/envoi-de-fichiers-sur-mobile/
-tmac_last_id:
-  - ""
+
 categories:
-  - Brève
+  - High-tech
+tags:
+  - HOWTO
   - Linux
   - Mobile
 ---

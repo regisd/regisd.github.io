@@ -8,18 +8,16 @@ excerpt: "Avec la DADVSI, une loi liberticide est sur le point d'être passée."
 layout: post
 guid: http://blog.decamps.info/?p=143
 permalink: /blog/2005/12/ecouter-de-la-musique-nest-pourtant-pas-un-crime/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "1040014712"
 categories:
-  - Actualités
+  - Edito
   - Droit
-  - Informatique
-  - Musique
-  - Politique
 tags:
   - Libre
+  - Musique
+  - Politique
 ---
 Avec le \[projet de loi sur les Droits d’Auteurs et Droits Voisins dans la Société de l’Information\](http://www.assemblee-nationale.fr/12/dossiers/031206.asp), une loi liberticide est sur le point d’être passée. En effet, tout contournement des dispositifs anti-copie des œuvres sera un délit. Ainsi, il sera interdit d’écouter librement de la musique ou regarder un film.
 

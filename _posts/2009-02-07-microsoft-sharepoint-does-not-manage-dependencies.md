@@ -8,16 +8,14 @@ excerpt: Sharepoint does not manage dependencies of DLL.
 layout: post
 guid: http://regis.decamps.info/blog/?p=808
 permalink: /blog/2009/02/microsoft-sharepoint-does-not-manage-dependencies/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "881201379"
 categories:
   - English
-  - Informatique
   - Programmation
 tags:
-  - .net
+  - Dotnet
   - SharePoint
 ---
 Sharepoint does not mangage library dependencies depsite the GAC and the stack of recent technologies it relies on.

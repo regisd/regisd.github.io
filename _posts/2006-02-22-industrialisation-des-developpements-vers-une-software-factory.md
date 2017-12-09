@@ -7,12 +7,11 @@ author: Régis
 layout: post
 guid: http://blog.decamps.info/2006/02/industrialisation-des-developpements-vers-une-software-factory/
 permalink: /blog/2006/02/industrialisation-des-developpements-vers-une-software-factory/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "786760880"
 categories:
-  - Informatique
+  - Misc
 tags:
   - Best practice
   - Microsoft

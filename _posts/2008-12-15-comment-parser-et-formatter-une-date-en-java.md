@@ -9,8 +9,7 @@ guid: http://regis.decamps.info/blog/?p=762
 permalink: /blog/2008/12/comment-parser-et-formatter-une-date-en-java/
 dsq_thread_id:
   - "189257672"
-tmac_last_id:
-  - ""
+
 categories:
   - Programmation
 tags:
@@ -22,8 +21,7 @@ On reçoit une date sous la forme « 2008_1 » (c’est issu d’un nom de fic
 
 Pour cela, je propose d’utiliser un DateFormat, et le SimpleDateFormat fait parfaitement l’affaire, et ça ne fait que quelques lignes de code:
   
-[code]
-  
+```
 DateFormat parseDate=new SimpleDateFormat(« y_M »);
   
 Date date=parseDate.parse(string);
@@ -31,17 +29,12 @@ Date date=parseDate.parse(string);
 DateFormat printDate=new SimpleDateFormat(« MMM yyyy »);
   
 return printDate.format(date);
-  
-[/code]
-  
-<!--more-->
-
+```
 
   
 Et j’ajoute le test unitaire qui correspond
   
-[code]
-	  
+```	  
 @Test
 	  
 public void testReformat() throws ParseException {
@@ -54,4 +47,4 @@ assertEquals(« janv. 2008 », JourMois.reformat(« 2008_01 »));
 	  
 }
   
-[/code]
+```

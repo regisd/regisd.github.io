@@ -7,11 +7,12 @@ author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2008/05/le-grand-alibi/
 permalink: /blog/2008/05/le-grand-alibi/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "564521002"
-categories:
+catégories:
+  -Art
+tags:
   - Cinéma
 ---
 Vraiment médiocre.

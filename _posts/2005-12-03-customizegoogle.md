@@ -7,11 +7,10 @@ author: Régis
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=117
 permalink: /blog/2005/12/customizegoogle/
-tmac_last_id:
-  - ""
 categories:
-  - Extensions
+  - High-tech
 tags:
+  - Extension
   - Firefox
   - Google
 ---

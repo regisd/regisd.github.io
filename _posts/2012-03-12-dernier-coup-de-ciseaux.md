@@ -10,6 +10,8 @@ permalink: /blog/2012/03/dernier-coup-de-ciseaux/
 dsq_thread_id:
   - "608393505"
 categories:
+  - Sorties
+tags:
   - Théâtre
 ---
 **Rating:** ![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "5/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "5/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "5/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "5/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "5/5") 

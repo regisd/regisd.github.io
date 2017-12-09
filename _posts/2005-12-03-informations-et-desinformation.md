@@ -8,10 +8,9 @@ excerpt: "L'Armée américaine publie des nouvelles dans la presse irakienne"
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=116
 permalink: /blog/2005/12/informations-et-desinformation/
-tmac_last_id:
-  - ""
+
 categories:
-  - Actualités
+  - Edito
 ---
 Je suis souvent très critique vis à vis de la qualité de la presse française, qui est à mon avis victime d’un phénomène de pensée unique fortement marqué. Mais au moins elle est indépendante.
 

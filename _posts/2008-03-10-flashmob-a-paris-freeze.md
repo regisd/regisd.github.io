@@ -9,12 +9,9 @@ guid: http://regis.decamps.info/blog/2008/03/flashmob-a-paris-freeze/
 permalink: /blog/2008/03/flashmob-a-paris-freeze/
 dsq_thread_id:
   - "189257234"
-tmac_last_id:
-  - ""
 categories:
-  - Actualités
+  - Actu
 tags:
-  - Flashmob
   - Paris
 ---
 Vous en avez peut-être entendu parlé aux infos. Je ne parle pas des villes qui sont passées au PS, mais de la mobilisation flash « Freeze, the world is going to fast » qui a été organisée à Paris ce samedi.
@@ -22,8 +19,6 @@ Vous en avez peut-être entendu parlé aux infos. Je ne parle pas des villes qui
 L’idée vient de [ImproveEverywhere qui a organisé le premier Freeze à la gare centrale de New York](http://improveverywhere.com/2008/01/31/frozen-grand-central/) il y a un mois. Elle a déjà été reprise dans une trentaine de villes…; Mais Paris vient de battre le record du nombre de participants: 3000 selon les organisateurs, 500 selon la police qui comptait encore quand les gens ont repris mouvement pour rentrer chez eux.
 
 <!--more-->
-
-
   
 Je suis toujours très impressionné par les effets de foule. J’admire donc la beauté du rassemblement.
 

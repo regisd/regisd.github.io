@@ -7,10 +7,8 @@ author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=881
 permalink: /blog/2009/05/xsl-that-does-nothing/
-tmac_last_id:
-  - ""
+
 categories:
-  - Informatique
   - Programmation
 tags:
   - XML

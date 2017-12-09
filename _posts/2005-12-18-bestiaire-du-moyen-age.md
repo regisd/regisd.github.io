@@ -8,15 +8,15 @@ excerpt: Je suis allé à la très belle expo de la BnF.
 layout: post
 guid: http://blog.decamps.info/?p=141
 permalink: /blog/2005/12/bestiaire-du-moyen-age/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "1230308273"
 categories:
   - Art
-  - Exposition
+  - Sorties
 tags:
-  - Livres
+  - Livre
+  - Expo
   - Paris
 ---
 J’ai visité cet après-midi l’exposition [Bestiaire du Moyen Âge](http://expositions.bnf.fr/bestiaire/) à la \[Bibliothèque Nationale de France\](http://www.bnf.fr/). De très belles enluminures médiévales y sont exposées. 

@@ -7,13 +7,13 @@ author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2007/03/xara-extreme/
 permalink: /blog/2007/03/xara-extreme/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "687446808"
 categories:
   - English
-  - Informatique
+  - High-tech
+tags:
   - Linux
   - Logiciel
 ---

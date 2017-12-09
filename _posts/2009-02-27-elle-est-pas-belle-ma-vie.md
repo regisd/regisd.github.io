@@ -7,13 +7,12 @@ author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=1112
 permalink: /blog/2009/02/elle-est-pas-belle-ma-vie/
-tmac_last_id:
-  - ""
 dsq_thread_id:
   - "563940588"
 categories:
-  - Théâtre
+  - Sorties
 tags:
+  - Théâtre
   - Gay
   - One-man show
 ---

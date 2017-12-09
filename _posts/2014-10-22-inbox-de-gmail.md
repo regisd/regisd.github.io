@@ -12,11 +12,11 @@ permalink: /blog/2014/10/inbox-de-gmail/
 dsq_thread_id:
   - "3144886432"
 categories:
-  - Informatique
-  - Sites web
+  - High-tech
 tags:
+  - Web
   - Email
-  - Gmail
+  - Email
   - Google
 ---
 [Il y a 10 ans, Gmail](http://googlepress.blogspot.ch/2004/04/google-gets-message-launches-gmail.html "Announce the Gmail, le 1er Avril 2004.") révolutionnait les webmails avec un moteur de recherche intégré, un espace de 1 Go (quand hotmail offrait 10 Mo), des conversations plutôt que des messages individuels, et une interface réactive.

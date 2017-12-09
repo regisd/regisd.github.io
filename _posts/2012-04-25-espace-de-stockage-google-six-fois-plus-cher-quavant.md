@@ -10,8 +10,7 @@ permalink: /blog/2012/04/espace-de-stockage-google-six-fois-plus-cher-quavant/
 dsq_thread_id:
   - "663809602"
 categories:
-  - Informatique
-  - Sites web
+  - High-tech
 tags:
   - Cloud
   - Google

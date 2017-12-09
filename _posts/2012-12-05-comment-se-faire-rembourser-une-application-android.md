@@ -16,7 +16,7 @@ al2fb_facebook_link_picture:
 dsq_thread_id:
   - "959128379"
 categories:
-  - Informatique
+  - High-tech
   - Shopping
 tags:
   - Android

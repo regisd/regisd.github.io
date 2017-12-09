@@ -8,9 +8,10 @@ excerpt: Ce commence comme un polar et finit comme un bon film.
 layout: post
 guid: http://blog.decamps.info/?p=128
 permalink: /blog/2005/12/le-petit-lieutenant/
-tmac_last_id:
-  - ""
+
 categories:
+  - Art
+tags:
   - Cinéma
 ---
 Premier plan sur le visage d’Antoine Derouère (Jalil Lespert), jeune lieutenant qui entre à la PJ. Xavier Beauvois nous fait découvrir ce monde particulier avec un réalisme saisissant. Vous pouvez oublier Navarro 😉

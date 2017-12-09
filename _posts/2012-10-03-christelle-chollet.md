@@ -16,9 +16,10 @@ al2fb_facebook_link_picture:
 dsq_thread_id:
   - "928279445"
 categories:
-  - Théâtre
+  - Sorties
 tags:
-  - One-woman show
+  - Théâtre
+  - One-man show
 ---
 [Christelle Chollet](https://www.facebook.com/pages/Christelle-CHOLLET-page-officielle/111030032264460 "Christeele Chollet page Officielle sur Facebook") s’est fait connaître avec [l’Empiafée](https://www.youtube.com/watch?v=8ZFQzSY3IRM). Je n’avais pas vu ce premier spectacle, mais son _nouveau spectacle_ est du même acabit. Et j’avoue que c’est la première fois que j’aime un spectacle chanté.
   

@@ -8,17 +8,15 @@ excerpt: Mon flux RSS est décoré maintenant avec un petite CSS.
 layout: post
 guid: http://regis.decamps.info/blog/2006/10/un-flux-rss-habille/
 permalink: /blog/2006/10/un-flux-rss-habille/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "564736702"
 categories:
-  - Informatique
+  - High-tech
 tags:
-  - Atom
-  - Blog engine
-  - Hacking
   - Wordpress
+  - XML
+  - Blog
 ---
 A l’origine, quand on visitait la page du [flux RSS de ce blog](http://regis.decamps.info/blog/feed/), on tombait sur…; le flux évidemment!
 

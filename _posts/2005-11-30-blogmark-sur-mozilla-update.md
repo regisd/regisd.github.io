@@ -7,16 +7,15 @@ author: Régis
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=108
 permalink: /blog/2005/11/blogmark-sur-mozilla-update/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "4766155673"
 categories:
-  - Extensions
-  - Sites web
+  - Projet
 tags:
   - Blogmark
   - Firefox
+  - Extension
 ---
 Mon [exension BlogMark pour firefox](https://addons.mozilla.org/extensions/moreinfo.php?id=1487) est maintenant disponible sur Mozilla Update.
 

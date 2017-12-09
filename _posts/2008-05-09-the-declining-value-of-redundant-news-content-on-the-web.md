@@ -7,14 +7,13 @@ author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2008/05/the-declining-value-of-redundant-news-content-on-the-web/
 permalink: /blog/2008/05/the-declining-value-of-redundant-news-content-on-the-web/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "1353949177"
 categories:
-  - Actualités
-  - Brève
+  - Edito
   - English
+
 ---
 Scott Karp [thinks](http://publishing2.com/2008/05/04/the-declining-value-of-redundant-news-content-on-the-web/)
 

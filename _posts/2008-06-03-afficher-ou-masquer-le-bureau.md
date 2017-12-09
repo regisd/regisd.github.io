@@ -7,14 +7,13 @@ author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=526
 permalink: /blog/2008/06/afficher-ou-masquer-le-bureau/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "578955688"
 categories:
-  - Linux
+  - High-tech
 tags:
-  - Astuce
+  - Linux
   - KDE
 ---
 Sous Windows, il y a un raccourci clavier que j’utilise souvent: **Win**+**D**. Il Permet de réduire toutes les fenêtres pour afficher de son bureau. En recomposant **Win**+**D**, on réouvre les fenêtres réduites auparavant. C’est très pratique pour ouvrir un document placé sur son bureau, par exemple.

@@ -7,15 +7,13 @@ author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2007/04/maven-settingsxml/
 permalink: /blog/2007/04/maven-settingsxml/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "558802718"
 categories:
-  - Informatique
+  - Programmation
 tags:
-  - M2settings
-  - Maven
+  - Build system
 ---
 J’avais [déjà parlé](http://regis.decamps.info/blog/2006/10/maven-est-formidable/) de [m2settings](http://code.google.com/p/m2settings/) quand j’en avais eu l’idée, mais du prosélytisme occasionnel ne fait pas de mal…; J’ai avancé mon petit [utilitaire qui permet de configurer le fichier de configuration (settings.xml) de Maven 2](http://code.google.com/p/m2settings/).
 

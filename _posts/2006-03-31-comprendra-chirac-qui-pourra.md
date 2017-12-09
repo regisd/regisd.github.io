@@ -8,14 +8,13 @@ excerpt: "Jacques Chirac promulgue la loi sur l'égalité des chances mais deman
 layout: post
 guid: http://blog.decamps.info/2006/03/comprendra-chirac-qui-pourra/
 permalink: /blog/2006/03/comprendra-chirac-qui-pourra/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "1245342578"
 categories:
-  - Politique
+  - Edito
 tags:
-  - CPE
+  - Politique
 ---
 Jacques Chirac a décidément une interprétation abracabrantesque de la Constitution. Il promulgue la loi sur l’égalité des chances qui crée le CPE, et en même temps, il demande au gouvernement lors de son \[allocution télévisée\](http://permanent.nouvelobs.com/social/20060331.OBS2592.html)
 

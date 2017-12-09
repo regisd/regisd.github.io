@@ -7,16 +7,15 @@ author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2008/07/pzf-szakcsi-lakatos-tony-lakatosjpg/
 permalink: /blog/2008/06/pzf-szakcsi-lakatos-tony-lakatosjpg/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "1395761418"
 categories:
-  - Musique
-  - Photo
+  - Art
+  - Sorties
 tags:
+  - Musique
   - Festival
-  - Jazz
   - Paris
 ---
 <div style="float: left; text-align: center; margin-right: 15px; margin-bottom: 15px;">

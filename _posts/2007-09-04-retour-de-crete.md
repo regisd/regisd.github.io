@@ -10,9 +10,10 @@ guid: http://regis.decamps.info/blog/2007/09/retour-de-crete/
 permalink: /blog/2007/09/retour-de-crete/
 dsq_thread_id:
   - "189257040"
-tmac_last_id:
-  - ""
+
 categories:
+  - Perso
+tags:
   - Vacances
 ---
 J’étais la semaine dernière en Crête. Au programme: soleil de plomb (sans les incendies, ouf), plage, ballade en vélo et kayak des mers, et Cretian nightlife (pas trop de sport donc, mais après une semaine sportive en Espagne, c’est ce dont j’avais besoin).

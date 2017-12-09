@@ -16,9 +16,10 @@ al2fb_facebook_link_picture:
 dsq_thread_id:
   - "781192048"
 categories:
-  - Applications
-  - Mobile
+  - High-tech
 tags:
+  - Application
+  - Mobile
   - Android
   - VoIP
 ---

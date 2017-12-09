@@ -7,8 +7,7 @@ author: Régis
 layout: post
 guid: http://blog.decamps.info/2006/06/encore-du-cash-back/
 permalink: /blog/2006/06/encore-du-cash-back/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "3469905674"
 categories:

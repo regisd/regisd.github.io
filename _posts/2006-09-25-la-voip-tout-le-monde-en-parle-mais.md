@@ -7,12 +7,11 @@ author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2006/09/la-voip-tout-le-monde-en-parle-mais/
 permalink: /blog/2006/09/la-voip-tout-le-monde-en-parle-mais/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "690255296"
 categories:
-  - Informatique
+  - High-tech
 tags:
   - VoIP
 ---

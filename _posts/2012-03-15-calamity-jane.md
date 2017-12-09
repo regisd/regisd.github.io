@@ -10,6 +10,8 @@ permalink: /blog/2012/03/calamity-jane/
 dsq_thread_id:
   - "625114525"
 categories:
+  - Sorties
+tags:
   - Théâtre
 ---
 **Rating:** ![&frac12;](/blog/wp-content/plugins/xavins-review-ratings/default/half_star.png "0.5/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "0.5/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "0.5/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "0.5/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "0.5/5") 

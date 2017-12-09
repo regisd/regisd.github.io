@@ -8,9 +8,10 @@ excerpt: Une adaptation plutôt réussie.
 layout: post
 guid: /?p=24
 permalink: /blog/2005/07/charlie-et-la-chocolaterie/
-tmac_last_id:
-  - ""
+
 categories:
+  - Art
+tags:
   - Cinéma
 ---
 Tim Burton a plutôt bien réussi l’adaptation cinématographique du grand classique de Rohald Dahl. 

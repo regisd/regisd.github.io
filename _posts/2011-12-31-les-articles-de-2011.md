@@ -12,7 +12,7 @@ tmac_last_id:
 dsq_thread_id:
   - "563944648"
 categories:
-  - Général
+  - Misc
 tags:
   - Best of
 ---

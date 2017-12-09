@@ -9,9 +9,10 @@ guid: /?p=23
 permalink: /blog/2005/07/les-huit-fausses-idees-de-linformatique-distribuee/
 dsq_thread_id:
   - "189256194"
-tmac_last_id:
-  - ""
+
 categories:
-  - Informatique
+  - Programmation
+tags:
+  - Scalability
 ---
 Tout programmeur devrait avoir accroché [The Eight Fallacies of Distributed Computing](http://today.java.net/jag/Fallacies.html) de Peter Deutsch. Et il devrait les lire à chaque ligne de code qu’il écrit.

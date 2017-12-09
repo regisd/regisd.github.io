@@ -7,16 +7,14 @@ author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=538
 permalink: /blog/2008/07/spam-getting-in-my-inbox/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "709247170"
 categories:
-  - Brève
+  - Misc
   - English
-  - Informatique
 tags:
-  - Gmail
+  - Email
   - Google
   - Spam
 ---

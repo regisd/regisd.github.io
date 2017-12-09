@@ -7,13 +7,12 @@ author: Régis
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=51
 permalink: /blog/2005/09/google-xul-interface/
-tmac_last_id:
-  - ""
+
 categories:
-  - Informatique
-  - Sites web
+  - High-tech
 tags:
   - Google
   - Moteur de recherche
+  - Firefox
 ---
 Je viens de découvrir que [Google existe avec une interace XUL](http://www.google.com/mozilla/google.xul)

@@ -7,15 +7,15 @@ author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=527
 permalink: /blog/2008/06/gerer-les-raccourcis-claviers-comme-un-geek/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "585381800"
 categories:
-  - Linux
+  - High-tech
 tags:
-  - Astuce
+  - Linux
   - KDE
+  - HOWTO
 ---
 Hier, j’expliquais [comment modifier les raccourcis clavier de KDE les plus courants](http://regis.decamps.info/blog/2008/06/afficher-ou-masquer-le-bureau/).
 

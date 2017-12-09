@@ -7,9 +7,7 @@ author: Régis
 layout: post
 guid: http://blog.decamps.info/2006/01/en-un-mot-superbonane/
 permalink: /blog/2006/01/en-un-mot-superbonane/
-tmac_last_id:
-  - ""
 categories:
-  - Général
+  - Misc
 ---
 Je souhaite vous souhaite, à tous et à toutes, une très bonne année 2006.

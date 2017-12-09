@@ -7,9 +7,10 @@ author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2006/09/lheritage/
 permalink: /blog/2006/09/lheritage/
-tmac_last_id:
-  - ""
-categories:
+
+catégories:
+  -Art
+tags:
   - Cinéma
 ---
 J’avais été bouleversé par [13 Tzameti](http://www.allocine.fr/film/fichefilm_gen_cfilm=61514.html). On retrouve dans le dernier film de Gela Babluani, _L’héritage_, un peu la même ambiance.

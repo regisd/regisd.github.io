@@ -12,9 +12,7 @@ dsq_thread_id:
 categories:
   - Art
 tags:
-  - Ballet
   - Dance
-  - Zurich
 ---
 Quand le ballet rencontre la street-dance, cela donne [Swan Lake [reloaded]](http://www.swanlake-show.ch/). J’étais très emballé par cette adaptation du [classique de Tchaikovsky](https://play.spotify.com/album/3fVjvRz5dRNNWDk12EkDGc "Le Lac des cygnes, par l'orchestre national du Bolchoï, sur Spotify"), un peu à la façon de <a href="http://www.imdb.com/title/tt0117509" title="Romeo+Juliet, sur l'IMDb" target="_blank">Romeo+Juliet de Luhrmann</a> ou de ces excellentes [Liaisons Dangereuses](http://regis.decamps.info/blog/2012/02/les-liaisons-dangereuses/ "Mon avis sur les Liaisons dangereuses mises en scène par Malkovich").
 

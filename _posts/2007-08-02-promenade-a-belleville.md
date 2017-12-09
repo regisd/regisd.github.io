@@ -9,13 +9,12 @@ guid: http://regis.decamps.info/blog/2007/08/promenade-a-belleville/
 permalink: /blog/2007/08/promenade-a-belleville/
 dsq_thread_id:
   - "189256996"
-tmac_last_id:
-  - ""
+
 categories:
   - Art
   - Perso
-  - Photo
 tags:
+  - Photo
   - Insolite
   - Paris
 ---

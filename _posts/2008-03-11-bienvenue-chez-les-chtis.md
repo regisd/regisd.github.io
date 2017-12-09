@@ -10,9 +10,10 @@ guid: http://regis.decamps.info/blog/2008/03/bienvenue-chez-les-chtis/
 permalink: /blog/2008/03/bienvenue-chez-les-chtis/
 dsq_thread_id:
   - "189257241"
-tmac_last_id:
-  - ""
-categories:
+
+catégories:
+  -Art
+tags:
   - Cinéma
 ---
 Philippe Abrams est directeur de la poste de Salon-de-Provence. Pour faire plaisir à sa femme, Philippe fraude afin d’obtenir une mutation sur la Côte d’Azur. Mais il est démasqué. Par mesure disciplinaire, il est muté dans le Nord.

@@ -9,12 +9,11 @@ guid: http://regis.decamps.info/blog/?p=532
 permalink: /blog/2008/07/bouchons-auditifs-hi-fi/
 dsq_thread_id:
   - "189257399"
-tmac_last_id:
-  - ""
+
 categories:
-  - Musique
   - Shopping
 tags:
+  - Musique
   - Santé
 ---
 [Après le concert de Rose Tattoo d’hier](http://friendfeed.com/e/3ea339cf-34c7-7522-779b-b4fdf16ffdd8/Je-vais-au-Trabendo-couter-Rose-Tattoo/)<sup><a href="#footnote_0_532" id="identifier_0_532" class="footnote-link footnote-identifier-link" title="Benjamin, encore merci de m’avoir inivt&eacute;">1</a></sup>, je suis ressorti à moitié sourd et entièrement convaincu que je devais m’acheter des bouchons d’oreille haute-fidélité.

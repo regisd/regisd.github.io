@@ -12,10 +12,10 @@ dsq_thread_id:
 al2fb_facebook_image_id:
   - "2757"
 categories:
-  - Théâtre
+  - Sorties
 tags:
+  - Théâtre
   - Humour
-  - Standup
 ---
 Amelle et Noom sont deux humoristes issus du Jamel comédie club.
 

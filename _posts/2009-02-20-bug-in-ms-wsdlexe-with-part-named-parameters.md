@@ -7,15 +7,14 @@ author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=830
 permalink: /blog/2009/02/bug-in-ms-wsdlexe-with-part-named-parameters/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "628751401"
 categories:
   - English
   - Programmation
 tags:
-  - .net
+  - Dotnet
   - Bug
   - Microsoft
 ---

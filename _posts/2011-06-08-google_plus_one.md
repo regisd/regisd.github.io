@@ -14,8 +14,7 @@ tmac_last_id:
 dsq_thread_id:
   - "563946250"
 categories:
-  - Brève
-  - Général
+  - Misc
 tags:
   - Google
 ---

@@ -7,15 +7,14 @@ author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2006/08/google-earth/
 permalink: /blog/2006/08/google-earth/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "1076732772"
 categories:
-  - Linux
-  - Logiciel
-  - Sites web
+  - High-tech
 tags:
+  - Logiciel
+  - Linux
   - Google
 ---
 Je viens de découvrir que la dernière version de [Google Earth fonctionne sous Linux](http://earth.google.com/tour/thanks-linux4.html).

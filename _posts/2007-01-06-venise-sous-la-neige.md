@@ -9,14 +9,12 @@ guid: http://regis.decamps.info/blog/2007/01/venise-sous-la-neige/
 permalink: /blog/2007/01/venise-sous-la-neige/
 dsq_thread_id:
   - "189256775"
-tmac_last_id:
-  - ""
+
 categories:
-  - Théâtre
+  - Sorties
 tags:
-  - Café de la gare
+  - Théâtre
   - Humour
-  - Théâtre de boulevard
 ---
 **Rating:** ![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "2/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "2/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "2/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "2/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "2/5") 
 

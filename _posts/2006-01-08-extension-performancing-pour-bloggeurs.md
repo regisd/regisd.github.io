@@ -8,12 +8,13 @@ excerpt: Une extension pour bloggueur!
 layout: post
 guid: http://blog.decamps.info/2006/01/extension-performancing-pour-bloggeurs/
 permalink: /blog/2006/01/extension-performancing-pour-bloggeurs/
-tmac_last_id:
-  - ""
+
 categories:
-  - Extensions
+  - Programmation
 tags:
+  - Extension
   - Firefox
+  - HTML
 ---
 L’extension [Performancing pour Firefox](http://performancing.com/firefox) aide les bloggeurs à publier. 
 

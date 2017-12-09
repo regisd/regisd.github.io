@@ -7,10 +7,11 @@ author: Régis
 layout: post
 guid: http://blog.decamps.info/2006/05/windows-xp-eula-in-plain-english/
 permalink: /blog/2006/05/windows-xp-eula-in-plain-english/
-tmac_last_id:
-  - ""
+
 categories:
-  - Général
+  - Droit
+tags:
+  - Microsoft
 ---
 This article deciphers the end user licence agreement of Windows XP.
 

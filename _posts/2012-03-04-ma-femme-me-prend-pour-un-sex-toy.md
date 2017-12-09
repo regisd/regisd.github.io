@@ -10,6 +10,8 @@ permalink: /blog/2012/03/ma-femme-me-prend-pour-un-sex-toy/
 dsq_thread_id:
   - "598356524"
 categories:
+  - Sorties
+tags:
   - Théâtre
 ---
 **Rating:** ![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "3/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "3/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "3/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "3/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "3/5") 

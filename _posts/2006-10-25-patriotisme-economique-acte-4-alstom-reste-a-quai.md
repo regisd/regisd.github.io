@@ -7,12 +7,14 @@ author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2006/10/patriotisme-economique-acte-4-alstom-reste-a-quai/
 permalink: /blog/2006/10/patriotisme-economique-acte-4-alstom-reste-a-quai/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "879567921"
 categories:
-  - Actualités
+  - Edito
+tags:
+  - Politique
+  - Économie
 ---
 Après [Danone, Arcelor puis Gaz de France](http://regis.decamps.info/blog/2006/03/patriotisme-economique-acte-3/) on parle de nouveau de Patriotisme économique. Mais cette fois, pour dire qu’il n’y en a pas eu. 
 

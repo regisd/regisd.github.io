@@ -8,8 +8,7 @@ excerpt: Sometimes, HttpWebRequest hangs on a http 100 "Continue" request
 layout: post
 guid: http://regis.decamps.info/blog/?p=1585
 permalink: /blog/2010/12/c-bug-in-webrequest/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "555134887"
 categories:
@@ -17,10 +16,9 @@ categories:
   - Programmation
 tags:
   - Bug
-  - 'C#'
   - Microsoft
 ---
-I have discovered what I think is a bug in the C# framework.
+I have discovered what I believe is a bug in the C# framework.
 
 I have a simple code that sends a Http webdav request
   

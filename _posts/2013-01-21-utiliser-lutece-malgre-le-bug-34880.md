@@ -12,7 +12,10 @@ al2fb_facebook_exclude:
 dsq_thread_id:
   - "1039014812"
 categories:
-  - Général
+  - Projet
+tags:
+  - Bug
+  - Android
 ---
 Lutece utilise un composant technique avancé, qui vient s’insérer dans « Comptes et Synchro ».
   

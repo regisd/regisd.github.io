@@ -8,20 +8,15 @@ excerpt: When storage is cheap, the obvious solution is to use a lossless encodi
 layout: post
 guid: http://regis.decamps.info/blog/?p=1446
 permalink: /blog/2010/10/flac-vs-apple-lossless/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "617154321"
 categories:
   - English
-  - Informatique
-  - Musique
+  - High-tech
 tags:
   - Apple
-  - Flac
-  - iPhone
-  - iTunes
-  - MP3
+  - Musique
 ---
 ### Playing music on a computer
 

@@ -7,16 +7,13 @@ author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=619
 permalink: /blog/2008/11/markdown-syntax-in-maven-projects/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "559201013"
 categories:
-  - English
-  - Informatique
+  - Programmation
 tags:
-  - Java
-  - Maven
+  - Build system
 ---
 I love the [Markdown syntax](http://daringfireball.net/projects/markdown/). I think it the most readable when in plain text, hence it is very easy to write as well, plus it has a large feature set. It can be used for [writing blog posts](http://blogs.sonatype.com/people/jvanzyl/2008/10/19/blogging-in-markdown-with-embedded-code-syntax-highlighting/), for instance.
 

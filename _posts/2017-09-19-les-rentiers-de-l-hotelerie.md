@@ -10,7 +10,7 @@ permalink: /blog/2017/09/les-rentiers-de-l-hotelerie/
 dsq_thread_id:
   - "6156672244"
 categories:
-  - Actualités
+  - Edito
 ---
 Comme la majorité des gens, quand je réserve un hôtel, j’utilise Booking.com pour chercher les disponibilités, et comparer les prix, les emplacements et les avis des clients. Et les hôteliers sont aussi ravis d’obtenir une visibilité mondiale, et qu’on leur facilite la gestion des réservations. 
 

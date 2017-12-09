@@ -12,8 +12,9 @@ tmac_last_id:
 dsq_thread_id:
   - "572203661"
 categories:
-  - Applications
+  - High-tech
 tags:
+  - Application
   - Android
 ---
 On a beaucoup parlé de Shazaam. Mais pour avoir testé les deux, je trouve que [Soundhound](https://market.android.com/details?id=com.melodis.midomiMusicIdentifier "Soundhound music identifier sur Android market") fonctionnent mieux quand il y a des bruits parasites.

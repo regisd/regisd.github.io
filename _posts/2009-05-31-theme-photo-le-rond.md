@@ -7,11 +7,12 @@ author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2009/06/theme-photo-le-rond/
 permalink: /blog/2009/05/theme-photo-le-rond/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "576793048"
 categories:
+  - Art
+tags:
   - Photo
 ---
 <div style="float: left; text-align: center; margin-right: 15px; margin-bottom: 15px;">

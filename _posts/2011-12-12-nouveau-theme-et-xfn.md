@@ -12,11 +12,10 @@ tmac_last_id:
 dsq_thread_id:
   - "561529296"
 categories:
-  - Général
+  - Misc
 tags:
   - Google
   - Wordpress
-  - xfn
 ---
 Il était temps de changer de thème WordPress, et j’ai choisi [Graphene](http://wordpress.org/extend/themes/graphene).
 

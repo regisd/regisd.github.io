@@ -7,12 +7,13 @@ author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2006/06/canyoning/
 permalink: /blog/2006/06/canyoning/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "564530837"
 categories:
-  - Général
+  - Perso
+tags:
+  - Sport
   - Vacances
 ---
 Je pars fin juillet en [canyoning avec l’UCPA](http://www.ucpa-vacances.com/programme.aspx?univers=1&programme=SEABIEM10&tri=&page=1).

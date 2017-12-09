@@ -8,9 +8,10 @@ excerpt: "Dominique de Villepin participera mercredi et jeudi au sommet mondial 
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=58
 permalink: /blog/2005/09/dominique-de-villepin-se-rend-a-lonu-pour-proposer-de-nouvelles-taxes/
-tmac_last_id:
-  - ""
+
 categories:
+  - Edito
+tags:
   - Politique
 ---
 Jacques Chirac qui n’a pu se déplacer en raison de son récent accident cérébral lui a confié pour mission de redonner une impulsion aux objectifs fixés en 2000 au sommet du Millénaire (réduire de moitié d’ici à 2015 la part de la population mondiale vivant sous le seuil de pauvreté).

@@ -8,9 +8,10 @@ excerpt: "I don't care that he is good, I just hope him to be lucky."
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=115
 permalink: /blog/2005/11/match-point/
-tmac_last_id:
-  - ""
+
 categories:
+  - Art
+tags:
   - Cinéma
 ---
 J’ai beaucoup aimé ce dernier Woody Allen, qui ne ressemble à aucun des Woody Allen que j’avais vu jusqu’à présent. Bien sûr, le réalisateur qui a une cinquantaine de films a son actif a déjà fait de très bons films, mais étrangement, on reconnaissait toujours sa patte, même quand il n’était pas dans le casting (c’était, je trouve le cas de _Melinda et Melinda_).

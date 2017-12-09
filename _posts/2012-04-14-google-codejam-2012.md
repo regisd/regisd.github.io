@@ -11,6 +11,8 @@ dsq_thread_id:
   - "649262274"
 categories:
   - Programmation
+tags:
+  - Google
 ---
 Cette année, j’ai réussi à m’inscrire et être devant mon ordinateur pour le début de la compétition.
   

@@ -7,10 +7,9 @@ author: Régis
 layout: post
 guid: http://blog.decamps.info/2006/01/un-bug-sur-google/
 permalink: /blog/2006/01/un-bug-sur-google/
-tmac_last_id:
-  - ""
+
 categories:
-  - Sites web
+  - High-tech
 tags:
   - Bug
   - Google

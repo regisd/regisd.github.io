@@ -8,13 +8,13 @@ excerpt: "J'ai retrouvé mon Makefile qui permet de produire rapidement des docu
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=109
 permalink: /blog/2005/06/makefile-latex/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "671540774"
 categories:
-  - Informatique
   - Programmation
+tags:
+  - Build system  
 ---
 * \`make\` construit le Postscript (Requires latex, glosstex, bibtex, makeindex).
   

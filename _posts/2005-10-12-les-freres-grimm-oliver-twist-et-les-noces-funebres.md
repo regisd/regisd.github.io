@@ -8,11 +8,12 @@ excerpt: Je suis allé voir hier soir Les frères Grimm
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=81
 permalink: /blog/2005/10/les-freres-grimm-oliver-twist-et-les-noces-funebres/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "830223309"
 categories:
+  - Art
+tags:
   - Cinéma
 ---
 Personne ne voulait aller jouer au badminton hier soir, alors j’ai rattrapé ma soirée en allant voir les _frères Grimm_. Terry Gilliam s’est lâché et a construit un conte pour adulte assez drôle qui a lieu dans un univers complètement loufoque. Dommage que le film mélange un peu trop les genres (comédie, horreur, parodie, dramatique, romance).

@@ -7,16 +7,16 @@ author: Régis
 layout: post
 guid: /?p=13
 permalink: /blog/2005/06/google-personalized-search/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "592010981"
 categories:
-  - Informatique
-  - Sites web
+  - High-tech
 tags:
+  - Web
   - Moteur de recherche
 ---
-Quand on cherche quelque chose sur internet, c’est souvent lié à des centres d’intérêts. Google propose donc de [personnaliser ma recherche](http://labs.google.com/personalized) à partir de mon [historique google](http://www.google.com/searchhistory).
+Quand on cherche quelque chose sur internet, c’est souvent lié à des centres d’intérêts.
+Google propose donc de [personnaliser ma recherche](http://labs.google.com/personalized) à partir de mon [historique google](http://www.google.com/searchhistory).
 
 En théorie, c’est une (très) bonne idée; reste à voir ce que cela donne en pratique!

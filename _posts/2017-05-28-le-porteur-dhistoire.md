@@ -10,9 +10,9 @@ permalink: /blog/2017/05/le-porteur-dhistoire/
 dsq_thread_id:
   - "5858089313"
 categories:
-  - Théâtre
+  - Sorties
 tags:
-  - Paris
+  - Théâtre
 ---
 Excellente mise en scène, sobre, moderne et intelligente. Les acteurs sont excellents, ils nous plongent au cœur du récit sans surjouer. L’histoire qui nous est contée à travers l’Histoire est également prenante.
 

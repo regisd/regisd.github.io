@@ -7,11 +7,12 @@ author: Régis
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=87
 permalink: /blog/2005/10/oliver-twist/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "4952947869"
 categories:
+  - Art
+tags:
   - Cinéma
 ---
 Je n’ai pas été déçu de l’adaptation par Polanski du roman éponyme de Dickens. Les acteurs sont excellents, l’histoire est très fidèle au roman, les décors sont parfaits et l’atmosphère victorienne de Londres est pénétrante. Je regrette simplement quelques passages un peu longs (le film dure tout de même plus de 2 heures).

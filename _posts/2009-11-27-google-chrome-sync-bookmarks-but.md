@@ -9,14 +9,14 @@ guid: http://regis.decamps.info/blog/?p=956
 permalink: /blog/2009/11/google-chrome-sync-bookmarks-but/
 dsq_thread_id:
   - "189257841"
-tmac_last_id:
-  - ""
+
 categories:
   - English
-  - Informatique
+  - High-tech
 tags:
   - Chrome
   - Google
+  - Bug
 ---
 Google chrome has just [added bookmark synchronization.](http://www.chromeplugins.org/chrome/google-chrome-bookmarks-sync-feature/) 
 

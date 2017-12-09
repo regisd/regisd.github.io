@@ -12,7 +12,6 @@ tmac_last_id:
 dsq_thread_id:
   - "614301797"
 categories:
-  - Brève
   - English
   - Programmation
 tags:

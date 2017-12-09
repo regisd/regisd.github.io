@@ -11,8 +11,9 @@ dsq_thread_id:
   - "563644848"
 categories:
   - Art
-  - Théâtre
+  - Sorties
 tags:
+  - Théâtre
   - Paris
 ---
 [<img src="/blog/wp-content/uploads/2012/02/liaisons_40x60-233x350.jpg" alt="Affiche du spectacle" title="Les laisons dangereuses" width="233" height="350" class="alignleft size-medium wp-image-2507" srcset="/blog/wp-content/uploads/2012/02/liaisons_40x60-233x350.jpg 233w, /blog/wp-content/uploads/2012/02/liaisons_40x60-682x1024.jpg 682w, /blog/wp-content/uploads/2012/02/liaisons_40x60.jpeg 788w" sizes="(max-width: 233px) 100vw, 233px" />](/blog/wp-content/uploads/2012/02/liaisons_40x60.jpeg){.fancybox}

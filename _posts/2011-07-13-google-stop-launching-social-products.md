@@ -16,10 +16,11 @@ dsq_thread_id:
   - "1097352173"
 categories:
   - English
-  - Sites web
+  - High-tech
 tags:
   - Facebook
   - Google
+  - Social
 ---
 I like to try new stuff, and Google is making me waste a lot of time! Dear Google, please stop launching social products, where each new product seems to be a replacement for the previous one.
 

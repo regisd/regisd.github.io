@@ -9,12 +9,10 @@ guid: http://regis.decamps.info/blog/2008/01/propositions-attali/
 permalink: /blog/2008/01/propositions-attali/
 dsq_thread_id:
   - "189257178"
-tmac_last_id:
-  - ""
+
 categories:
-  - Actualités
-  - Brève
-  - Politique
+  - Edito
+
 ---
 Et vous que pensez-vous de ces propositions « d’inspiration libérale »?
 

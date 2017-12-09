@@ -9,11 +9,10 @@ guid: http://regis.decamps.info/blog/?p=546
 permalink: /blog/2008/08/eclipse-jvm-terminated/
 dsq_thread_id:
   - "189257434"
-tmac_last_id:
-  - ""
+
 categories:
   - English
-  - Informatique
+  - Programmation
 tags:
   - Bug
   - Eclipse

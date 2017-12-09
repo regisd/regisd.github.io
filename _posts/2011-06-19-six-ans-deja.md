@@ -14,9 +14,8 @@ tmac_last_id:
 dsq_thread_id:
   - "722997041"
 categories:
-  - Brève
-  - Général
+  - Misc
 tags:
-  - Anniversaire
+  - Blog
 ---
 Et voilà, cela fait 6 ans que je tiens ce blog. [Mon premier post](http://regis.decamps.info/blog/2005/06/audio-scrobbler/) parlait de Last.fm.

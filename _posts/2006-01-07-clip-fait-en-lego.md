@@ -8,9 +8,10 @@ excerpt: Le clip des White Stripes a été fait en légo
 layout: post
 guid: http://blog.decamps.info/2006/01/clip-fait-en-lego/
 permalink: /blog/2006/01/clip-fait-en-lego/
-tmac_last_id:
-  - ""
+
 categories:
+  - Art
+tags:
   - Musique
 ---
-J’ai trouvé sur Google Video quelque chose d’amusant. Il s’agit du \[clip\](http://video.google.com/videoplay?docid=257198691228181343) des White Stripes pour « Fell in love ». Il a été fait en légo.
+J’ai trouvé sur Google Video quelque chose d’amusant. Il s’agit du [clip](http://video.google.com/videoplay?docid=257198691228181343) des White Stripes pour « Fell in love ». Il a été fait en légo.

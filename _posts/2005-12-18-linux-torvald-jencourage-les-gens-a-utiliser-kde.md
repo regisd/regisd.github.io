@@ -7,9 +7,10 @@ author: Régis
 layout: post
 guid: http://blog.decamps.info/2005/12/linux-torvald-jencourage-les-gens-a-utiliser-kde/
 permalink: /blog/2005/12/linux-torvald-jencourage-les-gens-a-utiliser-kde/
-tmac_last_id:
-  - ""
+
 categories:
+  - Actu
+tags:
   - Linux
 ---
 La guerre entre gnome et KDE a repris.

@@ -9,12 +9,12 @@ excerpt: |
 layout: post
 guid: http://blog.decamps.info/2006/02/lestelechargementscom-pour-mettre-tout-le-monde-dans-le-meme-mouvement/
 permalink: /blog/2006/02/lestelechargementscom-pour-mettre-tout-le-monde-dans-le-meme-mouvement/
-tmac_last_id:
-  - ""
+
 categories:
-  - Sites web
+  - Edito
 tags:
-  - DADVSI
+  - Musique
+  - Libre
 ---
 Avec la bagatelle de 180000 euros, le gouvernement lance le site **les telechargements.com** (et pour répondre au Ministre de l’Economie, ancien directeur de France Télécom, non il ne faut pas taper l’espace dans son navigateur).
 

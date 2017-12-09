@@ -7,12 +7,10 @@ author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2007/08/blogmark-sur-ohloh/
 permalink: /blog/2007/08/blogmark-sur-ohloh/
-tmac_last_id:
-  - ""
+
 categories:
-  - Brève
   - English
-  - Général
+  - Misc
 tags:
   - Blogmark
 ---

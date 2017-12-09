@@ -14,14 +14,13 @@ wordbooker_thumb:
   - /blog/wp-content/uploads/2011/04/IMGP4953-150x150.jpg
 wordbooker_extract:
   - "Ca fait un moment que je n'ai rien posté parce que j'ai fait un voyage de 2 semaines de vacances dans le Yunnan, avec des copains et copines."
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "564493898"
 categories:
-  - Vacances
+  - Perso
 tags:
-  - Chine
+  - Vacances
 ---
 Ca fait un moment que je n’ai rien posté parce que j’ai fait un voyage de 2 semaines de vacances dans le Yunnan, avec des copains et copines.
 

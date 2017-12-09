@@ -9,8 +9,7 @@ guid: http://regis.decamps.info/blog/?p=525
 permalink: /blog/2008/05/a-quoi-sert-fia-net-exactement/
 dsq_thread_id:
   - "189257323"
-tmac_last_id:
-  - ""
+
 categories:
   - Shopping
 ---

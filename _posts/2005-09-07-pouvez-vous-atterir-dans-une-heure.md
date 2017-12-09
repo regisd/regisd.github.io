@@ -8,10 +8,9 @@ excerpt: "Un avion  a été forcé mercredi de reporter son atterrissage à Canb
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=53
 permalink: /blog/2005/09/pouvez-vous-atterir-dans-une-heure/
-tmac_last_id:
-  - ""
+
 categories:
-  - Général
+  - Misc
 tags:
   - Insolite
 ---

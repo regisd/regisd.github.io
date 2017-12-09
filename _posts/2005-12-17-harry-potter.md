@@ -8,9 +8,10 @@ excerpt: "Je ne sais pas si le film est fidèle au roman, mais j'ai trouvé le s
 layout: post
 guid: http://blog.decamps.info/2005/12/harry-potter/
 permalink: /blog/2005/12/harry-potter/
-tmac_last_id:
-  - ""
+
 categories:
+  - Art
+tags:
   - Cinéma
 ---
 Je n’ai pas un fan d’Harry Potter, mais je me suis retrouvé devant le Mk2 bibliothèque quand la séance commençait, alors je suis allé voir _La coupe de feu_.

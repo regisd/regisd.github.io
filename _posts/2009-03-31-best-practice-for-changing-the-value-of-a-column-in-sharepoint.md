@@ -9,8 +9,7 @@ guid: http://regis.decamps.info/blog/?p=846
 permalink: /blog/2009/03/best-practice-for-changing-the-value-of-a-column-in-sharepoint/
 dsq_thread_id:
   - "189257748"
-tmac_last_id:
-  - ""
+
 categories:
   - English
   - Programmation

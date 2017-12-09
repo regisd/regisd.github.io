@@ -9,11 +9,11 @@ excerpt: |
 layout: post
 guid: http://blog.decamps.info/2006/01/mary-deux-navets-pour-le-prix-dun/
 permalink: /blog/2006/01/mary-deux-navets-pour-le-prix-dun/
-tmac_last_id:
-  - ""
 dsq_thread_id:
   - "3179413070"
-categories:
+catégories:
+  -Art
+tags:
   - Cinéma
 ---
 « Mary » est l’histoire de la réalisation d’un film religieux. Après avoir tournée dans ce film, l’actrice de Marie Madeleine change de vie et tient des propos mystiques. Dans « This is my blood », le film tourné dans le film, le rôle des apôtres est remis en question. Son réalisateur espère gagner beaucoup d’argent avec la controverse qui éclate ainsi. 

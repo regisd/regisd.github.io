@@ -12,11 +12,11 @@ authorsure_include_css:
 dsq_thread_id:
   - "1500469454"
 categories:
-  - Théâtre
+  - Sorties
 tags:
+  - Théâtre
   - Humour
   - Paris
-  - Satire
 ---
 [<img src="/blog/wp-content/uploads/2013/05/vz-a0be53f2-4c56-45b0-a2cc-5aa81322f0eb-274x350.jpeg" alt="Affiche de L&#039;Entreprise" width="274" height="350" class="alignright size-medium wp-image-3164" srcset="/blog/wp-content/uploads/2013/05/vz-a0be53f2-4c56-45b0-a2cc-5aa81322f0eb-274x350.jpeg 274w, /blog/wp-content/uploads/2013/05/vz-a0be53f2-4c56-45b0-a2cc-5aa81322f0eb-235x300.jpeg 235w, /blog/wp-content/uploads/2013/05/vz-a0be53f2-4c56-45b0-a2cc-5aa81322f0eb.jpeg 470w" sizes="(max-width: 274px) 100vw, 274px" />](/blog/wp-content/uploads/2013/05/vz-a0be53f2-4c56-45b0-a2cc-5aa81322f0eb.jpeg){.nyroModal}
 

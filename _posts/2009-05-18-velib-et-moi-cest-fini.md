@@ -10,7 +10,7 @@ permalink: /blog/2009/05/velib-et-moi-cest-fini/
 dsq_thread_id:
   - "698555678"
 categories:
-  - Général
+  - Edito
 tags:
   - Paris
   - Vélib

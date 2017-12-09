@@ -9,11 +9,9 @@ guid: http://regis.decamps.info/blog/?p=784
 permalink: /blog/2009/01/moteur-de-recherche-avec-phonemisation/
 dsq_thread_id:
   - "189257699"
-tmac_last_id:
-  - ""
+
 categories:
-  - Boulot
-  - Informatique
+  - Programmation
 tags:
   - Moteur de recherche
 ---

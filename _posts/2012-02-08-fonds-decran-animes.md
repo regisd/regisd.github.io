@@ -10,8 +10,9 @@ permalink: /blog/2012/02/fonds-decran-animes/
 dsq_thread_id:
   - "569228618"
 categories:
-  - Applications
+  - High-tech
 tags:
+  - Application
   - Android
 ---
 Android permet d’avoir des fonds d’écran animés. Et certains sont excellents!

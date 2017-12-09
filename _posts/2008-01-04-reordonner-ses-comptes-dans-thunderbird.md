@@ -7,14 +7,14 @@ author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2008/01/reordonner-ses-comptes-dans-thunderbirds/
 permalink: /blog/2008/01/reordonner-ses-comptes-dans-thunderbird/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "1384085756"
 categories:
-  - Informatique
+  - High-tech
 tags:
   - Thunderbird
+  - HOWTO
 ---
 Dans Thunderbird, il est possible d’avoir plusieurs comptes. Mais l’interface ne permet pas de les réordonner.
 

@@ -8,12 +8,13 @@ excerpt: 'Le succès de <a href="http://fr.wikipedia.org/">Wikipédia</a> montre
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=64
 permalink: /blog/2005/09/un-wiki-ca-peut-marcher-sauf-si/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "4783550982"
 categories:
-  - Informatique
+  - Edito
+tags:
+  - Web
   - Politique
 ---
 Les wiki sont largement connus des internautes aujourd’hui. Le succès de [Wikipédia](http://fr.wikipedia.org/) montre à quel point un wiki est adapté pour accumuler de façon collaborative les informations d’une encyclopédie, qu’elle soit généraliste comme [Wikipédia](http://fr.wikipedia.org/) ou spécialisée comme [Planet Math](http://planetmath.org/); pour construire une base de connaissance en entreprise (je suis en train de le faire à la Banque de France, ma « base de connaissance interactive » est actuellement en recette, je vous tiens au courant); ou pour écrire la documentation d’un logiciel.

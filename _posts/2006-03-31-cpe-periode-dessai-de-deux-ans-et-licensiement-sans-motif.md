@@ -10,13 +10,10 @@ guid: http://blog.decamps.info/2006/03/cpe-periode-dessai-de-deux-ans-et-licensi
 permalink: /blog/2006/03/cpe-periode-dessai-de-deux-ans-et-licensiement-sans-motif/
 dsq_thread_id:
   - "189256587"
-tmac_last_id:
-  - ""
+
 categories:
-  - Général
-  - Politique
-tags:
-  - CPE
+  - Actu
+  - Droit
 ---
 Aujourd’hui j’ai fait le tour de la blogosphère sur le CPE et on y lit ma foi beaucoup d’âneries.
 

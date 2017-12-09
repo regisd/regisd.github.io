@@ -8,9 +8,10 @@ excerpt: "Je suis de retour, mon blog n'est pas mort ;-) "
 layout: post
 guid: http://blog.decamps.info/2006/04/mon-adsl-est-revenu/
 permalink: /blog/2006/04/mon-adsl-est-revenu/
-tmac_last_id:
-  - ""
+
 categories:
-  - Général
+  - Misc
+tags:
+  - FAI
 ---
 Je suis de retour, mon blog n’est pas mort 😉 C’est simplement que je suis resté une semaine privé d’ADSL…; Cégétel me fait une remise de 20€, je ne vais pas trop râler.

@@ -7,12 +7,13 @@ author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=1184
 permalink: /blog/2010/05/la-gestion-de-ses-contacts/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "189257885"
 categories:
-  - Sites web
+  - High-tech
+tags:
+  - Google
 ---
 Depuis quelques temps, Google contacts est mon carnet d’adresses.
 

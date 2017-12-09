@@ -7,13 +7,13 @@ author: Régis
 layout: post
 guid: http://blog.decamps.info/2006/01/dadvsi-le-debat-est-ouvert/
 permalink: /blog/2006/01/dadvsi-le-debat-est-ouvert/
-tmac_last_id:
-  - ""
+
 categories:
-  - Art
-  - Politique
+  - Droit
+  - Edito
 tags:
-  - DADVSI
+  - Musique
+  - Libre
 ---
 Avec le nombre de CRS déployés autour du Palais Royal aujourd’hui, je m’étais bien douté qu’il se passait quelque chose d’important au Ministère de la Culture (d’autres pensaient plutôt au Conseil d’Etat).
 

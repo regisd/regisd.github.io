@@ -8,13 +8,13 @@ excerpt: "Lors d'un forum du PS, Ségolène Royale donne son opinion sur le trav
 layout: post
 guid: http://regis.decamps.info/blog/2006/11/la-video-bombe-de-segolene/
 permalink: /blog/2006/11/la-video-bombe-de-segolene/
-tmac_last_id:
-  - ""
+
 dsq_thread_id:
   - "189256731"
 categories:
-  - Politique
+  - Edito
 tags:
+  - Poltique
   - Vidéo
 ---
 Lors d’un débat socialiste de janvier dernier, Ségolène Royal donne son opinion sur le travail des profs au collège. Il y avait une caméra clandestine dans la salle…;
