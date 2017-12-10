@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" width="1440" height="1280" viewBox="0, 0, 1440, 1280">
+  <defs>
+    <clipPath id="Clip_1">
+      <path d="M259.593,127.523 L1310.75,127.523 L1310.75,1202.046 L259.593,1202.046 z M760.434,178.523 L310.593,555.985 L809.909,1151.046 L1259.75,773.584 L760.434,178.523 z"/>
+    </clipPath>
+    <filter id="Shadow_2">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="20"/>
+      <feOffset dx="10" dy="10" result="offsetblur"/>
+      <feFlood flood-color="#000000"/>
+      <feComposite in2="offsetblur" operator="in"/>
+    </filter>
+    <clipPath id="Clip_3">
+      <path d="M-286.887,532.326 L435.116,532.326 L435.116,1298.38 L-286.887,1298.38 z M-23.678,583.326 L-235.887,761.39 L171.907,1247.38 L384.116,1069.315 L-23.678,583.326 z"/>
+    </clipPath>
+    <filter id="Shadow_4">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="20"/>
+      <feOffset dx="10" dy="10" result="offsetblur"/>
+      <feFlood flood-color="#000000"/>
+      <feComposite in2="offsetblur" operator="in"/>
+    </filter>
+    <clipPath id="Clip_5">
+      <path d="M392.527,127.91 L1443.684,127.91 L1443.684,1201.659 L392.527,1201.659 z M895.565,178.91 L443.527,558.214 L940.647,1150.659 L1392.684,771.354 L895.565,178.91 z"/>
+    </clipPath>
+    <filter id="Shadow_6">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="20"/>
+      <feOffset dx="10" dy="10" result="offsetblur"/>
+      <feFlood flood-color="#000000"/>
+      <feComposite in2="offsetblur" operator="in"/>
+    </filter>
+    <clipPath id="Clip_7">
+      <path d="M-135.365,27.972 L345.159,27.972 L345.159,508.497 L-135.365,508.497 z M104.897,78.972 C0.37,78.972 -84.365,163.708 -84.365,268.234 C-84.365,372.761 0.37,457.497 104.897,457.497 C209.424,457.497 294.159,372.761 294.159,268.234 C294.159,163.708 209.424,78.972 104.897,78.972 z"/>
+    </clipPath>
+    <filter id="Shadow_8">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="20"/>
+      <feOffset dx="10" dy="10" result="offsetblur"/>
+      <feFlood flood-color="#000000"/>
+      <feComposite in2="offsetblur" operator="in"/>
+    </filter>
+  </defs>
+  <g id="Layer_3">
+    <path d="M0,-13.792 L1440,-13.792 L1440,1293.792 L0,1293.792 L0,-13.792 z" fill="#DB4436"/>
+    <g>
+      <path d="M760.434,178.523 L1259.75,773.584 L809.909,1151.046 L310.593,555.985 L760.434,178.523 z" clip-path="url(#Clip_1)" filter="url(#Shadow_2)" fill="rgba(0,0,0,0.75)"/>
+      <path d="M310.593,555.985 L760.435,178.523 L1259.75,773.584 L809.909,1151.046 L310.593,555.985 z" fill="#0F9D58"/>
+    </g>
+    <g>
+      <path d="M-23.678,583.326 L384.116,1069.315 L171.907,1247.38 L-235.887,761.39 L-23.678,583.326 z" clip-path="url(#Clip_3)" filter="url(#Shadow_4)" fill="rgba(0,0,0,0.75)"/>
+      <path d="M-235.887,761.39 L-23.678,583.326 L384.116,1069.315 L171.907,1247.38 L-235.887,761.39 z" fill="#0F9D58"/>
+    </g>
+    <g>
+      <path d="M895.565,178.91 L1392.684,771.354 L940.647,1150.659 L443.527,558.214 L895.565,178.91 z" clip-path="url(#Clip_5)" filter="url(#Shadow_6)" fill="rgba(0,0,0,0.75)"/>
+      <path d="M443.527,558.214 L895.565,178.91 L1392.684,771.354 L940.647,1150.659 L443.527,558.214 z" fill="#57BB8A"/>
+    </g>
+    <g>
+      <path d="M104.897,78.972 C209.424,78.972 294.159,163.708 294.159,268.234 C294.159,372.761 209.424,457.497 104.897,457.497 C0.37,457.497 -84.365,372.761 -84.365,268.234 C-84.365,163.708 0.37,78.972 104.897,78.972 z" clip-path="url(#Clip_7)" filter="url(#Shadow_8)" fill="rgba(0,0,0,0.75)"/>
+      <path d="M104.897,457.497 C0.37,457.497 -84.365,372.761 -84.365,268.234 C-84.365,163.708 0.37,78.972 104.897,78.972 C209.424,78.972 294.159,163.708 294.159,268.234 C294.159,372.761 209.424,457.497 104.897,457.497 z" fill="#57BB8A"/>
+    </g>
+  </g>
+</svg>
