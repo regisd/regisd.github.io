@@ -1,0 +1,18 @@
+<div id="header_wrap" class="outer">
+  <header class="inner">
+    <h1 id="project_title">
+      <a href="/" class="header-text">{{ site.title | default: site.github.repository_name }}</a>
+    </h1>
+    <h2 id="project_tagline" class="header-text">{{ site.description | default: site.github.project_tagline }}</h2>
+
+    {% if site.show_downloads %}
+    <section id="downloads">
+      <a class="zip_download_link" href="{{ site.github.zip_url }}">Download this project as a .zip file</a>
+      <a class="tar_download_link" href="{{ site.github.tar_url }}">Download this project as a tar.gz file</a>
+    </section>
+    {% endif %}
+  </header>
+  <div class="search_container">
+    <gcse:searchbox></gcse:searchbox>
+  </div>
+</div>
