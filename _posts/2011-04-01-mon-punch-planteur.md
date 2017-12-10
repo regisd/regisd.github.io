@@ -24,7 +24,7 @@ tags:
 ---
 Le punch planteur est un [cocktail](http://www.1001cocktails.com/cocktails/1153/recette-cocktail-planteur.html) hyper classique, mais il y a [3 astuces](http://standblog.org/blog/post/2008/08/12/Les-3-secrets-pour-un-bon-punch-planteur) pour le réussir.
 
-### Ingrédients de qualité
+## Ingrédients de qualité
 
 Voici mes ingrédients pour 3 litres:
 
@@ -49,7 +49,7 @@ Voici mes ingrédients pour 3 litres:
 
 Les lecteurs qui sont rigoureux auront constaté que la somme des liquides ne fait pas 3 litres, mais parce que les fruits occupent aussi de la place 😉
 
-### La macération, étape indispensable de la recette
+## La macération, étape indispensable de la recette
 
 La recette est très simple:
 
@@ -58,7 +58,7 @@ La recette est très simple:
   3. Laisser macérer au réfrigérateur. _La macération est une étape indispensable, au minimum 12h. Mais pas plus de 48h._
   4. Au moment de servir, verser dans un bol et ajouter les jus de fruits.
 
-### Le rhum arrangé
+## Le rhum arrangé
 
 _Le vrai secret du punch est d’utiliser du rhum arrangé, c’est lui qui va enrichir le punch de tous ses arômes._
 

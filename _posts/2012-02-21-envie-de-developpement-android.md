@@ -22,13 +22,13 @@ Un ami me demande
 
 <!--more-->
 
-### Gestion de source
+## Gestion de source
 
 Avant de démarrer le projet, ce n’est pas parce que tu fais un truc dans ton coin, qu’il ne faut pas gérer sérieusement les sources. Je te recommande [bitbucket](https://bitbucket.org/ "Source code hosting"), qui offre un dépôt git (à la mode) ou Mercurial (que je trouvais meilleur) [avec intégration sur le bug tracker](http://confluence.atlassian.com/display/BITBUCKET/Setting+Up+the+Bitbucket+Issues+Service "Bitbucket integrates source code and bug tracker"). L’hébergement peut être privé, même dans l’offre gratuite.
 
-### Client-Serveur
+## Client-Serveur
 
-###  Encapsulation, …; ou pas
+##  Encapsulation, …; ou pas
 
 Pour les échanges de données entre le client mobile et le serveur, REST me semble une évidence. 
 
@@ -36,18 +36,18 @@ Il n’y a pas de support SOAP dans Android, si tu veux absolument en faire tu e
 
 Et [SOAP n’est plus pérenne](http://reinout.vanrees.org/weblog/2010/11/11/soap-is-dead-long-live-rest.html), de toute façon…;
 
-###  Format d’échange
+##  Format d’échange
 
 Ensuite, tu peux faire du XML ou du Json. Les 2 fonctionnent bien.
 
   * Le JSon est sans aucun doute moins verbeux. Il est peut-être un chouia plus simple à produire côté serveur (par exemple en [python](http://docs.python.org/library/json.html "Python Json package")). Sur Android, [la bibliotthèque Json](http://developer.android.com/reference/org/json/package-summary.html "org.json package on Android") rend sa consommation très simple.
   * Le XML est verbeux, ce qui n’est pas un atout lors d’une connexion GPS/3G. Il favorise le typage des éléments, ce qui est un atout pour communiquer avec des services tiers. Pour les échanges plus volumineux, l’implémentation SAX d’un <tt><a href="http://developer.android.com/reference/org/xml/sax/ContentHandler.html" title="SAX ContentHandler for Android">ContentHandler</a></tt> est sans doute la façon la moins consommatrice en termes de mémoire pour traiter le flux de données.
 
-### Serveur
+## Serveur
 
 Soit tu utiliser un service tiers existant, soit tu développes le tien.
 
-###  Un service existant
+##  Un service existant
 
 Dans ce cas, rien à développer, évidemment 🙂 L’avantage, est que tu te concentres sur ton client, avec des web-services qui fonctionnent déjà, et qui répondent à un certain besoin.
 
@@ -57,7 +57,7 @@ Mon expérience est qu’en étant pas maître du service, tu peux être confron
   * par exemple, [Google+ ne permet pas de poster](https://developers.google.com/+/api/ "Gogole+ API")
   * De plus, les grosses API (Facebook, Google) demandent de plus en plus de s’authentifier, ce qui oblige à implémenter OAuth, et c’est loin d’être trivial
 
-###  Ton propre service
+##  Ton propre service
 
 Tu as le choix de la technologie, évidemment…;
 
@@ -69,9 +69,9 @@ Mon expérience récente, c’est que [Python est un super langage](http://regis
 
 Pour GAE, il faut bien comprendre que le [DataStore](http://code.google.com/appengine/docs/python/datastore/ "Google app engine datastore") n’est _pas_ une base de données relationnelle, avec toutes les conséquences que cela entraîne<sup><a href="#footnote_0_2597" id="identifier_0_2597" class="footnote-link footnote-identifier-link" title="Je viens de d&eacute;couvrir l’existence d’un Google Cloud SQL">1</a></sup>. De plus, [les restrictions et limitations](http://stackoverflow.com/a/3068371/94363 "Hidden limitations of Google App Engine?") imposées par Google font que la plupart des frameworks ne marchent pas ou marchent mal, ce qui se traduit souvent par une belle perte de temps &#8212; ça va mieux depuis que certains frameworks sont _forkés_ pour GAE.
 
-### Client Android
+## Client Android
 
-###  Environnement de développement
+##  Environnement de développement
 
 Pour Android, dans tous les cas, il faut [le <strike>DSK</strike> SDK](http://developer.android.com/sdk/index.html "Download Android SDK").
 
@@ -83,11 +83,11 @@ Sur Netbeans, il n’y a pas d’outil de conception d’interface graphique. Do
 
 Si tu penses toujours que [Maven](http://maven.apache.org/ "Apache Maven - Java developement framework") ne fait pas perdre de temps, il y a [un plugin](http://code.google.com/p/maven-android-plugin/ "maven-android-plugin pour Android sur Maven"). Mais je ne te recommande pas cette option &#8212; on n’est pas sensé avoir 36 dépendances non plus dans une appli mobile.
 
-###  Viser l’API Level 7
+##  Viser l’API Level 7
 
 Tu sais que les systèmes Android sont fragmentés, et [je conseille de te prendre <tt>minVersion=7</tt>](http://regis.decamps.info/blog/2012/01/fragmentation-des-systemes-android-2/). Sur la javadoc d’Android, il est possible de masquer les éléments qui ne fonctionnent que sur des niveaux plus élevés.
 
-###  La complexité du développement Android
+##  La complexité du développement Android
 
 Côté Android, le framework s’est complexifié à chaque version (API Level 15 pour l’état de l’art), mais les composants de bases n’ont pas changé: et tu commenceras par [les fondamentaux](http://developer.android.com/guide/topics/fundamentals.html "Android application fundamentals"): l’[<tt>Activity</tt>, qui correspond à un écran](http://developer.android.com/reference/android/app/Activity.html) et l’[<tt>Intent</tt> qui permet de démarrer un autre composant](http://developer.android.com/reference/android/content/Intent.html). 
 
@@ -101,7 +101,7 @@ Dans ton exemple, pour synchroniser des données serveurs, tu vas devoir faire u
 
 Je ne t’ai mis que quelques pointeurs, mais tu constates déjà qu’il y a un certain nombre de choses à ingurgiter…;
 
-### Gloablement
+## Gloablement
 
 Tout ceci n’est pas fait pour te décourager, mais tout ça n’a rien de _simple_, surtout si tu veux faire les choses correctement.
 

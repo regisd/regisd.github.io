@@ -20,7 +20,7 @@ tags:
 ---
 Ca fait plusieurs années que je n’ai pas de télé, mais vu les prix des cartes tuner TNT, j’ai décidé de me lancer dans l’aventure de la TNT.
 
-###  Recompilation du noyau
+##  Recompilation du noyau
 
 Je suis sous Gentoo linux, et me suis aidé du [guide carte TNT de Desintegr](http://desintegr.eu.org/wordpress/2006/01/27/hauppauge-wintv-hvr-1100-et-linux-partie-1/).
 
@@ -28,7 +28,7 @@ Personnellement, j’ai préféré tout mettre en module plutôt que de compiler
 
 Il ne reste plus qu’à choisir son lecteur…;
 
-###  tvtime
+##  tvtime
 
 [TVtime](http://tvtime.sourceforge.net/) est spécialisé dans l’affichage de la télévision. 
 

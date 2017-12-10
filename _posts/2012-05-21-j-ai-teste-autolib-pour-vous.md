@@ -19,7 +19,7 @@ Hier, je suis allé voir des amis qui n’habitent même pas Paris. Mais je me s
 
 <!--more-->
 
-### La première impression est plutôt bonne. 
+## La première impression est plutôt bonne. 
 
 L’inscription pour un abonnement de 24h se fait en 20 min dans la station, et l’interface utilisateur est très claire.
 
@@ -33,7 +33,7 @@ J’ai quand même eu quelques surprises avec la boîte automatique, principalem
 
 Après 40 min de route, j’arrive à destination. 
 
-### Jusqu’au drame, bien entendu
+## Jusqu’au drame, bien entendu
 
 Et là, c’est le drame: il n’y a plus de place dans la station dans laquelle je voulais restituer le véhicule.
 
@@ -43,7 +43,7 @@ J’essaye de négocier un stationnement en dehors de la borne, sachant que je c
 
 [Je boycotte Vélib’ à cause de l’autisme de leur service client](http://regis.decamps.info/blog/2009/05/velib-et-moi-cest-fini/), et [Autolib’ a visiblement décidé de ne pas fournir un bon service client non plus](http://www.sevenwindows.eu/2012/03/26/autolib-un-beta-test-onreux/). L’assistance m’explique qu’il est possible de réserver une place de parking à l’avance, et m’invite à faire cela la prochaine fois. Le service client Autolib’ ne fait aucun effort pour un premier client, donc: non, il n’y aura pas de prochaine fois, merci bien. 
 
-### Bilan des courses
+## Bilan des courses
 
 Finalement, je perds donc 10 min pour revenir sur l’autre station. Et je prends le bus pour arriver à ma destination 10 min plus tard…; 
 

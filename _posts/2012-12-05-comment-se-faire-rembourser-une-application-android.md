@@ -22,14 +22,14 @@ tags:
   - Android
   - HOWTO
 ---
-### Si l’application a été achetée il y a moins de 15 min
+## Si l’application a été achetée il y a moins de 15 min
 
 C’est très simple
 
   1. Sur mobile, rendez-vous dans Google play store, puis « Mes applications ».
   2. Sélectionnez l’application que vous souhaitez retourner, et cliquez « désinstaller et rembourser »
 
-### Si l’application a été achetée avant
+## Si l’application a été achetée avant
 
 C’est plus compliqué, et le remboursement n’est pas garanti.
 

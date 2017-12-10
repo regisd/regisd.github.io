@@ -21,14 +21,14 @@ tags:
 ---
 À quoi ça sert: à téléphoner depuis son mobile au même prix que depuis sa ligne fixe 🙂
 
-### Prérequis
+## Prérequis
 
   * posséder un téléphone qui contient un client SIP; 
   * avoir une ligne ADSl dégroupée, chez Neuf, SFR ou d’autres;
   * activer le SIP sur son compte ADSL;
   * être connecté à l’internet au moment de l’appel. 
 
-### Explications du pourquoi du comment
+## Explications du pourquoi du comment
 
 Vous pouvez passer au paragraphe suivant si vous êtes pressé ou pas curieux…;
   
@@ -42,7 +42,7 @@ C’est exactement ce que font aussi Skype ou Microsoft windows live messenger. 
 
 L’idée ici, c’est d’utiliser mon téléphone mobile, connecté à l’Internet, pour établir une communication SIP, en utilisant mon opérateur ADSL. Résultat: cette communication est facturée par mon fournisseur d’accès ADSL au prix d’une communication depuis mon « fixe », plutôt que par mon opérateur mobile décomptée du forfait. Adieu les minutes à 30 centimes!
 
-### Activer SIP chez son opérateur ADSL
+## Activer SIP chez son opérateur ADSL
 
 Chez SFR/neuf, il faut d’abord [s’inscrire au service Neuftalk](http://neuftalk.sfr.fr/inscrire.html).
   
@@ -52,13 +52,13 @@ Chez Free, c’est informations sont directement accessibles dans son interface 
 
 Une fois le sésame reçu, on a accès à un fournisseur SIP.
 
-### Avoir un téléphone SIP
+## Avoir un téléphone SIP
 
 Il faut maintenant un client SIP. Comme le protocole SIP est ouvert, il en existe plusieurs. Par exemple, on peut installer [Fring sur Android](http://www.fring.com/android/) et [Fring sur iPhone](http://itunes.apple.com/app/fring/id290948830). Certains téléphones intègrent directement cette capacité d’appel SIP, comme le Nokia N95. 
 
 Assez clairement, il faut un téléphone récent…;
 
-### Configurer son client SIP
+## Configurer son client SIP
 
 Il suffit alors d’entrer les identifiants SIP dans son client SIP. Voici comment faire avec Fring:
   

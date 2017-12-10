@@ -23,7 +23,7 @@ Ici, je vais essayer de refaire un panorama des logiciels disponibles.
 
 <!--more-->
 
-### CSipSimple
+## CSipSimple
 
 **Rating:** <i class="material-icons">star</i><i class="material-icons">star</i><i class="material-icons">star</i><i class="material-icons">star</i><i class="material-icons">star</i> 
 
@@ -37,7 +37,7 @@ Par ailleurs, l’interface est réussie, et l’intégration au téléphone est
 
 En plus, le projet est open-source [sur Google code](http://code.google.com/p/csipsimple/ "CSipSimple sur Google code").
 
-### Fring
+## Fring
 
 **Rating:** <i class="material-icons">star</i><i class="material-icons">star</i><i class="material-icons">star</i><i class="material-icons">star</i><i class="material-icons">star_border</i> 
 
@@ -53,7 +53,7 @@ En plus de faire de la VoIP, Fring fait de la messagerie instantanée via Micros
 
 <br style="clear: both;" />
 
-### Nimbuzz
+## Nimbuzz
 
 **Rating:** <i class="material-icons">star</i><i class="material-icons">star</i><i class="material-icons">star</i><i class="material-icons">star_border</i><i class="material-icons">star_border</i> 
 
@@ -73,7 +73,7 @@ Nimbuzz fait également de la messagerie instantanée, mais je n’ai pas re-tes
 
 <br style="clear: both;" />
 
-### Linphone
+## Linphone
 
 **Rating:** <i class="material-icons">star</i><i class="material-icons">star</i><i class="material-icons">star_border</i><i class="material-icons">star_border</i><i class="material-icons">star_border</i> 
 
@@ -89,7 +89,7 @@ Il y a une bonne intégration avec le carnet d’adresses.
 
 <br style="clear: both;" />
 
-### Mizudroid
+## Mizudroid
 
 **Rating:** <i class="material-icons">star</i><i class="material-icons">star_border</i><i class="material-icons">star_border</i><i class="material-icons">star_border</i><i class="material-icons">star_border</i> 
 
@@ -109,7 +109,7 @@ Enfin, et surtout la qualité sonore ne me paraît pas des meilleures.
 
 <br style="clear: both;" />
 
-### SIPDroid
+## SIPDroid
 
 **Rating:** <i class="material-icons">star</i><i class="material-icons">star_border</i><i class="material-icons">star_border</i><i class="material-icons">star_border</i><i class="material-icons">star_border</i> 
 
@@ -123,7 +123,7 @@ C’est aussi une des rares applications qui ne présente pas de bouton « Racc
 
 <br style="clear: both;" />
 
-### Tiviphone
+## Tiviphone
 
 **Rating:** <i class="material-icons">star_border</i><i class="material-icons">star_border</i><i class="material-icons">star_border</i><i class="material-icons">star_border</i><i class="material-icons">star_border</i> 
 
@@ -137,7 +137,7 @@ Les développeurs ont apparemment oublié de placer un clavier pour numéroter l
 
 <br style="clear: both;" />
 
-### 3CXPhone
+## 3CXPhone
 
 **Rating:** <i class="material-icons">star_border</i><i class="material-icons">star_border</i><i class="material-icons">star_border</i><i class="material-icons">star_border</i><i class="material-icons">star_border</i> 
 
@@ -149,7 +149,7 @@ La configuration est complexe, on s’y perd entre « name », « display nam
 
 <br style="clear: both;" />
 
-### AGEphone
+## AGEphone
 
 **Rating:** <i class="material-icons">star_border</i><i class="material-icons">star_border</i><i class="material-icons">star_border</i><i class="material-icons">star_border</i><i class="material-icons">star_border</i> 
 
@@ -163,7 +163,7 @@ En cas de mauvais mot de passe, l’erreur est un vague « Not ready ». Avec 
 
 <br style="clear: both;" />
 
-### ecocaller
+## ecocaller
 
 **Rating:** <i class="material-icons">star_border</i><i class="material-icons">star_border</i><i class="material-icons">star_border</i><i class="material-icons">star_border</i><i class="material-icons">star_border</i> 
 
@@ -177,7 +177,7 @@ Il y a un « SIP log » qui aurait pu être utile, mais qui reste vide, alors 
 
 <br style="clear: both;" />
 
-### Ne sont même pas des clients SIP
+## Ne sont même pas des clients SIP
 
 Inutile de les installer, ce ne sont même pas des clients SIP. Ils foncitonnent sur leur propre réseau, propriétaire.
 
@@ -188,6 +188,6 @@ Inutile de les installer, ce ne sont même pas des clients SIP. Ils foncitonnent
 
 <br style="clear: both;" />
 
-### Autres clients
+## Autres clients
 
 Je pense avoir testé les principaux logiciels disponibles pour Android. Si jamais j’en ai oublié un, n’hésitez pas à laisser un commentaire. De même si vous avez obtenu un résultat positif avec ceux sur lesquels je me suis cassé les dents.

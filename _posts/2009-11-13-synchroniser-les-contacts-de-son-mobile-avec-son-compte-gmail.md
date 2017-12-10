@@ -27,13 +27,13 @@ J’écris cet article pour 2 raisons:
   * mais aussi pour ne pas gérer deux carnets d’adresse. La synchronisation de gmail et du mobile résout l’éternel problème des carnets d’adresses qui contiennent des informations contradictoires
   * la deuxième raison est qu’il m’a fallu 2 jours pour retrouver les bons paramètres…;.
 
-### Les avantages
+## Les avantages
 
 Le site [Google sync](http://www.google.com/mobile/products/sync.html) vend très bien les choses.
   
 
 
-### Comment faire
+## Comment faire
 
 Le mécanisme fonctionne très bien avec:
 
@@ -47,7 +47,7 @@ Normalement, il suffit d’utiliser le navigateur wap de son téléphone pour bu
 
 J’y suis allé, et est été renvoyé par un « votre téléphone n’est aps pris en charge actuellement ». **Arg!**
 
-### Configurer manuellement son Nokia
+## Configurer manuellement son Nokia
 
 Mais en fait ce n’est pas vrai, en configurant manuellement son mobile, ça marche!
 

@@ -27,7 +27,7 @@ Malheureusement, Android Jelly Beans 4.1.1 (et aussi 4.1.2 semble-t-il) présent
   
 Le contournement que je propose est le suivant.
 
-### Activer l’option _Sources inconnues_
+## Activer l’option _Sources inconnues_
 
 Si ce n’est pas déjà fait, cette option se trouve dans `Paramètres système > Sécurité > Sources inconnues`.
   
@@ -53,7 +53,7 @@ Si ce n’est pas déjà fait, cette option se trouve dans `Paramètres système
   </div></figure>
 </div>
 
-### Télécharger Lutece
+## Télécharger Lutece
 
 [Télécharger Lutece](https://www.dropbox.com/s/7m5r8atq70158bh/Lutece.apk "Télécharger Lutece depuis Dropbox") **en dehors de Google Play**.
   
@@ -69,7 +69,7 @@ Si ce n’est pas déjà fait, cette option se trouve dans `Paramètres système
   </div></figure>
 </div>
 
-### Installer
+## Installer
 
 Une notification apparaît pour indiquer que le téléchargement est en cours.
   

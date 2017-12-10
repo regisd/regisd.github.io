@@ -23,8 +23,8 @@ tags:
   - 
 ```
 
-### Titles
+## Titles
 
-- `h1` is the site title
-- `h2` is the page title
-- **`h3` are sections in the post**
+- span is the site title
+- `h1` is the page title
+- **`h2` are sections in the post**

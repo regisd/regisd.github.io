@@ -37,7 +37,7 @@ D’abord, parlons de ce qu’il y a:
   * la liste des [« correspondances »](http://www.data.gouv.fr/donnees/view/Correspondances-stations-lignes-sur-le-r%C3%A9seau-ferr%C3%A9-RATP-564124?xtmc=R%C3%A9gie%20autonome%20des%20transports%20parisiens%20%28RATP%29&xtcr=2). Il s’agit en fait de la liste de (id_station, ligne).
   * [les plans « emblématiques » et pictogrammes](http://www.ratp.fr/fr/ratp/r_70350/open-data/)
 
-### Les défauts
+## Les défauts
 
 Cela semble bien parti sauf qu’il y a multitude de défauts.
 
@@ -66,7 +66,7 @@ La liste des stations est un référentiel simple, voire simplet
   
     ![Logo T1 réellement utilisé dans le plan"](/blog/wp-content/uploads/2012/08/Logo-T1-réel.png)
     
-    ### Des informations qui auraient apporté de la valeur…;
+    ## Des informations qui auraient apporté de la valeur…;
     
     Mais je ne veux passer casser ce bon élan, car j’aimerais aussi
     
@@ -75,6 +75,6 @@ La liste des stations est un référentiel simple, voire simplet
       * [les horaires](http://www.lepoint.fr/chroniqueurs-du-point/guerric-poncet/la-ratp-ouvre-un-peu-ses-donnees-08-08-2012-1494227_506.php "La RATP oublie les horaires")
       * un peu d’union avec la SNCF pour fournir toutes les données…;
     
-    ### Inexploitable aujourd’hui
+    ## Inexploitable aujourd’hui
     
     Certes, c’est le geste qui compte, et c’est embryonnaire. Mais pour le moment, les données « libérées » sont déjà connues de tout le monde. Et puis, elles sont à peu près inexploitables. D’ici à penser que [c’est volontaire](http://www.rudebaguette.com/2012/08/17/open-data-baby-steps-for-the-parisian-mass-transit-system/ "RATP makes a baby step towardsopen data (en)")…;

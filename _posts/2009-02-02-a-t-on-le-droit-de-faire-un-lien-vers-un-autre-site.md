@@ -17,7 +17,7 @@ Cette question est souvent débattue<sup><a href="#footnote_0_795" id="identifie
   
 <!--more-->
 
-### Qu’est qu’un lien hypertexte?
+## Qu’est qu’un lien hypertexte?
 
 Un [lien hypertexte](http://fr.wikipedia.org/wiki/Lien_hypertexte) permet de réaliser un lien depuis une page web vers une autre ressource sur le web. Cette autre ressource peut-être elle même une page, ou un autre type de contenu (PDF, Vidéo, Audio, etc.)
 
@@ -32,7 +32,7 @@ On peut distinguer 2 types de lien:
   * un lien vers la page d’accueil du site, vers <http://regis.decamps.info/blog/> par exemple
   * un lien vers une ressource particulière, vers <http://regis.decamps.info/blog/2009/02/a-t-on-le-droit-de-faire-un-lien-vers-un-autre-site> ou vers </blog/wp-content/themes/limau-orange-01/images/rds_logo.png> par exemple
 
-### Les arguments d’interdiction du lien sans autorisation
+## Les arguments d’interdiction du lien sans autorisation
 
 Le premier type d’argumentation tient compte du fait que la ressource pointée est la propriété intellectuelle d’un tiers. Pour l’utiliser, il faudrait donc son accord écrit.
 
@@ -45,13 +45,13 @@ D’un point de vue plus pratique, la position se défend par le fait qu’un pr
 
 Les fanatiques du droit d’auteur exigent donc une autorisation pour tout lien; c’est le cas de la [RATP par exemple](http://formats-ouverts.org/blog/2008/02/22/1505-liens-hypertextes-vers-ratpfr).
 
-### Les arguments pour l’utilisation libre du lien
+## Les arguments pour l’utilisation libre du lien
 
   * liberté d’expression et le droit de citation-référence
   * des mesures techniques existent pour bloquer les visiteurs requêtant une ressource appelée depuis un autre site (celui qui ferait le lien)
   * par coutume: l’hyperlien est au cœur du web ; la création de lien est de toute façon incontrôlable
 
-### Plus loin que le lien, l’inclusion de contenu
+## Plus loin que le lien, l’inclusion de contenu
 
 Attention je parle bien ici de réaliser un lien et non d’inclure du contenu en réalité hébergé sur un autre site.
 
@@ -61,7 +61,7 @@ Le cadrage ou _framing_ consiste à intégrer le site cible à une frame située
 
 Outre une atteinte évidente à la propriété intellectuelle, ces deux techniques peuvent constituer une atteinte au droit moral de l’auteur (notamment à son droit à la paternité de l’œuvre) car le public peut penser que vous êtes l’auteur du contenu. Outre une atteinte aux droits intellectuels et moraux, c’est aussi du vol de bande passante. Ceci ne concerne évidemment pas les services spécialisés dans ce genre d’hébergement (par exemple [flickr](http://flickr.com/))
 
-### Quelle position adopter?
+## Quelle position adopter?
 
 Le [forum des droits sur Internet](http://www.foruminternet.org/) n’est pas une autorité juridique et n’écrit ni la loi ni la jurisprudence mais fournit des [recommandations](http://www.foruminternet.org/telechargement/documents/reco-hyli-20030303.htm) qu’il est sans doute bon de suivre.
 

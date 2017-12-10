@@ -19,7 +19,7 @@ Depuis quelques temps, Google contacts est mon carnet d’adresses.
 
 Mais le courrier électronique n’est pas mon seul moyen de communication, je pense notamment à Facebook et au téléphone mobile. Quelques services récents se proposent donc d’agréger tout cela. Je note ici les services qui me paraissent intéressants. En effet, j’avais ouvert un compte sur le premier en 2008, et, herrr, je l’avais complètement oublié…; 
 
-### [silentale](http://silentale.com/)
+## [silentale](http://silentale.com/)
 
 J’utilise Google contacts, twitter, facebook. Mais [d’autres connexions sont possibles](http://silentale.com/product/features#feature_connectors). Silentale permet de regrouper toutes ces conversations en un seul endroit.
   
@@ -33,19 +33,19 @@ J’attends avec impatience l’application pour Android.
 
 C’est une startup française à qui je souhaite bonne chance!
 
-### [Gist](http://www.gist.com/)
+## [Gist](http://www.gist.com/)
 
 Très similiare à Silentale, avec en plus une application iPhone, mais pas Android.
 
-### [Threadsy](http://www.threadsy.com/)
+## [Threadsy](http://www.threadsy.com/)
 
-### [Orange On](http://www.lifeisbetteron.com/)
+## [Orange On](http://www.lifeisbetteron.com/)
 
 On garde trace des emails, facebook, twitter et appels téléphoniques.
   
 Mais l’implémentation d’ajout de connexion me déplaît: ils demandent mon mot de passe plutôt que d’utiliser OAuth. Eh bien non, il ne l’auront pas.
 
-### [etacts](https://etacts.com/)
+## [etacts](https://etacts.com/)
 
 Un CRM personnel qui vient s’intégrer à GMail.
 
@@ -57,6 +57,6 @@ Et on peut facilement noter qu’on attend une réponse à un message pour une d
   
 <img src="/blog/wp-content/uploads/2010/05/gmail_screenshot-350x166.png" alt="" title="Gmail reminder" width="350" height="166" class="alignnone size-medium wp-image-1362" srcset="/blog/wp-content/uploads/2010/05/gmail_screenshot-350x166.png 350w, /blog/wp-content/uploads/2010/05/gmail_screenshot.png 666w" sizes="(max-width: 350px) 100vw, 350px" />
 
-### [Rapportive](http://rapportive.com/)
+## [Rapportive](http://rapportive.com/)
 
 Tout à fait similaire à etacts, mais moins approfondi.

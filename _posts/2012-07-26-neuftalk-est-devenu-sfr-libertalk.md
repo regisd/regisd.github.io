@@ -33,7 +33,7 @@ Et aujourd’hui, je recommande CSipSimple. Voici un tutoriel pour mettre en œu
 
 <!--more-->
 
-### Configuration avec l’assistant
+## Configuration avec l’assistant
 
 C’est un [autre Régis qui développe CSipSimple](https://play.google.com/store/apps/developer?id=Regis+Montoya "Régis Montoya développe CSipSimple"), et il est très réactif. La version « trunk » de son application a déjà un assistant pour Libertalk (voir le [ticket 1837](https://code.google.com/p/csipsimple/issues/detail?id=1837 "issue 1837 CSipSimple") du projet)
 
@@ -45,7 +45,7 @@ Téléchargez et installez la version beta 4.0 r1736.
 
 Il suffit ensuite de faire « Ajouter un compte », type Libertalk et saisir vos numéro de téléphone (fixe) et mot de passe.
 
-### Configuration avancée de CSipSimple
+## Configuration avancée de CSipSimple
 
 Si vous préférez rester avec la version « production » actuellement sur <strike>l’Android market</strike> [Google play](https://play.google.com/store/apps/details?id=com.csipsimple "CSipSimple sur Google play"), vous pouvez obtenir le même résultat avec un compte « expert ».
 

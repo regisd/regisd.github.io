@@ -18,7 +18,7 @@ tags:
   - Apple
   - Musique
 ---
-### Playing music on a computer
+## Playing music on a computer
 
 <span style="font-weight: normal;font-size: 13px">For Mac OS and Windows, I recommend <a title="Mozilla media player" href="http://getsongbird.com/">Songbird</a>. On Linux, I love </span>[Amarok](http://amarok.kde.org/ "KDE media player").
 
@@ -29,7 +29,7 @@ tags:
   * The software can build smart playlists from what has been played before;
   * <span style="font-weight: normal;font-size: 13px">Don’t worry, my <a title="Typical sound level is 18 dB" href="http://support.apple.com/kb/SP588">iMac is very silent</a>, and my hifi is plugged with an optical link.</span>
 
-### What format to use?
+## What format to use?
 
 But there are many ways to store Music on the computer:
 
@@ -38,7 +38,7 @@ But there are many ways to store Music on the computer:
   * Ogg is similar to MP3, it has a better compression but is less supported (shame on you, iTunes). I have downloaded sounds on Jamendo in this format.
   * Now, when storage is cheap, the best choice to rip CDs is to use a lossless encoding ; I know flac and Apple Lossless.
 
-###  Flac
+##  Flac
 
 [Flac is the format I have used to rip my CDs](http://flac.sourceforge.net/ "Free Lossless Audio Codec") in the past couple of years.
 
@@ -49,7 +49,7 @@ But there are many ways to store Music on the computer:
   * if offers very fast decoding<sup><a href="#footnote_1_1446" id="identifier_1_1446" class="footnote-link footnote-identifier-link" title="Comparison of encoders and decoders">2</a></sup>;
   * from my experience, it is slightly (5%-10%) more compressed than Apple Lossless
 
-###  Apple Lossless (Alac)
+##  Apple Lossless (Alac)
 
 iTunes can rip CDs into « Apple Lossless ».
 
@@ -58,7 +58,7 @@ iTunes can rip CDs into « Apple Lossless ».
   * Poor hardware support, only Apple devices can play it.
   * it supports tags.
 
-### **For mobile play**
+## **For mobile play**
 
 For mobile play, it is not necessary to have genuine sound quality, because small hear plugs can give a good sound anyway. Plus, memory space is rare precious.
 

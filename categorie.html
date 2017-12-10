@@ -4,7 +4,7 @@ permalink: /categorie
 title: Catégories
 ---
 
-<h2>Catégories</h2>
+<h1>Catégories</h1>
 
 <ul>
 {% assign sorted_cats = site.categories | sort %}
@@ -21,10 +21,10 @@ title: Catégories
     {% capture category_name %}{{ category | first }}{% endcapture %}
     {% capture category_slug %}{{ category_name | slugize }}{% endcapture %}
         
-    <h3 id="{{category_slug}}" class="category-head">
+    <h2 id="{{category_slug}}" class="category-head">
       <i class="material-icons">folder</i>
       {{ category_name }}
-    </h3>
+    </h2>
     <ul>
     {% for post in site.categories[category_name] %}
     <article class="archive-item">

@@ -19,7 +19,7 @@ tags:
 ---
 Le calcul de probabilités donnent souvent des résultats opposés à l’instinct.
 
-### Naissance en Chine
+## Naissance en Chine
 
 Par exemple, le gouvernement chinois interdit aux parents qui ont eu un garçon comme premier enfant, d’avoir un second enfant. Sinon, ils peuvent avoir un second enfant. En aucun cas, ils ne peuvent en avoir de troisième.
 
@@ -31,7 +31,7 @@ La réponse correcte est que cela n’a strictement aucun impact.
 
 C’est parfaitement expliqué parmi d’autres résultats [curieux et contre-intuitifs](http://www.madore.org/~david/math/proba.html) par David Madore. J’avais déjà parlé de cet article il y a des années.
 
-### Wolfram fun facts
+## Wolfram fun facts
 
 Mais j’y repensais en voyant Wolfram Alpha publier des [fun facts sur twitter](http://twitter.com/#!/WolframFunFacts). 
 

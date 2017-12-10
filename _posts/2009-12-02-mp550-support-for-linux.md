@@ -23,15 +23,15 @@ Well, that’s incorrect 🙂 [Mandriva linux](http://www.mandrivalinux.com/) do
 
 Here are my instructions:
 
-### Go to Canan Australia Support services
+## Go to Canan Australia Support services
 
 Go to <http://www.canon.com.au/Support-Services>
 
-### Open the download link for my printer<figure id="attachment_973" style="width: 363px" class="wp-caption alignnone">
+## Open the download link for my printer<figure id="attachment_973" style="width: 363px" class="wp-caption alignnone">
 
 <img src="/blog/wp-content/uploads/2009/12/screenshot-7.png" alt="Search for Printer" title="Search Printer" width="363" height="83" class="size-full wp-image-973" srcset="/blog/wp-content/uploads/2009/12/screenshot-7.png 363w, /blog/wp-content/uploads/2009/12/screenshot-7-350x80.png 350w" sizes="(max-width: 363px) 100vw, 363px" /><figcaption class="wp-caption-text">First, search for my printer (in my case MP550)</figcaption></figure> <figure id="attachment_974" style="width: 591px" class="wp-caption alignnone">[<img src="/blog/wp-content/uploads/2009/12/screenshot-8.png" alt="Then, Follow the download link" title="Search results" width="591" height="144" class="size-full wp-image-974" srcset="/blog/wp-content/uploads/2009/12/screenshot-8.png 591w, /blog/wp-content/uploads/2009/12/screenshot-8-350x85.png 350w" sizes="(max-width: 591px) 100vw, 591px" />](/blog/wp-content/uploads/2009/12/screenshot-8.png)<figcaption class="wp-caption-text">Follow the download link</figcaption></figure> 
 
-### Download the driver
+## Download the driver
 
 Browse the results and find the Canon driver for linux.<figure id="attachment_976" style="width: 566px" class="wp-caption alignnone">
 
@@ -49,7 +49,7 @@ the printer
 the scanner
 :   [MP550 series ScanGear MP Ver. 1.40 for Linux (rpm Packagearchive)](http://support-au.canon.com.au/EN/search?v%3aproject=ABS-EN&v%3afile=viv_A9C4v0&v%3astate=root%7croot-20-20%7c0&opener=full-window&url=http%3a%2f%2fsupport-au.canon.com.au%2fcontents%2fAU%2fEN%2f0100237102.html&rid=Ndoc24&v%3aframe=redirect&&sid=6)
 
-### Install the drivers
+## Install the drivers
 
 Unpack the archive
 
@@ -61,6 +61,6 @@ run the install script
     ./install.sh
     
 
-### That’s it
+## That’s it
 
 Check in the [CUPS adminsitration](http://localhost:631/printers/?) that the printer was added, and print the test page.

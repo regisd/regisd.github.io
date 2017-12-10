@@ -17,12 +17,12 @@ tags:
 ---
 Android permet d’avoir des fonds d’écran animés. Et certains sont excellents!
 
-### Kittehface Koi
+## Kittehface Koi
 
 On voit des poissons par le haut de l’aquarium. Très bien fait techniquement, on peut même toucher l’eau! ([Koi Free Live Wallpaper](https://market.android.com/details?id=fishnoodle.koipond_free))
   
 
 
-### xllusion Modd ICS
+## xllusion Modd ICS
 
 C’est mon fond d’écran actuel. Beau, apaisant et ne déconcentre pas. ([Mood ICS](https://market.android.com/details?id=com.xllusion.livewallpaper.mood))

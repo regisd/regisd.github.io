@@ -19,7 +19,7 @@ tags:
 ---
 J’ai apporté quelques petites modifications à IncidentsTransports pour Android.
 
-### Crash de l’application quand l’orientation est changée
+## Crash de l’application quand l’orientation est changée
 
 D’expérience, je sais que [les utilisateurs sont sans pitié quand une application crashe](https://market.android.com/details?id=info.decamps.droid.photoid). Et les bêta-testeurs m’ont justement remonté que ça arrivait sur mon appli, avec le message d’erreur _« Exception: Application has leaked window here »_. 
 
@@ -33,15 +33,15 @@ Le message de l’exception ainsi levée laisse sous-entendre qu’il y a un me 
 
 Pour le moment, j’ai [changé la configuration de l’activité](https://bitbucket.org/regis/incidentstransports/issue/4/activity-has-leaked-window-phonewindow#comment-400129) pour qu’elle ne soit pas détruite sur un changement de configuration de l’appareil, mais il est sans doute possible de faire mieux.
 
-### Messages d’erreur serveur plus détaillés
+## Messages d’erreur serveur plus détaillés
 
 Quand le serveur ne répond pas <tt>HTTP OK</tt>, je me contentais d’afficher le code de statut, par exemple <tt>BAD REQUEST</tt>. Mais souvent, le serveur donne une explication plus détaillée dans le contenu de la réponse. Celle-ci est maintenant affichée.
 
-### Correction bug mineur: Icône sur l’incident ajouté par l’utilisateur
+## Correction bug mineur: Icône sur l’incident ajouté par l’utilisateur
 
 Quand l’utilisateur crée un incident, j’avais affecté la ligne mais oublié l’identifiant de ligne, nécessaire pour l’affichage du pictogramme.
 
-### Nouveau bug connnu: Impossible de voter pour l’incident créé
+## Nouveau bug connnu: Impossible de voter pour l’incident créé
 
 J’ai aussi découver [#7](https://bitbucket.org/regis/incidentstransports/issue/7/impossible-de-voter-pour-l-incident-cr) Impossible de confirmer/infirmer/indiquer terminé l’incident que l’on vient de créer.
   

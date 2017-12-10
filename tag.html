@@ -4,7 +4,7 @@ permalink: /tag
 title: Libellés
 ---
 
-<h2>Libellés</h2>
+<h1>Libellés</h1>
 
 <ul>
 {% for tag in site.tags %}
@@ -20,10 +20,10 @@ title: Libellés
     {% capture tag_name %}{{ tag | first }}{% endcapture %}
     {% capture tag_slug %}{{ tag_name | slugize }}{% endcapture %}
         
-    <h3 id="{{tag_slug}}" class="tag-head">
+    <h2 id="{{tag_slug}}" class="tag-head">
       <i class="material-icons">label_outline</i>
       {{ tag_name }}
-    </h3>
+    </h2>
     <ul>
     {% for post in site.tags[tag_name] %}
     <article class="archive-item">

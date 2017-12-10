@@ -16,7 +16,7 @@ tags:
   - XML
   - Java
 ---
-###  Génération des beans
+##  Génération des beans
 
 En suivant la convention de maven, j’ai placé mon XSD dans <tt>main/castor</tt>.
 
@@ -52,7 +52,7 @@ return (Settings) um.unmarshal(xmlSettingsReader);
   
 [/java]
 
-###  Petit problème avec Castor
+##  Petit problème avec Castor
 
 Je relance mes tests unitaires (<tt>mvn test</tt>). Et bam, tout est cassé. Castor n’indente pas le xml comme XStream. Ce n’est rien: je change mes constantes de test.
 

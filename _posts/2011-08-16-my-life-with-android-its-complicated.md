@@ -26,7 +26,7 @@ tags:
 
 Mobile development is difficult: there is not much memory, the CPU is low, network connection is limited, there are different screen sizes and hardware capabilities to take care of, etc. Android aims at helping on these topics, but the life of an Android developer is still not a paradise…;
 
-### Some classes pretend to help, but just don’t
+## Some classes pretend to help, but just don’t
 
 The framework encourages you to use classes that supposely simplify complex development.
 
@@ -41,13 +41,13 @@ E/WindowManager(  244):
 
 Eventually, I have found that only [services](http://developer.android.com/reference/android/app/Service.html) can correctly handle long running operations. But they are more complicated to code.
 
-### The XML nightmare
+## The XML nightmare
 
 With XML, you can build a software that perfectly compiles, and crash at runtime. Sometime not entering in your own code at all. 
 
 In the worse situation, it can crash the OS without letting a second to run a debugger. For instance, when I was going to Settings > Account and Sync > Add account, the phone crashed and rebooted. Why? Because I forgot the `smallIcon` attribute in the `authentificator.xml` (similar to this [Resources$NotFoundException: String resource ID #0x0](http://stackoverflow.com/questions/5240866/getting-an-exception-when-trying-to-add-an-account-in-android/5286416)).
 
-### The recycling in adapters
+## The recycling in adapters
 
 A <tt>ListAdapter</tt> connects data to rows representing this data in a <tt>ListView</tt>. As I already mentioned, resources are limited, so it is a good practice to recycle a former view rather than creating a new one. As such, when the user scrolls down the list, instead of creating new views for the new rows, the views are recycled from rows that are not visible anymore. This is usually performed with this nippet of code:
   
@@ -105,7 +105,7 @@ checkBox.setChecked(myDataItem.isActve);
 
 In the first case [setChecked() triggers the onClickListener defined in a a data element which is now hidden](http://stackoverflow.com/questions/5444355/android-listview-with-checkbox-problem/5446929#5446929).
 
-### <tt>SyncAdapter</tt> requires <tt>AccountAuthentificator</tt> and <tt>ContentProvider</tt>
+## <tt>SyncAdapter</tt> requires <tt>AccountAuthentificator</tt> and <tt>ContentProvider</tt>
 
 A <tt>SyncAdapter</tt> is used to synchronize Internet data with a <tt>ContentProvider</tt>. This is what gives you a synchronized address book, a synchronized list of emails, synchronized tweets, etc.
 

@@ -18,7 +18,7 @@ Mais le vent tourne. Sous la pression du lobby hôtelier, <a href="https://www.l
   
 <!--more-->
 
-### Deux acteurs ont le monopole de la réservation d’hôtel
+## Deux acteurs ont le monopole de la réservation d’hôtel
 
 Tout d’abord, notons qu’il n’y a que deux groupes d’agences de réservation:
 
@@ -28,11 +28,11 @@ Tout d’abord, notons qu’il n’y a que deux groupes d’agences de réservat
 
 Ces mastodontes ont progressé à une vitesse fulgurante. Priceline ne faisait un CA « que » 1,7 milliards en 2013; et <a href="https://www.tendancehotellerie.fr/articles-breves/marketing-distribution/7056-article/resultats-3eme-trimestre-2016-tierce-priceline-expedia-tripadvisor-largement-et-a-nouveau-emporte-par-expedia-avec-2-fois-plus-de-croissance-que-priceline" target="_blank">Expedia a une croissance encore plus rapide</a>, avec de nombreuses acquisitions. En grossissant, ils mutualisent leurs coûts et améliorent ainsi leurs marges.
 
-### Une commission confortable
+## Une commission confortable
 
 D’ailleurs, quelle est cette marge? Ces sites prennent une commission, et celle-ci n’est pas négligeable: environ 15%. Sur les 10 milliards de CA, Priceline fait 2,1 milliards de bénéfices. Booking.com seul aurait une marge de 37%. Beaucoup trouvent donc ces commissions excessives.
 
-### Libérer les prix
+## Libérer les prix
 
 En Suisse, les hôteliers n’ont pas le droit d’offrir un prix inférieur sur leur propre site. La raison est invoquée est qu’il faut combattre les «passagers clandestins», c’est-à-dire les clients qui s’informent sur ces sites mais réservent ensuite leur chambre directement auprès de l’établissement sélectionné. Je trouve cet argument assez faible; on a vu que des plateformes (je pense à iTunes ou le Google Play Store) pouvaient attirer des clients malgré une commission parce qu’elles offrent une vraie plus-value en termes de comparaison, facilité d’utilisation, sécurité.
 

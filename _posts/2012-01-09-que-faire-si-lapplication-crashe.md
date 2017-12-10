@@ -23,7 +23,7 @@ Quand il y a un bug grave dans une application Android, elle crashe. Le téléph
   
 <!--more-->
 
-### L’utilité du rapport de bug
+## L’utilité du rapport de bug
 
 Le rapport de bug est-il utile? Absolument! Il permet au développeur de savoir que l’application a un bug…; En général, un développeur qui publie son application sur l’Android market pense qu’elle est exempte d’anomalie. Cette information est donc indispensable.
 
@@ -31,7 +31,7 @@ Ensuite, il obtiendra des statistiques sur la fréquence de ce crash. Hé oui, u
 
 Enfin, parce que le rapport permet de poster un commentaire.
 
-### Qu’indiquer dans le commentaire
+## Qu’indiquer dans le commentaire
 
 Déjà, voici ce qu’il est inutile d’indiquer, parce le rapport de crash contient déjà ces informations:
 

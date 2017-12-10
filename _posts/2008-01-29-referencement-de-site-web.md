@@ -26,7 +26,7 @@ Quelles sont-elles? Que font les sites de référencement qui commercialisent la
   
 <!--more-->
 
-### Faire référencer son site
+## Faire référencer son site
 
 Pour qu’un moteur présente votre site dans ses résultats, il faut d’abord qu’il ait indexé son contenu. Cela se fait en 2 temps:
 
@@ -41,7 +41,7 @@ La plupart des gens utilisent quelques moteurs de recherche. Il suffit donc de s
   
 [Google](http://www.google.com/addurl.html), [msn](http://search.msn.com.sg/docs/submit.aspx),[yahoo](http://submit.search.yahoo.com), [altavista](http://addurl.altavista.com),[alltheweb](http://www.alltheweb.com/help/webmaster/submit_site), Lycos, [Exalead](http://www.exalead.com/search/submitYourSitePage). Ne vous embêter pas avec les autres!
 
-### Comment aider les moteurs à crawler votre site?
+## Comment aider les moteurs à crawler votre site?
 
 Vous pouvez aider les moteurs à parcourir le contenu de votre site:
 
@@ -51,7 +51,7 @@ Vous pouvez aider les moteurs à parcourir le contenu de votre site:
 
 En particulier pour Google, utilisez les [Google Webmaster tools](https://www.google.com/webmasters/tools/).
 
-### Techniques pour augmenter la pertinence de son site
+## Techniques pour augmenter la pertinence de son site
 
 Pour commencer cela ne veut pas dire grand chose: apparaître dans les premiers résultats, certes, mais de quelle recherche?
 
@@ -76,7 +76,7 @@ Mais les moteurs s’appuient aussi sur:
   * le nombre de fois qu’un résultat est suivi dans la liste des réponses du moteur
   * etc…;
 
-### Comment tricher?
+## Comment tricher?
 
 Au fur et à mesure que le fonctionnement des moteurs a été connu, les webmasters (plus ou moins bien attentionnés) ont cherché à augmenter leur positionnement dans les moteurs.
 

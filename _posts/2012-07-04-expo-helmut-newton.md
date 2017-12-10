@@ -60,7 +60,7 @@ C’est par cette citation d’Helmut Newton que [l’exposition qui lui est con
 
 <!--more-->
 
-### Certains photographes font de l’art. Pas moi.
+## Certains photographes font de l’art. Pas moi.
 
 On peut évidemment interpréter ces paroles sous l’angle de la fausse modestie. Le photographe est alors au sommet de sa gloire, et d’autres citations laissent au contraire penser qu’il était assez imbu de lui-même: à la rédactrice en chef de Vogue qui s’étonne qu’il ne propose que six photos pour la couverture du magazine, il répond _Vous avez besoin que d’une bonne photo. Vous en avez six. C’est déjà trop._
 
@@ -68,7 +68,7 @@ Mais, après avoir vu l’exposition, je me demande s’il ne faut pas finalemen
 
 Surtout, je m’interroge: quand on photographie un acteur ou un modèle, est-ce le talent du photographe ou celui du modèle qui transparaît sur la photo? Quand on fait un nu d’un mannequin séduisant, comment rater la photo?
 
-### La réputation sulfureuse
+## La réputation sulfureuse
 
 _I like to photograph the famous and the infamous._ Et on peut rappeler qu’il a fait scandale avec un portrait de Jean-Marie Le Pen, que certains ont rapproché d’une photo d’Adolf Hitler.
 
@@ -92,7 +92,7 @@ Helmut Newton dit aussi être intéressé par le mouvement sado/maso. Je n’ai 
 
 Enfin, pour être honnête, en dehors de l’exposition, en feuilletant les ouvrages d’art consacrés à ses photos, j’ai trouvé qu’il y avait aussi beaucoup de clichés vraiment sans intérêt &#8212; par exemple, dans sa série « Motels ».
 
-### L’expo proprement dite
+## L’expo proprement dite
 
 J’avais lu des critiques sur l’exposition, notamment le manque de lumière ou le fait que les photographies sont attachées trop haut pour être visibles par les enfants. J’ai trouvé l’éclairage suffisant, et la hauteur normale, et de toute façon cette expo ne se destine pas forcément aux enfants.
 

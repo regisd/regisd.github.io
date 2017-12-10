@@ -24,7 +24,7 @@ Well, my list gets is little bigger now!
   
 <!--more-->
 
-### Method names made by incompetents
+## Method names made by incompetents
 
 > Ce qui se conçoit bien s’énonce clairement;
   
@@ -35,7 +35,7 @@ And I think many programmers in the Android team don’t understand what they do
   * interface [<tt>OnErrorListener</tt>](http://developer.android.com/reference/android/media/MediaPlayer.OnErrorListener.html). The implenting class is a Listener for sure, but it is a listener _of errors_ not a listener _of **on**errors_. The interface should be called <tt>ErrorListener</tt> and have a method called <tt>onError(...)</tt> (the method is named correctly).
   * methods [<tt>getIsSyncable()</tt>](http://developer.android.com/reference/android/content/ContentResolver.html#getIsSyncable(android.accounts.Account, java.lang.String)) and [<tt>setIsSyncable</tt>](http://developer.android.com/reference/android/content/ContentResolver.html#setIsSyncable(android.accounts.Account, java.lang.String, int)). To Android developers: sure, automatic getter/setter generation saves time, but when you develop a public API, you should be careful about methods name. The getter/setter for boolean « is syncable » should be called <tt>isSyncable()</tt> and <tt>setSyncable(...)</tt>. 
 
-### MediaPlayer state is inaccessible
+## MediaPlayer state is inaccessible
 
 If you use MediaPlayer, you must follow meticulously its internal state, accordingly to the documented state machine. If you don’t, you’ll get an IllegalStateException.
   
