@@ -55,5 +55,5 @@ I made a hack on my WordPress theme, in order to have a « one-click » login.
   </p>
   
   <p>
-    When they click the icons or follow he link they have the <a href="http://regis.decamps.info/blog/2010/10/fini-les-mots-de-passe-sur-wordpress/">Janrain engage login box, like before</a>. My hack simply removes the login page.
+    When they click the icons or follow he link they have the <a href=/blog/2010/10/fini-les-mots-de-passe-sur-wordpress/">Janrain engage login box, like before</a>. My hack simply removes the login page.
   </p>
