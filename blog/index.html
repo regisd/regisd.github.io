@@ -1,6 +1,5 @@
 ---
 layout: default
-permalink: /blog
 title: Index
 ---
 <div class="home">
@@ -21,7 +20,7 @@ title: Index
   {% else %}
     <span class="previous">◀ Plus récent</span>
   {% endif %}
-  <span class="page_number ">Page {{ paginator.page }} / {{ paginator.total_pages }}</span>
+  <span class="page_number">Page {{ paginator.page }} / {{ paginator.total_pages }}</span>
   {% if paginator.next_page %}
     <a href="{{ paginator.next_page_path }}" class="next">Plus ancien ▶</a>
   {% else %}
