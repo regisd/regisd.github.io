@@ -7,7 +7,6 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
 margin: 0;
 padding: 0;
 border: 0;
-font: inherit;
 vertical-align: baseline
 }
 
@@ -27,15 +26,14 @@ border-spacing: 0
 body {
   color: $primary-text-color;
   background: $primary-color-dark;
+  font-family: 'Roboto', sans-serif;
 font-size: 16px;
-font-family: 'Myriad Pro',Calibri,Helvetica,Arial,sans-serif;
 line-height: 1.5
 }
 
-h1,h2,h3,h4,h5,h6 {
-margin: 10px 0;
+h1,h2 {
 font-weight: 700;
-font-family: 'Lucida Grande','Calibri',Helvetica,Arial,sans-serif;
+  font-family: 'Libre Franklin';
 letter-spacing: -1px
 }
 
@@ -116,8 +114,7 @@ border: none
 }
 
 pre, code {
-color: #222;
-font-family: Monaco,"Bitstream Vera Sans Mono","Lucida Console",Terminal,monospace;
+  font-family: 'Roboto Mono', monospace;
 font-size: 14px
 }
 
@@ -370,9 +367,6 @@ img {
 #main_content_wrap {
   background: #fcfcfc;
   border: none;
-}
-a {
-  color: $primary-color;
 }
 a:hover, a:focus {
   font-weight: normal;

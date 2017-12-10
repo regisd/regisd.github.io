@@ -8,9 +8,8 @@
   <xsl:template match="/">
     <html xmlns="http://www.w3.org/1999/xhtml">
     <head>
+      {% include head_base.html %}
       <title>{{ site.title | default: site.github.repository_name }} – flux Atom</title>
-      <link rel="stylesheet" type="text/css" media="screen"
-            href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}"/>
       <style>
         p {
           display: block;
