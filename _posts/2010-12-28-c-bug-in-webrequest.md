@@ -22,8 +22,7 @@ I have discovered what I believe is a bug in the C# framework.
 
 I have a simple code that sends a Http webdav request
   
-[code]
-  
+```
 req = (HttpWebRequest)WebRequest.Create(url);
   
 req.Method = « PROPFIND »;
@@ -61,8 +60,7 @@ if (((int)webResp.StatusCode) == 207)
 // handle web response
        
 }
-  
-[/code]
+```
 
 Everything works fine most of the time.
 
@@ -103,10 +101,8 @@ It is only 100 seconds afterwards that the IBM http server sends a timeout.
 
 Why is the request never send? [Mironelli gives a workaround](http://haacked.com/archive/2004/05/15/http-web-request-expect-100-continue.aspx#1908)
   
-[code]
-  
+```
 req.ServicePoint.Expect100Continue = false;
-  
-[/code]
+```
 
 That way, the request contains the full body from the beginning, instead of [a check for the server capabilities](http://www.w3.org/Protocols/rfc2616/rfc2616-sec8.html#sec8.2.3).

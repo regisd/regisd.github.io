@@ -24,8 +24,7 @@ Arg! Je viens de découvrir avec horreur que `<a href="http://developer.android.
 
 Plus précisément, lorsque l’on fait un `<a href="http://developer.android.com/reference/android/content/ContentProvider.html">ContentProvider</a>`, on a envie d’écrire quelque chose comme:
   
-[code]
-	  
+```
 @Override
 	  
 public Cursor query(Uri uri, String[] projection, String selection,
@@ -55,8 +54,7 @@ throw new IllegalArgumentException(« Unknown URI  » + uri);
 }
 	  
 }
-  
-[/code] 
+``` 
 
 Hé bien, cela peut lever une exception 
 

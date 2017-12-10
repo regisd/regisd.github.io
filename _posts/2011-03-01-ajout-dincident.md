@@ -30,8 +30,7 @@ Il me fallait donc un référentiel des lignes existantes. Je n’ai pas fait co
 
 Puis j’ai défini l’interface utilisateur. Un peu comme Benoît sur iPhone, j’ai mis un premier <tt>Spinner</tt> qui permet de choisir le type de ligne (« Métro », « RER », etc.) et un second qui permet de choisir la ligne exacte.
 
-[code]
-			  
+```
 Spinner spinnerLineName = (Spinner) findViewById(R.id.SpinnerLineName);
 
 public void onItemSelected(AdapterView< ?> parentAdapter,
@@ -49,8 +48,7 @@ parentAdapter.getContext(), R.layout.spinnerlinename, linenames);
 spinnerLineName.setAdapter(adapter);
 			  
 }
-  
-[/code]
+```
 
 Et pour finir, j’ai ajouté une méthode <tt>post(Incident incident)</tt> sur mon <tt>IncidentProvider</tt>. 
 

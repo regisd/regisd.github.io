@@ -24,18 +24,14 @@ a=toto
 
 Of course, you can do
   
-[code]
-  
+```
 echo a=$a
-  
-[/code]
+```
 
 But since I’m <strike>a programmer</strike> lazy, I’d like to:
   
-[code]
-  
+```
 echo_var a
-  
-[/code]
+```
 
 How might you would write the echo_var function? (my solution in the comments)

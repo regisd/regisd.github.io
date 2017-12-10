@@ -70,8 +70,7 @@ The first thing is to define the notion of plugin.
 
 Let’s first define a mount point, as a metaclass that simply contains the list of plugins to apply there.
 
-[code]
-  
+```
 class MountPoint(type):
       
  »’
@@ -109,13 +108,11 @@ else:
 \# track of it later.
               
 cls.plugins.append(cls)
-  
-[/code]
+```
 
 Now, let’s write a mount point. To have a very simple example, my mount point is to print text.
   
-[code]
-  
+```
 class TextTransformer(object, metaclass=MountPoint):
       
  »’ Plugins can inherit this mount point in order to modify text.
@@ -129,15 +126,13 @@ A plugin that registers this mount point must implement the method
 def \_\_init\_\_(self, program):
           
 pass
-  
-[/code]
+```
 
 As you can see, this is very simple. Because python doesn’t have interfaces, it is very important to write documentation.
 
 For instance, I can have 3 transformers for HTML text
   
-[code]
-  
+```
 class HtmlTransformer(TextTransformer):
       
 def \_\_init\_\_(self, program):
@@ -183,13 +178,11 @@ def \_\_init\_\_(self, program):
  »’
           
 self.tag = « b »
-
-[/code]
+```
 
 A <tt>main</tt> method that has a TextTransformer mount point
   
-[code]
-  
+```
 class MyProgram:
       
 plugins = ExtensionsAt(TextTransformer)
@@ -211,13 +204,11 @@ if \_\_name\_\_ == &lsquo;\_\_main\_\_’:
 prog = MyProgram()
       
 prog.main()
-  
-[/code]
+```
 
 As you can see, I have used a utility method to retrieve plugins at a given mount point
   
-[code]
-  
+```
 class ExtensionsAt(object):
       
  »’ Descriptor to get plugins on a given mount point.
@@ -241,8 +232,7 @@ def \_\_get\_\_(self, instance, owner=None):
  »’
           
 return [p(instance) for p in self.mount.plugins]
-  
-[/code]
+```
 
 And that’s it! Provided the plugin classes are loaded in memory, they will be <strike>magically</strike> executed.
 

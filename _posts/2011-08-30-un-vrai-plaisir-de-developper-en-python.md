@@ -41,10 +41,8 @@ Et en ce moment, j’ai retrouvé un vrai plaisir avec python. Par exemple, si j
 
 Et je préfère nettement ce que l’on peut écrire en Python:
   
-[code]
-  
+```
 dictionary={« not »:1, « hello »:2, « world »:41, « again »:42}
   
 dictionaryEven=dict((k,v) for k,v in dictionary.items() if v%2 == 0)
-  
-[/code]
+```

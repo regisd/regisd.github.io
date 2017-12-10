@@ -15,8 +15,7 @@ tags:
 ---
 Well, it does one thing: it writes the input XML as is:
   
-[code]
-  
+```
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 
 <xsl:template match="/">
@@ -26,5 +25,4 @@ Well, it does one thing: it writes the input XML as is:
 </xsl:template>
 
 </xsl:stylesheet>
-  
-[/code]
+```

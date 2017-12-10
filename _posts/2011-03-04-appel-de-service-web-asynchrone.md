@@ -26,8 +26,7 @@ Pour éviter cela, il faut exécuter cette tâche longue dans un autre thread, e
 
 Le code m’a pris une heure:
   
-[code]
-	  
+```
 private class RefreshListTask extends AsyncTask<string , Integer, Boolean> {
 		  
 private ProgressDialog progressDlg;
@@ -137,8 +136,7 @@ toast.show();
 }
 	  
 }
-  
-[/code]
+```
 
 Et même chose pour le poste d’un nouvel incident.
 

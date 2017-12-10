@@ -22,8 +22,7 @@ Mobile development is difficult for a number of reasons. But Android framework d
 
 If you want to display a notification in the Android status bar, the [the javadoc for NotificationManager](http://developer.android.com/reference/android/app/NotificationManager.html) makes you believe that something like this will work
   
-[code]
-  
+```
 int icon = android.R.drawable.stat\_notify\_chat;
   
 CharSequence tickerText = « Bonjour! Tu veux qu’on déjeune ensemble ce midi? »;
@@ -35,13 +34,11 @@ Notification notification = new Notification(icon, tickerText, when);
 int id = (int) (Math.random() * 100);
   
 notificationManager.notify(id, notification);
-  
-[/code]
+```
 
 Well, it doesn’t. My text is only the _ticker_, but the notification bar can also be expanded. Hence a title and a message must be defined. Actually, you must add a <tt>LastestEventInfo</tt>
   
-[code]
-  
+```
 NotifActivity context = this;
   
 String contentTitle = « You have a new messsage »;
@@ -51,8 +48,7 @@ String contentText = « regis@example.com (42) »;
 PendingIntent contentIntent = null
   
 notification.setLatestEventInfo(context, contentTitle, contentText, contentIntent);
-  
-[/code]
+```
 
 So far, so good
 
@@ -64,15 +60,13 @@ Because, I have used a random <tt>id</tt>, the notification will not be updated,
 
 You might wonder what <tt>contentIntent</tt> is. It is a container for starting an activity if the notification is « clicked » (in that case one would expect to display the content of the message). So I quickly create a MessageActivity, and the notification can now be built with:
   
-[code]
-  
+```
 int requestCode=0; // javadoc says « private code curently not used »
   
 Intent intent = new Intent(context, MessageActivity.class);
   
 PendingIntent contentIntent = PendingIntent.getActivity(context, requestCode, intent, Intent.FLAG\_ACTIVITY\_NEW_TASK);
-  
-[/code]
+```
 
 Since I’m always complaining, can anyone in the Android team explain why the put fields which are « not used » (sic)?
 
@@ -86,11 +80,9 @@ All this is not very complicated, but it is 14 lines of code just to add one not
 
 But it also introduces a bug. Imagine one of my notification doesn’t need to start an activity, it would make sense to do
   
-[code]
-  
+```
 displayNotification(« That will kill you », MessageActivity.class);
-  
-[/code]
+```
 
 But Pending intent doesn’t say it doesn’t accept <tt>null</tt> in the doc, nor does it raise a proper <tt>IllegalArgumentException</tt>.
 

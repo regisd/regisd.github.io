@@ -33,8 +33,7 @@ tags:
 
 Pour cela, il faut écrire un <tt>ListAdapter</tt>. Evidement, le mien étend le <tt>ArrayAdapter</tt>, et surcharge la méthode <tt>getView(...)</tt>.
 
-[code]
-	  
+```
 @Override
 	  
 public View getView(int position, View convertView, ViewGroup parent) {
@@ -120,5 +119,4 @@ Log.w(TAG, « File not found: » + transport.picto);
 return view;
 	  
 }
-  
-[/code]
+```

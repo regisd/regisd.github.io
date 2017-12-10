@@ -32,8 +32,7 @@ After struggling with it, I eventually found the fix (also posted on [stackoverf
 
 
   
-[code]
-  
+```
 class GqlEncoder(json.JSONEncoder):
       
 «  » »Extends JSONEncoder to add support for GQL results and properties.
@@ -75,5 +74,4 @@ output[field] = data
 output[&lsquo;id’] = obj.key().id()
               
 return output
-  
-[/code]
+```

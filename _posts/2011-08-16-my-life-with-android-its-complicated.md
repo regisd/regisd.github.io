@@ -49,8 +49,7 @@ In the worse situation, it can crash the OS without letting a second to run a de
 
 A <tt>ListAdapter</tt> connects data to rows representing this data in a <tt>ListView</tt>. As I already mentioned, resources are limited, so it is a good practice to recycle a former view rather than creating a new one. As such, when the user scrolls down the list, instead of creating new views for the new rows, the views are recycled from rows that are not visible anymore. This is usually performed with this nippet of code:
   
-[code]
-		  
+```
 if (convertView == null) {
 			  
 view = mInflater.inflate(R.layout.mylayout, parent, false);
@@ -60,13 +59,11 @@ view = mInflater.inflate(R.layout.mylayout, parent, false);
 view = convertView;
 		  
 }
-  
-[/code]
+```
 
 But this can lead to strange beahaviours or things difficult to debug. For instance, if a list view has a checkbox, this code is incorrect
   
-[code]
-  
+```
 checkBox.setChecked(myDataItem.isActve);
   
 checkBox.setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener() {
@@ -82,13 +79,11 @@ myDataItem.isActive = isChecked)
 }
   
 });
-  
-[/code]
+```
 
 With this code, the checkboxes are checking and unchecking themselves randomly when the user scrolls the list. Whereas this code is correct. Can you spot the difference and explain what happens?
 
-[code]
-  
+```
 checkBox.setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener() {
   
 @Override
@@ -104,8 +99,7 @@ myDataItem.isActive = isChecked)
 });
   
 checkBox.setChecked(myDataItem.isActve);
-  
-[/code]
+```
 
 In the first case [setChecked() triggers the onClickListener defined in a a data element which is now hidden](http://stackoverflow.com/questions/5444355/android-listview-with-checkbox-problem/5446929#5446929).
 

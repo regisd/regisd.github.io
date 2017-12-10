@@ -40,15 +40,14 @@ However, I think it’s good to see who posts, and I have disabled anonymous com
 
 I made a hack on my WordPress theme, in order to have a « one-click » login.
   
-[code]
-  
+```
 < ?php elseif ( get\_option('comment\_registration') && !$user_ID ) : // If registration required and not logged in. ?>
 
 <div id="comment_login" class="messagebox">
   < ?php //regis hack for smooth login if (function_exists('rpx_configured') && rpx_configured() ) { $login_link="javascript:showRPX('rpxlogin');"; printf (rpx_small_buttons()); } // existing code elseif (function_exists('wp_login_url')) { $login_link = wp_login_url(get_permalink()); } else { $login_link = get_option('siteurl') . '/wp-login.php?redirect_to=' . urlencode(get_permalink()); } ?><br /> < ?php printf(__('You must be <a href="%s">logged in to post a comment.’, &lsquo;inove’), $login_link); ?> </div> 
   
   <p>
-    [/code]
+```
   </p>
   
   <p>

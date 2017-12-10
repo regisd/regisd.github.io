@@ -23,11 +23,9 @@ Je continue ma série sur les [bugs d’Android](http://regis.decamps.info/blog/
   
 Le problème, c’est que si l’on a une WebView, et que l’on fait
   
-[code]
-  
+```
 webView.loadData(« Régis », »utf-8&Prime;);
-  
-[/code]
+```
 
 Voilà ce qui apparaît:
   
@@ -35,10 +33,8 @@ Voilà ce qui apparaît:
 
 Pourquoi dis-je que la correction est triviale? Parce que ça fonctionne:
   
-[code]
-  
+```
 webView.loadDataWithBaseURL(null, « Régis », « text/html », « utf-8 », null);
-  
-[/code]
+```
 
 Et ça m’énerve, parce que [ça fait plus de 3 ans que ça traîne](http://code.google.com/p/android/issues/detail?id=1958 "Android issue 1958")!
