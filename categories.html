@@ -4,13 +4,16 @@ permalink: /categories
 title: Catégories
 ---
 
-# Catégories
+<h2>Catégories</h2>
 
-{% for category in site.categories %}
+<ul>
+{% assign sorted_cats = site.categories | sort %}
+{% for category in sorted_cats %}
   {% capture category_name %}{{ category | first }}{% endcapture %}
   {% capture category_slug %}{{ category_name | slugize }}{% endcapture %}
-- [{{ category_name }}](#{{category_slug}})
+  <li><a href="#{{category_slug}}">{{ category_name }}</a></li>
 {% endfor %}
+</ul>
 
 <div id="archives">
 {% for category in site.categories %}
@@ -18,10 +21,10 @@ title: Catégories
     {% capture category_name %}{{ category | first }}{% endcapture %}
     {% capture category_slug %}{{ category_name | slugize }}{% endcapture %}
         
-    <h2 id="{{category_slug}}" class="category-head">
+    <h3 id="{{category_slug}}" class="category-head">
       <i class="material-icons">folder</i>
       {{ category_name }}
-    </h2>
+    </h3>
     <ul>
     {% for post in site.categories[category_name] %}
     <article class="archive-item">
