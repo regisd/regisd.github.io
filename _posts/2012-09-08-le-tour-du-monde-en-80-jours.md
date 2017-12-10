@@ -27,7 +27,7 @@ _Le tour du monde en 80 _ est un pièce de théâtre humoristique exceptionnelle
   
 
 
-**Rating:** ![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "5/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "5/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "5/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "5/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "5/5") 
+**Rating:** <i class="material-icons">star</i><i class="material-icons">star</i><i class="material-icons">star</i><i class="material-icons">star</i><i class="material-icons">star</i> 
 
 
   

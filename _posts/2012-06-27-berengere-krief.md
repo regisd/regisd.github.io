@@ -24,7 +24,7 @@ tags:
 ---
 Le spectacle de [Bérengère Krief](http://www.berengerekrief.com/) (la fille de [bref](http://www.canalplus.fr/c-divertissement/pid3848-c-bref.html)) est vraiment très drôle.
 
-**Rating:** ![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4.5/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4.5/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4.5/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4.5/5")![&frac12;](/blog/wp-content/plugins/xavins-review-ratings/default/half_star.png "4.5/5") 
+**Rating:** <i class="material-icons">star</i><i class="material-icons">star</i><i class="material-icons">star</i><i class="material-icons">star</i><i class="material-icons">star_half</i> 
 
 
   

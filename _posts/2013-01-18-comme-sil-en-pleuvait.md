@@ -32,7 +32,7 @@ Le synopsis est pourtant attirant:
 
 En réalité, je ne suis pas entré dans la pièce. Dès les premières minutes, les dialogues sonnent plat et le scénario est extrêmement prévisible, sauf pour la chute qui est un peu inattendue.
 
-**Rating:** ![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "2/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "2/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "2/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "2/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "2/5") 
+**Rating:** <i class="material-icons">star</i><i class="material-icons">star</i><i class="material-icons">star_border</i><i class="material-icons">star_border</i><i class="material-icons">star_border</i> 
 
 J’ai trouvé que les scènes se répètentaient trop. L’auteur de la pièce à voulu faire une recherche philosophique: _peut-on jouir de cet argent? faut-il le partager? est-ce qu’il pue?_ Était-il possible de se reposer sensiblement les mêmes questions chaque fois qu’un billet est trouvé?
 

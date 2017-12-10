@@ -25,7 +25,7 @@ Ici, je vais essayer de refaire un panorama des logiciels disponibles.
 
 ### CSipSimple
 
-**Rating:** ![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "5/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "5/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "5/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "5/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "5/5") 
+**Rating:** <i class="material-icons">star</i><i class="material-icons">star</i><i class="material-icons">star</i><i class="material-icons">star</i><i class="material-icons">star</i> 
 
 [<img src="/blog/wp-content/uploads/2012/02/csipsimple.png" alt="Lien vers Android market" title="csipsimple" width="124" height="124" class="alignleft size-full wp-image-2575" />](https://market.android.com/details?id=com.csipsimple)
 
@@ -39,7 +39,7 @@ En plus, le projet est open-source [sur Google code](http://code.google.com/p/cs
 
 ### Fring
 
-**Rating:** ![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "4/5") 
+**Rating:** <i class="material-icons">star</i><i class="material-icons">star</i><i class="material-icons">star</i><i class="material-icons">star</i><i class="material-icons">star_border</i> 
 
 
   
@@ -55,7 +55,7 @@ En plus de faire de la VoIP, Fring fait de la messagerie instantanée via Micros
 
 ### Nimbuzz
 
-**Rating:** ![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "3/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "3/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "3/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "3/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "3/5") 
+**Rating:** <i class="material-icons">star</i><i class="material-icons">star</i><i class="material-icons">star</i><i class="material-icons">star_border</i><i class="material-icons">star_border</i> 
 
 
   
@@ -75,7 +75,7 @@ Nimbuzz fait également de la messagerie instantanée, mais je n’ai pas re-tes
 
 ### Linphone
 
-**Rating:** ![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "2/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "2/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "2/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "2/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "2/5") 
+**Rating:** <i class="material-icons">star</i><i class="material-icons">star</i><i class="material-icons">star_border</i><i class="material-icons">star_border</i><i class="material-icons">star_border</i> 
 
 
   
@@ -91,7 +91,7 @@ Il y a une bonne intégration avec le carnet d’adresses.
 
 ### Mizudroid
 
-**Rating:** ![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "1/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "1/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "1/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "1/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "1/5") 
+**Rating:** <i class="material-icons">star</i><i class="material-icons">star_border</i><i class="material-icons">star_border</i><i class="material-icons">star_border</i><i class="material-icons">star_border</i> 
 
 
   
@@ -111,7 +111,7 @@ Enfin, et surtout la qualité sonore ne me paraît pas des meilleures.
 
 ### SIPDroid
 
-**Rating:** ![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "1/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "1/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "1/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "1/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "1/5") 
+**Rating:** <i class="material-icons">star</i><i class="material-icons">star_border</i><i class="material-icons">star_border</i><i class="material-icons">star_border</i><i class="material-icons">star_border</i> 
 
 
   
@@ -125,7 +125,7 @@ C’est aussi une des rares applications qui ne présente pas de bouton « Racc
 
 ### Tiviphone
 
-**Rating:** ![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "0/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "0/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "0/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "0/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "0/5") 
+**Rating:** <i class="material-icons">star_border</i><i class="material-icons">star_border</i><i class="material-icons">star_border</i><i class="material-icons">star_border</i><i class="material-icons">star_border</i> 
 
 
   
@@ -139,7 +139,7 @@ Les développeurs ont apparemment oublié de placer un clavier pour numéroter l
 
 ### 3CXPhone
 
-**Rating:** ![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "0/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "0/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "0/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "0/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "0/5") 
+**Rating:** <i class="material-icons">star_border</i><i class="material-icons">star_border</i><i class="material-icons">star_border</i><i class="material-icons">star_border</i><i class="material-icons">star_border</i> 
 
 
   
@@ -151,7 +151,7 @@ La configuration est complexe, on s’y perd entre « name », « display nam
 
 ### AGEphone
 
-**Rating:** ![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "0/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "0/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "0/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "0/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "0/5") 
+**Rating:** <i class="material-icons">star_border</i><i class="material-icons">star_border</i><i class="material-icons">star_border</i><i class="material-icons">star_border</i><i class="material-icons">star_border</i> 
 
 
   
@@ -165,7 +165,7 @@ En cas de mauvais mot de passe, l’erreur est un vague « Not ready ». Avec 
 
 ### ecocaller
 
-**Rating:** ![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "0/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "0/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "0/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "0/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "0/5") 
+**Rating:** <i class="material-icons">star_border</i><i class="material-icons">star_border</i><i class="material-icons">star_border</i><i class="material-icons">star_border</i><i class="material-icons">star_border</i> 
 
 
   

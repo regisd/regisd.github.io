@@ -56,7 +56,7 @@ tags:
 
 C’est par cette citation d’Helmut Newton que [l’exposition qui lui est consacrée au Grand Palais](http://www.grandpalais.fr/grandformat/exposition/helmut-newton/ "Exposition des photographies d'Helmut Newton au Grand Palais") commence.
 
-**Rating:** ![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "3.5/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "3.5/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "3.5/5")![&frac12;](/blog/wp-content/plugins/xavins-review-ratings/default/half_star.png "3.5/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "3.5/5") 
+**Rating:** <i class="material-icons">star</i><i class="material-icons">star</i><i class="material-icons">star</i><i class="material-icons">star_half</i><i class="material-icons">star_border</i> 
 
 <!--more-->
 

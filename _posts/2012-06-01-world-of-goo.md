@@ -25,7 +25,7 @@ Ce matin, j’ai acheté [World of goo pour Android](https://play.google.com/sto
   
 
 
-**Rating:** ![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "5/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "5/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "5/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "5/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "5/5") 
+**Rating:** <i class="material-icons">star</i><i class="material-icons">star</i><i class="material-icons">star</i><i class="material-icons">star</i><i class="material-icons">star</i> 
 
 Ce jeu est super! Il est dans la lignée des jeux de construction. Mais à la différence de [X Construction](https://play.google.com/store/apps/details?id=de.hms.xconstructionfull "X Construction sur Google play"), World of goo a de superbes graphismes, une ambiance, une histoire, et est très amusant!
 

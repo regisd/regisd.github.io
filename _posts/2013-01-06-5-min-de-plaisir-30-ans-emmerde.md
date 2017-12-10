@@ -29,7 +29,7 @@ Un couple confie ses enfants aux grands-parents et peut enfin se questionner sur
 
 C’est une comédie qui se présente donc sous une forme hyper classique. Mais cela faisait longtemps que je n’en avais pas vu, et je dois dire que j’ai beaucoup aimé.
 
-**Rating:** ![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "4/5") 
+**Rating:** <i class="material-icons">star</i><i class="material-icons">star</i><i class="material-icons">star</i><i class="material-icons">star</i><i class="material-icons">star_border</i> 
 
 <!--more-->
 

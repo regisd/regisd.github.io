@@ -27,7 +27,7 @@ Pour réduire leurs charges, deux colocataires, en cherche un troisième. Au té
   
 
 
-**Rating:** ![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "2/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "2/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "2/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "2/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "2/5") 
+**Rating:** <i class="material-icons">star</i><i class="material-icons">star</i><i class="material-icons">star_border</i><i class="material-icons">star_border</i><i class="material-icons">star_border</i> 
 
 
   

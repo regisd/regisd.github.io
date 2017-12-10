@@ -22,7 +22,7 @@ tags:
 
 Cette pièce de théâtre est une satire des entreprises modernes. On a le patron beauf, la secrétaire que tout le monde mésistime, l’intello qui ne trouve pas sa place, etc. Le texte est très bon, on passe de moments de rire à des réflexions très pertinentes sur les relations humaines en entreprise.
 
-**Rating:** ![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "4/5") 
+**Rating:** <i class="material-icons">star</i><i class="material-icons">star</i><i class="material-icons">star</i><i class="material-icons">star</i><i class="material-icons">star_border</i> 
 
 La mise en scène est contemporaine. On a une saynette jouée dans l’ascenseur (façon caéra café) pour faire patienter pendant le changement de décor pour la scène suivante.
 

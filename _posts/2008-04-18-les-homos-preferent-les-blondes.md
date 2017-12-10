@@ -17,7 +17,7 @@ tags:
   - Humour
   - Théâtre
 ---
-**Rating:** ![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "5/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "5/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "5/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "5/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "5/5") 
+**Rating:** <i class="material-icons">star</i><i class="material-icons">star</i><i class="material-icons">star</i><i class="material-icons">star</i><i class="material-icons">star</i> 
 
 
 Deux homos qui s’aiment, un troisième solitaire qui fait allusions à ses plans culs, leur amie blonde, et un hétéro qui tombe amoureux de la blonde qui préfère les homos. 

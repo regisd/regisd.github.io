@@ -30,4 +30,4 @@ Seul petit regret: à la fin du spectacle, on a droit au « si vous n’avez pa
 
 Bref, j’ai adoré, et il a mis la barre très haut pour son prochain spectacle! En tout cas, plutôt que de se payer l’affiche, il mérite de monter en haut de l’affiche. En espérant qu’il reste aussi cool et drôle!
 
-**Rating:** ![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "5/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "5/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "5/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "5/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "5/5") 
+**Rating:** <i class="material-icons">star</i><i class="material-icons">star</i><i class="material-icons">star</i><i class="material-icons">star</i><i class="material-icons">star</i> 

@@ -26,7 +26,7 @@ Alors que des amis se retrouvent pour un anniversaire, la Gestapo surgit et réc
   
 Chacun cherche à sauver sa peau, et le repas d’amis se transforme en repas de fauves.
 
-**Rating:** ![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "4/5") 
+**Rating:** <i class="material-icons">star</i><i class="material-icons">star</i><i class="material-icons">star</i><i class="material-icons">star</i><i class="material-icons">star_border</i> 
 
 <!--more-->
 

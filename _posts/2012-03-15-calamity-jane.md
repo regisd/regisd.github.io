@@ -14,7 +14,7 @@ categories:
 tags:
   - Théâtre
 ---
-**Rating:** ![&frac12;](/blog/wp-content/plugins/xavins-review-ratings/default/half_star.png "0.5/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "0.5/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "0.5/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "0.5/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "0.5/5") 
+**Rating:** <i class="material-icons">star_half</i><i class="material-icons">star_border</i><i class="material-icons">star_border</i><i class="material-icons">star_border</i><i class="material-icons">star_border</i> 
 
 
   

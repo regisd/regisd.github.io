@@ -21,4 +21,4 @@ Je ne regarde pas la télé, et ne connaissais donc pas le gagnant d’incroyabl
 
 Pourtant, cet humoriste mérite d’être connu! Son spectacle démarre très très bien. Le rythme se calme un peu ensuite. Mais dans l’ensemble c’est très drôle, et les interactions avec le public sont naturelles. 
 
-**Rating:** ![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "4/5") 
+**Rating:** <i class="material-icons">star</i><i class="material-icons">star</i><i class="material-icons">star</i><i class="material-icons">star</i><i class="material-icons">star_border</i> 

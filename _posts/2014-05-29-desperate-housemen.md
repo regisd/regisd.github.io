@@ -23,4 +23,4 @@ Si la thématique (des hommes qui parlent de leur vie de couple) n’est pas tr�
 
 J’ai passé un très bon moment, et le principal défaut est le titre de la pièce qui ne correspond pas vraiment à la situation.
 
-**Rating:** ![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4.5/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4.5/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4.5/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "4.5/5")![&frac12;](/blog/wp-content/plugins/xavins-review-ratings/default/half_star.png "4.5/5") 
+**Rating:** <i class="material-icons">star</i><i class="material-icons">star</i><i class="material-icons">star</i><i class="material-icons">star</i><i class="material-icons">star_half</i> 

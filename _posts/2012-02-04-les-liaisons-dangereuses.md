@@ -30,4 +30,4 @@ Mon entourage connaît mon caractère critique, mais je n’ai vraiment aucun re
 
 Par contre, [le théâtre de l’atelier](http://www.theatre-atelier.com/) n’est pas très grand, les places au balcon, même en deuxième catégorie n’offre pas une bonne vue sur la scène.
 
-**Rating:** ![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "5/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "5/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "5/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "5/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "5/5") 
+**Rating:** <i class="material-icons">star</i><i class="material-icons">star</i><i class="material-icons">star</i><i class="material-icons">star</i><i class="material-icons">star</i> 

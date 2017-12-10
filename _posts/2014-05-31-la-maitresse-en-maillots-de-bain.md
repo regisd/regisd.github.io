@@ -22,4 +22,4 @@ Il aurait pu y avoir plein de remarques sur la vie des instituteurs avec les enf
 
 Les critiques positives diront que la pièce démarre lentement. Mais je n’ai pas vu l’accélération par la suite. Les dialogues sont plats, je ne me souviens pas d’un seul jeu de mot. Et je n’ai pas trouvé que les acteurs amélioraient l’ensemble.
 
-**Rating:** ![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "1.5/5")![&frac12;](/blog/wp-content/plugins/xavins-review-ratings/default/half_star.png "1.5/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "1.5/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "1.5/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "1.5/5") 
+**Rating:** <i class="material-icons">star</i><i class="material-icons">star_half</i><i class="material-icons">star_border</i><i class="material-icons">star_border</i><i class="material-icons">star_border</i> 

@@ -22,7 +22,7 @@ tags:
 ---
 Je n’ai pas tellement été convaincu par cette [exposition DYNAMO](http://www.grandpalais.fr/fr/evenement/dynamo "DYNAMO au Grand Palais"), au Grand Palais.
 
-**Rating:** ![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "2/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "2/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "2/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "2/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "2/5") 
+**Rating:** <i class="material-icons">star</i><i class="material-icons">star</i><i class="material-icons">star_border</i><i class="material-icons">star_border</i><i class="material-icons">star_border</i> 
 
 Beaucoup des œuvres exposées jouent sur la lumière. Mais est-ce extraordinaire? Certes, on peut matérialiser de la lumière dans une pièce embrumée, mais j’ai déjà vu mieux en concert. Certes, on peut utiliser un effet stroboscopique pour mettre en valeur un mouvement, mais j’ai déjà vu mieux expliqué à la Cité des sciences.
 

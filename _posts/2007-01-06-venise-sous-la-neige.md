@@ -16,7 +16,7 @@ tags:
   - Théâtre
   - Humour
 ---
-**Rating:** ![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "2/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "2/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "2/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "2/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "2/5") 
+**Rating:** <i class="material-icons">star</i><i class="material-icons">star</i><i class="material-icons">star_border</i><i class="material-icons">star_border</i><i class="material-icons">star_border</i> 
 
 Blandine m’a emmené voir [Venise sous la Neige](http://www.venise-sous-la-neige.com/) au Café de la Gare. C’était drôle mais pas hilarant. En particulier, le jeu d’une des actrices m’a déplu.
 

@@ -16,7 +16,7 @@ tags:
 ---
 Quand le ballet rencontre la street-dance, cela donne [Swan Lake [reloaded]](http://www.swanlake-show.ch/). J’étais très emballé par cette adaptation du [classique de Tchaikovsky](https://play.spotify.com/album/3fVjvRz5dRNNWDk12EkDGc "Le Lac des cygnes, par l'orchestre national du Bolchoï, sur Spotify"), un peu à la façon de <a href="http://www.imdb.com/title/tt0117509" title="Romeo+Juliet, sur l'IMDb" target="_blank">Romeo+Juliet de Luhrmann</a> ou de ces excellentes [Liaisons Dangereuses](http://regis.decamps.info/blog/2012/02/les-liaisons-dangereuses/ "Mon avis sur les Liaisons dangereuses mises en scène par Malkovich").
 
-**Rating:** ![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "3/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "3/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "3/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "3/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "3/5") 
+**Rating:** <i class="material-icons">star</i><i class="material-icons">star</i><i class="material-icons">star</i><i class="material-icons">star_border</i><i class="material-icons">star_border</i> 
 
 
   
