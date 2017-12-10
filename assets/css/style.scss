@@ -16,6 +16,9 @@ body {
 body {
   color: $primary-text-color;
 }
+img {
+  border: none;
+}
 #project_title,
 #project_tagline {
   text-shadow: none;
@@ -24,6 +27,15 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
+}
+#project_links {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+#project_links img {
+    box-shadow: none;
+    -webkit-box-shadow: none;
 }
 #main_content_wrap {
   background: #fcfcfc;
