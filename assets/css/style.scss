@@ -22,7 +22,7 @@ body {
 }
 #main_content_wrap {
   background: #fcfcfc;
-  padding: 0 20px;
+  border: none;
 }
 a {
   color: $primary-color;
@@ -61,9 +61,13 @@ h2 a:hover, h2 a:focus {
 }
 
 .search_container {
-  max-width: 640px;
-  margin-left: auto;
-  margin-right: auto;
+  background: white;
+}
+#gcs-search-box {
+  height: 45px;
+  padding-top: 4px !important;
+  padding-bottom: 4px !important;
+  padding-right: 0 !important;
 }
 .search_container td {
   border: none;
