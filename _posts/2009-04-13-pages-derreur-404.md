@@ -20,22 +20,18 @@ tags:
 Un site web peut fournir une page d’erreur 404 personnalisée, et certaines sont vraiment sympas:
 
   * [www.limpfish.com/](http://www.limpfish.com/regis) sous la forme d’une petite annonce
-  * [Github.com](https://github.com/0no.html) avec une image en 3D
+  * [Github.com](https://github.com/regis_qwertyuiop) avec une image en 3D
   * [huml](http://huml.org/404.shtml) a fait un écran bleu de la mort
-  * [css-tricks](http://css-tricks.com/regis) a mis une image créative
   * [southpark](http://www.southparkstudios.com/regis) change de d’illustration régulièrement
-  * [lightpostcreative.com](http://www.lightpostcreative.com/regis) a mis une photo créative
-  * [bluedaniel](http://www.bluedaniel.com/regis) offre un petit film
 
 Edit: ces anciens suggestions sont sans intérêt ou sont des liens vraiment morts maintenant:
-  
-<strike>
 
-  * <http://www.nickciske.com/regis>
-  * <http://www.jhuskisson.com/regis>
-  * <http://www.sinisterbunny.com/regis>
-  * <http://hazzen.com/regis>
-  * <http://blogasty.com/regis>
-  * <http://www.bioneural.net/regis>
-
-</strike>
+  * <strike>[css-tricks](http://css-tricks.com/regis) a mis une image créative<strike>
+  * <strike><http://www.nickciske.com/regis></strike>
+  * <strike><http://www.jhuskisson.com/regis></strike>
+  * <strike><http://www.sinisterbunny.com/regis></strike>
+  * <strike><http://hazzen.com/regis></strike>
+  * <strike><http://blogasty.com/regis></strike>
+  * <strike><http://www.bioneural.net/regis></strike>
+  * <strike>[lightpostcreative.com](http://www.lightpostcreative.com/regis) a mis une photo créative<strike>
+  * <strike>[bluedaniel](http://www.bluedaniel.com/regis) offre un petit film<strike>
