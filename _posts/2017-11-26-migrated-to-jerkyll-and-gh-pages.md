@@ -13,7 +13,7 @@ web étaient statiques, puis ils ont commencé à être généré dynamiquement 
 parce qu'il est assez inefficace de générer dynamiquement une page quand celle-ci ne
 change pas.
 
-## Pourquoi
+### Pourquoi
 
 Et bien, parce que mon hébergement OVH expire, et que je voulais un hébergement plus
 rapide et moins cher (non pas que OVH soit cher, mais on est d'accord pour dire que ce
@@ -31,7 +31,7 @@ nativement supporté par Github.
 Finalement, la seule chose qui est vraiment dynamique sur mon blog, ce sont les
 commentaires, et par chance, j'utilse déjà le widget web de [Disqus][disqus].
 
-## La migration
+### La migration
 
 Sur le papier, c'est trivial: il y a un [plugin wordpress][wp-jerkyll] pour exporter
 le contenu Wordpress vers des fichiers sources pour Jerkyll.
@@ -74,14 +74,14 @@ Dans la pratique:
   J'ai du les afficher moi-même , et même faire la page qui les liste.
 
   
-## Productivity tips
+### Productivity tips
 
 1. Ne re-générer que les N derniers posts
 ```
 bundle exec jekyll serve --limit_posts 10
 ```
 
-## À suivre
+### À suivre
 
 Finalement, la migration a mis quelques heures, et je suis sûr que certains posts
 ne s'affichent toujours pas correctement.

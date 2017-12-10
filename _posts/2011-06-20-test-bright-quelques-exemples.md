@@ -45,7 +45,7 @@ Aujourd’hui j’ai repassé le test Bright. Assez curieusement, le [précéden
 
 Vous avez droit à 45 secondes par question. Il y a 80 questions.
 
-#### Des questions type choix de préposition
+###  Des questions type choix de préposition
 
 > The audit team was accused \___ important files.
 
@@ -61,7 +61,7 @@ Vous avez droit à 45 secondes par question. Il y a 80 questions.
   * on
   * in
 
-#### Temps des verbes
+###  Temps des verbes
 
 > I checked with the clerck this morning, and there \___ any message for you.
 
@@ -70,7 +70,7 @@ Vous avez droit à 45 secondes par question. Il y a 80 questions.
   * weren’t
   * hasn’t been
 
-#### Pluriel / singulier
+###  Pluriel / singulier
 
 > &#8212; Why didn’t you send me the information I asked for?  
 > &#8212; We sent \___ two days ago.
@@ -86,7 +86,7 @@ Je trouve que [Festival](http://www.cstr.ed.ac.uk/projects/festival/) a un très
 
 Vous avez droit à 2 écoutes et 60 secondes par question. Il y a 60 questions.
 
-#### Listen and answer
+###  Listen and answer
 
 [piste 1](/blog/wp-content/uploads/2011/06/ttspDmeKz.mp3)
 

@@ -22,6 +22,7 @@ body {
 #main_content_wrap {
   background: #fcfcfc;
 }
+h2,
 a {
   color: $primary-color;
 }
@@ -32,7 +33,8 @@ a:hover, a:focus {
 .header-text {
   color: $primary-color-text;
 }
-h1 a:hover, h1 a:focus {
+h1 a:hover, h1 a:focus,
+h2 a:hover, h2 a:focus {
   font-weight: bold;
 }
 .post-meta {

@@ -19,7 +19,7 @@ tags:
 ---
 Je suis en train de découvrir le monde .net.
 
-## Le langage C#
+### Le langage C#
 
 Mes premières impressions sont assez neutres sur le langage C#. Il n’y a rien de révolutionnaire (par rapport à Java 5 en tout cas). 
 
@@ -44,7 +44,7 @@ On peut apprécier (le code est écrit de façon plus « élégante »), mais 
 
 La gestion des bibliothèques a l’air assez bien conçue (mais Microsoft ne pouvait pas vraiment faire pire que l’actuel DLL hell) et le mécanisme de signature a l’air plus homogène que celui des jar. ClickOnce est une copie de JavaWS, mieux intégrée à Windows.
 
-## L’IDE Visual Studio 2005
+### L’IDE Visual Studio 2005
 
 Concernant l’IDE en revanche, je suis assez déçu. Certes l’interface est jolie, mais ce n’est pas pour cela qu’elle est ergonomique. 
 

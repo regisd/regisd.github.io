@@ -18,17 +18,17 @@ tags:
   - Build
   - Java
 ---
-#### Maven, le gentoo-portage pour Java
+###  Maven, le gentoo-portage pour Java
 
 J’ai découvert [Maven](http://www.maven.org/) il y a (trop) peu longtemps.
 
 C’est assez génial, ça offre des archetypes de projet pour aller plus vite, un peu comme les [scaffolds de Ruby on rails](http://wiki.rubyonrails.org/rails/pages/Scaffold). Et ensuite ça gère la dépendence des jars, un peu comme [une bonne distribution linux](http://www.gentoo.org/doc/en/handbook/handbook-x86.xml?part=2&chap=1). 
 
-#### m2settings
+###  m2settings
 
 Maven stocke les paramètres d’un utilisateur dans un fichier de configuration XML. Aujourd’hui, j’ai décidé de m’amuser à écrire une petite interface graphique pour modifier ce fichier…; Mon projet va s’appeler **m2settings**
 
-#### Quel outil de mapping Java<->XML ?
+###  Quel outil de mapping Java<->XML ?
 
 Je ne me pose pas trop de questions, je vais faire ça en Java. Je commence par le lien JavaBean<->XML. Comme toujours en Java, il y a une pléthore de possibilité:
 
@@ -40,7 +40,7 @@ Je ne me pose pas trop de questions, je vais faire ça en Java. Je commence par 
 
 Je décide donc de commencer avec Xstream.
 
-#### On démarre avec XStream
+###  On démarre avec XStream
 
 Je crée donc un projet Java, compatible avec eclipse
   
@@ -235,7 +235,7 @@ return (active == p.isActive() && protocol == p.getProtocol()
   
 [/java]
 
-#### Il faut écrite tous ses beans à la main?
+###  Il faut écrite tous ses beans à la main?
 
 Tout cela marche très bien, mais il faut écrire tous les beans…;
 

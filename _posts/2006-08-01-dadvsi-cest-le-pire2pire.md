@@ -19,7 +19,7 @@ tags:
 ---
 Le Conseil Constitutionnel a profité de mes vacances pour rendre sa décision sur le recours déposé par le parti socialiste. Le résultat est sans doute à l’opposé de l’effet escompté. Il y a 4 articles censurés.
 
-#### Sur l’article 21
+###  Sur l’article 21
 
 > Art 21 (dernier alinéa) L’exonération de responsabilité pénale de celui qui met sciemment à la disposition du public un logiciel manifestement destiné à la mise à disposition du public non autorisée d’œuvres ou d’objets protégés et l’incitation publique à l’utilisation dudit logiciel si ce logiciel est destiné au travail collaboratif, à la recherche ou à l’échange de fichiers ou d’objets non soumis à la rémunération du droit d’auteur 
 
@@ -31,7 +31,7 @@ Comprendre: Les logiciel de peer-to-peer (et autres logiciels « manifestement 
 
 Par contre, le conseil consitutionnel estime que les termes  » manifestement destinés  » et  » sciemment  » sont suffisamment clairs (sic) [56]. Je trouve cela assez bizarre. Si Napster était manifestement destiné au partage de musique, il n’en est pas de même pour Bittorrent, alors que c’est son usage le plus courant aujourd’hui. Et quid de Apache? Pour ma part, il ne me paraît pas très sain de confondre le crime, l’arme du crime et le fabriquant de l’arme du crime (tous les producteurs de couteaux de boucherie, en prison!)
 
-#### Sur les articles 22 et 23
+###  Sur les articles 22 et 23
 
 En raison de la définition imprécise de la notion d’ « interopérabilité », les références à cette notion figurant aux articles 22 et 23 de la loi déférée, qui exonéraient de responsabilité pénale le contournement des « mesures techniques de protection ». [59]
 
@@ -41,7 +41,7 @@ C’est absolument n’importe quoi. D’une part, l’interopérabilité me par
 
 Et le seul article bon disparaît de la loi. C’est la catastrophe. En pratique débrider son lecteur de DVD pour lire toutes les zones: 3 ans de prison ; lire un DVD sous linux: 3 ans de prison ; lire un morceau acheté sur iTunes ne pourra se faire que sur un iPod &#8212; et quand on sait qu’un iPod dure « _fo(u)r years_« …; [Le gouvernement a menti.](http://www.culture.gouv.fr/culture/actualites/POSTER.html#j)
 
-#### Article 24
+###  Article 24
 
 Censuré car contraire au principe d’égalité devant la loi pénale.
 
@@ -49,7 +49,7 @@ Je me souviens d’Olivier qui disait « moi, elle me plaît cette, loi. En fai
 
 Politiquement, le ministre de la culture se prend une grande baffe, car la « réponse graduée » était son cheval de batail. Encore une fois, [le gouvernement a menti](http://www.culture.gouv.fr/culture/actualites/POSTER.html#i).
 
-#### Que faire
+###  Que faire
 
  [a écrit un article plus long, détaillé](http://pasunblog.org/spip.php?article38) et surtout propose des actions concrètes que je cite ici.
 
@@ -69,7 +69,7 @@ Politiquement, le ministre de la culture se prend une grande baffe, car la « r
 
 Sur ce dernier point, [je réitère mon engagement à ne plus acheter les produits des majors](http://regis.decamps.info/blog/2006/03/drunksouls/). Je rappelle l’existence de [Jamendo qui héberge plus de 1000 albums de musique libre](http://www.jamendo.com/fr/). 
 
-#### Voir aussi
+###  Voir aussi
 
 Comme d’habitude, le [billet de Maître Eolas](http://maitre.eolas.free.fr/journal/index.php?2006/07/27/408-loi-dadvsi-le-conseil-constitutionnel-a-rendu-sa-decision) est excellent.
 

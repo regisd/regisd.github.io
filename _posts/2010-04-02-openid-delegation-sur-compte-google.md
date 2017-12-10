@@ -15,7 +15,7 @@ categories:
 ---
 De plus en plus de [sites acceptent une authentification par OpenID](https://www.myopenid.com/directory).
 
-## Sites qui acceptent OpenID
+### Sites qui acceptent OpenID
 
 Moi, j’utilise souvent
 
@@ -24,7 +24,7 @@ Moi, j’utilise souvent
   * [Slashdot](http://slashdot.org/my/login)
   * [mon blog](http://regis.decamps.info/blog/wp-login.php?redirect_to=http%3A%2F%2Fregis.decamps.info%2Fblog%2F2010%2F04%2Fopenid-delegation-sur-compte-google%2F) 😉
 
-## Utiliser Google
+### Utiliser Google
 
 En même temps, je suis presque toujours connecté avec mon compte Google.
 
@@ -54,7 +54,7 @@ Pretty cool 🙂
 
 <img src="/blog/wp-content/uploads/2010/04/Capture-d’écran-2010-04-02-à-12.43.18-350x117.png" alt="Screenshot sur Sourceforge" title="Association d&#039;OpenID sur un compte Sourceforge" width="350" height="117" class="size-medium wp-image-1180" srcset="/blog/wp-content/uploads/2010/04/Capture-d’écran-2010-04-02-à-12.43.18-350x117.png 350w, /blog/wp-content/uploads/2010/04/Capture-d’écran-2010-04-02-à-12.43.18.png 992w" sizes="(max-width: 350px) 100vw, 350px" /><figcaption class="wp-caption-text">Avant de pouvoir utiliser son OpenID avec un compte existant, il faut l'associer (ici sur Sourceforge)</figcaption></figure> 
 
-## Et les sites qui ne l’utilisent pas
+### Et les sites qui ne l’utilisent pas
 
 Il y a encore de trop nombreux sites qui ne supportent pas OpenID: twitter, wikipedia, last.fm, flickr, digg, etc.
 

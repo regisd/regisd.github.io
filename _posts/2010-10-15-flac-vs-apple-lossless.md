@@ -38,7 +38,7 @@ But there are many ways to store Music on the computer:
   * Ogg is similar to MP3, it has a better compression but is less supported (shame on you, iTunes). I have downloaded sounds on Jamendo in this format.
   * Now, when storage is cheap, the best choice to rip CDs is to use a lossless encoding ; I know flac and Apple Lossless.
 
-#### Flac
+###  Flac
 
 [Flac is the format I have used to rip my CDs](http://flac.sourceforge.net/ "Free Lossless Audio Codec") in the past couple of years.
 
@@ -49,7 +49,7 @@ But there are many ways to store Music on the computer:
   * if offers very fast decoding<sup><a href="#footnote_1_1446" id="identifier_1_1446" class="footnote-link footnote-identifier-link" title="Comparison of encoders and decoders">2</a></sup>;
   * from my experience, it is slightly (5%-10%) more compressed than Apple Lossless
 
-#### Apple Lossless (Alac)
+###  Apple Lossless (Alac)
 
 iTunes can rip CDs into « Apple Lossless ».
 

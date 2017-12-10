@@ -20,7 +20,7 @@ Ce qui distingue [Lollipop](http://www.android.com/versions/lollipop-5-0/), c’
 
 <!--more-->
 
-## Notifications
+### Notifications
 
 La première chose que vous allez sans doute découvrir sont les notifications sur l’écran de verrouillage. Comme sur iOS, cela permet de jeter un œil sans avoir à déverrouiller l’écran.
 
@@ -35,7 +35,7 @@ En attendant que toutes les [applications implémentent ces niveaux de sécurit�
 
 À l’usage, c’est une très nette amélioration de l’écran de verrouillage de KitKat, en particulier vis-à-vis de la musique, que je peux maintenant mettre en pause et reprendre en toute fluidité.
 
-## Le gestionnaire de tâches peut plusieurs fois la même application
+### Le gestionnaire de tâches peut plusieurs fois la même application
 
 Le gestionnaire de tâches vient avec un modèle dit « document ». Cela signifie qu’une application peut apparaître plusieurs fois dans le gestionnaire de tâches  une fois pour chaque document ouvert.<figure id="attachment_3232" style="width: 196px" class="wp-caption alignright">
 
@@ -43,7 +43,7 @@ Le gestionnaire de tâches vient avec un modèle dit « document ». Cela sign
 
 Je n’aime pas du tout ce changement. Chrome pollue ma liste de tâches, car chaque onglet ouvre dans Chrome y est listé. Edit: dans ce cas spécifique, un paramétrage permet de revenir à une seule tâche pour Chrome.
 
-## Des changements plus techniques
+### Des changements plus techniques
 
 ### Un peu plus rapide par défaut
 
@@ -57,6 +57,6 @@ Depuis ses débuts, Android utilisait Dalvik comme machine virtuelle. KitKat a i
 
 Le lecteur <tt>NuPlayer</tt> qui propulse autant les vidéos dans Chrome que dans Youtube, ou n’importe quelle autre application a été ré-écrit.
 
-## Conclusion
+### Conclusion
 
 Je ne pense pas que cette version soit aussi importante que les précédentes Cupcake (2009) apportait le support des widgets et claviers alternatifs ; Eclair (2009) a facilité la synchronisation avec « comptes et synchronisation » ; Ice-Cream Sandwich (2011) unifiait les applications pour tablettes et téléphones ; Jelly bean (2012) promettait d’être plus rapide et gérait les langues droite-à-gauche. Ceci dit, maintenant que j’ai goûté à Lollipop, j’aime son goût, et je ne reviendrai pas à Kitkat.
