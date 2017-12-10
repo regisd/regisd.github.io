@@ -34,8 +34,10 @@ For instance, [AsyncTask](http://developer.android.com/reference/android/os/Asyn
 
 However, there are limitations or other problems virtually impossible to solve. For instance with AsyncTask, [the application crash when the orientation is changed](http://stackoverflow.com/questions/1111980/how-to-handle-screen-orientation-change-when-progress-dialog-and-background-threa).
 
-<pre>Activity has leaked window PhoneWindow$DecorView that was originally added here 
-E/WindowManager(  244):</pre>
+```
+Activity has leaked window PhoneWindow$DecorView that was originally added here 
+E/WindowManager(  244):
+```
 
 Eventually, I have found that only [services](http://developer.android.com/reference/android/app/Service.html) can correctly handle long running operations. But they are more complicated to code.
 
@@ -111,7 +113,9 @@ In all this examples, it is require to provide an <tt>AccountAuthentificator</tt
 
 Well, the android framework thinks differently. It is mandatory to have these 3 pieces: <tt>SyncAdapter</tt>, <tt>AccountAuthentificator</tt>, <tt>ContentProvider</tt>. If one is missing, the _android system_ might crash when you go in the Settings screen, and the phone will reboot without little to no debug message:
 
-<pre>EXCEPTION IN SYSTEM PROCESS.  System will crash.
-E AndroidRuntime: java.lang.NullPointerException</pre>
+```
+EXCEPTION IN SYSTEM PROCESS.  System will crash.
+E AndroidRuntime: java.lang.NullPointerException
+```
 
 If you think this one sucks too, please star [issue 5009](http://code.google.com/p/android/issues/detail?id=5009 "Added account causes system crash and reboot of 'Accounts & Settings'").

@@ -34,22 +34,26 @@ Pour cela, il faut avoir installé \[aspectJ\]( http://www.eclipse.org/aspectj/)
 
 Je commence donc par définir un point de coupure sur les print*():
 
-<pre>pointcut printLn(): call(* PrintStream.print*(..));
-</pre>
+```
+pointcut printLn(): call(* PrintStream.print*(..));
+
+```
 
 Et j’ajoute un _advice_ _autour_ de ce printLn()
 
-<pre>void around() : printLn() {
+```
+void around() : printLn() {
 		//don't 
 		//proceed();
-	}
-</pre>
+}
+```
 
 Ici, donc, j&#8217;empaquette mon PrinterStream.print\*(…;) dans une fonction qui ne fait rien. Comme ça, j’ai supprimé tous mes System.out.print\*(…;) (qui font appel à PrinterStream.print()). 
 
 Finalement, voici mon aspect:
 
-<pre>import java.io.PrintStream;
+```
+import java.io.PrintStream;
 /**
  * Cet aspect inhibe les System.out.print*() entre autres
  */
@@ -61,6 +65,6 @@ public aspect StopPrintingAspect {
 	// je remplace les points printLn par... rien.
 	void around() : printLn() {}
 }
-</pre>
+```
 
 Eclipse tisse l’aspect automatiquement: il n’y a plus qu’à exécuter le programme initial; tous ses print\*(\*) ont été remplacés par…; rien 😉 Je vais pouvoir faire mes tests de performance sans désavantager le java!

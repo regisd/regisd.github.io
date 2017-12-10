@@ -58,8 +58,9 @@ throw new IllegalArgumentException(« Unknown URI  » + uri);
 
 Hé bien, cela peut lever une exception 
 
-<pre>10-11 21:17:24.624: E/AndroidRuntime(29832): Caused by: java.lang.IllegalStateException: Cannot perform this operation because the connection pool has been closed.
-</pre>
+```
+10-11 21:17:24.624: E/AndroidRuntime(29832): Caused by: java.lang.IllegalStateException: Cannot perform this operation because the connection pool has been closed.
+```
 
 En fait, la base qu’on manipule est fermée d’office lorsque
 

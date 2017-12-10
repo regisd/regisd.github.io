@@ -236,10 +236,12 @@ return [p(instance) for p in self.mount.plugins]
 
 And that’s it! Provided the plugin classes are loaded in memory, they will be <strike>magically</strike> executed.
 
-<pre>/Library/Frameworks/Python.framework/Versions/3.2/bin/python3.2 /Users/regis/workspace/plugin/apf.py
+```
+/Library/Frameworks/Python.framework/Versions/3.2/bin/python3.2 /Users/regis/workspace/plugin/apf.py
 Plugin HtmlTransformer produces hello world
 Plugin HtmlEmTransformer produces <em>hello world</em>
 Plugin HtmlBoldTransformer produces <b>hello world</b>
 
 Process finished with exit code 0
-</pre>
+
+```

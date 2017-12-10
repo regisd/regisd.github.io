@@ -33,7 +33,8 @@ Code
   
 ====
 
-<pre><?
+```
+<?
  /**
   * PHP Class to ease the access of the Oracle Database in the University
   * of Manchester.
@@ -177,4 +178,4 @@ Code
   
  } //end class DataBase
  ?>
-</pre>
+```

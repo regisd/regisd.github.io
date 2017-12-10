@@ -22,7 +22,8 @@ tags:
   
 * \`make pub\` construit le PDF et le copie (avec \`scp\`) sur un répertoire distant. (For publication, requires scp and the corresponnding RSA key for total comfort)
 
-<pre># Makefile for latex project, with glossary, index, and bibliography.
+```
+ # Makefile for latex project, with glossary, index, and bibliography.
  # Use this Makefile with GNU make to build your PS/PDF document from 
  # .tex sources. See bellow for details.
  
@@ -111,4 +112,4 @@ tags:
  	
  pub: ${PROJECT}.pdf
  	scp ${PROJECT}.pdf ${PUBLISH}
-</pre>
+```

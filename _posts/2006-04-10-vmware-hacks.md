@@ -40,36 +40,40 @@ Now, you can even change the virtual harddisks. The disks are described in `ide<
 
 For instance
 
-<pre>ide0:0.present = "TRUE"
+```
+ide0:0.present = "TRUE"
 ide0:0.fileName = "gentoo.vmdk"
 ide0:0.deviceType = "disk"
 ide0:0.redo = ""
-</pre>
+```
 
 VMDK files are virtual disks. They are not easy to generate properly, that’s why I recommand to base your hacked image on an existing image (provided by VMware themselves ;-))
 
 Note that you can also mount an iso image (from the host OS) into your CDROM drive (inside the guest OS):
 
-<pre>ide1:0.present = "TRUE"
+```
+ide1:0.present = "TRUE"
 ide1:0.fileName = "ubuntu-5.10-install-i386.iso"
 ide1:0.deviceType = "cdrom-image"
 ide1:0.startConnected = "FALSE"
 ide1:0.autodetect = "TRUE"
-</pre>
+```
 
 Or if you’d like, you let your real CDROM drive (which is `/dev/hda` in my host system) be visible inside the guest OS 
 
-<pre>ide1:0.present = "TRUE"
+```
+ide1:0.present = "TRUE"
 ide1:0.fileName = "/dev/hda"
 ide1:0.deviceType = "cdrom-raw"
-</pre>
+```
 
 Finally, and this was the most tricky, you can use a real harddisk partition inside the guest host. Here is how to have /dev/hdc2 visible as /dev/hdd inside the guest:
 
-<pre>ide1.1:present = "TRUE"
+```
+ide1.1:present = "TRUE"
 ide1.1:filename = "/dev/hdc2"
 ide1.1:redo = ""
 ide1.1:deviceType = "ata-hardDisk"
-</pre>
+```
 
 If I find some time, I’ll tell you what I have found out on `vmdk` files.

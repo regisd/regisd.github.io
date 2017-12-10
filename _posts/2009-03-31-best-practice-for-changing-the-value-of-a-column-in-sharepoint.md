@@ -21,19 +21,27 @@ In SharePoint development, it is pretty common to change the value of an element
 
 For instance, let’s consider the column named « Title » defined in many lists. Suppose we want to change the « Title » of an item. What’s sound straightforward is to write this
 
-<pre>SPListItem item // get the needed item</pre>
+```
+SPListItem item // get the needed item
+```
 
-<pre>item["Title"] = "New value";</pre>
+```
+item["Title"] = "New value";
+```
 
 Now to deply this solution on a French platform, and _c’est le drame_: [Value does not fall withinh the expected range](http://nuage.codeplex.com/WorkItem/View.aspx?WorkItemId=3267). That’s because the column is referenced here by its _display name_. So, for the French platform it should be
 
-<pre>item["Titre"] = "New value";</pre>
+```
+item["Titre"] = "New value";
+```
 
 Even worse. The display name is editable by end users (or more precisely by site administrators). Everyone get the point: this is code snippet is a _worse practice_.
 
 The best practice is to use the internal name (which is « Title » for any language and will never change)
 
-<pre>item[item.Fields.GetFieldByInternalName("Title").Id] = "New value";</pre>
+```
+item[item.Fields.GetFieldByInternalName("Title").Id] = "New value";
+```
 
 And now, I can confidently say that SharePoint happy is developper unfriendly.
 
