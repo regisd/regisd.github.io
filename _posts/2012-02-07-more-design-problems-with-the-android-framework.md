@@ -39,6 +39,6 @@ And I think many programmers in the Android team don’t understand what they do
 
 If you use MediaPlayer, you must follow meticulously its internal state, accordingly to the documented state machine. If you don’t, you’ll get an IllegalStateException.
   
-[<img src="/blog/wp-content/uploads/2012/02/mediaplayer_state_diagram-150x150.gif" alt="" title="mediaplayer state diagram" width="150" height="150" class="alignleft size-thumbnail wp-image-2522" />](/blog/wp-content/uploads/2012/02/mediaplayer_state_diagram.gif){.fancybox}
+![Mediaplayer state diagramm](/blog/wp-content/uploads/2012/02/mediaplayer_state_diagram.gif)
 
 That’s already a pain in the a$$ to pay attention to a state, but it is even worse when [there is no way to get the state of the player](http://code.google.com/p/android/issues/detail?id=800)! Your application need to maintain the MediaPlayer’s state by implementing various listeners…;

@@ -20,7 +20,7 @@ tags:
   
 _Calamity Jane_ est une pièce biographique. Elle porte bien son nom d’ailleurs: cette pièce était assez calamiteuse.
 
-[<img src="/blog/wp-content/uploads/2012/03/calamity-jane-150x150.jpg" alt="Affiche du spectacle" title="calamity jane" width="150" height="150" class="alignleft size-thumbnail wp-image-2717" />](/blog/wp-content/uploads/2012/03/calamity-jane.jpg){.fancybox}
+![Affiche du spectacle](/blog/wp-content/uploads/2012/03/calamity-jane.jpg)
 
 Alors que [la femme cow-bow](http://fr.wikipedia.org/wiki/Calamity_Jane) a eu une vie riche, j’ai trouvé la narration bien plate. En tout cas, cet enchaînement de tranches de vie est fort ennuyeux.
 

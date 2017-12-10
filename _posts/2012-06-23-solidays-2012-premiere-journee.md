@@ -35,7 +35,7 @@ J’ai été très content d’y retrouver Ayo. Son concert était vraiment supe
 
 Dans un style assez similaire, Selah Sue m’a laissé indifférent.
 
-[<img src="/blog/wp-content/uploads/2012/06/20120622_202216-150x150.jpg" alt="" title="Bénabar à Solidays 2012" width="150" height="150" class="alignleft size-thumbnail wp-image-2799" srcset="/blog/wp-content/uploads/2012/06/20120622_202216-150x150.jpg 150w, /blog/wp-content/uploads/2012/06/20120622_202216-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" />](/blog/wp-content/uploads/2012/06/20120622_202216.jpg){.fancybox}
+![Affche Solidays](/blog/wp-content/uploads/2012/06/20120622_202216.jpg)
 
 La bonne découverte du jour, c’est [Bénabar](http://www.lastfm.fr/music/B%C3%A9nabar "Bénabar sur Last.fm"). Je l’ai déjà entendu, évidemment, mais je ne lui avais pas accordé mon attention. Par contre, j’ai été submergé par son concert.
 

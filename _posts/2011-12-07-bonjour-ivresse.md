@@ -23,7 +23,7 @@ tags:
   - Humour
   - Paris
 ---
-[<img src="/blog/wp-content/uploads/2012/09/affiche_bonjour_ivresse.jpeg" alt="Affiche Bonjour Ivresse" title="affiche_bonjour_ivresse" width="180" height="249" class="alignleft size-full wp-image-2958" />](/blog/wp-content/uploads/2012/09/affiche_bonjour_ivresse.jpeg){.fancybox}
+![Affiche du spectacle](/blog/wp-content/uploads/2012/09/affiche_bonjour_ivresse.jpeg)
   
 
 

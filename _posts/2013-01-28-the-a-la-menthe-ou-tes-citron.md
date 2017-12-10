@@ -23,7 +23,7 @@ tags:
   - Théâtre
   - Humour
 ---
-[<img src="/blog/wp-content/uploads/2013/01/thé-à-la-menthe-252x350.jpg" alt="affiche" width="252" height="350" class="alignright size-medium wp-image-3111" srcset="/blog/wp-content/uploads/2013/01/thé-à-la-menthe-252x350.jpg 252w, /blog/wp-content/uploads/2013/01/thé-à-la-menthe-737x1024.jpg 737w, /blog/wp-content/uploads/2013/01/thé-à-la-menthe-216x300.jpg 216w, /blog/wp-content/uploads/2013/01/thé-à-la-menthe.jpg 1238w" sizes="(max-width: 252px) 100vw, 252px" />](/blog/wp-content/uploads/2013/01/thé-à-la-menthe.jpg){.fancybox}
+![affiche](/blog/wp-content/uploads/2013/01/thé-à-la-menthe.jpg)
   
 Cette pièce est une mise en abime d’une troupe de théâtre qui répète: rien n’est près, les acteurs sont terriblement mauvais, et le décor n’est pas fini. On assiste alors à la première, qui ne se passe pas du tout comme prévu.
 

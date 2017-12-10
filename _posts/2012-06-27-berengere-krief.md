@@ -28,7 +28,7 @@ Le spectacle de [Bérengère Krief](http://www.berengerekrief.com/) (la fille de
 
 
   
-[<img src="/blog/wp-content/uploads/2012/06/berengere-krief-affiche-286x350.jpg" alt="affiche du spectacle" title="Berengère Krief" width="286" height="350" class="alignleft size-medium wp-image-2812" srcset="/blog/wp-content/uploads/2012/06/berengere-krief-affiche-286x350.jpg 286w, /blog/wp-content/uploads/2012/06/berengere-krief-affiche.jpg 300w" sizes="(max-width: 286px) 100vw, 286px" />](/blog/wp-content/uploads/2012/06/berengere-krief-affiche.jpg){.fancybox}
+![Affiche du spectacle](/blog/wp-content/uploads/2012/06/berengere-krief-affiche.jpg)
   
 C’est un one-woman-show dans un format classique, mais dont le texte ne fait pas réchauffé. Le spectacle est assez féminin, dynamique, l’humour n’est pas vulgaire.
 

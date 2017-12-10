@@ -21,7 +21,7 @@ tags:
   - Théâtre
   - Gay
 ---
-[<img src="/blog/wp-content/uploads/2013/03/Les-colocs-254x350.jpeg" alt="Affiche du spectacle" width="254" height="350" class="alignright size-medium wp-image-3125" srcset="/blog/wp-content/uploads/2013/03/Les-colocs-254x350.jpeg 254w, /blog/wp-content/uploads/2013/03/Les-colocs-217x300.jpeg 217w, /blog/wp-content/uploads/2013/03/Les-colocs.jpeg 363w" sizes="(max-width: 254px) 100vw, 254px" />](/blog/wp-content/uploads/2013/03/Les-colocs.jpeg){.fancybox}
+![Affiche du spectacle](/blog/wp-content/uploads/2013/03/Les-colocs.jpeg)
 
 Pour réduire leurs charges, deux colocataires, en cherche un troisième. Au téléphone, une charmante demoiselle répond. « Bingo » pense l’hétéro de base. Sauf que la candidate est un gay.
   

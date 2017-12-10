@@ -21,7 +21,7 @@ Amelle et Noom sont deux humoristes issus du Jamel comédie club.
 
 **Rating:** ![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "3.5/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "3.5/5")![&#9733;](/blog/wp-content/plugins/xavins-review-ratings/default/star.png "3.5/5")![&frac12;](/blog/wp-content/plugins/xavins-review-ratings/default/half_star.png "3.5/5")![&#9734;](/blog/wp-content/plugins/xavins-review-ratings/default/blank_star.png "3.5/5") 
 
-[<img src="/blog/wp-content/uploads/2012/05/Amour-sur-place-ou-à-emporter-150x150.jpg" alt="Affiche du spectacle" title="Amour sur place ou à emporter" width="150" height="150" class="alignleft size-thumbnail wp-image-2757" />](/blog/wp-content/uploads/2012/05/Amour-sur-place-ou-à-emporter.jpeg){.fancybox}
+![Affiche du spectacle](/blog/wp-content/uploads/2012/05/Amour-sur-place-ou-à-emporter.jpeg)
 
 Leur spectacle est un standup qui trace leur amourette. On a donc droit à des sketchs sur le couple. Par rapport à Palmade et Laroche, ils sont de la génération suivante, et les références sont un peu plus jeunes.
 

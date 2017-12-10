@@ -28,6 +28,6 @@ Malheureusement, la météo n’est plus avec nous, et l’hippodrome de Longcha
 
 Je ne suis pas vraiment rentré dans le concert de [Tiken Jah Fakoly](http://www.lastfm.fr/music/Tiken+Jah+Fakoly "Tiken Jah Fakoly sur Last.fm").
   
-[<img src="/blog/wp-content/uploads/2012/06/charlie_winston_solidays2012_20120624_203651-150x150.jpg" alt="Charlie Winston en concert à Solidays 2012" title="Charlie Winston" width="150" height="150" class="alignleft size-thumbnail wp-image-2808" srcset="/blog/wp-content/uploads/2012/06/charlie_winston_solidays2012_20120624_203651-150x150.jpg 150w, /blog/wp-content/uploads/2012/06/charlie_winston_solidays2012_20120624_203651-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" />](/blog/wp-content/uploads/2012/06/charlie_winston_solidays2012_20120624_203651.jpg){.fancybox}
+![Charlie Winston en concert à Solidays 2012](/blog/wp-content/uploads/2012/06/charlie_winston_solidays2012_20120624_203651.jpg)
   
 En revanche, j’ai été super enthousiasmé par [Charlie Winston](http://www.lastfm.fr/music/Charlie+Winston). Il parle très bien français et peut échanger avec le public, fait des blagues. Le public connaît quelques refrains, et c’est un super concert. Charlie Winston est aussi un artiste complet, très bon chanteur, guitariste, et vraiment très doué en beat box aussi! J’ai adoré!
