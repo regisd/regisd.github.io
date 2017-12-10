@@ -17,3 +17,6 @@ tags:
 Excellente mise en scène, sobre, moderne et intelligente. Les acteurs sont excellents, ils nous plongent au cœur du récit sans surjouer. L’histoire qui nous est contée à travers l’Histoire est également prenante.
 
 Je n’avais pas vu d’aussi bonne pièce depuis bien longtemps.
+
+<img src="/blog/wp-content/uploads/2017/05/le-porteur-d-histoire.jpg"
+    width="640" height="945" alt="Le Porteur d'histoire"/>
