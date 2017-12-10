@@ -20,6 +20,11 @@ body {
 #project_tagline {
   text-shadow: none;
 }
+.header_inner {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
 #main_content_wrap {
   background: #fcfcfc;
   border: none;
@@ -96,4 +101,7 @@ h2 a:hover, h2 a:focus {
 .search_container .gs-result a.gs-visibleUrl,
 .search_container .gs-result .gs-visibleUrl {
   color: #757575;
+}
+.material-icons {
+  vertical-align: middle;
 }
