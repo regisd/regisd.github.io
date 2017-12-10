@@ -3,6 +3,7 @@
 <html>
 <head>
   <title>Rien de spécial</title>
+  <meta name="viewport" content="initial-scale=1, maximum-scale=1">
   <style>
     body {
       background: #DB4436;
@@ -24,14 +25,15 @@
       justify-content: space-evenly;
       align-items: center;
       align-content: space-around;
-      height: 100%;
-      max-height: 800px;
+      width: 100%;
+      max-width: 1800px;
+      min-height: 100%; /* up to 1200px, see @media */
     }
     .card {
       width: 280px;
       height: 180px;
       box-shadow: 10px 10px 40px rgba(0,0,0,0.5);
-      margin: 40px;
+      margin: 10px 40px;
       padding: 10px;
       background: white;
       font-size: 24px;
@@ -70,6 +72,11 @@
       display: flex;
       justify-content: center;
       align-items: center;
+    }
+    @media screen and (min-height: 1200px) {
+    #content {
+      min-height: 1200px;
+    }
     }
   </style>
 </head>
