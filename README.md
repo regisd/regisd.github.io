@@ -3,7 +3,7 @@
 Start the site locally with
 
     gem install bundler
-    bundle exec jekyll serve --limit_posts 10
+    bundle exec jekyll serve --drafts --limit_posts 10
 
 ## Design
 
