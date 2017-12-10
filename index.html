@@ -1,105 +1,34 @@
 ---
+layout: default
+permalink: /blog
+title: Index
 ---
-<html>
-<head>
-  <title>Rien de spécial</title>
-  <meta name="viewport" content="initial-scale=1, maximum-scale=1">
-  <style>
-    body {
-      background: #DB4436;
-      background-image: url(/assets/img/background.svg);
-      background-size: 1440px 1280px;
-      background-repeat: no-repeat;
-      font-family: sans-serif;
-      padding: 0;
-    }
-    a {
-      text-decoration: none;
-      font: inherit;
-      color: inherit;
-    }
-    #content {
-      display: flex;
-      flex-direction: row-reverse;
-      flex-wrap: wrap-reverse;
-      justify-content: space-evenly;
-      align-items: center;
-      align-content: space-around;
-      width: 100%;
-      max-width: 1800px;
-      min-height: 100%; /* up to 1200px, see @media */
-    }
-    .card {
-      width: 280px;
-      height: 180px;
-      box-shadow: 10px 10px 40px rgba(0,0,0,0.5);
-      margin: 10px 40px;
-      padding: 10px;
-      background: white;
-      font-size: 24px;
-    }
-    .bg-blue {
-      background: #03A9F4;
-      color: white;
-    }
-    .bg-orange {
-      background: #FF9800;
-    }
-    .bg-lime {
-      background: #CDDC39;
-    }
-    .bg-yellow {
-      background: #FFEB3B;
-    }
-    .bg-googred {
-      background: #DD4B39;
-      color: white;
-    }
-    .bg-fbblue {
-      background: #3b5998;
-      color: white;
-    }
-    .no-padding {
-      padding: 0;
-    }
-    .card.no-padding {
-      width: 300px;
-      height: 200px;
-    }
-    .card-content {
-      width: 100%;
-      height: 100%;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-    }
-    @media screen and (min-height: 1200px) {
-    #content {
-      min-height: 1200px;
-    }
-    }
-  </style>
-</head>
-<body>
-<div id="content">
-  <div class="card bg-googred">
-    <a href="{{site.social.gplus}}">
-      <div class="card-content">Google+</div>
-    </a>
-  </div>
-  <div class="card bg-fbblue">
-    <a href="{{site.social.fb}}">
-      <div class="card-content">Facebook</div>
-    </a>
-  </div>
-  <div class="card bg-blue">
-    <a href="/blog/">
-      <div class="card-content">Blog</div>
-    </a>
-  </div>
-  <div class="card no-padding">
-    <img src="/assets/img/profile.webp" width="300" height="200">
-  </div>
+<div class="home">
+  {% for post in paginator.posts %}
+	<h2>
+	  <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+	</h2>
+    {% assign date_format = site.minima.date_format | default: "%d %b %Y" %}
+	<p><span class="post-meta">{{ post.date | date: date_format }}</span></p>
+	
+	{{ post.excerpt }}
+  </li>
+{% endfor %}
+
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="previous">◀ Plus récent</a>
+  {% else %}
+    <span class="previous">◀ Plus récent</span>
+  {% endif %}
+  <span class="page_number ">Page {{ paginator.page }} / {{ paginator.total_pages }}</span>
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="next">Plus ancien ▶</a>
+  {% else %}
+    <span class="next">Plus ancien ▶</span>
+  {% endif %}
 </div>
-</body>
-</html>
+
+<p class="rss-subscribe">subscribe <a href="{{ '/feed.xml' | relative_url }}">via Atom</a></p>
+
+</div>
