@@ -4,6 +4,7 @@ layout: default
 <h1>{{ page.title }}</h1>
 
 <div class="post-meta">
+  <nav role="navigation">
   {% for category in page.categories %}
     <i class="material-icons">folder</i>
     <a href="{{site.baseurl}}/categorie#{{category|slugize}}">{{ category }}</a>
@@ -12,7 +13,8 @@ layout: default
   {% for tag in page.tags %}
     <i class="material-icons">label_outline</i>
      <a href="{{site.baseurl}}/tag#{{tag|slugize}}">{{ tag }}</a>
-  {% endfor %} 
+  {% endfor %}
+  </nav>
 </div>
 
 {{ content }}
