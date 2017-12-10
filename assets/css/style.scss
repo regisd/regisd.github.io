@@ -56,3 +56,37 @@ h1 a:hover, h1 a:focus {
   align-items: center;
   height: 32px;
 }
+
+.search_container {
+  max-width: 640px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.search_container td {
+  border: none;
+}
+.search_container .gsc-control-cse,
+.search_container .gsc-search-box {
+  border: none;
+  background: none;
+  padding: 0;
+}
+.search_container input.gsc-search-button {
+  background: $accent-color;
+  color: $primary-color-text;
+}
+.search_container a.gs-title,
+.search_container .test_titleLink {
+  color: $primary-color;
+}
+.search_container .gsc-clear-button {
+  margin-right: 32px;
+}
+.search_container a.gs-title *,
+.search_container .gsc-cursor-box .gsc-cursor-current-page {
+  color: $accent-color;
+}
+.search_container .gs-result a.gs-visibleUrl,
+.search_container .gs-result .gs-visibleUrl {
+  color: #757575;
+}

@@ -12,7 +12,7 @@
 {% seo %}
   </head>
 
-  <body>
+  <body ng-app="Rds">
 
     <!-- HEADER -->
     <div id="header_wrap" class="outer">
@@ -29,10 +29,16 @@
             </section>
           {% endif %}
         </header>
+        <div class="search_container">
+          <gcse:searchbox></gcse:searchbox>
+        </div>
     </div>
 
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer">
+      <div class="search_container">
+        <gcse:searchresults></gcse:searchresults>
+      </div>
       <section id="main_content" class="inner">
         {{ content }}
       </section>
