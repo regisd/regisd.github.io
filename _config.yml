@@ -11,6 +11,14 @@ paginate: 5
 paginate_path: "/blog/page/:num/"
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 github:
   owner_name: Régis
   owner_url: https://plus.google.com/+RégisDécamps
+author:
+facebook:
+social:
+  name: Régis
+  links:
+    - https://plus.google.com/+R%C3%A9gisD%C3%A9camps
+    - https://www.facebook.com/regis.decamps
