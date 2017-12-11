@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Catégorie {{ page.category }}
-permalink: /blog/categorie/{{ page.category | first | slugize }}
+permalink: /blog/categorie/{{ page.category | first | slugize }}/
 ---
 {% capture category %}{{ page.category }}{% endcapture %}
 {% capture category_title %}{{ page.category_title | default: category }}{% endcapture %}
