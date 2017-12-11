@@ -9,8 +9,24 @@
 
 {% include head_html.html %}
 {% seo %}
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-    <script async src="/assets/js/jquery-counter.js"></script>
+
+    <script>
+    var loadScriptAsync = function(uri) {
+      return new Promise((resolve, reject) => {
+        var tag = document.createElement('script');
+        tag.src = uri;
+        tag.async = true;
+        tag.onload = () => {
+          resolve();
+        };
+        document.getElementsByTagName('head')[0].appendChild(tag);
+      });
+    }
+    var loadScriptsAsync = function(uris) {
+      return Promise.all(uris.map(loadScriptAsync));
+    }
+    </script>
+
     <link rel="stylesheet"
           href="http://sophilabs.github.io/jquery-counter/jquery.counter-analog.css"/>
   </head>

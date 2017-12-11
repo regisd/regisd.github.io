@@ -5,7 +5,11 @@ layout: http_error
 <span class="counter counter-analog" data-direction="up" data-interval="1" data-format="999"
       data-stop="404"></span>
 <script>
-  $(document).ready(function() {
-    $('.counter').counter();
+  loadScriptAsync('https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js').then(function() {
+      return loadScriptAsync('/assets/js/jquery-counter.js');
+  }).then(function() {
+      $(document).ready(function() {
+        $('.counter').counter();
+      });
   });
 </script>
