@@ -424,6 +424,7 @@ h2 a:hover, h2 a:focus {
 .search_container input.gsc-search-button {
   background: $accent-color;
   color: $primary-color-text;
+  border: none;
 }
 .search_container a.gs-title,
 .search_container .test_titleLink {
