@@ -23,7 +23,7 @@ Et justement, cela fait plusieurs années que Github offre un hébergement web �
 son service [Github pages][gh-pages].
 
 Sauf que je n'ai pas envie d'écrire ma page à la main (on n'est plus en 1995 non plus).
-Et c'est là que [Jekyll][jekyll] entre en jeux pour générer le site à a partir de contenu
+Et c'est là que [Jekyll][jekyll] entre en jeu pour générer le site à a partir de contenu
 écrit en [Markdown][md]. Ça tombe bien, j'adore la syntaxe de Markdown.
 J'avoue avoir hésité un instant entre Jekyll et [hugo][hugo], mais le premier est
 nativement supporté par Github.
