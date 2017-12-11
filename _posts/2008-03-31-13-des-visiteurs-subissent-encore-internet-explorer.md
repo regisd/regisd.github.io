@@ -11,7 +11,7 @@ dsq_thread_id:
   - "189257260"
 
 categories:
-  - Programmation
+  - Dev
 tags:
   - HTML
   - Blog

@@ -11,7 +11,7 @@ permalink: /blog/2009/11/sharepoint-limits-url-to-260-characters/
 dsq_thread_id:
   - "567344442"
 categories:
-  - High-tech
+  - Hightech
   - English
 tags:
   - Bug

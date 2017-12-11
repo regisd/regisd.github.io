@@ -11,7 +11,7 @@ permalink: /blog/2008/06/afficher-ou-masquer-le-bureau/
 dsq_thread_id:
   - "578955688"
 categories:
-  - High-tech
+  - Hightech
 tags:
   - Linux
   - KDE

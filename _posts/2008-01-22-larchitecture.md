@@ -11,7 +11,7 @@ dsq_thread_id:
   - "189257165"
 
 categories:
-  - High-tech
+  - Hightech
 tags:
   - Citation
   - Architecture

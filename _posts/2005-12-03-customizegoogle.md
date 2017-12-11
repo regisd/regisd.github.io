@@ -8,7 +8,7 @@ layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=117
 permalink: /blog/2005/12/customizegoogle/
 categories:
-  - High-tech
+  - Hightech
 tags:
   - Extension
   - Firefox

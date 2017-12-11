@@ -9,7 +9,7 @@ guid: http://blog.decamps.info/2006/06/valtech-tv-home/
 permalink: /blog/2006/06/valtech-tv-home/
 
 categories:
-  - High-tech
+  - Hightech
 tags:
   - Web
 ---

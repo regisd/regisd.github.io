@@ -14,7 +14,7 @@ wordbooker_thumb:
 dsq_thread_id:
   - "565724697"
 categories:
-  - High-tech
+  - Hightech
 tags:
   - Mobile
   - Android

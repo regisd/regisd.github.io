@@ -12,7 +12,7 @@ permalink: /blog/2006/04/vmware-hacks/
 dsq_thread_id:
   - "590956419"
 categories:
-  - High-tech
+  - Hightech
 tags:
   - HOWTO
 ---

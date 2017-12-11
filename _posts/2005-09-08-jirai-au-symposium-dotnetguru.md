@@ -12,7 +12,7 @@ permalink: /blog/2005/09/jirai-au-symposium-dotnetguru/
 dsq_thread_id:
   - "861420047"
 categories:
-  - High-tech
+  - Hightech
   - Actu
 tags:
   - Dotnet

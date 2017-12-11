@@ -11,7 +11,7 @@ permalink: /blog/2010/05/la-gestion-de-ses-contacts/
 dsq_thread_id:
   - "189257885"
 categories:
-  - High-tech
+  - Hightech
 tags:
   - Google
 ---

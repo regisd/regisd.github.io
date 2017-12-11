@@ -13,7 +13,7 @@ dsq_thread_id:
   - "881201379"
 categories:
   - English
-  - Programmation
+  - Dev
 tags:
   - Dotnet
   - SharePoint

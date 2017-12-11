@@ -12,7 +12,7 @@ dsq_thread_id:
 
 categories:
   - English
-  - High-tech
+  - Hightech
 tags:
   - SharePoint
 ---

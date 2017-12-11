@@ -11,7 +11,7 @@ permalink: /blog/2009/06/kde-and-video-mode-not-supported-solved/
 dsq_thread_id:
   - "596795371"
 categories:
-  - High-tech
+  - Hightech
 tags:
   - KDE
   - Linux

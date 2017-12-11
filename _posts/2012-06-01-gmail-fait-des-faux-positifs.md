@@ -16,7 +16,7 @@ al2fb_facebook_link_picture:
 dsq_thread_id:
   - "710455571"
 categories:
-  - High-tech
+  - Hightech
 tags:
   - Email
   - Google

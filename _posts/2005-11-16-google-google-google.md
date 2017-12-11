@@ -12,7 +12,7 @@ dsq_thread_id:
   - "189256397"
 
 categories:
-  - High-tech
+  - Hightech
 tags:
   - Google
 ---

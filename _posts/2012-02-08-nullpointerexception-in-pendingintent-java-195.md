@@ -10,7 +10,7 @@ permalink: /blog/2012/02/nullpointerexception-in-pendingintent-java-195/
 dsq_thread_id:
   - "568158891"
 categories:
-  - Programmation
+  - Dev
 tags:
   - Android
   - Bug

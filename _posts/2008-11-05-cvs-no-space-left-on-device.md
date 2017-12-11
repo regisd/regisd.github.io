@@ -11,7 +11,7 @@ dsq_thread_id:
   - "189257598"
 
 categories:
-  - Programmation
+  - Dev
 tags:
   - SCM
 ---

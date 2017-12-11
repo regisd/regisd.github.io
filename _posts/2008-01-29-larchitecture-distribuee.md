@@ -11,7 +11,7 @@ permalink: /blog/2008/01/larchitecture-distribuee/
 dsq_thread_id:
   - "623862822"
 categories:
-  - High-tech
+  - Hightech
 tags:
   - Architecture
   - Scalability

@@ -15,7 +15,7 @@ dsq_thread_id:
   - "4275888814"
 categories:
   - English
-  - High-tech
+  - Hightech
 tags:
   - Google
   - Microsoft

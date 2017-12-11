@@ -11,7 +11,7 @@ dsq_thread_id:
   - "189257699"
 
 categories:
-  - Programmation
+  - Dev
 tags:
   - Moteur de recherche
 ---

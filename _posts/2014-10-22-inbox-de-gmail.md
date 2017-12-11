@@ -12,7 +12,7 @@ permalink: /blog/2014/10/inbox-de-gmail/
 dsq_thread_id:
   - "3144886432"
 categories:
-  - High-tech
+  - Hightech
 tags:
   - Web
   - Email

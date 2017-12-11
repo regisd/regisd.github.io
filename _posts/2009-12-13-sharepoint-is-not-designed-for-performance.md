@@ -12,7 +12,7 @@ dsq_thread_id:
   - "616589226"
 categories:
   - English
-  - Programmation
+  - Dev
   - Edito
 tags:
   - SharePoint

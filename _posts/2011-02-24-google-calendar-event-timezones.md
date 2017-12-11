@@ -14,7 +14,7 @@ dsq_thread_id:
   - "555134958"
 categories:
   - English
-  - High-tech
+  - Hightech
 tags:
   - Bug
   - Google

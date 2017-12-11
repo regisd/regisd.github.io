@@ -11,7 +11,7 @@ permalink: /blog/2007/06/premieres-impressions-sur-net/
 dsq_thread_id:
   - "695356755"
 categories:
-  - Programmation
+  - Dev
 tags:
   - Dotnet
   - Java

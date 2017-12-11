@@ -12,7 +12,7 @@ dsq_thread_id:
   - "3886419083"
 categories:
   - English
-  - Programmation
+  - Dev
 ---
 I do agree with [Codice Software](http://codicesoftware.blogspot.com/2007/06/three-core-pillars.html)/ Software development has three core pillars:
 

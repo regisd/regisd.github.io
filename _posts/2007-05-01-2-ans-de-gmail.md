@@ -11,7 +11,7 @@ permalink: /blog/2007/05/2-ans-de-gmail/
 dsq_thread_id:
   - "564526193"
 categories:
-  - High-tech
+  - Hightech
 tags:
   - Email
   - Google

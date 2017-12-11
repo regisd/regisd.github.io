@@ -11,7 +11,7 @@ permalink: /blog/2006/12/framasoft-na-pas-ete-sage/
 dsq_thread_id:
   - "687675236"
 categories:
-  - High-tech
+  - Hightech
 tags:
   - Libre
 ---

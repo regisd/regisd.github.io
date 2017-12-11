@@ -9,7 +9,7 @@ guid: http://blog.decamps.info/2006/02/gestion-de-configuration/
 permalink: /blog/2006/02/gestion-de-configuration/
 
 categories:
-  - Programmation
+  - Dev
 tags:
   - SCM
 ---

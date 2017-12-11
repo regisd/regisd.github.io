@@ -22,7 +22,7 @@ wordbooker_extract:
 dsq_thread_id:
   - "568012203"
 categories:
-  - Programmation
+  - Dev
 tags:
   - Android
 

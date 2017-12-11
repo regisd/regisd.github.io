@@ -10,7 +10,7 @@ guid: http://blog.decamps.info/?p=126
 permalink: /blog/2005/12/tab-preview/
 
 categories:
-  - High-tech
+  - Hightech
 tags:
   - Extension
   - Firefox

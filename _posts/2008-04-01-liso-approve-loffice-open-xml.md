@@ -11,7 +11,7 @@ permalink: /blog/2008/04/liso-approve-loffice-open-xml/
 dsq_thread_id:
   - "663651771"
 categories:
-  - High-tech
+  - Hightech
 tags:
   - Microsoft
   - Libre

@@ -12,7 +12,7 @@ dsq_thread_id:
   - "557940178"
 categories:
   - English
-  - High-tech
+  - Hightech
 tags:
   - HOWTO
   - Linux

@@ -13,7 +13,7 @@ wordbooker_options:
 dsq_thread_id:
   - "555134870"
 categories:
-  - High-tech
+  - Hightech
 tags:
   - Linux
   - Shell

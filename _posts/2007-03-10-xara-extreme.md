@@ -12,7 +12,7 @@ dsq_thread_id:
   - "687446808"
 categories:
   - English
-  - High-tech
+  - Hightech
 tags:
   - Linux
   - Logiciel

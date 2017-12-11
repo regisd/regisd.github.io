@@ -13,7 +13,7 @@ permalink: /blog/2005/09/bmaccess-gestionnaire-de-favoris-en-ligne/
 dsq_thread_id:
   - "1129366332"
 categories:
-  - High-tech
+  - Hightech
 tags:
   - Web
   - Webapp

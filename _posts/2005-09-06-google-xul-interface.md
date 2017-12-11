@@ -9,7 +9,7 @@ guid: http://regis.decamps.free.fr/wordpress/?p=51
 permalink: /blog/2005/09/google-xul-interface/
 
 categories:
-  - High-tech
+  - Hightech
 tags:
   - Google
   - Moteur de recherche

@@ -11,7 +11,7 @@ permalink: /blog/2005/06/rendre-visible-le-code-foireux/
 dsq_thread_id:
   - "1373075483"
 categories:
-  - Programmation
+  - Dev
 tags:
   - Best practice
 ---

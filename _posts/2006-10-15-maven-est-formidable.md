@@ -12,7 +12,7 @@ permalink: /blog/2006/10/maven-est-formidable/
 dsq_thread_id:
   - "653614970"
 categories:
-  - Programmation
+  - Dev
 tags:
   - HOWTO
   - Build

@@ -10,7 +10,7 @@ guid: http://regis.decamps.free.fr/wordpress/?p=73
 permalink: /blog/2005/10/lastfm-la-meilleure-des-radios/
 
 categories:
-  - High-tech
+  - Hightech
 tags:
   - Musique
   - Web

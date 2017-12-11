@@ -11,7 +11,7 @@ permalink: /blog/2006/04/blogosphere-graphique/
 dsq_thread_id:
   - "578027342"
 categories:
-  - High-tech
+  - Hightech
 tags:
   - Politique
   - Blog

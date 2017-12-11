@@ -11,7 +11,7 @@ permalink: /blog/2008/11/markdown-syntax-in-maven-projects/
 dsq_thread_id:
   - "559201013"
 categories:
-  - Programmation
+  - Dev
 tags:
   - Build system
 ---

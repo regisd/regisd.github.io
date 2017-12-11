@@ -12,7 +12,7 @@ permalink: /blog/2005/06/meme-serveur-meme-erreur-deux-presentations-differentes
 dsq_thread_id:
   - "1383564027"
 categories:
-  - High-tech
+  - Hightech
 tags:
   - HTTP
 ---

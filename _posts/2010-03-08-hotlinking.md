@@ -11,7 +11,7 @@ permalink: /blog/2010/03/hotlinking/
 dsq_thread_id:
   - "189257871"
 categories:
-  - Programmation
+  - Dev
 tags:
   - HTML
 ---

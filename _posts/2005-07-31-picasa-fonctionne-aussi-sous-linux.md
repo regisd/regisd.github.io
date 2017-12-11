@@ -13,7 +13,7 @@ dsq_thread_id:
   - "189256223"
 
 categories:
-  - High-tech
+  - Hightech
 tags:
   - Google
   - Linux

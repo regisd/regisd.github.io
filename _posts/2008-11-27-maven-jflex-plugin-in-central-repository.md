@@ -11,7 +11,7 @@ permalink: /blog/2008/11/maven-jflex-plugin-in-central-repository/
 dsq_thread_id:
   - "653614940"
 categories:
-  - Programmation
+  - Dev
 tags:
   - Java
   - Build system

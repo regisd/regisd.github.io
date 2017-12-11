@@ -12,7 +12,7 @@ dsq_thread_id:
   - "1371551931"
 categories:
   - Actu
-  - High-tech
+  - Hightech
 tags:
   - Format
   - Microsoft

@@ -17,7 +17,7 @@ dsq_thread_id:
   - "820689756"
 categories:
   - Actu
-  - High-tech
+  - Hightech
 tags:
   - Libre
   - Métro

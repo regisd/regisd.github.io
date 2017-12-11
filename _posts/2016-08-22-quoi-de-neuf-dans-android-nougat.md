@@ -10,7 +10,7 @@ permalink: /blog/2016/08/quoi-de-neuf-dans-android-nougat/
 dsq_thread_id:
   - "5414638366"
 categories:
-  - High-tech
+  - Hightech
 tags:
   - Mobile
   - Android

@@ -10,7 +10,7 @@ permalink: /blog/2012/02/fonds-decran-animes/
 dsq_thread_id:
   - "569228618"
 categories:
-  - High-tech
+  - Hightech
 tags:
   - Application
   - Android

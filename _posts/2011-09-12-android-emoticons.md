@@ -15,7 +15,7 @@ dsq_thread_id:
   - "566914241"
 categories:
   - English
-  - Programmation
+  - Dev
 tags:
   - Android
   - Instant messaging

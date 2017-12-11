@@ -11,7 +11,7 @@ permalink: /blog/2005/06/audio-scrobbler/
 dsq_thread_id:
   - "555134844"
 categories:
-  - High-tech
+  - Hightech
 tags:  
   - Web
   - Musique

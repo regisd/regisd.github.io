@@ -11,7 +11,7 @@ permalink: /blog/2005/06/google-personalized-search/
 dsq_thread_id:
   - "592010981"
 categories:
-  - High-tech
+  - Hightech
 tags:
   - Web
   - Moteur de recherche

@@ -11,7 +11,7 @@ dsq_thread_id:
   - "189256194"
 
 categories:
-  - Programmation
+  - Dev
 tags:
   - Scalability
 ---

@@ -13,7 +13,7 @@ tmac_last_id:
 dsq_thread_id:
   - "557936512"
 categories:
-  - High-tech
+  - Hightech
 tags:
   - Mobile
   - Android

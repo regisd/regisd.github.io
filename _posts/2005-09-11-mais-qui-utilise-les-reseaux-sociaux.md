@@ -11,7 +11,7 @@ dsq_thread_id:
   - "189256272"
 
 categories:
-  - High-tech
+  - Hightech
 tags:
   - Social
   - Webapp

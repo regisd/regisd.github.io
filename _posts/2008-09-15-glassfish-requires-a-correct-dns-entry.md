@@ -11,7 +11,7 @@ dsq_thread_id:
   - "189257570"
 
 categories:
-  - Programmation
+  - Dev
 tags:
   - Java
 ---

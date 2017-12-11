@@ -15,7 +15,7 @@ dsq_thread_id:
   - "555818047"
 categories:
   - English
-  - High-tech
+  - Hightech
 tags:
   - OS
 ---

@@ -13,7 +13,7 @@ wordbooker_options:
 dsq_thread_id:
   - "601980606"
 categories:
-  - High-tech
+  - Hightech
 tags:
   - Commenting system
 ---

@@ -11,7 +11,7 @@ permalink: /blog/2009/02/contacts-gmail-mieux-geres-et-bug-corrige/
 dsq_thread_id:
   - "743363548"
 categories:
-  - High-tech
+  - Hightech
 tags:
   - Google
   - Instant messaging

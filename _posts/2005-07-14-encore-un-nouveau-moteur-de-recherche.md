@@ -9,7 +9,7 @@ guid: /?p=19
 permalink: /blog/2005/07/encore-un-nouveau-moteur-de-recherche/
 
 categories:
-  - High-tech
+  - Hightech
 tags:
   - Moteur de recherche
   - Web

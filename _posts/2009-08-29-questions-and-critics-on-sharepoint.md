@@ -11,7 +11,7 @@ permalink: /blog/2009/08/questions-and-critics-on-sharepoint/
 dsq_thread_id:
   - "919259575"
 categories:
-  - High-tech
+  - Hightech
 tags:
   - Bug
   - Microsoft

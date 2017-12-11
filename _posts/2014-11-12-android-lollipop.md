@@ -12,7 +12,7 @@ permalink: /blog/2014/11/android-lollipop/
 dsq_thread_id:
   - "3150546482"
 categories:
-  - High-tech
+  - Hightech
 tags:
   - Android
 ---

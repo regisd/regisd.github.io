@@ -11,7 +11,7 @@ permalink: /blog/2008/01/reordonner-ses-comptes-dans-thunderbird/
 dsq_thread_id:
   - "1384085756"
 categories:
-  - High-tech
+  - Hightech
 tags:
   - Thunderbird
   - HOWTO

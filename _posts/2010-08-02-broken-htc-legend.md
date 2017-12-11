@@ -10,7 +10,7 @@ permalink: /blog/2010/08/broken-htc-legend/
 
 categories:
   - English
-  - High-tech
+  - Hightech
 tags:
   - Mobile
 ---

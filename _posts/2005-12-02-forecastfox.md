@@ -9,7 +9,7 @@ guid: http://regis.decamps.free.fr/wordpress/?p=114
 permalink: /blog/2005/12/forecastfox/
 
 categories:
-  - High-tech
+  - Hightech
 tags:
   - Extension
   - Firefox

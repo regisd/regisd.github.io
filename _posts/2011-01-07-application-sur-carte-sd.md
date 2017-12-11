@@ -11,7 +11,7 @@ permalink: /blog/2011/01/application-sur-carte-sd/
 dsq_thread_id:
   - "648949368"
 categories:
-  - High-tech
+  - Hightech
 tags:
   - Mobile
   - Android

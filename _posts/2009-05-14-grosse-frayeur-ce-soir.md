@@ -11,7 +11,7 @@ dsq_thread_id:
   - "189257797"
 
 categories:
-  - High-tech
+  - Hightech
 tags:
   - Linux
 ---

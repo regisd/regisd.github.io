@@ -12,7 +12,7 @@ dsq_thread_id:
   - "628751401"
 categories:
   - English
-  - Programmation
+  - Dev
 tags:
   - Dotnet
   - Bug

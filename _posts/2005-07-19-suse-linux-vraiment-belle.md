@@ -13,7 +13,7 @@ permalink: /blog/2005/07/suse-linux-vraiment-belle/
 dsq_thread_id:
   - "1374339565"
 categories:
-  - High-tech
+  - Hightech
 tags:  
   - OS
   - Linux

@@ -11,7 +11,7 @@ permalink: /blog/2015/09/quels-sont-les-meilleurs-reseaux-4g-france/
 dsq_thread_id:
   - "4166005760"
 categories:
-  - High-tech
+  - Hightech
 tags:
   - Mobile
 ---

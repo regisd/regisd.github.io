@@ -10,7 +10,7 @@ permalink: /blog/2010/09/installed-ie8-lets-choose-an-accelerator-now/
 
 categories:
   - English
-  - High-tech
+  - Hightech
 tags:
   - Bug
   - Microsoft

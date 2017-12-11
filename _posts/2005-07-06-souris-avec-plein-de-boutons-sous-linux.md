@@ -12,7 +12,7 @@ permalink: /blog/2005/07/souris-avec-plein-de-boutons-sous-linux/
 dsq_thread_id:
   - "870146156"
 categories:
-  - High-tech
+  - Hightech
 tags:
   - HOWTO
   - Linux

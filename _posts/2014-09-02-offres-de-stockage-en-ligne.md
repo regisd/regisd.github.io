@@ -11,7 +11,7 @@ permalink: /blog/2014/09/offres-de-stockage-en-ligne/
 dsq_thread_id:
   - "2979523736"
 categories:
-  - High-tech
+  - Hightech
 tags:
   - Cloud
   - Google

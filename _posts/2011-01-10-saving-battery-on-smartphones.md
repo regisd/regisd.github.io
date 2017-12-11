@@ -12,7 +12,7 @@ dsq_thread_id:
   - "726913926"
 categories:
   - English
-  - High-tech
+  - Hightech
 tags:
   - Mobile
 ---

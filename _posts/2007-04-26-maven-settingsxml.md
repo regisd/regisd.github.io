@@ -11,7 +11,7 @@ permalink: /blog/2007/04/maven-settingsxml/
 dsq_thread_id:
   - "558802718"
 categories:
-  - Programmation
+  - Dev
 tags:
   - Build system
 ---

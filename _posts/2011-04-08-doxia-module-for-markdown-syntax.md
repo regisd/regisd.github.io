@@ -14,7 +14,7 @@ dsq_thread_id:
   - "555134949"
 categories:
   - English
-  - Programmation
+  - Dev
 tags:
   - Extension
   - Java

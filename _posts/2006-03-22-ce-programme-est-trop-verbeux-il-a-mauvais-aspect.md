@@ -12,7 +12,7 @@ permalink: /blog/2006/03/ce-programme-est-trop-verbeux-il-a-mauvais-aspect/
 dsq_thread_id:
   - "578842514"
 categories:
-  - Programmation
+  - Dev
 tags:
   - Java
 ---

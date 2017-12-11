@@ -9,7 +9,7 @@ guid: http://blog.decamps.info/2006/01/acces-a-google-video-depuis-la-france/
 permalink: /blog/2006/01/acces-a-google-video-depuis-la-france/
 
 categories:
-  - High-tech
+  - Hightech
 tags:
   - Extension
   - Firefox

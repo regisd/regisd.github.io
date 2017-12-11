@@ -12,7 +12,7 @@ dsq_thread_id:
   - "765293673"
 categories:
   - English
-  - Programmation
+  - Dev
 tags:
   - Blogmark
   - Chrome

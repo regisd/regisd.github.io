@@ -11,7 +11,7 @@ dsq_thread_id:
   - "189256939"
 
 categories:
-  - High-tech
+  - Hightech
 tags:
   - Moteur de recherche
 ---

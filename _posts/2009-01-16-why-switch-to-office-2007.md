@@ -11,7 +11,7 @@ permalink: /blog/2009/01/why-switch-to-office-2007/
 dsq_thread_id:
   - "591094812"
 categories:
-  - High-tech
+  - Hightech
 tags:
   - Microsoft
 ---

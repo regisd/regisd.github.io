@@ -12,7 +12,7 @@ dsq_thread_id:
   - "650271357"
 categories:
   - English
-  - High-tech
+  - Hightech
 tags:
   - Email
   - Instant messaging

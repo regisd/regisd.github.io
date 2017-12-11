@@ -10,7 +10,7 @@ permalink: /blog/2012/01/windows-live-messenger-supporte-enfin-xmpp/
 dsq_thread_id:
   - "559282301"
 categories:
-  - High-tech
+  - Hightech
 tags:
   - Instant messaging
   - Microsoft

@@ -13,7 +13,7 @@ wordbooker_options:
 dsq_thread_id:
   - "575080099"
 categories:
-  - Programmation
+  - Dev
 tags:
   - Android
 

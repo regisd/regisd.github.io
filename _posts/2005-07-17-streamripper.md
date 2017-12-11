@@ -12,7 +12,7 @@ permalink: /blog/2005/07/streamripper/
 dsq_thread_id:
   - ""
 categories:
-  - High-tech
+  - Hightech
 tags:  
   - Linux
   - Logiciel

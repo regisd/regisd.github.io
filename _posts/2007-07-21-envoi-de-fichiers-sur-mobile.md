@@ -9,7 +9,7 @@ guid: http://regis.decamps.info/blog/2007/07/envoie-de-fichiers-sur-mobile/
 permalink: /blog/2007/07/envoi-de-fichiers-sur-mobile/
 
 categories:
-  - High-tech
+  - Hightech
 tags:
   - HOWTO
   - Linux

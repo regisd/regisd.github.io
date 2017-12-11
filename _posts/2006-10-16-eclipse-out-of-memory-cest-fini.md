@@ -11,7 +11,7 @@ dsq_thread_id:
   - "189256708"
 
 categories:
-  - Programmation
+  - Dev
 tags:
   - Bug
   - Eclipse

@@ -11,7 +11,7 @@ dsq_thread_id:
   - "2958761415"
 categories:
   - English
-  - Programmation
+  - Dev
 tags:
   - Citation
 ---

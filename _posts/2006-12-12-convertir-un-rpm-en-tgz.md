@@ -11,7 +11,7 @@ permalink: /blog/2006/12/convertir-un-rpm-en-tgz/
 dsq_thread_id:
   - "693537644"
 categories:
-  - High-tech
+  - Hightech
 tags:
   - HOWTO
   - Linux

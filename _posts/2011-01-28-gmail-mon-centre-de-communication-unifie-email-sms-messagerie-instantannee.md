@@ -11,7 +11,7 @@ permalink: /blog/2011/01/gmail-mon-centre-de-communication-unifie-email-sms-mess
 dsq_thread_id:
   - "557578388"
 categories:
-  - High-tech
+  - Hightech
 tags:
   - Android
   - Email

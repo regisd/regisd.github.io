@@ -10,7 +10,7 @@ permalink: /blog/2012/02/android-la-plateforme-ou-les-bugs-restent-ouverts-penda
 dsq_thread_id:
   - "592687832"
 categories:
-  - Programmation
+  - Dev
 tags:
   - Android
   - Bug

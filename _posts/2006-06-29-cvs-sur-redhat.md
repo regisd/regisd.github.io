@@ -12,7 +12,7 @@ permalink: /blog/2006/06/cvs-sur-redhat/
 dsq_thread_id:
   - "892547076"
 categories:
-  - High-tech
+  - Hightech
 tags:
   - Linux
   - SCM

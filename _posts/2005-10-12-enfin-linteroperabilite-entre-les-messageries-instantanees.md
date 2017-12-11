@@ -12,7 +12,7 @@ permalink: /blog/2005/10/enfin-linteroperabilite-entre-les-messageries-instantan
 dsq_thread_id:
   - "819192236"
 categories:
-  - High-tech
+  - Hightech
 tags:
   - Libre
   - Instant messaging

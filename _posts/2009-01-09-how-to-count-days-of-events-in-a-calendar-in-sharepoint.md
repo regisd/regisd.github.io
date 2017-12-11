@@ -11,7 +11,7 @@ permalink: /blog/2009/01/how-to-count-days-of-events-in-a-calendar-in-sharepoint
 dsq_thread_id:
   - "714477685"
 categories:
-  - Programmation
+  - Dev
   - English
 tags:
   - SharePoint

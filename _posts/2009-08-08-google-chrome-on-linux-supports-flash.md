@@ -15,7 +15,7 @@ permalink: /blog/2009/08/google-chrome-on-linux-supports-flash/
 dsq_thread_id:
   - "674913303"
 categories:
-  - High-tech
+  - Hightech
 tags:
   - Linux
   - Google

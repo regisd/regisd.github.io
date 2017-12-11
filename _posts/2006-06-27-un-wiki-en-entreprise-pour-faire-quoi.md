@@ -12,7 +12,7 @@ permalink: /blog/2006/06/un-wiki-en-entreprise-pour-faire-quoi/
 dsq_thread_id:
   - "579520889"
 categories:
-  - High-tech
+  - Hightech
 tags:
   - Boulot
 ---

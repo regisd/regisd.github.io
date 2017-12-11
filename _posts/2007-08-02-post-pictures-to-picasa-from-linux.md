@@ -10,7 +10,7 @@ permalink: /blog/2007/08/post-pictures-to-picasa-from-linux/
 
 categories:
   - English
-  - High-tech
+  - Hightech
 tags:
   - Photo
   - Extension

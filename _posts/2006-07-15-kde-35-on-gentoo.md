@@ -11,7 +11,7 @@ permalink: /blog/2006/07/kde-35-on-gentoo/
 dsq_thread_id:
   - "555845695"
 categories:
-  - High-tech
+  - Hightech
 tags:
   - KDE
   - HOWTO

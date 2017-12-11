@@ -11,7 +11,7 @@ permalink: /blog/2005/08/album-photo-en-ligne/
 dsq_thread_id:
   - "1371638043"
 categories:
-  - High-tech
+  - Hightech
 tags:
   - Photo
   - Google

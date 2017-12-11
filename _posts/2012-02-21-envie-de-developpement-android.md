@@ -10,7 +10,7 @@ permalink: /blog/2012/02/envie-de-developpement-android/
 dsq_thread_id:
   - "584083524"
 categories:
-  - Programmation
+  - Dev
 tags:
   - Mobile
   - Android

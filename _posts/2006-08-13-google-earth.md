@@ -11,7 +11,7 @@ permalink: /blog/2006/08/google-earth/
 dsq_thread_id:
   - "1076732772"
 categories:
-  - High-tech
+  - Hightech
 tags:
   - Logiciel
   - Linux

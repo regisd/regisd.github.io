@@ -12,7 +12,7 @@ dsq_thread_id:
   - "189256317"
 
 categories:
-  - High-tech
+  - Hightech
   - English
 tags:
   - Email

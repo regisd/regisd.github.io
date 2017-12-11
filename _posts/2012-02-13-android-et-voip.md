@@ -10,7 +10,7 @@ permalink: /blog/2012/02/android-et-voip/
 dsq_thread_id:
   - "575000441"
 categories:
-  - High-tech
+  - Hightech
 tags:
   - Application
   - Mobile

@@ -11,7 +11,7 @@ permalink: /blog/2008/06/gerer-les-raccourcis-claviers-comme-un-geek/
 dsq_thread_id:
   - "585381800"
 categories:
-  - High-tech
+  - Hightech
 tags:
   - Linux
   - KDE

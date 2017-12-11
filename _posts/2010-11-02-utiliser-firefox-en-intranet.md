@@ -11,7 +11,7 @@ permalink: /blog/2010/11/utiliser-firefox-en-intranet/
 dsq_thread_id:
   - "561311837"
 categories:
-  - High-tech
+  - Hightech
 tags:
   - Firefox
   - Microsoft

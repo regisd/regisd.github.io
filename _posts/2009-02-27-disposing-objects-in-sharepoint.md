@@ -13,7 +13,7 @@ dsq_thread_id:
 
 categories:
   - English
-  - Programmation
+  - Dev
 tags:
   - SharePoint
 ---

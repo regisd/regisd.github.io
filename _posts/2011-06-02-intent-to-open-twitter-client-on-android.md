@@ -15,7 +15,7 @@ dsq_thread_id:
   - "555844115"
 categories:
   - English
-  - Programmation
+  - Dev
 tags:
   - Android
 ---

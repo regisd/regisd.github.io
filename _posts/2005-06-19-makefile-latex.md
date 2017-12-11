@@ -12,7 +12,7 @@ permalink: /blog/2005/06/makefile-latex/
 dsq_thread_id:
   - "671540774"
 categories:
-  - Programmation
+  - Dev
 tags:
   - Build system  
 ---

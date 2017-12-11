@@ -21,7 +21,7 @@ dsq_thread_id:
   - "947592627"
 categories:
   - English
-  - High-tech
+  - Hightech
 tags:
   - SharePoint
 ---

@@ -9,7 +9,7 @@ guid: http://regis.decamps.info/blog/2007/01/apple-devoile-iphone/
 permalink: /blog/2007/01/apple-devoile-iphone/
 
 categories:
-  - High-tech
+  - Hightech
 tags:
   - Apple
   - Mobile

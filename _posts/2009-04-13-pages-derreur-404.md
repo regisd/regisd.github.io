@@ -12,7 +12,7 @@ dsq_thread_id:
 tmac_last_id:
   - "162975716936392704"
 categories:
-  - High-tech
+  - Hightech
 tags:
   - Web
   - HTML

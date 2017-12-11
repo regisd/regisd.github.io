@@ -11,7 +11,7 @@ permalink: /blog/2006/08/la-tele-sous-linux-cest-de-la-bombe/
 dsq_thread_id:
   - "677831650"
 categories:
-  - High-tech
+  - Hightech
 tags:
   - Linux
   - TV

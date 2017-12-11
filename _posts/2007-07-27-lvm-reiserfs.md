@@ -11,7 +11,7 @@ permalink: /blog/2007/07/lvm-reiserfs/
 dsq_thread_id:
   - "753839011"
 categories:
-  - High-tech
+  - Hightech
 tags:
   - Linux
 ---

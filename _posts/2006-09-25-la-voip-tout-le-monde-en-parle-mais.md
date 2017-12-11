@@ -11,7 +11,7 @@ permalink: /blog/2006/09/la-voip-tout-le-monde-en-parle-mais/
 dsq_thread_id:
   - "690255296"
 categories:
-  - High-tech
+  - Hightech
 tags:
   - VoIP
 ---

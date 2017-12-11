@@ -12,7 +12,7 @@ permalink: /blog/2005/12/delicious/
 dsq_thread_id:
   - "1394589004"
 categories:
-  - High-tech
+  - Hightech
 tags:
   - Web
   - Firefox

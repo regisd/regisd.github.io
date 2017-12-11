@@ -21,7 +21,7 @@ wordbooker_extract:
 dsq_thread_id:
   - "560162129"
 categories:
-  - Programmation
+  - Dev
 tags:
   - Wordpress
 ---

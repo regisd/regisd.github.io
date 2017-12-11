@@ -14,7 +14,7 @@ tmac_last_id:
 dsq_thread_id:
   - "556982374"
 categories:
-  - Programmation
+  - Dev
 tags:
   - Python
 ---

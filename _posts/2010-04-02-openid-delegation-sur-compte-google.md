@@ -11,7 +11,7 @@ dsq_thread_id:
   - "189257879"
 
 categories:
-  - High-tech
+  - Hightech
 ---
 De plus en plus de [sites acceptent une authentification par OpenID](https://www.myopenid.com/directory).
 

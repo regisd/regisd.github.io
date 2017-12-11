@@ -13,7 +13,7 @@ dsq_thread_id:
   - "591983130"
 categories:
   - English
-  - High-tech
+  - Hightech
 tags:
   - Bug
   - Microsoft

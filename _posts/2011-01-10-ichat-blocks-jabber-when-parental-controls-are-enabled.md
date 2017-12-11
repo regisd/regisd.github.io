@@ -12,7 +12,7 @@ dsq_thread_id:
   - "555407078"
 categories:
   - English
-  - High-tech
+  - Hightech
 tags:
   - Bug
   - Apple

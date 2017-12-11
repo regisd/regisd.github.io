@@ -11,7 +11,7 @@ permalink: /blog/2005/07/la-barre-outils-de-google-officielle-firefox/
 dsq_thread_id:
   - "704287098"
 categories:
-  - High-tech
+  - Hightech
 tags:
   - Firefox
   - Google

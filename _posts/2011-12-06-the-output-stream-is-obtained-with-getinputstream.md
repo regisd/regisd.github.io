@@ -13,7 +13,7 @@ dsq_thread_id:
   - "614301797"
 categories:
   - English
-  - Programmation
+  - Dev
 tags:
   - Java
 ---

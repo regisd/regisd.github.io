@@ -11,7 +11,7 @@ permalink: /blog/2008/05/ce-blog-sest-fait-kacker/
 dsq_thread_id:
   - "564520470"
 categories:
-  - High-tech
+  - Hightech
   - Misc
 tags:
   - Misc

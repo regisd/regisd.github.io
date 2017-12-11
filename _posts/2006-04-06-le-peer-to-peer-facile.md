@@ -11,7 +11,7 @@ dsq_thread_id:
   - "189256605"
 
 categories:
-  - High-tech
+  - Hightech
 tags:
   - Extension
   - Firefox

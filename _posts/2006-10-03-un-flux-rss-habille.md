@@ -12,7 +12,7 @@ permalink: /blog/2006/10/un-flux-rss-habille/
 dsq_thread_id:
   - "564736702"
 categories:
-  - High-tech
+  - Hightech
 tags:
   - Wordpress
   - XML

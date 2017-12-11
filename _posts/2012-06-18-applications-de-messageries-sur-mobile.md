@@ -16,7 +16,7 @@ al2fb_facebook_link_picture:
 dsq_thread_id:
   - "731049958"
 categories:
-  - High-tech
+  - Hightech
 tags:
   - Application
   - Android

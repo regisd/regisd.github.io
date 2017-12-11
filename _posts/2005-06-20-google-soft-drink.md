@@ -9,7 +9,7 @@ guid: /?p=4
 permalink: /blog/2005/06/google-soft-drink/
 
 categories:
-  - High-tech
+  - Hightech
 tags:
   - Google
   - Humour

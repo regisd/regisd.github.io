@@ -11,7 +11,7 @@ dsq_thread_id:
   - "668130446"
 categories:
   - English
-  - High-tech
+  - Hightech
 tags:
   - Mobile
   - Android

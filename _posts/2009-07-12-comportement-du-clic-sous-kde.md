@@ -11,7 +11,7 @@ permalink: /blog/2009/07/comportement-du-clic-sous-kde/
 dsq_thread_id:
   - "594966135"
 categories:
-  - High-tech
+  - Hightech
 tags:
   - KDE
   - HOWTO

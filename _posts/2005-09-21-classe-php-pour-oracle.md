@@ -12,7 +12,7 @@ permalink: /blog/2005/09/classe-php-pour-oracle/
 dsq_thread_id:
   - "641606534"
 categories:
-  - Programmation
+  - Dev
 tags:
   - PHP
 ---

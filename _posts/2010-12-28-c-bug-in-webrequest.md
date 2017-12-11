@@ -13,7 +13,7 @@ dsq_thread_id:
   - "555134887"
 categories:
   - English
-  - Programmation
+  - Dev
 tags:
   - Bug
   - Microsoft

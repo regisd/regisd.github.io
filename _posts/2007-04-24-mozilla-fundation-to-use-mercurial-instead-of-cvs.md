@@ -11,7 +11,7 @@ permalink: /blog/2007/04/mozilla-fundation-to-use-mercurial-instead-of-cvs/
 dsq_thread_id:
   - "666419856"
 categories:
-  - High-tech
+  - Hightech
 tags:
   - SCM
 ---

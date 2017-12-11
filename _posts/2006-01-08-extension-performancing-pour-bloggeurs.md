@@ -10,7 +10,7 @@ guid: http://blog.decamps.info/2006/01/extension-performancing-pour-bloggeurs/
 permalink: /blog/2006/01/extension-performancing-pour-bloggeurs/
 
 categories:
-  - Programmation
+  - Dev
 tags:
   - Extension
   - Firefox

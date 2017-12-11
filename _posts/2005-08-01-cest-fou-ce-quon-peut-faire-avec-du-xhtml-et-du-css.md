@@ -11,7 +11,7 @@ permalink: /blog/2005/08/cest-fou-ce-quon-peut-faire-avec-du-xhtml-et-du-css/
 dsq_thread_id:
   - "1373123958"
 categories:
-  - Programmation
+  - Dev
 tags:
   - HTML
 ---

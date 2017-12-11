@@ -10,7 +10,7 @@ permalink: /blog/2007/04/mp4-on-my-samsung-d840/
 
 categories:
   - English
-  - High-tech
+  - Hightech
 tags:
   - Mobile
   - HOWTO

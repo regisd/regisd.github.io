@@ -16,7 +16,7 @@ dsq_thread_id:
   - "556925262"
 categories:
   - English
-  - Programmation
+  - Dev
 tags:
   - Android
   - Best practice

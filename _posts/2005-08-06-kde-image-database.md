@@ -9,7 +9,7 @@ guid: http://regis.decamps.free.fr/wordpress/?p=33
 permalink: /blog/2005/08/kde-image-database/
 
 categories:
-  - High-tech
+  - Hightech
 tags:
   - Linux
   - Logiciel

@@ -9,7 +9,7 @@ guid: http://regis.decamps.info/blog/2007/02/gestion-et-developpement-de-photos/
 permalink: /blog/2007/02/gestion-et-developpement-de-photos/
 
 categories:
-  - High-tech
+  - Hightech
 tags:
   - Photo
   - Webapp

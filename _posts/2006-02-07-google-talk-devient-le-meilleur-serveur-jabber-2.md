@@ -11,7 +11,7 @@ dsq_thread_id:
   - "189256446"
 
 categories:
-  - High-tech
+  - Hightech
 tags:
   - Libre
   - Instant messaging

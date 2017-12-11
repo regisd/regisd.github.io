@@ -13,7 +13,7 @@ dsq_thread_id:
   - "617154321"
 categories:
   - English
-  - High-tech
+  - Hightech
 tags:
   - Apple
   - Musique

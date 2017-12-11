@@ -11,7 +11,7 @@ permalink: /blog/2008/06/le-blog-de-moss-est-minimal/
 dsq_thread_id:
   - "4796551528"
 categories:
-  - High-tech
+  - Hightech
 tags:
   - Blog
   - SharePoint

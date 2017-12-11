@@ -11,7 +11,7 @@ permalink: /blog/2006/10/webmasters-verifiez-votre-travail/
 dsq_thread_id:
   - "924978867"
 categories:
-  - Programmation
+  - Dev
 tags:
   - HTML
 ---

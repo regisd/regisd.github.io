@@ -11,7 +11,7 @@ permalink: /blog/2005/12/ldap-pour-son-carnet-dadresses/
 dsq_thread_id:
   - "615777773"
 categories:
-  - High-tech
+  - Hightech
 tags:
   - Extension
   - Web

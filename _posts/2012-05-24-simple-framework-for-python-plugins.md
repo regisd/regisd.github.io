@@ -45,7 +45,7 @@ dsq_thread_id:
   - "702047041"
 categories:
   - English
-  - Programmation
+  - Dev
 tags:
   - Python
 ---

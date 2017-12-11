@@ -11,7 +11,7 @@ dsq_thread_id:
   - "189256698"
 
 categories:
-  - Programmation
+  - Dev
 tags:
   - XML
   - Java

@@ -12,7 +12,7 @@ permalink: /blog/2006/08/la-tele-sous-linux-premiers-pas/
 dsq_thread_id:
   - "189256654"
 categories:
-  - High-tech
+  - Hightech
 tags:
   - Linux
   - TV

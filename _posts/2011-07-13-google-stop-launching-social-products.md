@@ -16,7 +16,7 @@ dsq_thread_id:
   - "1097352173"
 categories:
   - English
-  - High-tech
+  - Hightech
 tags:
   - Facebook
   - Google

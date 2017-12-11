@@ -9,7 +9,7 @@ guid: http://regis.decamps.info/blog/2007/10/gmail-par-pop-et-aussi-imap/
 permalink: /blog/2007/10/gmail-par-pop-et-aussi-imap/
 
 categories:
-  - High-tech
+  - Hightech
 tags:
   - Web
   - Email

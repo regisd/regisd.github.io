@@ -10,7 +10,7 @@ permalink: /blog/2012/04/google-codejam-2012/
 dsq_thread_id:
   - "649262274"
 categories:
-  - Programmation
+  - Dev
 tags:
   - Google
 ---

@@ -16,7 +16,7 @@ al2fb_facebook_link_picture:
 dsq_thread_id:
   - "881453464"
 categories:
-  - Programmation
+  - Dev
 tags:
   - Android
 ---

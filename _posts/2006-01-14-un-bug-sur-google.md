@@ -9,7 +9,7 @@ guid: http://blog.decamps.info/2006/01/un-bug-sur-google/
 permalink: /blog/2006/01/un-bug-sur-google/
 
 categories:
-  - High-tech
+  - Hightech
 tags:
   - Bug
   - Google
