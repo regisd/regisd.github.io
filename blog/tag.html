@@ -26,9 +26,9 @@ title: Libellés
     </h2>
     <ul>
     {% for post in site.tags[tag_name] %}
-    <article class="archive-item">
-      <li><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></li>
-    </article>
+      <li><a href="{{ site.baseurl }}{{ post.url }}">
+        <article class="archive-item">{{post.title}}</article>
+      </a></li>
     {% endfor %}
     </ul>
   </div>

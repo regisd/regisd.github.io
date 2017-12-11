@@ -7,12 +7,12 @@ layout: default
   <nav role="navigation">
   {% for category in page.categories %}
     <i class="material-icons">folder</i>
-    <a href="{{site.baseurl}}/categorie/#{{category|slugize}}">{{ category }}</a>
+    <a href="{{site.baseurl}}/blog/categorie/{{category|slugize}}/">{{ category }}</a>
   {% endfor %}
   
   {% for tag in page.tags %}
     <i class="material-icons">label_outline</i>
-     <a href="{{site.baseurl}}/tag/#{{tag|slugize}}">{{ tag }}</a>
+     <a href="{{site.baseurl}}/blog/tag/#{{tag|slugize}}">{{ tag }}</a>
   {% endfor %}
   </nav>
 </div>
