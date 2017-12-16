@@ -10,10 +10,6 @@ border: 0;
 vertical-align: baseline
 }
 
-article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section {
-display: block
-}
-
 ol,ul {
 list-style: none
 }
@@ -21,22 +17,6 @@ list-style: none
 table {
 border-collapse: collapse;
 border-spacing: 0
-}
-
-body {
-  color: $primary-text-color;
-  background: $primary-color-dark;
-  font-family: 'Roboto', sans-serif;
-font-size: 16px;
-line-height: 1.5
-}
-
-#project_title,
-#project_tagline,
-h1 {
-font-weight: 700;
-  font-family: 'Libre Franklin';
-letter-spacing: -1px
 }
 
 h1 {
@@ -79,16 +59,10 @@ footer a {
   text-decoration: underline;
 }
 
-a {
-text-decoration:none;
-  color: $primary-color;
-}
-
 a:hover, a:focus {
 text-decoration:underline;
 font-weight:bold
 }
-
 
 em,cite {
 font-style: italic
@@ -103,7 +77,6 @@ position: relative;
 margin: 0 auto;
 max-width: 739px;
 padding: 5px;
-border: 1px solid #ebebeb
 }
 
 p img {
@@ -197,45 +170,6 @@ form {
 padding: 20px
 }
 
-.outer {
-width: 100%
-}
-
-.inner {
-position:relative;
-max-width:640px;
-padding:20px 10px;
-margin:0 auto
-}
-
-#header_wrap .inner {
-padding:50px 10px 30px
-}
-
-#project_title {
-margin:0;
-color:#fff;
-font-size:42px;
-font-weight:700
-}
-
-#project_tagline {
-color:#fff;
-font-size:24px;
-font-weight:300;
-background:none
-}
-
-#main_content_wrap {
-background:#f2f2f2;
-border-top:1px solid #111;
-border-bottom:1px solid #111
-}
-
-#main_content {
-padding-top:40px
-}
-
 @media screen and (max-width: 992px) {
 img {
 max-width:100%
@@ -247,17 +181,9 @@ body {
 font-size:14px
 }
 
-#downloads {
-display:none
-}
-
 .inner {
 min-width:320px;
 max-width:480px
-}
-
-#project_title {
-font-size:32px
 }
 
 h1 {
@@ -292,10 +218,6 @@ font-size:11px
 @media screen and (max-width: 320px) {
 body {
 font-size:14px
-}
-
-#downloads {
-display:none
 }
 
 .inner {
@@ -337,45 +259,14 @@ max-width:320px;
 font-size:11px
 }
 }
-#forkme_banner{
-  display: none;
-}
+
 #header_wrap,
 #footer_wrap{
   min-width: 360px;
 }
-
-img {
-  border: none;
-}
-#project_title,
-#project_tagline {
-  text-shadow: none;
-}
-.header_inner {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-#project_links {
-  display: flex;
-  flex-direction: column;
-  align-items: flex-end;
-}
-#project_links img {
-    box-shadow: none;
-    -webkit-box-shadow: none;
-}
-#main_content_wrap {
-  background: #fcfcfc;
-  border: none;
-}
 a:hover, a:focus {
   font-weight: normal;
   cursor: pointer;
-}
-.header-text {
-  color: $primary-color-text;
 }
 h1 a:hover, h1 a:focus,
 h2 a:hover, h2 a:focus {
@@ -392,15 +283,6 @@ h2 a:hover, h2 a:focus {
 }
 .post-meta > a:hover {
   text-decoration: none;
-}
-#disqus_thread {
- min-height: 615px;
-}
-.pagination {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  height: 32px;
 }
 
 .search_container {

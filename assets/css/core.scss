@@ -1,0 +1,94 @@
+---
+---
+@import "palette";
+@import "highlight";
+
+body {
+  color: $primary-text-color;
+  background: $primary-color-dark;
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  line-height: 1.5
+}
+
+#project_title,
+#project_tagline,
+h1 {
+  font-weight: 700;
+  font-family: 'Libre Franklin';
+  letter-spacing: -1px
+}
+.header-text {
+  color: $primary-color-text;
+}
+article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section {
+  display: block
+}
+
+#main_content_wrap {
+  background: $light-gray-color;
+  border: none;
+}
+
+#main_content {
+  padding-top:40px
+}
+
+a {
+  text-decoration:none;
+  color: $primary-color;
+}
+
+.outer {
+width: 100%
+}
+
+.inner {
+position:relative;
+max-width:640px;
+padding:20px 10px;
+margin:0 auto
+}
+
+img {
+  border: none;
+}
+.header_inner {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+#project_links {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+#project_links img {
+    box-shadow: none;
+}
+#header_wrap .inner {
+padding:50px 10px 30px;
+}
+
+#project_title {
+font-size:32px;
+margin:0;
+color:#fff;
+font-size:42px;
+font-weight:700
+}
+#project_tagline {
+color:#fff;
+font-size:24px;
+font-weight:300;
+background:none
+}
+.pagination {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 32px;
+}
+#disqus_thread {
+ min-height: 615px;
+}
