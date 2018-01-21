@@ -74,6 +74,13 @@ permalink: /
       justify-content: center;
       align-items: center;
     }
+    .pos-abs {
+      position: absolute;
+    }
+    .blur {
+      filter:blur(3px);
+      transform:scale(1);
+    }
     @media screen and (min-height: 1200px) {
     #content {
       min-height: 1200px;
@@ -100,9 +107,19 @@ permalink: /
       <div class="card-content">Blog</div>
     </a>
   </div>
-  <div class="card no-padding">
-    <img src="/assets/img/profile.webp" width="300" height="200">
+  <div class="card bg-lime no-padding">
+    <img src="/assets/img/profile.low.webp" width="300" height="200" class="pos-abs blur">
+    <img id="profile-hd" width="300" height="200" class="pos-abs">
+    <noscript>
+      <img src="/assets/img/profile.webp" width="300" height="200" class="pos-abs">
+    </noscript>
   </div>
 </div>
+<script>
+  document.addEventListener('DOMContentLoaded', function(event) {
+    var i=document.getElementById('profile-hd');
+    i.setAttribute('src', "/assets/img/profile.webp");
+  });
+</script>
 </body>
 </html>
