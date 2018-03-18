@@ -16,7 +16,7 @@ Mon critère principal est que l'application permette un "take out". Si un jour 
 
 À ce titre, [tapiriik.com](https://tapiriik.com/) qui permet de synchroniser ses activités entre les différents acteurs est ma référence.
 
-Et avec une API, des développeurs externes comme [relive][https://relive.cc] peuvent faire retracer le parcours en 3D!
+Et avec une API, des développeurs externes comme [relive](https://www.relive.cc) peuvent retracer le parcours en 3D!
 
 ### Social: Fonctions sociales
 
@@ -50,8 +50,8 @@ Pour le moment, mon usage ne justifie pas un abonnement.
 [<img src="{{'assets/img/google_play_badge.png' | relative_url }}" alt="Get it on Google play" width="153" heigth="46">](https://play.google.com/store/apps/details?id=com.strava)
 
 * Export ★★★★★ Des fonctions d'import et export, complétées d'une API qui attire des développeurs externes, comme relive. 
-* Social ★★★★★ C'est la grande force de Strava qui vient des cyclistes. Après avoir effectué son parcours, Strava détermine les segments qui ont été parcourus par d'autres et crée ainsi un classement virtuel. On peut aussi se comparer face à ses propres performances passées. Il y a aussi une intégration avec Facebook.
-* Analyse ★★★★☆ Strava enregistre la fréquence cardiaque et l'affiche en même temps que la courbe de vitesse ou l'altitude. La version pro ajoute une analyse de plages de fréquence cardiaque. Je regrette qu'on ne puisse pas faire changer d'échelle pour voir les données en temps (en vélo le gain d'altitude en temps me paraît plus pertinent qu'en distance).
+* Social ★★★★★ C'est la grande force de Strava qui vient des cyclistes. Après avoir effectué son parcours, Strava détermine les segments qui ont été parcourus par d'autres et crée ainsi un classement virtuel. Il y a aussi une intégration avec Facebook. Strava a ses propres groupes, les clubs, pour organiser des courses avec ses partenaires sportifs. Enfin, Strava propose des challenges qui rapportent des badges.
+* Analyse ★★★★☆ On peut se comparer soi-même sur les segements que l'on parcourt reegulièrement. Strava enregistre la fréquence cardiaque et l'affiche en même temps que la courbe de vitesse ou l'altitude. La version pro ajoute une analyse de plages de fréquence cardiaque. Je regrette qu'on ne puisse pas faire changer d'échelle pour voir les données en temps (en vélo le gain d'altitude en temps me paraît plus pertinent qu'en distance).
 * Coach ☆☆☆☆☆ Malheureusement, il n'y a rien dans l'offre gratuite.
 * UX ★★☆☆☆ L'application se présente comme un réseau social: on voit les activités de ses amis. Mais il y a plein de petits détails qui m'agacent: quand on commence une course, on en peut choisir que vélo ou à pied ; s'il s'agit d'un autre type il faut le modifier après. C'est particulièrement gênant à l'intérieur: l'auto-pose fait que rien n'est enregistré.
 * L'offre [premium](https://www.strava.com/premium) à 60€/an offre des conseils d'entraînement, une analyse plus détaillée des performances et le partage de position en temps réel.
