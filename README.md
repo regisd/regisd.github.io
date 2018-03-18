@@ -7,7 +7,7 @@ Start the site locally with
 
 ## Design
 
-Palette https://www.materialpalette.com/blue/pink
+Palette [blue & pink][materialpalette].
 
 ## How to write a post
 
@@ -23,8 +23,22 @@ tags:
   - 
 ```
 
+### Catégories
+
+Utiliser de préference une [catégorie existante][categories].
+
+
+### Tags
+
+Utiliser de préference un [tag existant][tags].
+
+
 ## Titles
 
 - span is the site title
 - `h1` is the page title
 - **`h2` are sections in the post**
+
+[materialpalette]: https://www.materialpalette.com/blue/pink
+[categories]: http://regis.decamps.info/blog/categorie/
+[tags]: http://regis.decamps.info/blog/tag/
