@@ -2,7 +2,7 @@
 
 Start the site locally with
 
-    gem install bundler
+    gem install jekyll github-pages slate bundler
     bundle exec jekyll serve --drafts --limit_posts 10
 
 ## Design
