@@ -3,7 +3,6 @@ id: 349
 disqus_id: 349 http://regis.decamps.info/blog/?p=349
 title: Maven est formidable
 date: 2006-10-15T23:46:04+00:00
-author: Régis
 excerpt: "Post technique pour dire que j'aime fichetrement Maven, ce system qui est à Java ce que les gestionnaires de packages sont au distributions linux."
 layout: post
 guid: http://regis.decamps.info/blog/2006/10/castor-lelement-root-a-une-majuscule/

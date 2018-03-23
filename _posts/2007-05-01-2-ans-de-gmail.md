@@ -3,7 +3,6 @@ id: 417
 disqus_id: 417 http://regis.decamps.info/blog/?p=417
 title: 2 ans de Gmail
 date: 2007-05-01T12:56:02+00:00
-author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2007/05/2-ans-de-gmail/
 permalink: /blog/2007/05/2-ans-de-gmail/

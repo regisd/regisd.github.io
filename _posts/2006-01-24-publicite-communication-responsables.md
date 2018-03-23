@@ -3,7 +3,6 @@ id: 159
 disqus_id: 159 http://regis.decamps.info/blog/?p=159
 title: 'Publicité &#038; Communication Responsables'
 date: 2006-01-24T21:37:45+00:00
-author: Régis
 excerpt: Un site réalisé en flash et qui illustre parfaitement web 2.0
 layout: post
 guid: http://blog.decamps.info/?p=159

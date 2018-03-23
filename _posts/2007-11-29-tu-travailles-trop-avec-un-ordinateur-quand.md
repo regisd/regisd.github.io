@@ -3,7 +3,6 @@ id: 464
 disqus_id: 464 http://regis.decamps.info/blog/?p=464
 title: Tu travailles trop avec un ordinateur quand
 date: 2007-11-29T09:48:21+00:00
-author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2007/11/tu-travailles-trop-avec-un-ordinateur-quand/
 permalink: /blog/2007/11/tu-travailles-trop-avec-un-ordinateur-quand/

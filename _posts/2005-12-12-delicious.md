@@ -3,7 +3,6 @@ id: 134
 disqus_id: 134 http://regis.decamps.info/blog/?p=134
 title: del.icio.us
 date: 2005-12-12T20:58:59+00:00
-author: Régis
 excerpt: "Puisqu'on parle beaucoup de del.icio.us en ce moment, je rappelle qu'il existe une extension pour Firefox."
 layout: post
 guid: http://blog.decamps.info/2005/12/delicious/

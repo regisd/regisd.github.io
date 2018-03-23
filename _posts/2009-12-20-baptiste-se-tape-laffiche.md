@@ -3,7 +3,6 @@ id: 1129
 disqus_id: 1129 http://regis.decamps.info/blog/?p=1129
 title: 'Baptiste se tape l’affiche'
 date: 2009-12-20T12:50:20+00:00
-author: Régis
 excerpt: Un jeune humoriste vraiment talentueux, à voir au Temple
 layout: post
 guid: http://regis.decamps.info/blog/?p=1129

@@ -3,7 +3,6 @@ id: 304
 disqus_id: 304 http://regis.decamps.info/blog/?p=304
 title: 'La télé sous Linux, c’est de la bombe'
 date: 2006-08-05T17:13:46+00:00
-author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2006/08/la-tele-sous-linux-cest-de-la-bombe/
 permalink: /blog/2006/08/la-tele-sous-linux-cest-de-la-bombe/

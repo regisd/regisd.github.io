@@ -3,7 +3,6 @@ id: 242
 disqus_id: 242 http://regis.decamps.info/blog/?p=242
 title: Comprendra Chirac qui pourra
 date: 2006-03-31T21:37:50+00:00
-author: Régis
 excerpt: "Jacques Chirac promulgue la loi sur l'égalité des chances mais demande que le CPE ne soit pas appliqué"
 layout: post
 guid: http://blog.decamps.info/2006/03/comprendra-chirac-qui-pourra/

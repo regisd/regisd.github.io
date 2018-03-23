@@ -3,7 +3,6 @@ id: 144
 disqus_id: 144 http://regis.decamps.info/blog/?p=144
 title: 'DADVSI: un peu de corruption n’a jamais tué un député'
 date: 2005-12-22T22:12:09+00:00
-author: Régis
 excerpt: |
   Juste avant le vote des députés, des représentants de Virgin ont été invités par le minsitère de la culture au sein de l'Assemblée pour faire une démonstration des offres "légales" de musique en ligne.
 layout: post

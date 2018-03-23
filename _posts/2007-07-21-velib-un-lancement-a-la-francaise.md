@@ -3,7 +3,6 @@ id: 436
 disqus_id: 436 http://regis.decamps.info/blog/?p=436
 title: Vélib, un lancement à la française
 date: 2007-07-21T11:05:25+00:00
-author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2007/07/velib-un-lancement-a-la-francaise/
 permalink: /blog/2007/07/velib-un-lancement-a-la-francaise/

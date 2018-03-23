@@ -3,7 +3,6 @@ id: 3059
 disqus_id: 3059 http://regis.decamps.info/blog/?p=3059
 title: Le grand bac
 date: 2012-12-15T22:11:46+00:00
-author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=3059
 permalink: /blog/2012/12/le-grand-bac/

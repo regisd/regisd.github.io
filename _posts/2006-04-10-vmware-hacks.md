@@ -3,7 +3,6 @@ id: 250
 disqus_id: 250 http://regis.decamps.info/blog/?p=250
 title: VMware hacks
 date: 2006-04-10T20:14:37+00:00
-author: Régis
 excerpt: How to hack VMware player to build your own images.
 layout: post
 guid: http://blog.decamps.info/?p=250

@@ -3,7 +3,6 @@ id: 370
 disqus_id: 370 http://regis.decamps.info/blog/?p=370
 title: 'Sur le port d’Amsterdam'
 date: 2006-12-12T00:04:43+00:00
-author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2006/12/sur-le-port-damsterdam/
 permalink: /blog/2006/12/sur-le-port-damsterdam/

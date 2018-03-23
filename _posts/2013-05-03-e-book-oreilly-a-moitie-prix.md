@@ -3,7 +3,6 @@ id: 3144
 disqus_id: 3144 http://regis.decamps.info/blog/?p=3144
 title: 'e-book O’Reilly à -50%'
 date: 2013-05-03T20:53:06+00:00
-author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=3144
 permalink: /blog/2013/05/e-book-oreilly-a-moitie-prix/

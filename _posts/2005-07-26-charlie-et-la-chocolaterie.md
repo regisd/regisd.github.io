@@ -3,7 +3,6 @@ id: 24
 disqus_id: 24 http://regis.decamps.info/blog/?p=24
 title: Charlie et la Chocolaterie
 date: 2005-07-26T22:45:34+00:00
-author: Régis
 excerpt: Une adaptation plutôt réussie.
 layout: post
 guid: /?p=24

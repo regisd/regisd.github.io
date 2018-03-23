@@ -3,7 +3,6 @@ id: 398
 disqus_id: 398 http://regis.decamps.info/blog/?p=398
 title: Utilisation de logiciels libres
 date: 2007-03-26T20:53:34+00:00
-author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2007/03/398/
 permalink: /blog/2007/03/logiciel-libre/

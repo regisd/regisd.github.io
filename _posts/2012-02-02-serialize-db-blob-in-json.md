@@ -3,7 +3,6 @@ id: 2478
 disqus_id: 2478 http://regis.decamps.info/blog/?p=2478
 title: Serialize db.Blob in JSON
 date: 2012-02-02T01:22:14+00:00
-author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=2478
 permalink: /blog/2012/02/serialize-db-blob-in-json/

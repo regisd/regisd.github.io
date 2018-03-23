@@ -3,7 +3,6 @@ id: 590
 disqus_id: 590 http://regis.decamps.info/blog/?p=590
 title: Spectacle pyrothechnique à la Villette
 date: 2008-09-21T14:59:24+00:00
-author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2008/09/spectacle-pyrothechnique-a-la-villette/
 permalink: /blog/2008/09/spectacle-pyrothechnique-a-la-villette/

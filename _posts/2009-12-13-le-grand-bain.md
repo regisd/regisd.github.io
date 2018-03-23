@@ -3,7 +3,6 @@ id: 1110
 disqus_id: 1110 http://regis.decamps.info/blog/?p=1110
 title: Le grand bain
 date: 2009-12-13T13:08:03+00:00
-author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=1110
 permalink: /blog/2009/12/le-grand-bain/

@@ -3,7 +3,6 @@ id: 546
 disqus_id: 546 http://regis.decamps.info/blog/?p=546
 title: Eclipse. JVM Terminated -1
 date: 2008-08-07T12:45:31+00:00
-author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=546
 permalink: /blog/2008/08/eclipse-jvm-terminated/

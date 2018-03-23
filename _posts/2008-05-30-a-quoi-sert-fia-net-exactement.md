@@ -3,7 +3,6 @@ id: 525
 disqus_id: 525 http://regis.decamps.info/blog/?p=525
 title: A quoi sert Fia-net exactement?
 date: 2008-05-30T18:12:08+00:00
-author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=525
 permalink: /blog/2008/05/a-quoi-sert-fia-net-exactement/

@@ -3,7 +3,6 @@ id: 4
 disqus_id: 4 http://regis.decamps.info/blog/?p=4
 title: Google soft drink
 date: 2005-06-20T20:24:48+00:00
-author: Régis
 layout: post
 guid: /?p=4
 permalink: /blog/2005/06/google-soft-drink/

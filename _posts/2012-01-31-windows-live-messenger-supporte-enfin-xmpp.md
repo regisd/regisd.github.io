@@ -3,7 +3,6 @@ id: 2472
 disqus_id: 2472 http://regis.decamps.info/blog/?p=2472
 title: Windows Live Messenger supporte (enfin) XMPP
 date: 2012-01-31T18:56:03+00:00
-author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=2472
 permalink: /blog/2012/01/windows-live-messenger-supporte-enfin-xmpp/

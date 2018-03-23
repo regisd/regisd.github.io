@@ -3,7 +3,6 @@ id: 81
 disqus_id: 81 http://regis.decamps.info/blog/?p=81
 title: Les frères Grimm, Oliver Twist et Les noces funèbres
 date: 2005-10-12T22:08:08+00:00
-author: Régis
 excerpt: Je suis allé voir hier soir Les frères Grimm
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=81

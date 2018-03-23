@@ -3,7 +3,6 @@ id: 230
 disqus_id: 230 http://regis.decamps.info/blog/?p=230
 title: Ce programme est trop verbeux, il a mauvais aspect
 date: 2006-03-22T00:10:44+00:00
-author: Régis
 excerpt: "Aujourd'hui j'aurais pû être sauvé par l'AOP."
 layout: post
 guid: http://blog.decamps.info/?p=230

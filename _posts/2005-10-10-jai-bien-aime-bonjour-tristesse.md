@@ -3,7 +3,6 @@ id: 76
 disqus_id: 76 http://regis.decamps.info/blog/?p=76
 title: 'J’ai bien aimé Bonjour Tristesse'
 date: 2005-10-10T23:23:40+00:00
-author: Régis
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=76
 permalink: /blog/2005/10/jai-bien-aime-bonjour-tristesse/

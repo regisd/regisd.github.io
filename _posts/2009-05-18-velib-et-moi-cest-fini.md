@@ -3,7 +3,6 @@ id: 2733
 disqus_id: 2733 http://regis.decamps.info/blog/?p=2733
 title: 'Vélib et moi: c’est fini'
 date: 2009-05-18T16:43:39+00:00
-author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=2733
 permalink: /blog/2009/05/velib-et-moi-cest-fini/

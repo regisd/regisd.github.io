@@ -3,7 +3,6 @@ id: 1744
 disqus_id: 1744 http://regis.decamps.info/blog/?p=1744
 title: 'Ajout d’incident'
 date: 2011-03-01T23:26:09+00:00
-author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=1744
 permalink: /blog/2011/03/ajout-dincident/

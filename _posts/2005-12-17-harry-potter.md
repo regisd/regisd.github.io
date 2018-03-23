@@ -3,7 +3,6 @@ id: 137
 disqus_id: 137 http://regis.decamps.info/blog/?p=137
 title: 'Harry Potter: bof bof bof'
 date: 2005-12-17T15:25:20+00:00
-author: Régis
 excerpt: "Je ne sais pas si le film est fidèle au roman, mais j'ai trouvé le scénario bien confus."
 layout: post
 guid: http://blog.decamps.info/2005/12/harry-potter/

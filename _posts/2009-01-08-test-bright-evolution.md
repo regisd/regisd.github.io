@@ -3,7 +3,6 @@ id: 777
 disqus_id: 777 http://regis.decamps.info/blog/?p=777
 title: Test Bright Evolution
 date: 2009-01-08T14:40:27+00:00
-author: Régis
 excerpt: "Le <em>Bright Evolution test</em> est un concurrent du TOEIC. J'ai 4.1/5"
 layout: post
 guid: http://regis.decamps.info/blog/?p=777

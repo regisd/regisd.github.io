@@ -3,7 +3,6 @@ id: 837
 disqus_id: 837 http://regis.decamps.info/blog/?p=837
 title: Disposing objects in Sharepoint
 date: 2009-02-27T08:41:32+00:00
-author: Régis
 excerpt: Sharepoint is a good development platform. Like in the good old days of C, you need to free objects from memory :-p
 layout: post
 guid: http://regis.decamps.info/blog/?p=837

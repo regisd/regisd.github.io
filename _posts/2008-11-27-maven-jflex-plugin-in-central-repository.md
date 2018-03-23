@@ -3,7 +3,6 @@ id: 635
 disqus_id: 635 http://regis.decamps.info/blog/?p=635
 title: maven-jflex-plugin in central repository
 date: 2008-11-27T23:47:03+00:00
-author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=635
 permalink: /blog/2008/11/maven-jflex-plugin-in-central-repository/

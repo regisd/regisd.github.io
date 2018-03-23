@@ -3,7 +3,6 @@ id: 480
 disqus_id: 480 http://regis.decamps.info/blog/?p=480
 title: 'L’architecture distribuée'
 date: 2008-01-29T19:23:30+00:00
-author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2008/01/larchitecture-distribuee/
 permalink: /blog/2008/01/larchitecture-distribuee/

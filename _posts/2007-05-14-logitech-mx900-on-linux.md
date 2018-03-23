@@ -3,7 +3,6 @@ id: 412
 disqus_id: 412 http://regis.decamps.info/blog/?p=412
 title: Logitech MX900 on Linux
 date: 2007-05-14T21:22:56+00:00
-author: Régis
 excerpt: |
   My mouse has stopped to work. After a short diagnostic, I came to the conclusion that the wire cut. Unfortunately, you can't buy a simple wire. My new mouse will be wireless!
   How to make it work on Gentoo linux?

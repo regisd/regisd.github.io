@@ -3,7 +3,6 @@ id: 1852
 disqus_id: 1852 http://regis.decamps.info/blog/?p=1852
 title: 'La RATP s’oppose à une communication cohérente'
 date: 2011-03-18T09:00:59+00:00
-author: Régis
 excerpt: La RATP refuse que les pictogrammes des lignes soient reproduits par des tiers.
 layout: post
 guid: http://regis.decamps.info/blog/?p=1852

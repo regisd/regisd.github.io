@@ -3,7 +3,6 @@ id: 160
 disqus_id: 160 http://regis.decamps.info/blog/?p=160
 title: 'DADVSI: le débat est ouvert'
 date: 2006-01-24T22:12:22+00:00
-author: Régis
 layout: post
 guid: http://blog.decamps.info/2006/01/dadvsi-le-debat-est-ouvert/
 permalink: /blog/2006/01/dadvsi-le-debat-est-ouvert/

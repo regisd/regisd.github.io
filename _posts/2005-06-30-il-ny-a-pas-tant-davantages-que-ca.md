@@ -3,7 +3,6 @@ id: 74
 disqus_id: 74 http://regis.decamps.info/blog/?p=74
 title: 'Il n’y a pas tant d’avantages que ça'
 date: 2005-06-30T21:02:22+00:00
-author: Régis
 excerpt: "Le gouverneur de la Banque: <em>Le directeur de l'immobilier des services généraux ne dispose pas d'un appartement de fonction et paie son loyer.</em>"
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=74

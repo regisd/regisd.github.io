@@ -3,7 +3,6 @@ id: 375
 disqus_id: 375 http://regis.decamps.info/blog/?p=375
 title: Petite page de vérité sur la Banque de France
 date: 2006-12-20T00:04:39+00:00
-author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2006/12/petite-page-de-verite-sur-la-banque-de-france/
 permalink: /blog/2006/12/petite-page-de-verite-sur-la-banque-de-france/

@@ -3,7 +3,6 @@ id: 2790
 disqus_id: 2790 http://regis.decamps.info/blog/?p=2790
 title: Applications de messageries sur mobile
 date: 2012-06-18T13:00:14+00:00
-author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=2790
 permalink: /blog/2012/06/applications-de-messageries-sur-mobile/

@@ -15,13 +15,11 @@ plugins:
 github:
   owner_name: Régis
   owner_url: https://plus.google.com/+RégisDécamps
-author:
-facebook:
+author: Régis
 social:
   name: Régis
   links:
     - https://plus.google.com/+R%C3%A9gisD%C3%A9camps
     - https://www.facebook.com/regis.decamps
-social:
   gplus: https://plus.google.com/+R%C3%A9gisD%C3%A9camps
   fb: https://www.facebook.com/regis.decamps

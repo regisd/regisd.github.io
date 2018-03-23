@@ -3,7 +3,6 @@ id: 3230
 disqus_id: 3230 http://regis.decamps.info/blog/?p=3230
 title: Quoi de neuf dans Android Lollipop?
 date: 2014-11-12T23:33:50+00:00
-author: Régis
 excerpt: |
   Ce qui distingue <a href="http://www.android.com/versions/lollipop-5-0/">Lollipop</a>, c'est d'abord sa nouvelle interface graphique. Avec des animations discrètes, l'interface paraît très fluide. Les notifications et le gestionnaire de tâche ont aussi été repensés. Et sous le capot, il y a des changements. Mais je ne pense pas que cette version soit la plus marquante.
 layout: post

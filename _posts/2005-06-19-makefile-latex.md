@@ -3,7 +3,6 @@ id: 109
 disqus_id: 109 http://regis.decamps.info/blog/?p=109
 title: Makefile LaTeX
 date: 2005-06-19T19:43:48+00:00
-author: Régis
 excerpt: "J'ai retrouvé mon Makefile qui permet de produire rapidement des documents écrits en LaTeX."
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=109

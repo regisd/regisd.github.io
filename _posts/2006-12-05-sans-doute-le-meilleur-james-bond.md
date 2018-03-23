@@ -3,7 +3,6 @@ id: 369
 disqus_id: 369 http://regis.decamps.info/blog/?p=369
 title: Sans doute le meilleur James Bond
 date: 2006-12-05T21:54:10+00:00
-author: Régis
 excerpt: Casino est une vraie réussite
 layout: post
 guid: http://regis.decamps.info/blog/2006/12/sans-doute-le-meilleur-james-bond/

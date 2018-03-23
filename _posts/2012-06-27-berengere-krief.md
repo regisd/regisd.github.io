@@ -3,7 +3,6 @@ id: 2810
 disqus_id: 2810 http://regis.decamps.info/blog/?p=2810
 title: Bérengère Krief
 date: 2012-06-27T23:17:46+00:00
-author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=2810
 permalink: /blog/2012/06/berengere-krief/

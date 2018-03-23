@@ -3,7 +3,6 @@ id: 67
 disqus_id: 67 http://regis.decamps.info/blog/?p=67
 title: 'Et ils creusaient, et ils creusaient…;'
 date: 2005-09-26T23:27:08+00:00
-author: Régis
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=67
 permalink: /blog/2005/09/et-ils-creusaient-et-ils-creusaient/

@@ -3,7 +3,6 @@ id: 444
 disqus_id: 444 http://regis.decamps.info/blog/?p=444
 title: Promenade à Belleville
 date: 2007-08-02T16:48:00+00:00
-author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2007/08/promenade-a-belleville/
 permalink: /blog/2007/08/promenade-a-belleville/

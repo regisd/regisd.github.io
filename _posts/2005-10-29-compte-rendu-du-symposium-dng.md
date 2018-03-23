@@ -3,7 +3,6 @@ id: 86
 disqus_id: 86 http://regis.decamps.info/blog/?p=86
 title: Compte rendu du symposium DNG
 date: 2005-10-29T14:30:17+00:00
-author: Régis
 excerpt: |
   Comme je l'avais annoncé ici, j'ai assisté au symposium <a href="http://www.dotnetguru.org/">DotNetGuru</a>. DNG est la première communauté française d'architectes et de développeurs sur la plateforme .net de Microsoft (qui a sponsorisé l'évènement). Les membres de l'équipe DNG ont tous un niveau technique très pointu, sont des consultants et ont donc un discours très critique vis à vis de .net, savant mélange de retours d'expérience et de veille technologique.
   

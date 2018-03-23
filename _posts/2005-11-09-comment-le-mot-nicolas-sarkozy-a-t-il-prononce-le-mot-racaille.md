@@ -3,7 +3,6 @@ id: 94
 disqus_id: 94 http://regis.decamps.info/blog/?p=94
 title: Comment Nicolas Sarkozy a-t-il prononcé le mot « racaille »?
 date: 2005-11-09T01:06:01+00:00
-author: Régis
 excerpt: "S'il est toujours très intéressant de lire la presse étrangère, il est passionnant de savoir ce que les médias ne disent pas."
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=94

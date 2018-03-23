@@ -3,7 +3,6 @@ id: 121
 disqus_id: 121 http://regis.decamps.info/blog/?p=121
 title: 'LDAP pour son carnet d’adresses?'
 date: 2005-12-04T15:38:02+00:00
-author: Régis
 layout: post
 guid: http://blog.decamps.info/?p=121
 permalink: /blog/2005/12/ldap-pour-son-carnet-dadresses/

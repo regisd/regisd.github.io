@@ -3,7 +3,6 @@ id: 1664
 disqus_id: 1664 http://regis.decamps.info/blog/?p=1664
 title: Livefyre out. Back to Vanilla commenting system.
 date: 2011-01-29T15:45:53+00:00
-author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=1664
 permalink: /blog/2011/01/livefyre-out-back-to-vanilla-commenting-system/

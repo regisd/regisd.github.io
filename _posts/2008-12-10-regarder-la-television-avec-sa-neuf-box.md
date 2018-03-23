@@ -3,7 +3,6 @@ id: 721
 disqus_id: 721 http://regis.decamps.info/blog/?p=721
 title: Regarder la télévision avec sa Neuf Box
 date: 2008-12-10T18:58:43+00:00
-author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=721
 permalink: /blog/2008/12/regarder-la-television-avec-sa-neuf-box/

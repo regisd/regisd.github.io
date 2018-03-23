@@ -3,7 +3,6 @@ id: 32
 disqus_id: 32 http://regis.decamps.info/blog/?p=32
 title: Du cash back sur vos achats
 date: 2005-08-13T14:14:50+00:00
-author: Régis
 excerpt: "5% de réduction sur Alapage, ça vous dit? Et des réductions chez pixmania, La Redoute, Cdiscount? Et un cadeau de 5 euros  à l'ouverture du compte?"
 layout: post
 guid: /?p=32

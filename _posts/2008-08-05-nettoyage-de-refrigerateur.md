@@ -3,7 +3,6 @@ id: 545
 disqus_id: 545 http://regis.decamps.info/blog/?p=545
 title: Nettoyage de réfrigérateur
 date: 2008-08-05T19:45:22+00:00
-author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=545
 permalink: /blog/2008/08/nettoyage-de-refrigerateur/

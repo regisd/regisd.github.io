@@ -3,7 +3,6 @@ id: 2540
 disqus_id: 2540 http://regis.decamps.info/blog/?p=2540
 title: 'Fonds d’écran animés'
 date: 2012-02-08T22:02:59+00:00
-author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=2540
 permalink: /blog/2012/02/fonds-decran-animes/

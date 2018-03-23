@@ -3,7 +3,6 @@ id: 365
 disqus_id: 365 http://regis.decamps.info/blog/?p=365
 title: La vidéo bombe de Ségolène
 date: 2006-11-12T22:06:08+00:00
-author: Régis
 excerpt: "Lors d'un forum du PS, Ségolène Royale donne son opinion sur le travail des profs au collège. Il y avait une caméra clandestine dans la sallle..."
 layout: post
 guid: http://regis.decamps.info/blog/2006/11/la-video-bombe-de-segolene/

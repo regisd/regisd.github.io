@@ -3,7 +3,6 @@ id: 363
 disqus_id: 363 http://regis.decamps.info/blog/?p=363
 title: 'Placebo, ce que j’en ai pensé'
 date: 2006-10-02T20:28:34+00:00
-author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2006/10/placebo-ce-que-jen-ai-pense/
 permalink: /blog/2006/10/placebo-ce-que-jen-ai-pense/

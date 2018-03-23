@@ -3,7 +3,6 @@ id: 1155
 disqus_id: 1155 http://regis.decamps.info/blog/?p=1155
 title: Anthony Joubert
 date: 2010-03-07T00:54:36+00:00
-author: Régis
 excerpt: "Le spectavle d'Anthony Joubert est vraiment très bon!"
 layout: post
 guid: http://regis.decamps.info/blog/2010/03/anthony-joubert/

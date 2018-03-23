@@ -3,7 +3,6 @@ id: 408
 disqus_id: 408 http://regis.decamps.info/blog/?p=408
 title: Mozilla fundation to use Mercurial instead of CVS
 date: 2007-04-24T12:31:59+00:00
-author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2007/04/mozilla-fundation-to-use-mercurial-instead-of-cvs/
 permalink: /blog/2007/04/mozilla-fundation-to-use-mercurial-instead-of-cvs/

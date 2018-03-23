@@ -3,7 +3,6 @@ id: 17
 disqus_id: 17 http://regis.decamps.info/blog/?p=17
 title: 'La barre d’outils de Google officielle pour Firefox'
 date: 2005-07-09T00:54:53+00:00
-author: Régis
 layout: post
 guid: /?p=17
 permalink: /blog/2005/07/la-barre-outils-de-google-officielle-firefox/

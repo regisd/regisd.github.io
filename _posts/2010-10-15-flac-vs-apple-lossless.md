@@ -3,7 +3,6 @@ id: 1446
 disqus_id: 1446 http://regis.decamps.info/blog/?p=1446
 title: Flac vs Apple Lossless
 date: 2010-10-15T18:54:43+00:00
-author: Régis
 excerpt: When storage is cheap, the obvious solution is to use a lossless encoding ; I know flac and Apple Lossless.
 layout: post
 guid: http://regis.decamps.info/blog/?p=1446

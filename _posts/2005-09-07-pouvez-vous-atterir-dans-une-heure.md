@@ -3,7 +3,6 @@ id: 53
 disqus_id: 53 http://regis.decamps.info/blog/?p=53
 title: Pouvez-vous atterrir dans une heure?
 date: 2005-09-07T00:23:59+00:00
-author: Régis
 excerpt: "Un avion  a été forcé mercredi de reporter son atterrissage à Canberra, le contrôleur aérien ne s'étant pas réveillé à temps pour être à l'heure à son travail."
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=53

@@ -3,7 +3,6 @@ id: 1455
 disqus_id: 1455 http://regis.decamps.info/blog/?p=1455
 title: Air France pratique la politique inique du « No show »
 date: 2010-10-29T09:00:40+00:00
-author: Régis
 excerpt: "Avec Air France, quand on rate l'aller, on n'a pas le droit au retour..."
 layout: post
 guid: http://regis.decamps.info/blog/?p=1455

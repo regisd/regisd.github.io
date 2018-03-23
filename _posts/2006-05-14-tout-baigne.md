@@ -3,7 +3,6 @@ id: 271
 disqus_id: 271 http://regis.decamps.info/blog/?p=271
 title: Tout baigne
 date: 2006-05-14T20:02:14+00:00
-author: Régis
 excerpt: Une excellent pièce de théatre à voir au Théatre du temple.
 layout: post
 guid: http://blog.decamps.info/2006/05/tout-baigne/

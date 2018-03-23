@@ -3,7 +3,6 @@ id: 423
 disqus_id: 423 http://regis.decamps.info/blog/?p=423
 title: Piano déambulant dans le Palais Royal
 date: 2007-06-04T13:53:49+00:00
-author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2007/06/piano-deambulant-dans-le-palais-royal/
 permalink: /blog/2007/06/piano-deambulant-dans-le-palais-royal/

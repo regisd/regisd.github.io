@@ -3,7 +3,6 @@ id: 487
 disqus_id: 487 http://regis.decamps.info/blog/?p=487
 title: Merci Jean-Claude
 date: 2008-03-09T13:05:30+00:00
-author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2008/03/merci-jean-claude/
 permalink: /blog/2008/03/merci-jean-claude/

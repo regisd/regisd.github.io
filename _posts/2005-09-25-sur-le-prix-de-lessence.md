@@ -3,7 +3,6 @@ id: 65
 disqus_id: 65 http://regis.decamps.info/blog/?p=65
 title: 'Sur le prix de l’essence'
 date: 2005-09-25T18:30:22+00:00
-author: Régis
 excerpt: "La dernière fois que j'avais emprunté le diesel de mes parents, le gazole coûtait 80 cts le litre. Aujourd'hui, on a dépassé l'euro."
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=65

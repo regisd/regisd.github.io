@@ -3,7 +3,6 @@ id: 107
 disqus_id: 107 http://regis.decamps.info/blog/?p=107
 title: La France se rappelle enfin de ses poilus
 date: 2005-11-18T21:16:02+00:00
-author: Régis
 excerpt: "J'ai toujours trouvé choquant que la guerre la plus meurtrière en France soit tombée dans notre pays."
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=107

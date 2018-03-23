@@ -3,7 +3,6 @@ id: 2556
 disqus_id: 2556 http://regis.decamps.info/blog/?p=2556
 title: Android et VoIP
 date: 2012-02-13T23:10:48+00:00
-author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=2556
 permalink: /blog/2012/02/android-et-voip/

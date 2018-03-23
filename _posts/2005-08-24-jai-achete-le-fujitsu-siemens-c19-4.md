@@ -3,7 +3,6 @@ id: 42
 disqus_id: 42 http://regis.decamps.info/blog/?p=42
 title: 'J’ai acheté le Fujitsu-Siemens C19-4'
 date: 2005-08-24T19:25:10+00:00
-author: Régis
 excerpt: "Cela fait un moment que les écrans plats me tapaient dans l'oeuil."
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=42

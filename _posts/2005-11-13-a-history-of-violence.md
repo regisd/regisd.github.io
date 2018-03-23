@@ -3,7 +3,6 @@ id: 99
 disqus_id: 99 http://regis.decamps.info/blog/?p=99
 title: A history of violence
 date: 2005-11-13T23:23:02+00:00
-author: Régis
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=99
 permalink: /blog/2005/11/a-history-of-violence/

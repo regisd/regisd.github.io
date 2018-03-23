@@ -3,7 +3,6 @@ id: 481
 disqus_id: 481 http://regis.decamps.info/blog/?p=481
 title: Référencement de site web
 date: 2008-01-29T21:14:44+00:00
-author: Régis
 excerpt: |
   Un ami m'a demandé ce que je connaissais en référencement de site web. La réponse est "pas grand chose" mais voici mes réflexions sur le sujet...
   

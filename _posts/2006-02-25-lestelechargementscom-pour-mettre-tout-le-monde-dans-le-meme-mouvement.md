@@ -3,7 +3,6 @@ id: 195
 disqus_id: 195 http://regis.decamps.info/blog/?p=195
 title: Lestelechargements.com pour mettre tout le monde dans le même mouvement
 date: 2006-02-25T23:11:44+00:00
-author: Régis
 excerpt: |
   Le site d' "information" sur la loi DADVSI a ouvert. Mes première impressions
 layout: post

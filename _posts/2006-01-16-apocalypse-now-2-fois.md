@@ -3,7 +3,6 @@ id: 158
 disqus_id: 158 http://regis.decamps.info/blog/?p=158
 title: Apocalypse now, 2 fois
 date: 2006-01-16T23:39:22+00:00
-author: Régis
 excerpt: "J'ai été voir deux films bien récemment: <em>Jarhead</em> et <em>Lord of war</em>."
 layout: post
 guid: http://blog.decamps.info/?p=158

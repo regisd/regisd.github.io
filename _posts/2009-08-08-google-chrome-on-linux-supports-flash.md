@@ -3,7 +3,6 @@ id: 924
 disqus_id: 924 http://regis.decamps.info/blog/?p=924
 title: Google chrome on linux supports Flash
 date: 2009-08-08T14:13:10+00:00
-author: Régis
 excerpt: |
   The latest builds of Chrome has an experimental support of mozilla plugins. I now have flash :-)
   

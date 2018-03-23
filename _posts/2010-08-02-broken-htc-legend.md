@@ -3,7 +3,6 @@ id: 1390
 disqus_id: 1390 http://regis.decamps.info/blog/?p=1390
 title: Broken HTC Legend
 date: 2010-08-02T18:08:54+00:00
-author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=1390
 permalink: /blog/2010/08/broken-htc-legend/

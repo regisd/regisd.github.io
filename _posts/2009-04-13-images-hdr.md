@@ -3,7 +3,6 @@ id: 856
 disqus_id: 856 http://regis.decamps.info/blog/?p=856
 title: Images HDR
 date: 2009-04-13T22:21:05+00:00
-author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=856
 permalink: /blog/2009/04/images-hdr/

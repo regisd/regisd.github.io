@@ -3,7 +3,6 @@ id: 25
 disqus_id: 25 http://regis.decamps.info/blog/?p=25
 title: Est-ce de la dyslxeie ?
 date: 2005-07-29T19:46:00+00:00
-author: Régis
 excerpt: "Les gens comprennent parfaitement quand l'ordre des lettres est changé. Il suffit de garder les premières et dernières lettres! "
 layout: post
 guid: /?p=25

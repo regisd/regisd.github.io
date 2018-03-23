@@ -3,7 +3,6 @@ id: 2408
 disqus_id: 2408 http://regis.decamps.info/blog/?p=2408
 title: Ankidroid
 date: 2012-01-13T20:05:07+00:00
-author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=2408
 permalink: /blog/2012/01/ankidroid/

@@ -3,7 +3,6 @@ id: 1932
 disqus_id: 1932 http://regis.decamps.info/blog/?p=1932
 title: 'L******, égalité, fraternité'
 date: 2011-05-04T03:33:08+00:00
-author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=1932
 permalink: /blog/2011/05/l-egalite-fraternite/

@@ -3,7 +3,6 @@ id: 126
 disqus_id: 126 http://regis.decamps.info/blog/?p=126
 title: Tab preview
 date: 2005-12-05T22:28:47+00:00
-author: Régis
 excerpt: Quand on aime les onglets de firefox, on adore cette extension
 layout: post
 guid: http://blog.decamps.info/?p=126

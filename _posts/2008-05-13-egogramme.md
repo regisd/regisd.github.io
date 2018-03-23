@@ -3,7 +3,6 @@ id: 518
 disqus_id: 518 http://regis.decamps.info/blog/?p=518
 title: 'Test de l’égogramme corrigé'
 date: 2008-05-13T11:37:56+00:00
-author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=518
 permalink: /blog/2008/05/egogramme/

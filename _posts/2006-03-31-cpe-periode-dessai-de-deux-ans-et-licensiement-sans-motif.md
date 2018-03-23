@@ -3,7 +3,6 @@ id: 241
 disqus_id: 241 http://regis.decamps.info/blog/?p=241
 title: 'CPE: période d’essai de deux ans et licenciement sans motif'
 date: 2006-03-31T01:13:00+00:00
-author: Régis
 excerpt: "Aujourd'hui j'ai fait le tour de la blogosphère et on y lit des âneries"
 layout: post
 guid: http://blog.decamps.info/2006/03/cpe-periode-dessai-de-deux-ans-et-licensiement-sans-motif/

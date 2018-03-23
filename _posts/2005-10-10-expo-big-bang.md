@@ -3,7 +3,6 @@ id: 77
 disqus_id: 77 http://regis.decamps.info/blog/?p=77
 title: Expo BIG BANG
 date: 2005-10-10T23:26:11+00:00
-author: Régis
 excerpt: La nouvelle expo permanent de beaubourg vaut vraiment le détour
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=77

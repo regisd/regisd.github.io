@@ -3,7 +3,6 @@ id: 54
 disqus_id: 54 http://regis.decamps.info/blog/?p=54
 title: 'J’irai au symposium dotNetGuru'
 date: 2005-09-08T22:09:03+00:00
-author: Régis
 excerpt: 'Je me rendrai au <a href="http://www.dotnetguru.org/modules.php?op=modload&name=IncludePage&file=agenda">symposium  dotNetGuru</a> du 24 octobre.'
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=54

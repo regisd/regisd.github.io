@@ -3,7 +3,6 @@ id: 615
 disqus_id: 615 http://regis.decamps.info/blog/?p=615
 title: Palmade joue le comique
 date: 2008-11-26T02:46:29+00:00
-author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=615
 permalink: /blog/2008/11/palmade-le-comique/

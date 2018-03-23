@@ -3,7 +3,6 @@ id: 1949
 disqus_id: 1949 http://regis.decamps.info/blog/?p=1949
 title: Intent to open twitter client on Android
 date: 2011-06-02T11:59:49+00:00
-author: Régis
 excerpt: There is no standard and straightforward way to open a twitter client on Android from your application. Here is how I do.
 layout: post
 guid: http://regis.decamps.info/blog/?p=1949

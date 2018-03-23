@@ -3,7 +3,6 @@ id: 319
 disqus_id: 319 http://regis.decamps.info/blog/?p=319
 title: 'Vive l’escalade'
 date: 2006-08-29T18:07:27+00:00
-author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2006/08/vive-lescalade/
 permalink: /blog/2006/08/vive-lescalade/

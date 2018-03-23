@@ -3,7 +3,6 @@ id: 465
 disqus_id: 465 http://regis.decamps.info/blog/?p=465
 title: Exigeons un référendum pour le nouveau traité européen
 date: 2007-12-02T19:43:07+00:00
-author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2007/12/exigeons-un-referendum-pour-le-nouveau-traite-europeen/
 permalink: /blog/2007/12/exigeons-un-referendum-pour-le-nouveau-traite-europeen/

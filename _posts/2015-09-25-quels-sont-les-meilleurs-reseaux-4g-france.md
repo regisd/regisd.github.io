@@ -3,7 +3,6 @@ id: 3307
 disqus_id: 3307 http://regis.decamps.info/blog/?p=3307
 title: Quels sont les meilleurs réseaux LTE en France?
 date: 2015-09-25T22:44:41+00:00
-author: Régis
 excerpt: "OpenSignal mesure la vitesse de connection de milliers de téléphones. Quel est l'état de la téléphonie 4G en France par rapport aux autres pays du monde? Quels sont les meilleurs opérateurs français?"
 layout: post
 guid: http://regis.decamps.info/blog/?p=3307

@@ -3,7 +3,6 @@ id: 1397
 disqus_id: 1397 http://regis.decamps.info/blog/?p=1397
 title: 'Adventure (doesn’t) work – SharePoint Theme'
 date: 2010-08-25T19:51:41+00:00
-author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=1397
 permalink: /blog/2010/08/adventure-doesnt-work-sharepoint-theme/

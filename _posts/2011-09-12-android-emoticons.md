@@ -3,7 +3,6 @@ id: 2201
 disqus_id: 2201 http://regis.decamps.info/blog/?p=2201
 title: Android emoticons
 date: 2011-09-12T19:41:24+00:00
-author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=2201
 permalink: /blog/2011/09/android-emoticons/

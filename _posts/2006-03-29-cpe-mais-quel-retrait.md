@@ -3,7 +3,6 @@ id: 239
 disqus_id: 239 http://regis.decamps.info/blog/?p=239
 title: 'CPE: mais quel « retrait »?'
 date: 2006-03-29T17:01:39+00:00
-author: Régis
 excerpt: On ne peut pas retirer une loi qui a été démocratiquement votée!
 layout: post
 guid: http://blog.decamps.info/2006/03/cpe-mais-quel-retrait/

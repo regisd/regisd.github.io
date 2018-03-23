@@ -3,7 +3,6 @@ id: 73
 disqus_id: 73 http://regis.decamps.info/blog/?p=73
 title: 'Last.fm – la meilleure des radios'
 date: 2005-10-05T21:24:56+00:00
-author: Régis
 excerpt: "La radio personnalisée qu'offre Last.fm est géniale"
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=73

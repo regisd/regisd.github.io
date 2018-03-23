@@ -3,7 +3,6 @@ id: 275
 disqus_id: 275 http://regis.decamps.info/blog/?p=275
 title: Valtech TV
 date: 2006-06-03T18:14:09+00:00
-author: Régis
 layout: post
 guid: http://blog.decamps.info/2006/06/valtech-tv-home/
 permalink: /blog/2006/06/valtech-tv-home/

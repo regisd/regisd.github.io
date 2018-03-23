@@ -3,7 +3,6 @@ id: 330
 disqus_id: 330 http://regis.decamps.info/blog/?p=330
 title: Aiguille du Midi
 date: 2006-09-02T18:58:38+00:00
-author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2006/09/aiguille-du-midi/
 permalink: /blog/2006/09/aiguille-du-midi/

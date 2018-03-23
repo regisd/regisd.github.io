@@ -3,7 +3,6 @@ id: 128
 disqus_id: 128 http://regis.decamps.info/blog/?p=128
 title: Le petit lieutenant
 date: 2005-12-05T23:36:49+00:00
-author: Régis
 excerpt: Ce commence comme un polar et finit comme un bon film.
 layout: post
 guid: http://blog.decamps.info/?p=128

@@ -3,7 +3,6 @@ id: 337
 disqus_id: 337 http://regis.decamps.info/blog/?p=337
 title: 'La VoIP, tout le monde en parle, mais…;'
 date: 2006-09-25T20:48:14+00:00
-author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2006/09/la-voip-tout-le-monde-en-parle-mais/
 permalink: /blog/2006/09/la-voip-tout-le-monde-en-parle-mais/

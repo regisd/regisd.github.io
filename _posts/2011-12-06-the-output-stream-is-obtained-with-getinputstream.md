@@ -3,7 +3,6 @@ id: 2269
 disqus_id: 2269 http://regis.decamps.info/blog/?p=2269
 title: The output stream is obtained with getInputStream()
 date: 2011-12-06T10:54:04+00:00
-author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=2269
 permalink: /blog/2011/12/the-output-stream-is-obtained-with-getinputstream/

@@ -3,7 +3,6 @@ id: 296
 disqus_id: 296 http://regis.decamps.info/blog/?p=296
 title: Souvenirs du Sierra de Guara
 date: 2006-07-30T17:06:29+00:00
-author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2006/07/souvenirs-du-sierra-de-guara/
 permalink: /blog/2006/07/souvenirs-du-sierra-de-guara/

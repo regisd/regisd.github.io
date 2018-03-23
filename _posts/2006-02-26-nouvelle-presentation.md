@@ -3,7 +3,6 @@ id: 200
 disqus_id: 200 http://regis.decamps.info/blog/?p=200
 title: Nouvelle présentation
 date: 2006-02-26T21:09:01+00:00
-author: Régis
 layout: post
 guid: http://blog.decamps.info/2006/02/nouvelle-presentation/
 permalink: /blog/2006/02/nouvelle-presentation/

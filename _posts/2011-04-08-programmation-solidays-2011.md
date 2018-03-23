@@ -3,7 +3,6 @@ id: 1903
 disqus_id: 1903 http://regis.decamps.info/blog/?p=1903
 title: Programmation Solidays 2011
 date: 2011-04-08T19:52:43+00:00
-author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=1903
 permalink: /blog/2011/04/programmation-solidays-2011/

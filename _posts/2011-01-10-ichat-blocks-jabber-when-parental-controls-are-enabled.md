@@ -3,7 +3,6 @@ id: 1602
 disqus_id: 1602 http://regis.decamps.info/blog/?p=1602
 title: iChat blocks Jabber when parental controls are enabled
 date: 2011-01-10T21:54:04+00:00
-author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=1602
 permalink: /blog/2011/01/ichat-blocks-jabber-when-parental-controls-are-enabled/

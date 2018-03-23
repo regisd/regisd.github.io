@@ -3,7 +3,6 @@ id: 795
 disqus_id: 795 http://regis.decamps.info/blog/?p=795
 title: A-t-on le droit de faire un lien vers un autre site?
 date: 2009-02-02T19:26:13+00:00
-author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=795
 permalink: /blog/2009/02/a-t-on-le-droit-de-faire-un-lien-vers-un-autre-site/

@@ -3,7 +3,6 @@ id: 2045
 disqus_id: 2045 http://regis.decamps.info/blog/?p=2045
 title: "+1"
 date: 2011-06-08T18:08:56+00:00
-author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=2045
 permalink: /blog/2011/06/google_plus_one/

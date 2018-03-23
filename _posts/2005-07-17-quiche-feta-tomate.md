@@ -3,7 +3,6 @@ id: 190
 disqus_id: 190 http://regis.decamps.info/blog/?p=190
 title: Quiche fêta tomate
 date: 2005-07-17T21:38:58+00:00
-author: Régis
 layout: post
 guid: http://blog.decamps.info/2005/07/quiche-feta-tomate/
 permalink: /blog/2005/07/quiche-feta-tomate/

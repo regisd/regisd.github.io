@@ -3,7 +3,6 @@ id: 1927
 disqus_id: 1927 http://regis.decamps.info/blog/?p=1927
 title: Traiter tous les fichiers ayant une extension donnée
 date: 2011-05-02T10:54:04+00:00
-author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=1927
 permalink: /blog/2011/05/traiter-tous-les-fichiers-ayant-une-extension-donnee/

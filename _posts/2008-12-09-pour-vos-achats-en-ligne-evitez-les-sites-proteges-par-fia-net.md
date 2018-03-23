@@ -3,7 +3,6 @@ id: 675
 disqus_id: 675 http://regis.decamps.info/blog/?p=675
 title: Pour vos achats en ligne, évitez les sites protégés par fia-net
 date: 2008-12-09T20:57:47+00:00
-author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=675
 permalink: /blog/2008/12/pour-vos-achats-en-ligne-evitez-les-sites-proteges-par-fia-net/

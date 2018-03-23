@@ -3,7 +3,6 @@ id: 23
 disqus_id: 23 http://regis.decamps.info/blog/?p=23
 title: 'Les huit fausses idées de l’informatique distribuée'
 date: 2005-07-20T00:50:21+00:00
-author: Régis
 layout: post
 guid: /?p=23
 permalink: /blog/2005/07/les-huit-fausses-idees-de-linformatique-distribuee/

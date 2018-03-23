@@ -3,7 +3,6 @@ id: 2608
 disqus_id: 2608 http://regis.decamps.info/blog/?p=2608
 title: Android, la plateforme où les bugs restent ouverts pendant plus de 3 ans
 date: 2012-02-28T21:42:45+00:00
-author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=2608
 permalink: /blog/2012/02/android-la-plateforme-ou-les-bugs-restent-ouverts-pendant-plus-de-3-ans/

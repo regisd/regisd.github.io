@@ -3,7 +3,6 @@ id: 5
 disqus_id: 5 http://regis.decamps.info/blog/?p=5
 title: 'L’europe en crise'
 date: 2005-06-20T20:59:42+00:00
-author: Régis
 excerpt: "Après le rejet de la constitution européenne, plus aucun pays n'est prêt à payer pour le budget européen..."
 layout: post
 guid: /?p=5

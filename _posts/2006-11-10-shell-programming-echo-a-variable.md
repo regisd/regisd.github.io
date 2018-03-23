@@ -3,7 +3,6 @@ id: 364
 disqus_id: 364 http://regis.decamps.info/blog/?p=364
 title: 'Shell programming: echo a variable'
 date: 2006-11-10T21:49:21+00:00
-author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2006/11/shell-programming-echo-a-variable/
 permalink: /blog/2006/11/shell-programming-echo-a-variable/

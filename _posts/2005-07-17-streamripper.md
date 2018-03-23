@@ -3,14 +3,10 @@ id: 21
 disqus_id: 21 http://regis.decamps.info/blog/?p=21
 title: Streamripper
 date: 2005-07-17T17:22:01+00:00
-author: Régis
 excerpt: "J'ai quelques années de retard, mais je me suis enfin lancé dans le rippage de station radio."
 layout: post
 guid: /?p=21
 permalink: /blog/2005/07/streamripper/
-
-dsq_thread_id:
-  - ""
 categories:
   - Hightech
 tags:  

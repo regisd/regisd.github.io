@@ -3,7 +3,6 @@ id: 523
 disqus_id: 523 http://regis.decamps.info/blog/?p=523
 title: 'L’état actionnaire touche d’importants dividendes en 2008'
 date: 2008-05-20T21:35:53+00:00
-author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=523
 permalink: /blog/2008/05/letat-actionnaire-touche-dimportants-dividendes-en-2008/

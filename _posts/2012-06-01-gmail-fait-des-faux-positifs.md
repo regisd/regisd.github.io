@@ -3,7 +3,6 @@ id: 2770
 disqus_id: 2770 http://regis.decamps.info/blog/?p=2770
 title: Gmail fait des faux positifs
 date: 2012-06-01T08:23:17+00:00
-author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=2770
 permalink: /blog/2012/06/gmail-fait-des-faux-positifs/

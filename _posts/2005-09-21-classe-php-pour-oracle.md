@@ -3,7 +3,6 @@ id: 112
 disqus_id: 112 http://regis.decamps.info/blog/?p=112
 title: Classe PHP pour Oracle
 date: 2005-09-21T20:13:36+00:00
-author: Régis
 excerpt: 'Cette classe PHP permet de faire des requêtes Oracle avec une syntaxe proche des fonctions mysql_*'
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=112

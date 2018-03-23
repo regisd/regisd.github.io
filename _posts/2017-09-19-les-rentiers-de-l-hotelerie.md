@@ -3,7 +3,6 @@ id: 3345
 disqus_id: 3345 http://regis.decamps.info/blog/?p=3345
 title: 'Les rentiers de l’hôtelerie'
 date: 2017-09-19T22:52:34+00:00
-author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=3345
 permalink: /blog/2017/09/les-rentiers-de-l-hotelerie/

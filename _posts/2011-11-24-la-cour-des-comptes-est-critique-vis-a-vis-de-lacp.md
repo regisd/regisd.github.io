@@ -3,7 +3,6 @@ id: 2245
 disqus_id: 2245 http://regis.decamps.info/blog/?p=2245
 title: 'La Cour des Comptes est critique vis-à-vis de l’ACP'
 date: 2011-11-24T19:21:06+00:00
-author: Régis
 excerpt: "La Cour des Comptes critique l'Autorité de Contrôle Prudentiel."
 layout: post
 guid: http://regis.decamps.info/blog/?p=2245

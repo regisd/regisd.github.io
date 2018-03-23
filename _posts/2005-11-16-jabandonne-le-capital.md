@@ -3,7 +3,6 @@ id: 105
 disqus_id: 105 http://regis.decamps.info/blog/?p=105
 title: 'J’abandonne le Capital'
 date: 2005-11-16T21:36:30+00:00
-author: Régis
 excerpt: 'Je voulais lire <em>Le Capital</em> de Marx. Je laisse tomber.'
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=105

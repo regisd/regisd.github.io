@@ -3,7 +3,6 @@ id: 3130
 disqus_id: 3130 http://regis.decamps.info/blog/?p=3130
 title: Expo Krach, Boom, Mue
 date: 2013-04-02T23:06:11+00:00
-author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=3130
 permalink: /blog/2013/04/expo-krach-boom-mue/

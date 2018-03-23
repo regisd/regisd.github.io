@@ -3,7 +3,6 @@ id: 916
 disqus_id: 916 http://regis.decamps.info/blog/?p=916
 title: Comportement du clic sous KDE
 date: 2009-07-12T14:20:27+00:00
-author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=916
 permalink: /blog/2009/07/comportement-du-clic-sous-kde/

@@ -3,7 +3,6 @@ id: 202
 disqus_id: 202 http://regis.decamps.info/blog/?p=202
 title: 2 Google bombs contre lestelechargements.com
 date: 2006-02-26T22:03:45+00:00
-author: Régis
 layout: post
 guid: http://blog.decamps.info/2006/02/google-bomb-contre-lestelechargementscom/
 permalink: /blog/2006/02/google-bomb-contre-lestelechargementscom/

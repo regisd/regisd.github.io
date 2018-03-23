@@ -3,7 +3,6 @@ id: 1848
 disqus_id: 1848 http://regis.decamps.info/blog/?p=1848
 title: Fragmentation des systèmes Android
 date: 2011-03-15T18:56:43+00:00
-author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=1848
 permalink: /blog/2011/03/fragmentation-des-systemes-android/

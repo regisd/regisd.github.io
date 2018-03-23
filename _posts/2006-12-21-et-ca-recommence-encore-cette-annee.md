@@ -3,7 +3,6 @@ id: 381
 disqus_id: 381 http://regis.decamps.info/blog/?p=381
 title: Et ça recommence encore cette année
 date: 2006-12-21T20:19:24+00:00
-author: Régis
 excerpt: "Quelques rélfexions sur l'affaire de la statue de Ploermel."
 layout: post
 guid: http://regis.decamps.info/blog/2006/12/et-ca-recommence-encore-cette-annee/

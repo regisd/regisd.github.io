@@ -3,7 +3,6 @@ id: 2483
 disqus_id: 2483 http://regis.decamps.info/blog/?p=2483
 title: 'Ma prochaine application sera…; un lecteur de pod cast et radios en ligne'
 date: 2012-02-03T01:12:10+00:00
-author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=2483
 permalink: /blog/2012/02/ma-prochaine-application-sera-un-lecteur-de-pod-cast-et-radios-en-ligne/

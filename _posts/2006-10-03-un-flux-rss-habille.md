@@ -3,7 +3,6 @@ id: 342
 disqus_id: 342 http://regis.decamps.info/blog/?p=342
 title: Un flux RSS habillé
 date: 2006-10-03T21:21:08+00:00
-author: Régis
 excerpt: Mon flux RSS est décoré maintenant avec un petite CSS.
 layout: post
 guid: http://regis.decamps.info/blog/2006/10/un-flux-rss-habille/

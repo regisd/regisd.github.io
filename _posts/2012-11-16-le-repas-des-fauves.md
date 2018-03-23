@@ -3,7 +3,6 @@ id: 3006
 disqus_id: 3006 http://regis.decamps.info/blog/?p=3006
 title: Le repas des fauves
 date: 2012-11-16T23:12:35+00:00
-author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=3006
 permalink: /blog/2012/11/le-repas-des-fauves/

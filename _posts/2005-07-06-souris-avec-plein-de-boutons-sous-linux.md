@@ -3,7 +3,6 @@ id: 15
 disqus_id: 15 http://regis.decamps.info/blog/?p=15
 title: Souris avec plein de boutons sous linux
 date: 2005-07-06T00:59:58+00:00
-author: Régis
 excerpt: Je me suis acheté une souris avec plusieurs boutons, et ce fut très simple à faire foncionner sous linux.
 layout: post
 guid: /?p=15

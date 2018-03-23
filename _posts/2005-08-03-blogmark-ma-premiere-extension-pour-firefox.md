@@ -3,7 +3,6 @@ id: 30
 disqus_id: 30 http://regis.decamps.info/blog/?p=30
 title: Blogmark, ma première extension pour firefox
 date: 2005-08-03T22:45:39+00:00
-author: Régis
 excerpt: "Ce soir, j'ai écrit ma première extension pour Firefox ;-) Elle est tellement simple, que j'ai du mal à comprendre pourquoi j'ai mis trois heures à la faire..."
 layout: post
 guid: /?p=30

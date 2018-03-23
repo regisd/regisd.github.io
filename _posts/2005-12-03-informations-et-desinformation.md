@@ -3,7 +3,6 @@ id: 116
 disqus_id: 116 http://regis.decamps.info/blog/?p=116
 title: Informations et désinformation
 date: 2005-12-03T16:28:15+00:00
-author: Régis
 excerpt: "L'Armée américaine publie des nouvelles dans la presse irakienne"
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=116

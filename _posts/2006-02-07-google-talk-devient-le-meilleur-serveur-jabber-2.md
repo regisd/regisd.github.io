@@ -3,7 +3,6 @@ id: 169
 disqus_id: 169 http://regis.decamps.info/blog/?p=169
 title: Google Talk devient le meilleur serveur Jabber
 date: 2006-02-07T23:38:45+00:00
-author: Régis
 layout: post
 guid: http://blog.decamps.info/2006/02/google-talk-devient-le-meilleur-serveur-jabber-2/
 permalink: /blog/2006/02/google-talk-devient-le-meilleur-serveur-jabber-2/

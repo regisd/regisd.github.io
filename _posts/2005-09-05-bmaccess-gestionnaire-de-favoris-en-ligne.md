@@ -3,7 +3,6 @@ id: 47
 disqus_id: 47 http://regis.decamps.info/blog/?p=47
 title: 'BmAccess – Gestionnaire de favoris en ligne'
 date: 2005-09-05T21:27:49+00:00
-author: Régis
 excerpt: |
   Aujourd'hui j'ai eu un petit chat avec l'auteur de <a href="http://www.bmaccess.net/">BmAccess</a>, un site de gestion de favoris en ligne. Nous avons commencé la discussion sur <a href="/wordpress/?p=30">l'extension firefox que j'avais écrite pour BlogMarks</a>. Et puis j'ai critiqué Blogmarks, et j'espère que ça l'inspirera pour BmAccess.
 layout: post

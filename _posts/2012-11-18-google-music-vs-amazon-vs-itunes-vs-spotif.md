@@ -3,7 +3,6 @@ id: 3018
 disqus_id: 3018 http://regis.decamps.info/blog/?p=3018
 title: Google Musique vs Amazon MP3 vs iTunes vs Spotify
 date: 2012-11-18T13:26:06+00:00
-author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=3018
 permalink: /blog/2012/11/google-music-vs-amazon-vs-itunes-vs-spotif/

@@ -3,7 +3,6 @@ id: 71
 disqus_id: 71 http://regis.decamps.info/blog/?p=71
 title: Entre ses mains
 date: 2005-10-04T19:23:41+00:00
-author: Régis
 excerpt: Anne Fontaine réussit un très bon film.
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=71

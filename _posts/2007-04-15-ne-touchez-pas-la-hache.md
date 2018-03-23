@@ -3,7 +3,6 @@ id: 406
 disqus_id: 406 http://regis.decamps.info/blog/?p=406
 title: Ne touchez pas la hache
 date: 2007-04-15T15:40:34+00:00
-author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2007/04/ne-touchez-pas-la-hache/
 permalink: /blog/2007/04/ne-touchez-pas-la-hache/

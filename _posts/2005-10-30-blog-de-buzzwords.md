@@ -3,7 +3,6 @@ id: 89
 disqus_id: 89 http://regis.decamps.info/blog/?p=89
 title: Blog de Buzzwords
 date: 2005-10-30T13:06:28+00:00
-author: Régis
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=89
 permalink: /blog/2005/10/blog-de-buzzwords/

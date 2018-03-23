@@ -3,7 +3,6 @@ id: 26
 disqus_id: 26 http://regis.decamps.info/blog/?p=26
 title: 'Illusions d’optiques'
 date: 2005-07-30T01:10:00+00:00
-author: Régis
 excerpt: |
   Trois <a href="http://www.echalk.co.uk/amusements/OpticalIllusions/colourPerception/colourPerception.html">illusions d'optique sur les couleurs</a> très impressionnantes.
 layout: post

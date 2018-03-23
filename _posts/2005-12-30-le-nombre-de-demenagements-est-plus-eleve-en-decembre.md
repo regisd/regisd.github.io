@@ -3,7 +3,6 @@ id: 145
 disqus_id: 145 http://regis.decamps.info/blog/?p=145
 title: Le nombre de déménagements est plus élevé en décembre
 date: 2005-12-30T20:40:44+00:00
-author: Régis
 excerpt: "Selon une étude personnelle, le nombre de déménagements est plus élevé en décembre que le reste de l'année."
 layout: post
 guid: http://blog.decamps.info/2005/12/le-nombre-de-demenagements-est-plus-eleve-en-decembre/

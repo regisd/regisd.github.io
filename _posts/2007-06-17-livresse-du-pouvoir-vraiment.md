@@ -3,7 +3,6 @@ id: 428
 disqus_id: 428 http://regis.decamps.info/blog/?p=428
 title: 'L’ivresse du pouvoir. Vraiment'
 date: 2007-06-17T09:09:27+00:00
-author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2007/06/livresse-du-pouvoir-vraiment/
 permalink: /blog/2007/06/livresse-du-pouvoir-vraiment/

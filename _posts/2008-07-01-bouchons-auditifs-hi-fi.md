@@ -3,7 +3,6 @@ id: 532
 disqus_id: 532 http://regis.decamps.info/blog/?p=532
 title: Bouchons auditifs hi-fi
 date: 2008-07-01T19:31:40+00:00
-author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=532
 permalink: /blog/2008/07/bouchons-auditifs-hi-fi/

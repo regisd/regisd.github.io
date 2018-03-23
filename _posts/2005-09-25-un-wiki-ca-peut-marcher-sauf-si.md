@@ -3,7 +3,6 @@ id: 64
 disqus_id: 64 http://regis.decamps.info/blog/?p=64
 title: 'Un wiki, ça peut marcher sauf si…;'
 date: 2005-09-25T17:56:41+00:00
-author: Régis
 excerpt: 'Le succès de <a href="http://fr.wikipedia.org/">Wikipédia</a> montre à quel point un wiki peut être efficace pour agréger des connaissances.'
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=64

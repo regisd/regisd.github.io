@@ -3,7 +3,6 @@ id: 442
 disqus_id: 442 http://regis.decamps.info/blog/?p=442
 title: Envoi de fichiers sur mobile
 date: 2007-07-21T14:55:00+00:00
-author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2007/07/envoie-de-fichiers-sur-mobile/
 permalink: /blog/2007/07/envoi-de-fichiers-sur-mobile/

@@ -3,7 +3,6 @@ id: 1366
 disqus_id: 1366 http://regis.decamps.info/blog/?p=1366
 title: Neuftalk et SIP
 date: 2010-05-24T21:16:19+00:00
-author: Régis
 excerpt: ou comment téléphoner (presque) gratuitement depuis son mobile
 layout: post
 guid: http://regis.decamps.info/blog/?p=1366

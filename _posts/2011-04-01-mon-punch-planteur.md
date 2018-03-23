@@ -3,7 +3,6 @@ id: 1891
 disqus_id: 1891 http://regis.decamps.info/blog/?p=1891
 title: Mon punch planteur
 date: 2011-04-01T12:44:35+00:00
-author: Régis
 excerpt: "J'ai fait mon pot de départ il y a quelques jours, et j'ai promis de donner la recette de mon punch à tous ceux qui l'ont aimé :-)"
 layout: post
 guid: http://regis.decamps.info/blog/?p=1891

@@ -3,7 +3,6 @@ id: 2970
 disqus_id: 2970 http://regis.decamps.info/blog/?p=2970
 title: Et pourquoi pas une tablette après tout?
 date: 2012-09-08T16:32:52+00:00
-author: Régis
 excerpt: |
   Tiens, pourquoi ne pas profiter de la promo de la FNAC pour s'acheter un iPad ou un Nexus 7? Bon, en réalité je ne suis vraiment pas sûr d'avoir besoin d'une tablette.
   Eventuellement, pour lire un peu? Je compare donc le prix du roman que je lis actuellement. Grosse surprise!

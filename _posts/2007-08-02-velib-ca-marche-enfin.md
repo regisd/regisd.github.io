@@ -3,7 +3,6 @@ id: 446
 disqus_id: 446 http://regis.decamps.info/blog/?p=446
 title: Vélib, ça marche enfin
 date: 2007-08-02T17:45:17+00:00
-author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2007/08/velib-ca-marche-enfin/
 permalink: /blog/2007/08/velib-ca-marche-enfin/

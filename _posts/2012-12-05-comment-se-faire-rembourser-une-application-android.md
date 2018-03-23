@@ -3,7 +3,6 @@ id: 3044
 disqus_id: 3044 http://regis.decamps.info/blog/?p=3044
 title: Comment se faire rembourser une application Android
 date: 2012-12-05T08:14:34+00:00
-author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=3044
 permalink: /blog/2012/12/comment-se-faire-rembourser-une-application-android/

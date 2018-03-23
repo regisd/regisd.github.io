@@ -3,7 +3,6 @@ id: 1787
 disqus_id: 1787 http://regis.decamps.info/blog/?p=1787
 title: Un affichage de liste personnalisé
 date: 2011-03-05T20:00:24+00:00
-author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=1787
 permalink: /blog/2011/03/un-affichage-de-liste-personnalise/

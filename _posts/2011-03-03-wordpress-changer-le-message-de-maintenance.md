@@ -3,7 +3,6 @@ id: 1772
 disqus_id: 1772 http://regis.decamps.info/blog/?p=1772
 title: 'WordPress: changer le message de maintenance'
 date: 2011-03-03T08:52:45+00:00
-author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=1772
 permalink: /blog/2011/03/wordpress-changer-le-message-de-maintenance/

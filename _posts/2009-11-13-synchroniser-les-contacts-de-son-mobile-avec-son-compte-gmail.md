@@ -3,7 +3,6 @@ id: 941
 disqus_id: 941 http://regis.decamps.info/blog/?p=941
 title: Synchroniser les contacts de son mobile avec son compte Gmail
 date: 2009-11-13T15:56:33+00:00
-author: Régis
 excerpt: "Synchroniser les contacts de son mobile avec ceux de Gmail peut s'avérer très précieux quand on perd son mobile..."
 layout: post
 guid: http://regis.decamps.info/blog/?p=941

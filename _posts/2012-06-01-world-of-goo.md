@@ -3,7 +3,6 @@ id: 2784
 disqus_id: 2784 http://regis.decamps.info/blog/?p=2784
 title: World of goo
 date: 2012-06-01T17:32:07+00:00
-author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=2784
 permalink: /blog/2012/06/world-of-goo/

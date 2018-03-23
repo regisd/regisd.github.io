@@ -3,7 +3,6 @@ id: 1811
 disqus_id: 1811 http://regis.decamps.info/blog/?p=1811
 title: IncidentsTransports-0.11
 date: 2011-03-11T01:16:13+00:00
-author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=1811
 permalink: /blog/2011/03/incidentstransports-0-11/

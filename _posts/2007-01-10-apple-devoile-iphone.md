@@ -3,7 +3,6 @@ id: 386
 disqus_id: 386 http://regis.decamps.info/blog/?p=386
 title: Apple dévoile iPhone!
 date: 2007-01-10T00:15:46+00:00
-author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2007/01/apple-devoile-iphone/
 permalink: /blog/2007/01/apple-devoile-iphone/

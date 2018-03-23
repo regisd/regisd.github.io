@@ -3,7 +3,6 @@ id: 473
 disqus_id: 473 http://regis.decamps.info/blog/?p=473
 title: Réordonner ses comptes dans Thunderbird
 date: 2008-01-04T00:34:11+00:00
-author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2008/01/reordonner-ses-comptes-dans-thunderbirds/
 permalink: /blog/2008/01/reordonner-ses-comptes-dans-thunderbird/

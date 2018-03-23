@@ -3,7 +3,6 @@ id: 96
 disqus_id: 96 http://regis.decamps.info/blog/?p=96
 title: 'La direction générale des impôts se décide à faire 30 millions d’économies'
 date: 2005-11-11T20:07:21+00:00
-author: Régis
 excerpt: "La direction générale des impôts abandonne MS Office pour OpenOffice. Bilan: près de 30 millions d'économies pour ne pas avoir à renouveler les licenses."
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=96

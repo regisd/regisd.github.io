@@ -3,7 +3,6 @@ id: 3195
 disqus_id: 3195 http://regis.decamps.info/blog/?p=3195
 title: La maîtresse en maillots de bain
 date: 2014-05-31T22:20:16+00:00
-author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=3195
 permalink: /blog/2014/05/la-maitresse-en-maillots-de-bain/

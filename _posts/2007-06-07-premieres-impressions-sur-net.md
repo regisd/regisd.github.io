@@ -3,7 +3,6 @@ id: 424
 disqus_id: 424 http://regis.decamps.info/blog/?p=424
 title: Premières impressions sur .net
 date: 2007-06-07T17:40:31+00:00
-author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2007/06/premieres-impressions-sur-net/
 permalink: /blog/2007/06/premieres-impressions-sur-net/

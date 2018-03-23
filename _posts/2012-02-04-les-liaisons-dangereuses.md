@@ -3,7 +3,6 @@ id: 2506
 disqus_id: 2506 http://regis.decamps.info/blog/?p=2506
 title: Les liaisons dangereuses
 date: 2012-02-04T01:19:05+00:00
-author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=2506
 permalink: /blog/2012/02/les-liaisons-dangereuses/

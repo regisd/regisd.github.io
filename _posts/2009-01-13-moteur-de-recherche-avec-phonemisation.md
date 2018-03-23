@@ -3,7 +3,6 @@ id: 784
 disqus_id: 784 http://regis.decamps.info/blog/?p=784
 title: Moteur de recherche avec phonémisation
 date: 2009-01-13T11:42:13+00:00
-author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=784
 permalink: /blog/2009/01/moteur-de-recherche-avec-phonemisation/

@@ -3,7 +3,6 @@ id: 1466
 disqus_id: 1466 http://regis.decamps.info/blog/?p=1466
 title: La fin des mots de passe sur WordPress
 date: 2010-10-30T10:37:49+00:00
-author: Régis
 excerpt: "Avec JanRain, la connexion sur un blog worpress ne nécessite pas de se souvenir d'un énième mot de passe."
 layout: post
 guid: http://regis.decamps.info/blog/?p=1466

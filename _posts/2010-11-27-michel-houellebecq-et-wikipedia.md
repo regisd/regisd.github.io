@@ -3,7 +3,6 @@ id: 1492
 disqus_id: 1492 http://regis.decamps.info/blog/?p=1492
 title: Michel Houellebecq a emprunté du contenu Wikipédia
 date: 2010-11-27T13:05:21+00:00
-author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=1492
 permalink: /blog/2010/11/michel-houellebecq-et-wikipedia/

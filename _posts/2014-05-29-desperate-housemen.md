@@ -3,7 +3,6 @@ id: 3191
 disqus_id: 3191 http://regis.decamps.info/blog/?p=3191
 title: Desperate Housemen
 date: 2014-05-29T23:02:15+00:00
-author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=3191
 permalink: /blog/2014/05/desperate-housemen/

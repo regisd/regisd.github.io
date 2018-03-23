@@ -3,7 +3,6 @@ id: 2143
 disqus_id: 2143 http://regis.decamps.info/blog/?p=2143
 title: Nouveau matériel roulant sur le RER A
 date: 2011-07-01T20:06:11+00:00
-author: Régis
 excerpt: |
   Le saviez-vous? Depuis quelques jours, une rame MI 09 sort pour des essais sur la ligne de RER A.
   Souhaitez-vous recevoir ce type d'actualités à l’avenir? Répondez-au sondage!

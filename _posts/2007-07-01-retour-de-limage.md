@@ -3,7 +3,6 @@ id: 430
 disqus_id: 430 http://regis.decamps.info/blog/?p=430
 title: 'Retour de l’image'
 date: 2007-07-01T21:52:36+00:00
-author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2007/07/retour-de-limage/
 permalink: /blog/2007/07/retour-de-limage/

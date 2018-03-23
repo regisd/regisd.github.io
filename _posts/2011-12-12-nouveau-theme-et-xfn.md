@@ -3,7 +3,6 @@ id: 2274
 disqus_id: 2274 http://regis.decamps.info/blog/?p=2274
 title: Nouveau thème et XFN
 date: 2011-12-12T21:51:33+00:00
-author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=2274
 permalink: /blog/2011/12/nouveau-theme-et-xfn/

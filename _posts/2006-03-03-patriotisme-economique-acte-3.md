@@ -3,7 +3,6 @@ id: 207
 disqus_id: 207 http://regis.decamps.info/blog/?p=207
 title: Patriotisme économique, acte 3
 date: 2006-03-03T23:47:11+00:00
-author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2006/03/patriotisme-economique-acte-3/
 permalink: /blog/2006/03/patriotisme-economique-acte-3/

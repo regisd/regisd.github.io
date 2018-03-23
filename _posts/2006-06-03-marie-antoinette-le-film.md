@@ -3,7 +3,6 @@ id: 276
 disqus_id: 276 http://regis.decamps.info/blog/?p=276
 title: Marie-Antoinette, le film
 date: 2006-06-03T19:13:24+00:00
-author: Régis
 excerpt: Tout ça pour ça?
 layout: post
 guid: http://blog.decamps.info/2006/06/marie-antoinette-le-film/

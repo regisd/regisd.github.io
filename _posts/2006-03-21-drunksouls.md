@@ -3,7 +3,6 @@ id: 232
 disqus_id: 232 http://regis.decamps.info/blog/?p=232
 title: 'DrunkSouls pour fêter le début de bon boycot de l’industrie musicale'
 date: 2006-03-21T23:02:32+00:00
-author: Régis
 excerpt: Jamendo, pour découvrir de la vraie musique.
 layout: post
 guid: http://blog.decamps.info/?p=232

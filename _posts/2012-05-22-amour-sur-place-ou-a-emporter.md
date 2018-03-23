@@ -3,7 +3,6 @@ id: 2755
 disqus_id: 2755 http://regis.decamps.info/blog/?p=2755
 title: Amour sur place ou à emporter
 date: 2012-05-22T22:54:55+00:00
-author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=2755
 permalink: /blog/2012/05/amour-sur-place-ou-a-emporter/

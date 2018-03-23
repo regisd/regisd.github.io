@@ -3,7 +3,6 @@ id: 828
 disqus_id: 828 http://regis.decamps.info/blog/?p=828
 title: Not easy to review and publish drafts in Sharepoint
 date: 2009-02-20T10:39:52+00:00
-author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=828
 permalink: /blog/2009/02/not-easy-to-review-and-publish-drafts-in-sharepoint/

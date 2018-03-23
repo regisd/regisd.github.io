@@ -3,7 +3,6 @@ id: 3141
 disqus_id: 3141 http://regis.decamps.info/blog/?p=3141
 title: Expo DYNAMO
 date: 2013-05-03T15:45:08+00:00
-author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=3141
 permalink: /blog/2013/05/expo-dynamo/

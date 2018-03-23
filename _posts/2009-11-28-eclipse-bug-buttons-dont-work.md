@@ -3,7 +3,6 @@ id: 968
 disqus_id: 968 http://regis.decamps.info/blog/?p=968
 title: 'Eclipse bug: buttons don’t work'
 date: 2009-11-28T19:01:20+00:00
-author: Régis
 excerpt: |
   New Project, Next. Hey! Next!
   What? Some buttons don't work any more!

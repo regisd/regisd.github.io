@@ -3,7 +3,6 @@ id: 87
 disqus_id: 87 http://regis.decamps.info/blog/?p=87
 title: Oliver Twist
 date: 2005-10-29T15:32:47+00:00
-author: Régis
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=87
 permalink: /blog/2005/10/oliver-twist/

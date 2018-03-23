@@ -3,7 +3,6 @@ id: 400
 disqus_id: 400 http://regis.decamps.info/blog/?p=400
 title: mp4 on my Samsung D840
 date: 2007-04-04T21:36:54+00:00
-author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2007/04/mp4-on-my-samsung-d840/
 permalink: /blog/2007/04/mp4-on-my-samsung-d840/

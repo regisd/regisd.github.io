@@ -3,7 +3,6 @@ id: 2815
 disqus_id: 2815 http://regis.decamps.info/blog/?p=2815
 title: Groupe F fait les Feux Royaux de Versailles
 date: 2012-06-30T12:49:54+00:00
-author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=2815
 permalink: /blog/2012/06/groupe-f-fait-les-feux-royaux-de-versailles/

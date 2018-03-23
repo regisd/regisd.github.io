@@ -3,7 +3,6 @@ id: 117
 disqus_id: 117 http://regis.decamps.info/blog/?p=117
 title: CustomizeGoogle
 date: 2005-12-03T16:48:29+00:00
-author: Régis
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=117
 permalink: /blog/2005/12/customizegoogle/

@@ -3,7 +3,6 @@ id: 3032
 disqus_id: 3032 http://regis.decamps.info/blog/?p=3032
 title: Is SharePoint as feature-poor as it used to be?
 date: 2012-11-28T08:15:32+00:00
-author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=3032
 permalink: /blog/2012/11/is-sharepoint-as-feature-poor-as-it-used-to-be/

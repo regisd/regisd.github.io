@@ -3,7 +3,6 @@ id: 115
 disqus_id: 115 http://regis.decamps.info/blog/?p=115
 title: Match Point
 date: 2005-11-28T22:07:45+00:00
-author: Régis
 excerpt: "I don't care that he is good, I just hope him to be lucky."
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=115

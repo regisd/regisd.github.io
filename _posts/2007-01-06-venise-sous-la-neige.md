@@ -3,7 +3,6 @@ id: 385
 disqus_id: 385 http://regis.decamps.info/blog/?p=385
 title: Venise sous la Neige
 date: 2007-01-06T17:05:26+00:00
-author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2007/01/venise-sous-la-neige/
 permalink: /blog/2007/01/venise-sous-la-neige/

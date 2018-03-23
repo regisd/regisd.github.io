@@ -3,7 +3,6 @@ id: 607
 disqus_id: 607 http://regis.decamps.info/blog/?p=607
 title: Un nouveau parti de gauche
 date: 2008-11-08T14:45:25+00:00
-author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=607
 permalink: /blog/2008/11/un-nouveau-parti-de-gauche/

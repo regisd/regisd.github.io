@@ -3,7 +3,6 @@ id: 2126
 disqus_id: 2126 http://regis.decamps.info/blog/?p=2126
 title: Google, stop launching social products
 date: 2011-07-13T19:47:32+00:00
-author: Régis
 excerpt: Dear Google, please stop launching social products, where each new product seems to be a replacement for the previous one.
 layout: post
 guid: http://regis.decamps.info/blog/?p=2126

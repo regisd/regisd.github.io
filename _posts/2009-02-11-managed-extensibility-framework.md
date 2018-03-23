@@ -3,7 +3,6 @@ id: 813
 disqus_id: 813 http://regis.decamps.info/blog/?p=813
 title: Managed extensibility framework
 date: 2009-02-11T12:26:18+00:00
-author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=813
 permalink: /blog/2009/02/managed-extensibility-framework/

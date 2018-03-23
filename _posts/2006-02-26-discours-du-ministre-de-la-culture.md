@@ -3,7 +3,6 @@ id: 201
 disqus_id: 201 http://regis.decamps.info/blog/?p=201
 title: Discours du Ministre de la Culture
 date: 2006-02-26T21:13:17+00:00
-author: Régis
 excerpt: "Discours du Ministre de La Culture lors de l'inauguration de lestelechargements.com"
 layout: post
 guid: http://blog.decamps.info/2006/02/discours-du-ministre-de-la-culture/

@@ -3,7 +3,6 @@ id: 418
 disqus_id: 418 http://regis.decamps.info/blog/?p=418
 title: Nouvelles lunettes
 date: 2007-04-25T17:02:28+00:00
-author: Régis
 excerpt: "Avec le beau temps revenu, j'étais gêné de ne plus retrouver mes lunettes de soleil. Après plusieurs mois de recherche vaine, je décide finalement de passer chez l'opticien..."
 layout: post
 guid: http://regis.decamps.info/blog/2007/04/nouvelles-lunettes/

@@ -3,7 +3,6 @@ id: 695
 disqus_id: 695 http://regis.decamps.info/blog/?p=695
 title: Passages cloutés américains
 date: 2008-12-05T23:36:00+00:00
-author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2008/12/countdown-for-pedestrians/
 permalink: /blog/2008/12/countdown-for-pedestrians/

@@ -3,7 +3,6 @@ id: 1711
 disqus_id: 1711 http://regis.decamps.info/blog/?p=1711
 title: Google calendar bug with timezones
 date: 2011-02-24T14:35:05+00:00
-author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=1711
 permalink: /blog/2011/02/google-calendar-event-timezones/

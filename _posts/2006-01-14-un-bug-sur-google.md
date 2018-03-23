@@ -3,7 +3,6 @@ id: 156
 disqus_id: 156 http://regis.decamps.info/blog/?p=156
 title: Un bug sur Google?
 date: 2006-01-14T19:36:58+00:00
-author: Régis
 layout: post
 guid: http://blog.decamps.info/2006/01/un-bug-sur-google/
 permalink: /blog/2006/01/un-bug-sur-google/

@@ -3,7 +3,6 @@ id: 2843
 disqus_id: 2843 http://regis.decamps.info/blog/?p=2843
 title: Neuftalk est devenu SFR Libertalk
 date: 2012-07-26T22:11:50+00:00
-author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=2843
 permalink: /blog/2012/07/neuftalk-est-devenu-sfr-libertalk/

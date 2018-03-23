@@ -3,7 +3,6 @@ id: 257
 disqus_id: 257 http://regis.decamps.info/blog/?p=257
 title: 'J’ai renouvelé mon portable'
 date: 2006-04-15T17:24:35+00:00
-author: Régis
 excerpt: Je me suis acheté un Sagem SG346i
 layout: post
 guid: http://blog.decamps.info/2006/04/jai-renouvele-mon-portable/

@@ -3,7 +3,6 @@ id: 1172
 disqus_id: 1172 http://regis.decamps.info/blog/?p=1172
 title: OpenID delegation sur compte Google
 date: 2010-04-02T11:26:39+00:00
-author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=1172
 permalink: /blog/2010/04/openid-delegation-sur-compte-google/

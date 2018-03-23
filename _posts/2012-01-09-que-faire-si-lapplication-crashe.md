@@ -3,7 +3,6 @@ id: 2298
 disqus_id: 2298 http://regis.decamps.info/blog/?p=2298
 title: 'Que faire si l’application crashe'
 date: 2012-01-09T22:29:23+00:00
-author: Régis
 excerpt: Que faire quand une application Android crashe? Vous pouvez aider le développeur!
 layout: post
 guid: http://regis.decamps.info/blog/?p=2298

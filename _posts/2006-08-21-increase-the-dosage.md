@@ -3,7 +3,6 @@ id: 313
 disqus_id: 313 http://regis.decamps.info/blog/?p=313
 title: 'Increase the Dosage : Encore'
 date: 2006-08-21T13:44:44+00:00
-author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2006/08/increase-the-dosage/
 permalink: /blog/2006/08/increase-the-dosage/

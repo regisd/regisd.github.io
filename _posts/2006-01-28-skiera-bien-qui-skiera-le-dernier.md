@@ -3,7 +3,6 @@ id: 164
 disqus_id: 164 http://regis.decamps.info/blog/?p=164
 title: Skiera bien qui skiera le dernier!
 date: 2006-01-28T17:30:34+00:00
-author: Régis
 excerpt: Je pars une semaine à Tignes.
 layout: post
 guid: http://blog.decamps.info/2006/01/skiera-bien-qui-skiera-le-dernier/

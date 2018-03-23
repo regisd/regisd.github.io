@@ -3,7 +3,6 @@ id: 1121
 disqus_id: 1121 http://regis.decamps.info/blog/?p=1121
 title: Tryo a démonté Bercy
 date: 2009-12-17T01:23:23+00:00
-author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=1121
 permalink: /blog/2009/12/tryo-a-demonte-bercy/

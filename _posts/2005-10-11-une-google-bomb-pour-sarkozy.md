@@ -3,7 +3,6 @@ id: 80
 disqus_id: 80 http://regis.decamps.info/blog/?p=80
 title: Une google bomb pour Sarkozy
 date: 2005-10-11T01:00:05+00:00
-author: Régis
 excerpt: "Ca devient n'importe quoi. Nicolas Sarkozy va recevoir une <em>google bomb</em> à cause de son prétendu spam."
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=80

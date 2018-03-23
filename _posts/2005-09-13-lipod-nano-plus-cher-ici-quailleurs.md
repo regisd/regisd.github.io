@@ -3,7 +3,6 @@ id: 59
 disqus_id: 59 http://regis.decamps.info/blog/?p=59
 title: 'l’iPod nano plus cher ici qu’ailleurs'
 date: 2005-09-13T23:08:04+00:00
-author: Régis
 excerpt: "Le nouvel iPod d'Apple coûte 249$ aux États-Unis, 249€ en Europe... et 319€ en France."
 layout: post
 guid: http://regis.decamps.free.fr/wordpress/?p=59

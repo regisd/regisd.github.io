@@ -3,7 +3,6 @@ id: 2283
 disqus_id: 2283 http://regis.decamps.info/blog/?p=2283
 title: Simple framework for python plugins
 date: 2012-05-24T13:08:57+00:00
-author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/?p=2283
 permalink: /blog/2012/05/simple-framework-for-python-plugins/

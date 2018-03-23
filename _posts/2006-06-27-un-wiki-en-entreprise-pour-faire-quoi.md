@@ -3,7 +3,6 @@ id: 280
 disqus_id: 280 http://regis.decamps.info/blog/?p=280
 title: Un wiki en entreprise, pour faire quoi?
 date: 2006-06-27T18:37:31+00:00
-author: Régis
 excerpt: "Ce soir, mon chef est passé dans mon bureau avec l'envie soudaine de mettre en place un wiki. "
 layout: post
 guid: http://regis.decamps.info/blog/2006/06/un-wiki-en-entreprise-pour-faire-quoi/

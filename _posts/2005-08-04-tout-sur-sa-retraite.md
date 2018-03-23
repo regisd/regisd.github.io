@@ -3,7 +3,6 @@ id: 20
 disqus_id: 20 http://regis.decamps.info/blog/?p=20
 title: Tout sur sa retraite
 date: 2005-08-04T15:18:10+00:00
-author: Régis
 layout: post
 guid: /?p=20
 permalink: /blog/2005/08/tout-sur-sa-retraite/

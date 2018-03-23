@@ -3,7 +3,6 @@ id: 3209
 disqus_id: 3209 http://regis.decamps.info/blog/?p=3209
 title: Offres de stockage en ligne
 date: 2014-09-02T00:47:00+00:00
-author: Régis
 excerpt: "Le <em>cloud</em> est le mot à la mode, mais cela fait plus de dix ans que l'on confie ses données à des prestataires externes afin d'y accéder à la demande. Aujourd'hui, il est possible de faire la même chose avec tous ses documents, pas seulement les courriers. Les offres de disque en ligne sont devenues très abordables et de plus en plus complètes."
 layout: post
 guid: http://regis.decamps.info/blog/?p=3209

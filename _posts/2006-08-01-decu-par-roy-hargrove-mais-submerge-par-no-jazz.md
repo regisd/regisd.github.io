@@ -3,7 +3,6 @@ id: 360
 disqus_id: 360 http://regis.decamps.info/blog/?p=360
 title: Déçu par Roy Hargrove mais submergé par No Jazz
 date: 2006-08-01T22:35:59+00:00
-author: Régis
 layout: post
 guid: http://regis.decamps.info/blog/2006/08/decu-par-roy-hargrove-mais-submerge-par-no-jazz/
 permalink: /blog/2006/08/decu-par-roy-hargrove-mais-submerge-par-no-jazz/
