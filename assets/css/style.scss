@@ -61,7 +61,6 @@ footer a {
 
 a:hover, a:focus {
 text-decoration:underline;
-font-weight:bold
 }
 
 em,cite {
@@ -265,12 +264,7 @@ font-size:11px
   min-width: 360px;
 }
 a:hover, a:focus {
-  font-weight: normal;
   cursor: pointer;
-}
-h1 a:hover, h1 a:focus,
-h2 a:hover, h2 a:focus {
-  font-weight: bold;
 }
 .post-meta {
   color: $secondary-text-color;
