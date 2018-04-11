@@ -71,14 +71,20 @@ Vous avez droit à 2 écoutes et 60 secondes par question. Il y a 60 questions.
 
 ##  Listen and answer
 
-[piste 1](/blog/wp-content/uploads/2018/04/11/john.ogg)
+<audio controls>
+<source src="/blog/wp-content/uploads/2018/04/11/john.ogg" type="audio/ogg">
+<a href="/blog/wp-content/uploads/2018/04/11/john.ogg">piste 1</a>
+</audio>
 
   * John enjoys going to meetings
   * Weekly meeting attendees usually don’t see John
   * John speaks a lot during weekly meetings
   * John is late for its meeting
 
-[piste 2](/blog/wp-content/uploads/2018/04/11/she_works.ogg)
+<audio controls>
+<source src="/blog/wp-content/uploads/2018/04/11/she_works.ogg" type="audio/ogg">
+<a href="/blog/wp-content/uploads/2018/04/11/she_works.ogg">piste 2</a>
+</audio>
 
   * She work for Epioji
   * She works for Epioge
