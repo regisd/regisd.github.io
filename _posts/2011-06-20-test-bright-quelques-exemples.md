@@ -48,7 +48,7 @@ Vous avez droit à 45 secondes par question. Il y a 80 questions.
 
 ##  Temps des verbes
 
-> I checked with the clerck this morning, and there \___ any message for you.
+> I checked with the clerk this morning, and there \___ any message for you.
 
   * wasn’t
   * isn’t
