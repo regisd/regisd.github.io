@@ -63,7 +63,7 @@ Mais le coaching est complètement absent. Et l'application ne sert à rien en i
   L'application se présente comme un réseau social: on voit les activités de ses amis. Mais il y a plein de petits détails qui m'agacent: quand on commence une course, on en peut choisir que vélo ou à pied ; s'il s'agit d'un autre type il faut le modifier après. C'est particulièrement gênant à l'intérieur: l'auto-pose fait que rien n'est enregistré.
 * L'offre [premium](https://www.strava.com/premium) à 60€/an offre des conseils d'entraînement, une analyse plus détaillée des performances et le partage de position en temps réel.
 
-### Runkeeper
+### Runkeeper 
 
 **tl;dr:** Un des acteurs historiques, qui est presque parfait.
 
@@ -80,6 +80,8 @@ Mais le coaching est complètement absent. Et l'application ne sert à rien en i
 * UX ★★★★★ 
   L'interface est claire et efficace.
 * L'offre [premium](https://runkeeper.com/go) à 40$/an personnalise le coaching, une analyse comparative de ses courses, et le partage en direct. Il y a aussi des réductions chez asics, propriétaire de l'app.
+
+Note: Acheté par [asics][asics] en 2016.
 
 ### Endomondo
 
@@ -100,6 +102,7 @@ Mais le coaching est complètement absent. Et l'application ne sert à rien en i
 * L'offre [premium](https://www.endomondo.com/premium) à 30€/an offre les fonctions d'analyse manquantes.
   Et des réductions chez Under Armour, propriétaire de l'appli.
 
+Note: Acheté par [Under armour][underarmour] en 2015.
 
 ## Les challengers
 
@@ -122,7 +125,6 @@ Mais le coaching est complètement absent. Et l'application ne sert à rien en i
 * Pas de version premium. Tout est offert par Nike.
 
 
-
 ### Decat' coach
 
 **tl;dr:** Le meilleur contenu de coaching. Mais manque cruellement d'intégration.
@@ -142,8 +144,26 @@ Mais le coaching est complètement absent. Et l'application ne sert à rien en i
 * Pas de version premium. Tout est offert par Decathlon.
 
 
+### Runtastic
 
+[<img src="{{'assets/img/google_play_badge.png' | relative_url }}" alt="Get it on Google play" width="153" heigth="46">](https://play.google.com/store/apps/details?id=com.runtastic.android)
 
+* Export ★★☆☆☆ 
+  Export manuel, pas d'API.
+* Social ★★★★☆
+  Outre son propre mur, s'intègre avec Facebook et Google fit.
+* Analyse ★★★☆☆
+  Adaptée à la course, mais l'analyse avancée est payante.
+* Coach ? 
+  Non testé
+* UX ★★★★☆
+  L'interface est moderne.
+* Version premium à env. 45 euros/an.
 
+Note: Acheté par [adidas][adidas] en 2015.
+
+[adidas]: https://www.adidas-group.com/
+[asics]: https://www.asics.com/
+[underarmour]: http://investor.underarmour.com/
 [strava-hrv]: https://support.strava.com/hc/en-us/articles/216919007-Pairing-Sensors-with-the-Android-app
 
