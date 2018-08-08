@@ -12,6 +12,7 @@ paginate_path: "/blog/page/:num/"
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-sitemap
 github:
   owner_name: Régis
   owner_url: https://plus.google.com/+RégisDécamps
