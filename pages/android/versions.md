@@ -23,8 +23,8 @@
 | 12  | HC MR1   | Honeycomb MR1    |
 | 11  | Honeycomb| [Honeycomb][v3]  | New Holo UI theme - Only for tablets
 | 10  | GB MR1   | Gingerbread MR1  |
-| 9   | GB       | Gingerbread      | Download manager - NFC
-| 8   | Froyo    | Froyo            |
+| 9   | GB       | [Gingerbread][v2.3]| Download manager - NFC
+| 8   | Froyo    | [Froyo][v2.2]    | Data backup & restore - Device policy - Night mode - Dalvik performance improvements - Multi-lang keyboard
 | 7   |          | Eclair MR1       |
 | 6   |          | Eclair 0.1       | Flash player - Media streaming player - Wifi tethering
 | 5   | Eclair   | [Eclair][v2]     | Multiple accounts - Bluetooth
@@ -79,4 +79,6 @@
 
 [v3]: https://developer.android.com/about/versions/android-3.0-highlights.html
 
+[v2.3]: https://developer.android.com/about/versions/android-2.3-highlights
+[v2.2]: https://developer.android.com/about/versions/android-2.2-highlights
 [v2]: https://developer.android.com/about/versions/android-2.0-highlights.html
