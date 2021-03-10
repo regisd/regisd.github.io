@@ -1,9 +1,12 @@
 # Android versions
 
+A summary of [Android build numbers](https://source.android.com/setup/start/build-numbers).
+
 | API | Codename | Name             | What's new                              |
 |-----|----------|------------------|-----------------------------------------|
+| ?   | S        | [12][v12]        | [Animated GIF and WebP support][animated_img]
 | 30  | R        | [11][v11]        | One-time permissions - [Covid notifications][exposure_notif] - [Chat bubbles][chat_bubbles]
-| 29  | Q        | [10][v10]        | [Dark theme][darktheme] - [location while using app][location_while] - [Restrict external storage][scoped_storage]
+| 29  | Q        | [10][v10]        | [Dark theme][darktheme] - [location while using app][location_while] - [Restrict external storage][scoped_storage] - [HEIF][heic] image support
 | 28  | P        | [Pie][v9]        | [Display cutout][cutout]           
 | 27  | O MR1    | [Oreo MR1][v8.1] | Neural network API         
 | 26  | O        | [Oreo][v8]       | [Autofill][autofill]
@@ -33,10 +36,13 @@
 | 2   | Base 1.1 |                  | 
 | 1   | Base     |                  | Android Market - Google Maps
 
+[v12]: https://developer.android.com/about/versions/12
+[animated_img]: https://developer.android.com/about/versions/12/features#image-decoder
 
 [v11]: https://developer.android.com/about/versions/11
 [exposure_notif]: https://www.google.com/covid19/exposurenotifications/
 [chat_bubbles]: https://developer.android.com/guide/topics/ui/bubbles
+[heic]: https://source.android.com/devices/camera/heif
 
 [v10]: https://developer.android.com/about/versions/10
 [darktheme]: https://developer.android.com/guide/topics/ui/look-and-feel/darktheme
