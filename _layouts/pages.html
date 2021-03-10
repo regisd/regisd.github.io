@@ -1,0 +1,24 @@
+---
+layout: default
+title: Catégorie {{ page.category }}
+permalink: /blog/categorie/{{ page.category | first | slugize }}/
+---
+{% capture category %}{{ page.category }}{% endcapture %}
+{% capture category_title %}{{ page.category_title | default: category }}{% endcapture %}
+{% capture category_slug %}{{ category | first | slugize }}{% endcapture %}
+
+<h1><i class="material-icons">folder</i> Catégorie « {{ category_title }} »</h1>
+
+{{ content }}
+
+<div id="archives">
+  <div class="archive-group">
+    <ul>
+      {% for post in site.categories[category] %}
+      <article class="archive-item">
+        <li><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></li>
+      </article>
+      {% endfor %}
+    </ul>
+  </div>
+</div>

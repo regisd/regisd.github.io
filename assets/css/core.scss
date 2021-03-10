@@ -66,6 +66,13 @@ img {
 #project_links img {
     box-shadow: none;
 }
+#navigation {
+  flex-direction: row;
+  display: flex;
+}
+#navigation > .header-text{
+  margin-left: 20px;
+}
 #header_wrap .inner {
 padding:50px 10px 30px;
 }

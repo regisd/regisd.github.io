@@ -1,0 +1,12 @@
+---
+layout: default
+title: Catégories
+---
+
+<h1>Pages</h1>
+
+<ul>
+{% for page in site.data.site_content.pages %}
+  <li><a href="{{site.baseurl}}/pages/{{page.url}}">{{ page.title }}</a></li>
+{% endfor %}
+</ul>
